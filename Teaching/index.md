@@ -14,7 +14,7 @@ title: Teaching
 
 #### Summer 2015 ####
 
-+ [Persons and Problems: Intro to Philosophy](Intro/)
++ Persons and Problems: Intro. to Philosophy
 
 
 #### Spring 2015 ####
