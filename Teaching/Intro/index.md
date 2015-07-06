@@ -12,7 +12,7 @@ This is an online course administered through Blackboard. Please consult NJCU's 
 
 ### Syllabus  ###
 
-Please read the [syllabus](syllabus.pdf) carefully. 
+Please read the [syllabus](Syllabus.pdf) carefully. 
 
 
 ### Resources ###
