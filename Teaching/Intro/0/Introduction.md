@@ -3,29 +3,25 @@ layout: default
 title: Introduction to Philosophy
 ---
 
+# What is Philosophy?
+
+## The Examined Life
 
 
+"Philosophy" is a Greek word meaning love of wisdom. As a discipline, philosophy took its distinctive form in Athens, Greece about 2500 years ago with the activities of one great individual, Socrates. While Socrates didn't write anything, we know a lot about him primarily from dialogues written by Plato, one of his inspired students and the second of the great Greek philosophers. 
+
+Plato tells us that Socrates, like most Greeks, didn't think that living in itself was that important. What was important was living a good life. Their heroes like Achilles died young, but lived brightly. From an early age, Greeks cared about how to distinguish them in this life. Socrates was no different. He didn't want to merely live, he wanted to live well. But unlike his fellow Greeks, Socrates was unsure what it was to live a good life. Should he devote his life to pleasure, or to distinguishing himself on the battleground, or to gaining political power? 
+
+Socrates believed that knowledge, in paticular, knowledge of how to live the best possible life was the most important thing to seek for a human. If we are ignorant of how to live well, then we risk gravely damaging ourselves and missing out on living a fulfilling, flourishing life. For this reason, Socrates claimed that the unexamined life was not worth living. Unwilling to live his life based on a mistake, he sought out those who claimed expertise about the good life. Socrates spent his time quizzing these apparent experts, testing them to see whether they really did know what they claimed to know. The experts failed these tests. They were often  confused or unable to answer simple questions about the topics they claimed expertise in. For instance, they might claim to know which people were courageous, but yet be unable to clearly state what courage is. Asking them what they knew. Questioning the establishment is dangerous and Socates was ultimately executed for corrupting the youth of Athens, not believing in the Gods of the city, and inventing new God. 
+
+We might think of others who have had been persecuted for holding controversial views. It's not easy. In part, it's not easy because most of us don't want to entertain the possibility that we are radically mistaken in how to live our lives, how to organize our societies, and what we and the world we inhabit is really like. 
+
+One of Socrates' greatest legacies was his claim that he himself had  no knowledge of the things he inquired into. This single claim has shaped the character of philosophy as a discipline. Philosophy is not a body of knowledge, a list of facts that one can learn. Philosophy is first and foremost an activity, a set of skills that will allow you identify your beliefs, identify those that are wanting, and inquire in a mature, humble way into the most important facets of human life. You will not find in your textbook a list of facts to learn. Just as learning Karate, or dancing, or chess playing involvings learning a skill, learning philosophy is learning a set of skills. 
 
 
-## Philosophy ##
+## The Allegory of the Cave
 
-Watch this link. It's either on the Matrix or the Cave. 
-
-"Philosophy" is a Greek word, which means love of wisdom. Philosophy as a discipline took its distinctive form in Athen, Greece about 2500 years ago with the activities of one great individual, Socrates. Socrates didn't write anything. What we know of him comes from primarily from dialogues written by Plato, one of his inspired students and the second of the great philosophers. Socrates didn't teach at a university. The Greeks didn't think that life was the most important think. It's living a good life that was important. Their heroes like Achilles died young, but lived brightly. So, they cared how to distinguish them in this life.  He didn't lecture. Instead, he spent his days talking to the citizens of Athens trying to understand what those citizens claimed to know. For Socrates believed that knowledge, in paticular, knowledge of how to live the best possible life was the most important things to seek for a human. If we are ignorant of how to live well, then we risk gravely damaging ourselves and missing out on living a fulfilling, flourishing life. For this reason, Socrates claimed that the unexamined life was not worth living. 
-
-When Socrates was alive, there were many people who professed to know how to live the best life, to be teachers of virtue---which for the Greeks was that quality in a life that made it go well. These folk would peddle their wares, charging lots of money to teach the young how to live well. Socrates wanting to know too how to life the best life went to these folk. He quizzed them, trying to ensure that they really did know what they claimed to know. Many of the reports of Socrates' consist in a discussions which show up the teachers, they end up being confused or unable to answer simple questions about the topics, they claimed, expertise, for instance, they might claim to know what virtue is and how to teach it, but yet be unable to clearly state what virtue is. Asking them what they knew. He was ultimately put to death for challenging the status quo. We might think of others who have had the courage to stand up and hold uncontroversial views. It's not easy. In part, it's not easy because most of us don't want to entertain the possibility that we are radically mistaken in how to live our lives, how to organize our societies.
-
-+ there is a distinction between ignorance and knowledge. 
-+ Humans fall in the middle. 
-+ Ancients were interested in philosophy as a way of living. 
-+ Ignorance for the soul was bad. 
-
-
-
-Socrates himself claimed no knowledge himself. This is a huge heritage. Philosophy was not a body of knowledge; a list of facts that one can learn perhaps like there are a system of facts like that in biology. Philosophy is first and foremost an activity, a certain way of taking yourself from ignorance to knowledge. That's why one who has knowledge is God. Contemporary philosophy is no different. You will not find in your textbook a list of facts to learn. That's not the point. Just as Karate, or dancing, or chessplaying is an activity, philosophy is a kind of activity that you learn to engage in. You learn how to rationally inquire into your beliefs and seke out the answers. 
-
-Philosophy is not easy. It's not comfortable and it's something that many people shy away from because it requires examining some deep convinctions. The effect of philosophy was described famously in 'The Republic', by Plato, in his famous allegory of the Cave. You will find an animated version of that allegory in the learning module as well as a copy of the text. 
-
+Learning philosophy is not easy. Many shy away from examining their deep convinctions. For those who do not, the process is difficulty, but rewarding. The effects of this educaiton were famously described famously in 'The Republic', by Plato, in his famous *Allegory of the Cave*. You will find an animated version of that allegory [here](https://www.youtube.com/watch?v=h55X9LJTAg4).
 
 People in the cave look at shadows thinking they are real. They can't turn their heads and see what makes the shadow. Imagine a baby that only had seen holograms in their life. They would never think the holograms were anything but real and have no idea that they were representations of real things. That's the beliefs you have. You already have beliefs. You have beliefs about whether God does or doesn't exist. You have beliefs about what's moral, for isntance, whether it's morally permissible to cheat on your partner. You have beliefs about what counts as a life well lived and lifes that fall short of that. For instance, you already have a belief as to whether a life devoted to taking of drugs is a life well lived. 
 
@@ -41,8 +37,11 @@ Getting out of the cave is initially dizzying. Philosophy is like that. It's cha
 
 Sp, philosophy is not a disciplined that teaches you the answers to various questions. It is the activity of waking up. It gives you the ability to look for those answers yourselves. In this way, it frees us from being controlled by beliefs that are not our own. 
 
-Summary of sections. 
 
++ there is a distinction between ignorance and knowledge. 
++ Humans fall in the middle. 
++ Ancients were interested in philosophy as a way of living. 
++ Ignorance for the soul was bad. 
 
 
 
