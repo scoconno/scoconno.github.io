@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module 1
+title: Course Introduction
 
 ---
 
@@ -8,4 +8,5 @@ title: Module 1
 
 
 + [Instructions](Instructions)
++ [Syllabus](http://scoconno.github.io/Teaching/Intro/Syllabus.pdf)
 + [Introduction to Philosophy](Introduction)

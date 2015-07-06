@@ -4,7 +4,7 @@ title: Answer Key to Handout
 ---
 
 
-##Answer Key##
+#Answer Key#
 
 
 ###Stop###
@@ -12,7 +12,7 @@ title: Answer Key to Handout
 Are you reading this document before trying the exercises yourself? Acquiring critical thinking skills requires some mental exercise along the way. Think of playing a video game. You could get a cheat key to work your way easily through a level, but you'll never master the game. So if you had difficulty with any of the exercises, I encourage you to read Ch 1.3 again, look at my notes, and then try work out the answers by yourself before turning here. 
 
 
-### Exercise 1 ###
+### Exercise 1 
 
 Recall that statements are assertions that something is or is not the case. They are always either true or false. 
 
@@ -71,7 +71,7 @@ Here are some more examples:
 + C: The movie last night was awful.
 
 
-### Exercise 4 ###
+### Exercise 4
 
 
 **Passage 1** does not contain an argument. It merely asserts, in a somewhat dogmatic tone, that the cause of underage drinking is the marketing of alcohol, tobacco, and sex to children. There is no evidence provided for this assertion. 

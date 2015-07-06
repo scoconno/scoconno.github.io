@@ -4,7 +4,7 @@ title: Discussion Question 1
 ---
 
 
-##Discussion Question 1##
+#Discussion Question 1#
 
 Please note that answers to these discussion questions will be shared with your peers after the due date. 
 
@@ -14,7 +14,7 @@ You will find in this module a short video clip from a Star Trek episode, 'The M
 
 + This assignment should be completed after you have done the assigned reading, studied the notes, and tried the self-assessment exercises. 
 
-+ Submit your answer to the Discussion Board in Module 1 by 07/13/15 @ 1:00 pm.
++ Submit your answer through Blackboard by 07/13/15 @ 1:00 pm.
 
 
 ### Prompt

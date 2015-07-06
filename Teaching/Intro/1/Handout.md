@@ -5,12 +5,12 @@ title: Handout
 
 #Critical Thinking: Work Sheet#
 
-If you haven't read Ch. 1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some self-assessment exercises below. The answer key is on blackboard. 
+If you haven't read Ch. 1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some self-assessment exercises below. The answer key is on Blackboard. 
 
 
-##Arguments##
+### Arguments
 
-### Introduction ###
+#### Introduction
 
 Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophy is first and foremost a rational, rule governed, inquiry into matters of great importance. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views, in other words, the arguments that prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide reasons for your views. 
 
@@ -24,7 +24,7 @@ What is an argument? An **argument** is a group of statements in which some of t
 
 P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many premises. For our purposes, we'll be focusing on relatively short arguments. Let us look a little closer at the elements of an argument:
 
-### Statements ###
+#### Statements
 
 Arguments are composed of **statements.** A statement is an assertion that something is or is not the case. Statements are either true or false. Examples:
 
@@ -41,7 +41,7 @@ Not all sentences express statements, i.e., not all sentences express claims tha
 
 
 
-#### Exercise 1
+##### Exercise 1:
 
 Which of the following sentences are statements?
 
@@ -54,7 +54,7 @@ Which of the following sentences are statements?
 + Great balls of fire!
 
 
-#### Exercise 2
+##### Exercise 2:
 
 List 4 sentences that are statements. List 4 sentences that are not statements. 
 
@@ -63,7 +63,7 @@ List 4 sentences that are statements. List 4 sentences that are not statements.
 
 You know now that an argument is a group of statements in which some of them (**the premises**) are intended to support another of them (**the conclusion**). One important skill you need to learn as a philosopher is the ability to identify which statement in an argument is the conclusion and which are the premises. Try the exercises below before checking the answer key. 
 
-#### Exercise 3
+##### Exercise 3:
 
 Identify and underline the conclusions and premises in the following three arguments. 
 
@@ -79,6 +79,7 @@ Listen, any movie with clowns in it cannot be a good movie. Last night's movie h
 ```
 
 ### Non-Arguments###
+
 Not every group of statements contains an argument. Another important skill you will need to acquire is the ability to figure out when and when a passage contains a genuine argument. Consider this example: 
 
 ```
@@ -94,7 +95,8 @@ Alisha went to the bank to get a more recent bank statement of her checking acco
 
 You might read a passage like this in a novel or a newspaper article. Don't be fooled by the apparently argumentative tone. It does not contain any argument at all. To see this, notice that the author is not trying to tell us why we too should accept that Alisha was the victim of bank fraud. In other words, telling us that Alisha came to have a belief is not the same as providing us reasons for thinking her belief is true. 
 
-#### Exercise 4
+##### Exercise 4:
+
 (a) Which of the following passages contain an argument? (b) In the passages containing an argument, identify and underline the conclusions and premises. 
 
 
@@ -114,7 +116,7 @@ I don't understand what is happening to this country. The citizens of this count
 It is often difficult to identify the core argument in a complex passage. You need to recognize which statements are part of that argument, but also which statements are not part of that argument. These other statements may serve some other role such as providing important background information, or explaining a premise, or explaining the consequences of accepting the conclusion, and so on. Try the following exercise before checking the answer key: 
 
 
-#### Exercise 5 
+##### Exercise 5: 
 
 
 
@@ -129,7 +131,7 @@ In the following passages, identify those statements which are part of the argum
 ```
 
 
-##Evaluating Arguments##
+### Evaluating Arguments
 
 
 A **good argument** has (1) solid logic (an appropriate connection between the premises and conclusion), and (2) true premises.  
@@ -138,7 +140,7 @@ A **bad argument** (1) fails to have solid logic (fails to have an appropriate c
 
 What makes the connection appropriate will vary according to whether the argument is a deductive or inductive argument. 
 
-###Deductive Arguments###
+#### Deductive Arguments###
 
 A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. 
 
@@ -165,7 +167,7 @@ Note that a deductive argument can be valid without being sound. However, it can
 
 This second argument is valid, but it is not sound because the first premise is false. The first argument is trickier. It is valid, but there is much debate as to whether the two premises are true. Some deny P1. They claim that mistakingly taking the life of an innocent person is not immoral. Others deny that the fetus is a person and so claim that abortion does not involve taking the life of a person. The point is that determining validity requires looking at the structure of what's given. Determining soundness is a different matter. It often takes serious research and argumentation to determine whether the premises of an argument are true or false.
 
-#### Exercise 6
+##### Exercise 6:
 
 For each argument, indicate whether it is valid and sound. 
 
@@ -180,28 +182,32 @@ For each argument, indicate whether it is valid and sound.
 + 'Claire must live on the same street as Laura, since she lives on the same street as Max and he and Laura live on the same street. And each of them lives on only one street.'
 
 
-#### Exercise 7
+##### Exercise 7:
 
 Construct two arguments that are (a) sound; (b) valid, but not sound; (c) invalid.
 
 
-###Inductive Arguments###
+### Inductive Arguments###
 
 **Inductive Arguments** are supposed to give probable support to their conclusions, i.e., the premises are supposed to show that the conclusion is probably true. This falls short of showing that the conclusion is decisively true. An inductive argument is **strong** if its premises show that the conclusion is probably true. An inductive argument is **weak** if it fails to be strong.
 
 **Examples:**
+
 1)
+
 + P1. 85% of the students at NJCU are Democrats.
 + P2. Mickey Mouse is a student at NJCU
 + C1. Therefore, Mickey Mouse is probably a Democrat. 
 
+
 2)
+
 + P1. 10% of the students at NJCU smoke marijuana regularly.
 + P2. Sally is a student at NJCU.
 + C1. Therefore, Sally probably smokes marijuana regularly.
 
 The first argument is strong. If the premises are true, then the conclusion is more likely to be true than not. The second argument is weak. Just because a small portion of the student body smoke marijuana, it does not follow that Sally is more likely than not to be a smoker.
 
-####Exercise 8
+##### Exercise 8:
 Construct 2 inductive arguments that are (a) strong, and (b) weak. 
  
