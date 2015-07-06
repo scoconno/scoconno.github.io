@@ -4,7 +4,7 @@ title: Introduction
 
 ---
 
-#Persons & Problems#
+#Persons & Problems: An Introduction to Philosophy#
 
 ### Computer Information ###
 
@@ -12,11 +12,17 @@ This is an online course administered through Blackboard. Please consult NJCU's 
 
 ### Syllabus  ###
 
-Please read the syllabus carefully. 
+Please read the [syllabus](syllabus.pdf) carefully. 
 
 
-### Resources ####
+### Resources ###
 
 Please see [here](Resources/) for various resources on writing and reading philosophy.  
 
 
+
+### Modules ###
+
+
++ [Course Introduction](0)
++ [Week 1](1)
