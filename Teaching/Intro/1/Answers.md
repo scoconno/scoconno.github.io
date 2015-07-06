@@ -141,7 +141,7 @@ Here are some more examples:
 + P2: Socrates is mortal. 
 + C: Socrates is human. 
 
-**NB:** It might surprise you that this last argument is invalid. After all, the premises and conclusion are each true. Nevertheless, while the premises and conclusion are true, you cannot infer the conclusion just from the premises. No premise states that Socrates is human, so we can't rule out the possibility that he's a dog, or a dolphin, or any other mortal creature. The important lesson here is that assessing arguments requires you to assess the structure of **exactly** the argument provided. It's not your job to supply information that would make argument a good one.
+**NB:** It might surprise you that this last argument is invalid. After all, the premises and conclusion are each true. Nevertheless, while the premises and conclusion are true, you cannot infer the conclusion just from the premises. No premise states that Socrates is human, so we can't rule out the possibility that he's a dog, or a dolphin, or any other mortal creature. The important lesson here is that assessing arguments requires you to assess the structure of **exactly** the argument provided. It's not your job to supply information that would make the argument a good one.
 
 
 ### Exercise 8 

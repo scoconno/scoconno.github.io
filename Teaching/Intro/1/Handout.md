@@ -12,7 +12,7 @@ If you haven't read Ch. 1.3 of the textbook, stop. Please read that first before
 
 #### Introduction
 
-Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophy is first and foremost a rational, rule governed, inquiry into matters of great importance. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views, in other words, the arguments that prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide reasons for your views. 
+Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophy is first and foremost a rational, rule governed activity. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views, in other words, the arguments that prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
 
 Since philosophy is concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. 
 
@@ -138,13 +138,15 @@ A **good argument** has (1) solid logic (an appropriate connection between the p
 
 A **bad argument** (1) fails to have solid logic (fails to have an appropriate connection between the premises and conclusion), or (2) has false premises, or (3) both. 
 
-What makes the connection appropriate will vary according to whether the argument is a deductive or inductive argument. 
+What makes the connection appropriate will vary by the type of argument under consideration. There are two main types of arguments, deductive and inductive. 
 
 #### Deductive Arguments###
 
 A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. 
 
-If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. Note that the premises do not need to be true for an argument to be valid. Assessing an argument for validity asks us to suppose/imagine/hypothesize that the premises are  true (even if we know they are false), and then determine whether the conclusion must also be true. Or, to put it differently, we want to know if there is any possible way the premises could be true and the conclusion false. If there isn't, the argument is valid. If there is, then the argument is invalid. 
+If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. 
+
+Note that the premises do not need to be true for an argument to be valid. Assessing an argument for validity asks us to suppose/imagine/hypothesize that the premises are  true (even if we know they are false), and then determine whether the conclusion must also be true given that supposition. Or, to put it differently, we want to know if there is any possible way the premises could be true and the conclusion false. If there is not, the argument is valid. If there is, then the argument is invalid. 
 
 A deductive argument is **sound** when (a) the argument is valid, and (b) the premises are true. 
 
