@@ -15,7 +15,7 @@ While you are my student, the appropriate way to address me is as Dr. O'Connor. 
 
 ### Course Location
 
-This course is administered through Blackboard. You will find all course documents, quizzes, assignments, grades, and messages in the Blackboard site. You can also access the documents on my website [here.](http:\\scoconno.github.io/Teaching/Intro/). Not everything is contained on my site, so it's important that you navigate through the course by using Blackboard. 
+This course is administered through Blackboard. You will find all course documents, quizzes, assignments, grades, and messages in the Blackboard site. You can also access the some documents, but not the quizzes, on my website [here.](http:\\scoconno.github.io/Teaching/Intro/) Not everything is contained on my site, so it's important that you navigate through the course by using Blackboard. 
 
 ### Syllabus 
 
