@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Module 2
+title: Module 3
 
 ---
 
-#Module 2#
+#Module 3#
 
 
 + [Instructions](Instructions)
 + [Handout](Handout)
-+ [Discussion Question 2](DQ1)
-+ [Video for Discussion Question 2](https://www.youtube.com/watch?v=2zS1HiuWPMA)
-+ https://www.youtube.com/watch?v=mBMAMIFw9n4

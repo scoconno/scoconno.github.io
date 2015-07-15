@@ -1,3 +1,10 @@
+---
+layout: default
+title: The Problem of Evil
+---
+
+# The Problem of Evil
+
 
 ## The Problem of Evil ##
 
