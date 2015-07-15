@@ -405,4 +405,107 @@ L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
 \l_keys_choice_int=\count150
 L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
 \c__fp_leading_shift_int=\count151
-\c__fp_mi
+\c__fp_middle_shift_int=\count152
+\c__fp_trailing_shift_int=\count153
+\c__fp_big_leading_shift_int=\count154
+\c__fp_big_middle_shift_int=\count155
+\c__fp_big_trailing_shift_int=\count156
+\c__fp_Bigg_leading_shift_int=\count157
+\c__fp_Bigg_middle_shift_int=\count158
+\c__fp_Bigg_trailing_shift_int=\count159
+L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
+\l__coffin_internal_box=\box34
+\l__coffin_internal_dim=\dimen153
+\l__coffin_offset_x_dim=\dimen154
+\l__coffin_offset_y_dim=\dimen155
+\l__coffin_x_dim=\dimen156
+\l__coffin_y_dim=\dimen157
+\l__coffin_x_prime_dim=\dimen158
+\l__coffin_y_prime_dim=\dimen159
+\c_empty_coffin=\box35
+\l__coffin_aligned_coffin=\box36
+\l__coffin_aligned_internal_coffin=\box37
+\l_tmpa_coffin=\box38
+\l_tmpb_coffin=\box39
+\l__coffin_display_coffin=\box40
+\l__coffin_display_coord_coffin=\box41
+\l__coffin_display_pole_coffin=\box42
+\l__coffin_display_offset_dim=\dimen160
+\l__coffin_display_x_dim=\dimen161
+\l__coffin_display_y_dim=\dimen162
+L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
+L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count160
+\g__cctab_stack_int=\count161
+L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen163
+\l__box_bottom_dim=\dimen164
+\l__box_left_dim=\dimen165
+\l__box_right_dim=\dimen166
+\l__box_top_new_dim=\dimen167
+\l__box_bottom_new_dim=\dimen168
+\l__box_left_new_dim=\dimen169
+\l__box_right_new_dim=\dimen170
+\l__box_internal_box=\box43
+\l__coffin_bounding_shift_dim=\dimen171
+\l__coffin_left_corner_dim=\dimen172
+\l__coffin_right_corner_dim=\dimen173
+\l__coffin_bottom_corner_dim=\dimen174
+\l__coffin_top_corner_dim=\dimen175
+\l__coffin_scaled_total_height_dim=\dimen176
+\l__coffin_scaled_width_dim=\dimen177
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2014/05/05 v4740 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count162
+\l__xparse_m_args_int=\count163
+\l__xparse_mandatory_args_int=\count164
+\l__xparse_processor_int=\count165
+\l__xparse_v_nesting_int=\count166
+)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec.sty:41: Fatal fo
+ntspec error: "cannot-use-pdftex"
+! 
+! The fontspec package requires either XeTeX or LuaTeX to function.
+! 
+! You must change your typesetting engine to, e.g., "xelatex" or "lualatex"
+! instead of plain "latex" or "pdflatex".
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.41  }
+       
+? 
+/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec.sty:41: Emergenc
+y stop.
+!...............................................  
+                                                  
+l.41  }
+       
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| This is a fatal error: LaTeX will abort.
+|...............................................
+
+ 
+Here is how much of TeX's memory you used:
+ 8869 strings out of 493117
+ 158920 string characters out of 6135433
+ 218522 words of memory out of 5000000
+ 12375 multiletter control sequences out of 15000+600000
+ 4239 words of font info for 16 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,1n,37p,10385b,85s stack positions out of 5000i,500n,10000p,200000b,80000s
+/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec.sty:41:  ==> Fat
+al error occurred, no output PDF file produced!
