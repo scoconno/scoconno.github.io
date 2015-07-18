@@ -9,3 +9,6 @@ title: Module 3
 
 + [Instructions](Instructions)
 + [Handout](Handout)
++ [Essay 1](Essay 1)
++ [Essay Rubric](Rubric)
++ [Resources](Teaching/Intro/Resources/index.md)
