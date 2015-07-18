@@ -10,5 +10,4 @@ title: Module 3
 + [Handout](Handout)
 + [Essay 1](Essay 1)
 + [Essay Rubric](Rubric)
-+ [Resources](/Teaching/Intro/Resources/index.md 
-)
++ [Resources](/Teaching/Intro/Resources/)
