@@ -1,3 +1,8 @@
+---
+layout: default
+title: Instructions
+---
+
 # Instructions #
 
 
@@ -6,10 +11,11 @@
 
 ## Study
 + Study Handout 3. 
-+ Watch video link
 + Re-read ch.2.3.
 
 
 ## Assignments
 
-+ Complete Quiz 3 by 07/27 @ 1:00pm,
++ Complete Quiz 3 by 07/27 @ 1:00pm. 
++ No discussion question is due for 07/27. 
++ The first essay is due 08/03 @ 1:00pm. Begin working on that now. 
