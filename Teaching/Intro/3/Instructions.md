@@ -1,3 +1,9 @@
+---
+layout: Default
+title: Instructions
+---
+
+
 # Instructions #
 
 
