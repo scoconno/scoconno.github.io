@@ -21,7 +21,7 @@ Please read the [syllabus](Syllabus.pdf) carefully.
 
 ### Resources ###
 
-Please see [here](Resources) for various resources on reading and writing philosophy.  
+Please see [here](/Teaching/Intro/Resources/) for various resources on reading and writing philosophy.  
 
 
 ### Course Introduction
