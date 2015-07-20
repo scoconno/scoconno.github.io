@@ -33,7 +33,7 @@ Please click [here](0) for a brief introduction to me and the course, as well as
 
 + [Week 1](1)
 + [Week 2](2)
-+ Week 3
++ [Week 3](3)
 + Week 4
 + Week 5
 + Week 6
