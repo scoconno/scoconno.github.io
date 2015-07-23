@@ -8,7 +8,7 @@ title: Handout 4
 
 ## Introduction ##
 
-Ethics is one of the main specialities in philosophy. It is also the one that everyone has already had some familiarity. You have already had debates with family and peers about what's right or wrong. Even if you have had no debates, you already have opinions on a large number of these claims. 
+Ethics is one of the main specialities in philosophy. It is also the one that everyone has already had some familiarity. You have already had debates with family and peers about what's right or wrong. Even if you have had no debates, you already have moral opinions. 
 
 Try this as an introspection exercise: for each statement indicate whether you agree, disagree, or have no opinion. 
 
@@ -23,57 +23,54 @@ Try this as an introspection exercise: for each statement indicate whether you a
 9. Eating meat is never permissible.  
 10. I should donate to charity when I can. 
 
-I suspect you agreed with some of these claims, but not others. I imagine you also 
-
+You likely agreed with some of these claims, disagreed with others. You also likely have reasons for why you thinks some of the claims are true, some of these claims false. The study of Ethics is the study of these reasons. It is the discipline that tried to determine why certain actions are permissible, while others are not. In particular, Ethicists try to adjudicate between a number of theories as to what makes actions moral or immoral. In this brief handout, I will first outline some features of the reasons that Ethicists seek. I will then discuss a challenge to the very possibility of ever finding reasons that have these features. 
 
 ## Ethics and Reasons
 
-
-There is a distinction between descriptive and normative facts. The former are facts are about how the world is. The latter are facts are about how the world should be. Compare the following two claims: 
+First, it is important to properly understand the distinction between what are called descriptive and normative facts. Descriptive facts are facts are about how the world is. Normative fats are facts are about how the world should be. Compare the following two claims: 
 
 1. "I am eating sugar"
-2. "I should not be eating sugar."
+2. "I should not sugar."
 
-Morality is part of normativity. Moral judgements are about (i) how a person should act and (ii) what kind of character a person should have.
+1 just describes something that his happening; I am currently eating sugar. It does not say whether it is good or bad to eat sugar. It just says that I'm doing it. 2, on the other, hand does not say that I am in fact eating sugar. It says that I should avoid doing so. 2 can be true even if I never eat sugar. 1 is true only if I am, in fact, eating sugar. 
 
-1. "Sonya is taking an exam" is a fact about what Sonya is currently doing. It says nothing about what she should be doing. 
-2. "Sonya should not cheat in the exam" is a fact about how Sonya should act (irrespective of whether she does in fact act in this way.)
+Morality is part of normativity. Moral judgements are about (i) how a person should act and (ii) what kind of character a person should have. Consider these two claims: 
 
+1. "Sonya is having an affair."  
+2. "Sonya should not have an affair." i
 
-Moral judgements are rational. That is, we normally give reasons to support our moral judgements. Sandra should not cheat *because it is unfair to the other students*. Fairness to others is being offered as a reason to not cheat. Not all reasons are good reasons. Suppose someone claimed that Sandra should not cheat because Hermione would never cheat and one should be like Hermione. Well this seems a poor reason for our actions. 
+1 is a descriptive fact. It tell us that Sonya has an affair, but takes no stance on the morality of her actions. 2, on the other hand, is a normative claim. It doesn't say that Sonya is having an affair. In fact, Sonya might be a most felicitous person, and 2 still true. For 2 is telling us something about what she shouldn't do. Not about about what she is doing. Moral judgements are always like claim 2. They are claims about what actions we should and should not perform. 
 
-**Ethics** is the study of reasons. It is a study of the reasons for moral judgements, which judgements are good and which are bad. The marks of a moral reason: 
+Philosophers are quick to point out that in our day to day lives we treat moral judgements as rational. That is, we normally ask people to give reasons in support of their moral judgements and often are quick to do provide our own. So, someone might claim that Sonya should not have an affair *because* she promised to be faithful and having an affair would involve breaking the promise. Here the reason for the judgement is *one shouldn't break a promise.*.  
 
-1. They are overriding---morality trumps law.  
-2. Impartial----apply to everyone equally, equals should be treated equally. 
-3. Universal---apply to everyone
-4. Are reason based---not mere emotion, or bias, but reasons that can be evaluated.  
-5. Objectiv. 
+Ethics is the study of these reasons. It is tries to determine which reasons are good ones and which ones are not. So, for instance, some Ethicists deny that it is always wrong to break a promise. If, for instance, Sonya breaking her promise were the only way to save a life---admittedly a far flung possibility---some claim that it would be permissible for her to do so. If we are going to evaluate the reasons for a moral judgment, we need some clarification on the marks of a good reason. They include the following: 
 
-
-
-### Ethical Theories
-
-There are 3 main ethical theories. These offer standards for judging actions and persons. That is, these theories offer general claims about the appropriate reasons for morality. To introduce you to these theories, first look at this chart: 
++ They are not based on mere emotion, or bias. They are reasons that can be evaluated.  
++ They are universal. That means they apply to everyone regardless of sex, gender, race, or culture. If it is wrong to break a promise, then it is wrong for everyone, irregardless of who they are, to break a promise. 
++ They override legal considerations. If breaking a promise is immoral, then one should keep a promise *even if* it involves breaking a law, e.g., refusing to answer a question in court when compelled to by a judge. (If you think you should break a promise in this case, you don't believe that promise keeping is a real moral obligation.)
 
 
 
 
-![alt text](Slide1.jpg)
+## Ethical Theories
 
-The actor represents each of us. It's the person whose actions will be evalutated. The arrow represents the various actions people perform, e.g., walking, punching, complementing, stealing, eating meat, taking drugs, and so on and so on. The box represents the effects of our various actions. If punching someone causes them pain, then pain is an effect of punching, an action. If eating meat were to cause indigestion, then indigestion is the effect of eataing meet. 
-
-Each moral theory proposes to explain why actions are moral or immoral, in otherwors, they to propose to explain, for each action, whether we are obligated to perform it, or whether we are prohibited from performing it, or whether it is neither.  
+Ethicists offer different theories about which reasons satisfy these requirements. That is, these theories offer general claims about the appropriate reasons for morality. There are three main theories (or groups of theories.) To introduce you to them, first look at this chart: 
 
 
-1. **Consequentialism** claims that the rightness and wrongness of an action depends solely on their consequences, on their effects. It says that to determine the morality of an action we are to ignore the actor side of the diagram. Their motives, intentions, and so on are irrelevant. All that matter says the consequentialist is the effects of the action.  
-2. **Deontology** claims that the rightness and wrongness of an action depends entirely on the intrinsic nature of the action. It says that we are to ignore both the actor and the effects side of the diagram. Neither the motives or character of the actor is relevant in determining the morality of their actions. Neither is the effects of their actions. Some actions, the deontologist claims, are just inherently wrong, e.g., murder. 
-3. **Virtue Ethics** claims that the rightness and wrongness of an action depends entirely on the character of the person performing that action, on the actor. Virtue ethics denies that the morality of our action has anything to do with the consequences or the intrinsic nature of the acts. It depends entirely on whether the action came from a person who is virtuous. 
+![alt text](/Teaching/Intro/4/Slide1.jpg)
+
+The actor represents each of us. It's the person whose actions will be evaluated. The arrow represents the various actions people perform, e.g., walking, punching, complementing, stealing, eating meat, taking drugs, and so on. The box represents the effects of our various actions. If punching someone causes them pain, then pain is an effect of punching. If eating meat were to cause indigestion, then indigestion is the effect of eating meet. 
+
+Our different moral theories explain why actions are moral or immoral (or neither) by referring to different parts of this diagram. Next week, we will discuss these theories in detail. I here outline them by way of introduction: 
 
 
-## A Challenge to Ethics: Moral Relativism ##
+1. **Consequentialism** claims that the rightness and wrongness of an action depends solely on its consequences, on its effects. It says that to determine the morality of an action we are to ignore the actor side of the diagram.  Their motives, intentions, and so on are irrelevant. We are also to ignore the arrow part of the diagram. It does not matter the action is a promise breaking, or stealing, or murder, etc. All that matters, says the consequentialist, is the effects of the action.  
+2. **Deontology** claims that the rightness and wrongness of an action depends entirely on the intrinsic nature of the action. It says that we are to ignore both the actor in our diagram as well as the effects side of the diagram. Neither the motives or character of the actor is relevant in determining the morality of their actions. Neither is the effects of their actions. Some actions, the deontologist claims, are just inherently wrong, e.g., murder, they claim, is just inherently wrong. 
+3. **Virtue Ethics** claims that the rightness and wrongness of an action depends entirely on the character of the person performing that action, on the actor. Virtue ethics denies that the morality of our action has anything to do with the consequences or the intrinsic nature of the acts. It depends entirely on whether the action came from a person who is virtuous, i.e., it depends entirely on the actor side of the diagram.
 
-Moral relativism says that there are no general moral truths, truths that hold for all people and all times. The moral relativist says that what's true varies either by person or culture. 
+## A Challenge to Ethics: Ethical Relativism 
+
+Moral relativism says that there are no universal moral truths, truths that hold for all people and all times. The moral relativist says that what's true varies either by person or culture. 
 
 Moral relativism is easily misunderstood; it's far more radical than you might initially think. Distinguish these two claims: 
 
@@ -85,12 +82,6 @@ Moral relativism is defending Claim 2, which is much stronger than claim 1. We m
 Similarly, the moral relativist claims that there are no *objective* moral standards, standards by which we can judge various moral opinions for their worth; there is no possibility of genuine moral disagreement say the moral relativist. 
 
 
-
-
-
-### Subjective Relativism ###
-
-**Claim:** An action is morally permissible if someone approves of it. An action is immoral if someone disapproves of it. If Fred says that cheating is immoral, then it is moral for him. if Ed says cheating is moral, then it is moral for him. 
 
 ### Culture Relativism ###
 
@@ -105,7 +96,7 @@ Similarly, the moral relativist claims that there are no *objective* moral stand
 3. Undermines moral heroes. 
 4. Legitimizes moral villains. 
 
-####Objection 1: Cultural Difference Argument in Invalid####
+####Objection 1: Cultural Difference Argument in Invalid
 
 1. The Greeks believed it was wrong to eat the dead, whereas the Callatians believed it was right to eat the dead.
 2. Therefore, eating the dead is neither objectively right nor objectively wrong. It is merely a matter of opinion, which varies from culture to culture.
