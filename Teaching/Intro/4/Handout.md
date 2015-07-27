@@ -136,7 +136,6 @@ Appeal to this general principle would be a mistake. Notice the following instan
 
 This is a poor argument. The premise is true, but the logic clearly flawed. The Greeks were right. The Norse were wrong. The sciences proceed by making and testing hypotheses, rejecting those that are wrong, accepting those that are right. Before a claim is proved, scientists regularly are in disagreement. But this disagreement only shows that they have yet to discover the truth. It does not mean that there is no truth to discover. 
 
-, 
 Here is another example:
 
 + Premise: The majority of South Koreans believe that climate change is caused by human activity, whereas the vast majority of Tanzanians do not believe that climate change is caused by human activity. 
