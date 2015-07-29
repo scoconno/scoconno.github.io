@@ -12,6 +12,12 @@ Please review the plagiarism policy on the syllabus. It is critical that you pre
 ##Due Date
 This essay is due 08/03 @ 1:00pm through Blackboard. 
 
+##Rubric
+Please find the rubric and explanation of it [here](\Teaching\Rubric\).
+
+##Resources
+Please find links to writing resources [here](\Teaching\Resources\)
+
 ##Word Count
 
 Your essays must be between 600-800 words long. Essays shorter than 600 words or longer than 800 words will lose points. 
