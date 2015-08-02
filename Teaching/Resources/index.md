@@ -19,6 +19,7 @@ title: Resources
 
 + Jim Pryor's guide to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy.
 + [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
++ ['Improving Academic Writing', by Jonathan Bennett and Samuel Gorovitz](Bennett.pdf)
 
 
 ### Sundry Study Resources
