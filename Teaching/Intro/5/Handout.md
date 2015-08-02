@@ -88,54 +88,64 @@ Rule Utilitarianisn, on the other hand, says that an action cannot be isolated f
 
 ![alt text](/Teaching/Intro/4/Slide1.jpg)
 
-Recall again our diagram. Which part of the box should we focus on to determine the morality of our actions? The consequentialist, we have seen, claims that the effects, and only the effects, are relevant in determining the morality of our actions. They deny that any facts about the person determine the morality of their actions. On the one hand, Deontologist agree that the morality of our actions has nothing to do with the actor. Their intentions, beliefs, conscience has nothing to do with. But they also deny that effects have anything to do with the morality of our actions. They protest that consequentialism ignores a core feature of morality; we have a duty to do the right thing and a responsibility to avoid the wrong thing regardless of the consequences. 
+Recall again our diagram. Which part of the box should we focus on to determine the morality of our actions? The consequentialist, we have seen, claims that the effects, and only the effects, are relevant in determining the morality of our actions. They deny that any facts about the person determine the morality of their actions. On the one hand, Deontologist agree that the morality of our actions has nothing to do with the actor. Their intentions, beliefs, conscience has nothing to do with. But they also deny that effects have anything to do with the morality of our actions. They protest that consequentialism ignores a core feature of morality; we have a duty to do the right thing and a responsibility to avoid the wrong thing regardless of the consequences. Actions, on this view, are right or wrong independently of their effects, production of happiness, people's aims, or their desires and feelings. 
+
+Suppose that Sam steals bread to feed his family. He has good intentions. The effects might be good. The Consequentialist might say that this is permissible. Kant would claim that Sam's intentions are irrelevant to whether his actions are right or wrong. If stealing is wrong, it is wrong full stop. 
 
 To introduce you to this view, distinguish between two types of value, innherent vs. relational value. Relational value is value something has only in virtue of its relationship to something else that is valuable. Money has only relational value. It is valuable only in relation to what you can buy with it. If the human race were to extinct, but our money remain, that money would not be something valuable. Health, on the other hand, is valuable in and of itself. Of course, being healthy helps us pursue other things that are valuable. But many pursue health for no other reason than to be healthy. The explanation for why we should be healthy is just that health is in itself valuable. The explanation for why we should be wealthy is that wealth allows us achieve other valuable things.  
 
 When determining the morality of our actions we need to decide whether rightness and wrongness are inherent or relational values. Is murder wrong, something to avoid, just because of its relation to something else? Or is murder something that should be avoided just because of what it is in itself? 
 
-The Consequentialists think that actions are only right or wrong relationally, that is, only in relation to the effects they produce. An act of murder is wrong, on this view, not because of what it is, but because of what it produces (if indeed it produces an overall negative effect.) The 
+The Consequentialists think that actions are only right or wrong relationally, that is, only in relation to the effects they produce. An act of murder is wrong, on this view, not because of what it is, but because of what it produces (if indeed it produces an overall negative effect.) The Deontologist disagrees. They claim that the morality of an act is intrinsic too it. Murder is wrong not because of what it produces or who it came from, but because of what kind of thing it.  
 
-+ Kant thinks that actions are right or wrong independently of their effects, production of happiness, people's aims, or their desires and feelings. 
+The word *deontology* comes from the Greek meaning the study of obligations. The Deontologist is more concerned with duties and rights. As an example, we might consider the Ten Commandments as an instance of a deontological view. The requirement to respect your elders is absolute. You are told to respect them not because of the effects of doing so. The responsibility is absolute. 
 
-	+ Sam stole the bread to feed his family. Good intentions. Consequentialist might say that this is permissible. Kant would claim that Sam's intentions are irrelevant to whether his actions are right or wrong. 
-
-* Right actions are those actions that are right in themselves because they are consistent with universal moral rules derived from reason. 
-
-The actions have moral worth only if we do them out of a sense of duty, simply because they are our duty. 
+The main issue for deontologists is deciding on our duties and responsibilities. Is respecting our elders really a duty? Here deontologists give different theories about the source of our duties. Our focus will be the most famous deontologist, the German, Immanuel Kant. Kant makes the following claim:
 
 
-#### Categorical Imperatives ####
 
-Moral duties are expressed in the form of categorical imperatives. 
++ **Right actions** are those actions that are right in themselves because they are consistent with universal moral rules derived from reason. 
 
+
+
+### Categorical Imperatives ###
+
+Kant introduced the notion of *categorial imperatives* to explain the absolute nature of moral duties. They contrast with *hypothetical imperatives* which tell you to do so something only if a certain event occurs, or condition obtains, e.g., don't eat too much sugar if you have diabetes. This tells us that we shouldn't eat sugar, but only if we have diabetes. Categorical imperatives are not conditional. They are absolute. Keep in mind these points:
+
++ Moral duties are expressed in the form of categorical imperatives. 
 + An imperative is a command to do something.
 + It is categorical if it applies without exception and without regard to particular needs or purposes. 
 
-Kant Identified a number of imperatives:
+Kant Identified a number of imperatives, two of which are as follow:
 
 1. I am never to act otherwise than so that I could also will that my maxim should become a universal law. 
 2. Act to treat humanity, whether in thine own person or in that of another, as an end and never merely as a means. 
 
 **First Imperative**
 
-+ Actions have logical implications-they imply general rules of conduct. 
-+ If we can will it, then it is permissible. If not, it is immoral. 
-+ Duties include prohibition against killing the innocent, lying, committing suicide, failing to help others when feasible. 
+Actions have logical implications-they imply general rules of conduct. If Sam decides he can break his promise to Sue to meet her for lunch, then he is acting under a general rule, like, it is ok to break promises. But Kant asks us to imagine whether such a rule is logically coherent. The practice of promise keeping, after all, assumes a distinction between acts we commit ourselves to perform compared to those we make no such committal. But if it is permissible for everyone to break their promises, then the very practice of promise-keeping loses the distinction it is built upon, the acts we commit to keeping vs those we do not. 
 
+Kant's first categorial imperative asks us to generalize from any specific act and ask whether we can coherently conceive of a law that requires or prohibits  everyone to commit that act. If we cannot do so, then that shows us the act is moral/immoral. 
++ Duties include prohibition against killing the innocent, lying, committing suicide, failing to help others when feasible. Another example:
+ 
+If you tell a lie for financial gain, you are acting according to a maxim like 'it's ok to lie'. Can we will that this law becomes a universal law applicable to everyone, i.e., everyone could consistently lie? No! Lying is possible only if we assume that telling the truth is the norm, i.e., I can only trick you into thinking I'm telling the truth if it would well, be a trick. 
 
-Example: 
-If you tell a lie for financial gain, you are acting according to a maxim like 'it's ok to lie'. Can we will that this law becomes a universal law applicable to everyone, i.e., everyone could consistently act on the maxim. No! Lying is possible only if we assume that telling the truth is the norm, i.e., I can only trick you into thinking I'm telling the truth if it would well, be a trick. 
-
-
-Ask students!
 
 **Second Formulation**
 
-+ People are ends in themselves. 
-+ This derives from their nature as autonomous, rational beings capable of directing their own lives, determining their own ends, and decreeing their own rules by which to live. 
-+ We treat people as means if we ignore these aspects of their personhood, e.g, coercing them, lying, undermining their rational decision making features, discriminate against them. 
-+ Note that you can use people as a means, but you cannot use them only as a means. 
+Recall the second categorial imperative: 
+
++ Act to treat humanity, whether in thine own person or in that of another, as an end and never merely as a means
+
+This imperative relies on a few assumptions. The first is that persons are ends in themselves. They are things from which duties and obligations arise. Kant claims that the reason persons are ends in themselves lies in their nature as autonomous, rational beings capable of directing their own lives, determining their own ends, and decreeing their own rules by which to live.
+
+ 
+This imperative tells us not to treat such people merely as mean. We treat people as means if we ignore what makes them personhood. For instance, if we coerce them, lying, undermining their rational decision making features, discriminate against them, then we are not treating them as rational autonomous creatures, creatures capable of making their own choices. 
+ 
+Two important notes:
+
+1.  Kant does not claim that you can never use people as a means. He claims that you cannot use them merely as a means. Contrast two cases. In the first, a corrupt individual kidnaps Sam and forces him to clean his home. In the second, Sam advertises his home cleaning business and is contracted by a family to clean their house for them. in both cases, Sam is being treated as a means. But in the first, he is being treated as only a means. In the second case, Sam has entered freely into a contract to lend his service. He has not been coerced or tricked. So in this second case, he is also being treated as an end as well as a mean. 
+2. The imperative requires that you treat humanity, wherever you find it, as an end and not merely as a means.  This generates duties to self, i.e., since you are human, you must treat yourself as an end and not merely as a means. This means, for instance, it is immoral to lie to yourself. It is immoral to undermine your ability to make decisions, etc. 
 
 
 **Examples**
