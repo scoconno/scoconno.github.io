@@ -102,7 +102,7 @@ Kant introduced the notion of *categorial imperatives* to explain the absolute n
 
 + Moral duties are expressed in the form of categorical imperatives. 
 + An imperative is a command to do something.
-+ It is categorical if it applies without exception and without regard to particular needs or purposes. 
++ A command is categorical if it applies without exception and without regard to particular needs or purposes. 
 
 Kant Identified a number of imperatives, two of which are as follow:
 
@@ -111,12 +111,11 @@ Kant Identified a number of imperatives, two of which are as follow:
 
 **First Imperative**
 
-Actions have logical implications-they imply general rules of conduct. If Sam decides he can break his promise to Sue to meet her for lunch, then he is acting under a general rule, like, it is ok to break promises. But Kant asks us to imagine whether such a rule is logically coherent. The practice of promise keeping, after all, assumes a distinction between acts we commit ourselves to perform compared to those we make no such committal. But if it is permissible for everyone to break their promises, then the very practice of promise-keeping loses the distinction it is built upon, the acts we commit to keeping vs those we do not. 
+A belief that you should perform an act has a logical implication---it implies general rules of conduct. If Sam decides he can break his promise to Sue to meet her for lunch, then he is acting under a general rule, like, it is ok to break promises. But Kant asks us to imagine whether such a rule is logically coherent. The practice of promise keeping, after all, assumes a distinction between acts we commit ourselves to perform compared to those we make no such committment. But if it is permissible for everyone to break their promises, then the very practice of promise-keeping loses the distinction it is built upon, the acts we commit to keeping vs those we do not. 
 
 Kant's first categorial imperative asks us to generalize from any specific act and ask whether we can coherently conceive of a law that requires or prohibits  everyone to commit that act. If we cannot do so, then that shows us the act is moral/immoral. 
-+ Duties include prohibition against killing the innocent, lying, committing suicide, failing to help others when feasible. Another example:
- 
-If you tell a lie for financial gain, you are acting according to a maxim like 'it's ok to lie'. Can we will that this law becomes a universal law applicable to everyone, i.e., everyone could consistently lie? No! Lying is possible only if we assume that telling the truth is the norm, i.e., I can only trick you into thinking I'm telling the truth if it would well, be a trick. 
+
+Another example: If you tell a lie for financial gain, you are acting according to a maxim like 'it's ok to lie'. Can we will that this law becomes a universal law applicable to everyone, i.e., everyone could consistently lie? No! Lying is possible only if we assume that telling the truth is the norm, i.e., I can only trick you into thinking I'm telling the truth if it would well, be a trick. 
 
 
 **Second Formulation**
@@ -125,30 +124,17 @@ Recall the second categorial imperative:
 
 + Act to treat humanity, whether in thine own person or in that of another, as an end and never merely as a means
 
-This imperative relies on a few assumptions. The first is that persons are ends in themselves. They are things from which duties and obligations arise. Kant claims that the reason persons are ends in themselves lies in their nature as autonomous, rational beings capable of directing their own lives, determining their own ends, and decreeing their own rules by which to live.
+This imperative relies on a few assumptions. The first is that persons are ends in themselves. They are a source of duties and obligations. Kant claims that the reason persons are ends in themselves lies in their nature as autonomous, rational beings capable of directing their own lives, determining their own ends, and decreeing their own rules by which to live.
 
  
-This imperative tells us not to treat such people merely as mean. We treat people as means if we ignore what makes them personhood. For instance, if we coerce them, lying, undermining their rational decision making features, discriminate against them, then we are not treating them as rational autonomous creatures, creatures capable of making their own choices. 
+This imperative tells us not to treat such people merely as mean. We treat people as means if we ignore what makes them persons. For instance, if we coerce them, lie to them, undermine their rational decision making features, discriminate against them, then we are not treating them as rational autonomous creatures, creatures capable of making their own choices. 
  
 Two important notes:
 
-1.  Kant does not claim that you can never use people as a means. He claims that you cannot use them merely as a means. Contrast two cases. In the first, a corrupt individual kidnaps Sam and forces him to clean his home. In the second, Sam advertises his home cleaning business and is contracted by a family to clean their house for them. in both cases, Sam is being treated as a means. But in the first, he is being treated as only a means. In the second case, Sam has entered freely into a contract to lend his service. He has not been coerced or tricked. So in this second case, he is also being treated as an end as well as a mean. 
-2. The imperative requires that you treat humanity, wherever you find it, as an end and not merely as a means.  This generates duties to self, i.e., since you are human, you must treat yourself as an end and not merely as a means. This means, for instance, it is immoral to lie to yourself. It is immoral to undermine your ability to make decisions, etc. 
+1.  Kant does not claim that you can never use people as a means. He claims that you cannot use them merely as a means. Contrast two cases. In the first, a corrupt individual kidnaps Sam and forces him to clean his home. In the second, Sam advertises his home cleaning business and is contracted by a family to clean their house for them. In both cases, Sam is being treated as a means. But in the first, he is being treated as only a means. In the second case, Sam has entered freely into a contract to lend his service. He has not been coerced or tricked. So in this second case, he is also being treated as an end as well as a mean. 
+2. The imperative requires that you treat humanity, wherever you find it, as an end and not merely as a means.  This generates duties to self, i.e., since you are human, you must treat yourself as an end and not merely as a means. This means, for instance, it is immoral to lie to yourself, tt is immoral to undermine your ability to make decisions, etc. 
 
-
-**Examples**
-
-+ Symbiosis. One nation is treating the other as only a means; they lie, deceive, get them drugged up, etc.
-+ I, Borg---you might think that they undermine Hugh's decision making capacity. 
-+ Slavery
-+ Prostitution
-
-**Disagreements between Consequentialist and Deontologist**
-
-Ebola. Is it permissible to force a person into quarantine? Think of typhoid Mary here. 
-
-Lying to public about a NSA operation, or something similar.   
-
+Consider now how the Consequentialist and Deontologist would disagree on some specific concrete scenario. There was recently a terrible Ebola outbreak in West Africa. Suppose, Sarah, a doctor returns from treating the ill in West Africa and sneezes as she enters the airport. The authorities panic. Might she be bringing the deadly virus home with her? Sarah, a doctor, says that there is no need for her to be quarantined. She will return home and monitor her situation. The authorities are unsure. They consider forcefully quarantining her. Would it be moral to do so? Here the Consequentialist will claim we must focus on the effects of quarantining her vs. not quarantining her. Which would lead to a greater balance of well-being over suffering? It might be that quarantining her against her will would have the best result, so the Consequentialist would say that doing so is the moral thing to do. In contrast, the deontologist will claim that it is never moral to coerce someone. If we do so, we are not treating them as autonomous agent, capable of making their own decisions. As such, we are violating the second categorical imperative and committing an immoral act. 
 
 
 
