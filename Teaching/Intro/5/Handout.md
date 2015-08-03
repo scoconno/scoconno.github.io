@@ -38,7 +38,7 @@ Scenario 2
 The officer can torture or not. According to Utilitarianism, she should decide by comparing the prospective pleasures and pains involved in both scenarios. As presented, scenario 2 involves a far greater ratio of pain to pleasure than scenario 1. Suppose that we quantify pains and pleasures. Scenario 1 might result in 20 units of pain and 20 units of pleasure, which is a ratio of pain to pleasure of 1:1. Scenario 2 might result in 2000 units of pain and 10 of pleasure, which is a ratio of pain to pleasure of 200:1. Clearly the first scenario has a better ratio of pain to pleasure, so, according to the consequentialist, torture is the morally required thing to do in this circumstance.  
 
 
-**Rule vs. Act Utilitarianism**
+### Rule vs. Act Utilitarianism
 
 Utilitarianism may seem to legitimize such terrible evils that it is unworthy of our attention. If the choice is between a huge amount of pleasure for a small group of people or a very small amount of pleasure for a huge number of people, we should advance the interest of the minority. Among other things, this legitimizes slavery if the benefits to the slave owners far outweigh the pain suffered by the slaves. A terrible result! Utilitarianism, though, is a much more sophisticated theory than it first appears. There are two very distinct versions of it:
 
@@ -96,7 +96,7 @@ The main task for the deontologists is to decide on our duties and responsibilit
 
 
 
-### Categorical Imperatives ###
+### Categorical Imperatives 
 
 Kant introduced the notion of *categorial imperatives* to explain the absolute nature of moral duties. They contrast with *hypothetical imperatives* which tell you to do so something only if a certain event occurs, or condition obtains, e.g., don't eat too much sugar if you have diabetes. This tells us that we shouldn't eat sugar, but only if we have diabetes. Categorical imperatives are not conditional. They are absolute. Keep in mind these points:
 
@@ -156,7 +156,7 @@ Virtue Ethics traces its roots to the Ancient Greeks. Recall from the introducti
 
 Personalities are comprised of cluster of character traits. The Virtue Ethics will claim that a good person is one who has the best character trait, which they call **virtues**. A bad person, on the other hand, has the worse character traits, which are called **vices**. According to the Virtue Ethicists, we must develop the virtues and stamp out the vices. I'll first focus generally on character traits and explain their relation to action. I'll then discuss how the Virtue Ethicist selects some traits as virtues, others as vices. 
 
-## Character Traits ##
+### Character Traits
 
 Character traits are multi track dispositions to think, feel, and act in certain ways. There are many such traits. Let us consider honest as an illustration. 
 
@@ -168,7 +168,7 @@ We also expect honest people **to think** in certain ways. An honest person will
 
 Notice that being honest involves much more than merely acting honest. The idea here is that one can have a trait, a disposition, from which honest actions, emotions, and thoughts will flow. Just acting honest will never make you honest. But being an honest person will lead you to act honest.  
 
-## Virtues and Vices
+### Virtues and Vices
 
 Virtue Ethicists claim that some traits are virtues, some are vices. What would make a trait one or the other? Perhaps the best known answer comes from Aristotle, a student of Plato. Aristotle, born 384, was Macedonian but moved to Athens to study with Plato. He ultimately established his own school, the Lyceum. 
 
