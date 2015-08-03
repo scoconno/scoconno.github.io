@@ -161,68 +161,39 @@ Lying to public about a NSA operation, or something similar.
 ![alt text](/Teaching/Intro/4/Slide1.jpg)
 
 
-The first two theories we have discussed are action orientated. Each agrees that the the rightness and wrongness of an action in no way depends on the the person performing the action. A person's intent, whether their heart was in the right place, etc., is irrelevant in determining the morality of their action. On these views, being a good person is irrelevant to the morality of your action. Virtue ethics is a radically different view. It traces its roots to the Ancient Greeks. We will call from our introduction to this course that, for Socrates, the most important goal in this life is to live a good life, to be a perfect kind of person. This, we recall, was a dominant view amongst the Greeks. They cared about living the best possible life, emulating their heroes, being recorded in the annals of history, etc. The Greeks 
+The first two theories we have discussed are action orientated. Each agrees that the morality of an action in no way depends on the character of the person it. On these views, being a good person is irrelevant to the morality of your action. Virtue ethics is a radically different view:
 
-According to the virtue ethicist, the morality of your action depends entirely on the kind of person performing the action. They claim: 
+Virtue Ethics
+:	An action is permissible only if a virtuous person would perform it. An action is impermissible only if a virtuous person would never perform it.   
 
-+ An action is permissible only if a virtuous person would perform it. An action is impossible only if a virtuous person would never perform it.  
+Virtue Ethics traces its roots to the Ancient Greeks. Recall from the introduction to this course that, for Socrates, the most important goal in this life is to live a good life, to be a perfect a person. This, we recall, was a dominant view amongst the Greeks. They cared about living the best possible life, emulating their heroes, being recorded in the annals of history, etc. Moral deliberation for the Greeks focused less on what actions to perform and more on what kind of person to become. This is a very different approach to ethics. It places constraints on what kind of personality to develop. As such, the view can be more demanding than the other two considered. It may take extensive therapy, physical and mental training, as well extensive education to become a good person. 
 
-On this view, your job is to become a type of person. 
-
-I 
-
-The mantra is become a good person. It's not do the right thing. It requires me saying something about character traits. Some traits are ones we should develop. Others we should not. I'll first focus generally on traits. I'll then discuss why we should develop some and not others. 
+Personalities are comprised of cluster of character traits. The Virtue Ethics will claim that a good person is one who has the best character trait, which they call **virtues**. A bad person, on the other hand, has the worse character traits, which are called **vices**. According to the Virtue Ethicists, we must develop the virtues and stamp out the vices. I'll first focus generally on character traits and explain their relation to action. I'll then discuss how the Virtue Ethicist selects some traits as virtues, others as vices. 
 
 ## Character Traits ##
 
-![alt text](/Teaching/Intro/4/Slide1.jpg)
-	
-Before I discuss the virtues, being a virtuos person is n
-+ Virtue does not equal christian virtue like patiences and chastity.  
-+ Virtuous person is one who has the virtues.
+Character traits are multi track dispositions to think, feel, and act in certain ways. There are many such traits. Let us consider honest as an illustration. 
+
+What does it mean to call someone 'honest'? On the one hand, it says something about the way we expect the person **to act** in a variety of different scenarios. If we were to offer an honest person a chance to cheat on an exam, they will, of course, decline. If we ask an honest person whether they studied for their exam, they will tell the truth. If an honest person sees someone dropping a large sum of money, we expect them to return it and not keep it. 
+
+By calling a person honest, we also are saying something how we expect that person **to feel**. That is, there are a variety of emotions that we expect an honest person to experience in certain scenarios. If they watch a movie in which a person wins by deceit, they will feel anger and disgust.  They will feel sadness when watching an honest character fail in their endeavors. We also can imagine that an honest person would feel disgust if they were to witness cheating, pride if they saw their child tell a difficult truth, guilt if they slipped and told a lie. 
+
+We also expect honest people **to think** in certain ways. An honest person will think that, say, spying is not an admirable career; they certainly will not be drawn to a life where they constantly must lie. They may also have reservations about marketing and politics, but hold in high regard investigative journalistm.
+
+Notice that being honest involves much more than merely acting honest. The idea here is that one can have a trait, a disposition, from which honest actions, emotions, and thoughts will flow. Just acting honest will never make you honest. But being an honest person will lead you to act honest.  
+
+## Virtues and Vices
+
+Virtue Ethicists claim that some traits are virtues, some are vices. What would make a trait one or the other? Perhaps the best known answer comes from Aristotle, a student of Plato. Aristotle, born 384, was Macedonian but moved to Athens to study with Plato. He ultimately established his own school, the Lyceum. 
+
+According to Aristotle, the traits which are virtues are those that allow us to flourish as a human being. According to Aristotle, then, we must focus on what it is to flourish in order to discover those traits we should develop and those that we should avoid.  
+
+Aristotle's first move is to claim that x flourishes by realizing its function. Consider a knife. A knife's job is to cut. What characteristic must a knife have to cut well? Obviously, sharpness. A blunt knife doesn't cut well. A sharp knife does. According to Aristotle, then, sharpness is the virtue of a knife. It is what allows the knife to perform its function well. 
+
+Just as cutting is the activity characteristic of knives, Aristotle thinks human flourishing consists in our characteristic activity. What is our characteristic activity, the activity that humans and nothing else can engage in? According to Aristotle, that activity is reasoning. Only we seem capable of deliberating on what kind of life to live and how to figure out how to live that life. Since virtue are what allow a thing to perform its function well, a human's virtue will be what it allows humans reason well. 
 
 
-Virtues are character traits, where these traits are multi track dispositions to think, feel, and act in certain ways. Emphasize emotion. There are many such traits. Let us consider two as illustration the nature of a multi track disposition. 
-
-Think first of honesty. What does it mean to call someone 'honest'? On the one hand, it says something about the way we expect the person **to act** in a variety of different scenarios. If we were to offer an honest person a chance to cheat on an exam, they will, of course, decline. If we ask an honest person whether they studied for their exam, they will tell the truth. If an honest person see someone dropping a large sum of money, we expect them to return it and not  keep it. 
-
-By calling a person honest, we also are saying something how we expect that person *to feel*. That is, there are a variety of emotions that we expect an honest person to experience in certain scenarios. If they watch a movie in which a person wins by deceit, they will feel anger and disgust.  They will feel sadness when watching an honest character fail in their endeavors. We also can imagine that an honest person would feel disgust if they were to witness cheating, pride if they saw their child tell a difficulty truth, guilt if they slipped and told a lie. 
-
-We also expect honest people *to think* certain ways. An honest person will think that, say, spying is not an admirable career; they certainly will not be drawn to a life where they constantly must lie. They may also have reservations about marketing and politics, but hold in high regard investigative journalists.
 
 
 
- 
-+ Look at different virtues and vices. Honesty. I'll act honest, but I'll also have certain reaction to movies. I'll react certain ways to dishonest people and so on. I'll be drawn towards certain careers, and away from others. 
-+ Laziness. I'll love seeing people succeed easily. I'll be annoyed by A type personalities.
-
-
-+ We said you needed to become a type of person. What does that mean? You need to develop these traits. This can be really hard to do. You can't just will it. You may need therapy. You may need exposure therapy. But you've got to do it. 
-
-## How do we select Character traits?##
-
-Which traits are virtues? Which are vices? Since we the virtue ethicists wants us to develop those traits that constitute being a good person, they need to answer this question. Perhaps the best known answer comes from Aristotle, a student of Plato. Aristotle, born 384, was Macedonian but moved to Athens to study with Plato. He ultimately established his own school, the Lyceum.
-
-
-Aristotle thought that the traits that were virtues are those that allow you to flourish as a human being. So, if we can figure out what it is to flourish, we'll figure out what traits to acquire. 
-
-Aristotle's first move is to claim that x flourishes by realizing its function. Consider a knife. A knife's job is to cut. What characteristic must a knife have to cut well? Obviously, sharpness. A blunt knife doesn't cut well. A sharp knife does. According to Aristotle then, sharpness is the virtue of a knife. It's what allows the knife to perform its function well. 
-
-Just as cutting is the activity characteristic of knives, Aristotle thinks we must determine the characteristic activity of humans to decide what humans must have to flourish.  What is our characteristic activity, the activity that humans and nothing else can engage in? According to Aristotle, that activity is reasoning. Only we seem capable of deliberating on what kind of life to live and how to figure out how to live that life. 
-
-So, virtue are those traits that allow us reason well. They are cognitive virtues. 
-
-What might they be? Memory. You need to be able to remember what you were thinking about. Understand the choices available to you. Perhaps imagination to contemplate future scenarios. 
-
-If these are the virtues, then our job will be to promote them and do nothing to harm them. What might harm them?
-
-Drug use.
-Any media consumption that effects cognition. 
-
-What might promote them 
-Exercise
-Chess playing
-
-
-What do you think helps us reason well? Get suggestions from people. 
 
