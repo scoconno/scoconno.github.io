@@ -45,7 +45,7 @@ Utilitarianism may seem to legitimize such terrible evils that it is unworthy of
 Act-utilitarianism: 
 : The rightness of actions depends solely on the overall well-being produced by individual actions.
 
-Rule-utilitarianism
+Rule-utilitarianism:
 :  A right action is one that conforms to a rule that, if followed consistently, would create for everyone involved the most beneficial balance of well-being over suffering.
 
 Act Utilitarianism has the unpleasant results I just mentioned. It says that the rightness and wrongness of an *individual action* depends solely on the overall well-being produced by that *individual act*. Torture in a particular situation is moral because that individual act of torture produces a greater balance of well-being over suffering than any alternative action. In a different circumstance, an individual act of torture is immoral because that individual act produces a worse balance of well-being over suffering that some alternative. Act utilitarianism, then, says that an individual act should be isolated from similar acts and evaluated merely on the basis of that individual act's effects.
@@ -76,17 +76,15 @@ For more on Utilitarianism, watch the following series of [clips.](https://www.y
 
 ![alt text](/Teaching/Intro/4/Slide1.jpg)
 
-Recall again our diagram. Which part of the box should we focus on to determine the morality of our actions? The consequentialist, we have seen, claims that the effects, and only the effects, are relevant in determining the morality of our actions. They deny that any facts about the person determine the morality of their actions. On the one hand, Deontologist agree that the morality of our actions has nothing to do with the actor. Their intentions, beliefs, conscience has nothing to do with. But they also deny that effects have anything to do with the morality of our actions. They protest that consequentialism ignores a core feature of morality; we have a duty to do the right thing and a responsibility to avoid the wrong thing regardless of the consequences. Actions, on this view, are right or wrong independently of their effects, production of happiness, people's aims, or their desires and feelings. 
+Recall again our diagram. The consequentialist, we have seen, claims that the effects, and only the effects, are relevant in determining the morality of our actions. They deny that any facts about the person are relevant. On the one hand, Deontologist agree that the morality of our actions has nothing to with the intentions, beliefs, conscience of the actor. But they also deny that effects have anything to do with the morality of our actions. They protest that consequentialism ignores a core feature of morality; we have a duty to do the right thing and a responsibility to avoid the wrong thing regardless of the consequences. Actions, on this view, are right or wrong independently of their effects, production of happiness, people's aims, or their desires and feelings. 
 
-Suppose that Sam steals bread to feed his family. He has good intentions. The effects might be good. The Consequentialist might say that this is permissible. Kant would claim that Sam's intentions are irrelevant to whether his actions are right or wrong. If stealing is wrong, it is wrong full stop. 
-
-To introduce you to this view, distinguish between two types of value, inherent vs. relational value. Relational value is value something has only in virtue of its relationship to something else that is valuable. Money has only relational value. It is valuable only in relation to what you can buy with it. If the human race were to go extinct, but our money remain, that money would not be something valuable. Health, on the other hand, is valuable in and of itself. Of course, being healthy helps us pursue other things that are valuable. But many pursue health for no other reason than to be healthy. The explanation for why we should be healthy is just that health is in itself valuable. The explanation for why we should be wealthy is that wealth allows us achieve other valuable things.  
+To introduce you to this view, distinguish between two types of value, inherent vs. relational value. Relational value is value something has only in virtue of its relationship to something else that is valuable. Money has only relational value. It is valuable only in relation to what you can buy with it. If the human race were to go extinct, but our money remain, that money would not be something valuable. Health, on the other hand, is valuable in and of itself. Of course, being healthy helps us pursue other things that are valuable. But many pursue health for no other reason than to be healthy. The explanation for why we should be healthy is just that health is in itself valuable.  
 
 When determining the morality of our actions we need to decide whether rightness and wrongness are inherent or relational values. Is murder wrong, something to avoid, just because of its relation to something else? Or is murder something that should be avoided just because of what it is in itself? 
 
 The Consequentialists think that actions are only right or wrong relationally, that is, only in relation to the effects they produce. An act of murder is wrong, on this view, not because of what it is, but because of what it produces (if indeed it produces an overall negative effect.) The Deontologist disagrees. They claim that the morality of an act is intrinsic to it. Murder is wrong not because of what it produces or who it came from, but because of what kind of thing it is.  
 
-The word *deontology* comes from the Greek meaning the study of obligations. The Deontologist is more concerned with duties and rights. As an example, we might consider the Ten Commandments as an instance of a deontological view. The requirement to respect your elders is absolute. You are told to respect them not because of the effects of doing so. You must respect them regardless of the kind of people they are or what that impact respecting them might have on you and others.  
+The word *deontology* comes from the Greek meaning the study of obligations. The Deontologist is more concerned with duties and rights. We might consider the Ten Commandments as an instance of a deontological view. The requirement to respect your elders is absolute. You are told to respect them not because of the effects of doing so. You must respect them regardless of the kind of people they are or what that impact respecting them might have on you and others.  
 
 The main task for the deontologists is to decide on our duties and responsibilities. Is respecting our elders really a duty? How about never breaking a promise? Here deontologists give different theories about the source of our duties. Our focus will be the most famous deontologist,Immanuel Kant. Kant makes the following claim:
 
@@ -98,36 +96,19 @@ The main task for the deontologists is to decide on our duties and responsibilit
 
 ### Categorical Imperatives 
 
-Kant introduced the notion of *categorial imperatives* to explain the absolute nature of moral duties. They contrast with *hypothetical imperatives* which tell you to do so something only if a certain event occurs, or condition obtains, e.g., don't eat too much sugar if you have diabetes. This tells us that we shouldn't eat sugar, but only if we have diabetes. Categorical imperatives are not conditional. They are absolute. Keep in mind these points:
-
-+ Moral duties are expressed in the form of categorical imperatives. 
-+ An imperative is a command to do something.
-+ A command is categorical if it applies without exception and without regard to particular needs or purposes. 
-
-Kant Identified a number of imperatives, two of which are as follow:
+Kant introduced the notion of *categorial imperatives* to explain the absolute nature of moral duties. They contrast with *hypothetical imperatives* which tell you to do so something only if a certain event occurs, or condition obtains, e.g., don't eat too much sugar if you have diabetes. This tells us that we shouldn't eat sugar, but only if we have diabetes. Categorical imperatives are not conditional. They are absolute. Kant identified a number of imperatives, two of which are as follow:
 
 1. I am never to act otherwise than so that I could also will that my maxim should become a universal law. 
 2. Act to treat humanity, whether in thine own person or in that of another, as an end and never merely as a means. 
 
-**First Imperative**
 
-A belief that you should perform an act has a logical implication---it implies general rules of conduct. If Sam decides he can break his promise to Sue to meet her for lunch, then he is acting under a general rule, like, it is ok to break promises. But Kant asks us to imagine whether such a rule is logically coherent. The practice of promise keeping, after all, assumes a distinction between acts we commit ourselves to perform compared to those we make no such committment. But if it is permissible for everyone to break their promises, then the very practice of promise-keeping loses the distinction it is built upon, the acts we commit to keeping vs those we do not. 
-
-Kant's first categorial imperative asks us to generalize from any specific act and ask whether we can coherently conceive of a law that requires or prohibits  everyone to commit that act. If we cannot do so, then that shows us the act is moral/immoral. 
-
-Another example: If you tell a lie for financial gain, you are acting according to a maxim like 'it's ok to lie'. Can we will that this law becomes a universal law applicable to everyone, i.e., everyone could consistently lie? No! Lying is possible only if we assume that telling the truth is the norm, i.e., I can only trick you into thinking I'm telling the truth if it would well, be a trick. 
+Kant's first categorial imperative asks us to generalize from any specific act and ask whether we can coherently conceive of a law that requires or prohibits  everyone to commit that act. If we cannot do so, then that shows us the act is moral/immoral. For instance, if you tell a lie for financial gain, you are acting according to a maxim like 'it is ok to lie'. Can we will that this law becomes a universal law applicable to everyone, i.e., everyone could consistently lie? No! Lying is possible only if we assume that telling the truth is the norm, i.e., I can only trick you into thinking I'm telling the truth if it would, well, be a trick. 
 
 
-**Second Formulation**
-
-Recall the second categorial imperative: 
-
-+ Act to treat humanity, whether in thine own person or in that of another, as an end and never merely as a means
-
-This imperative relies on a few assumptions. The first is that persons are ends in themselves. They are a source of duties and obligations. Kant claims that the reason persons are ends in themselves lies in their nature as autonomous, rational beings capable of directing their own lives, determining their own ends, and decreeing their own rules by which to live.
+Kant's second imperative assumes that persons are ends in themselves. They are a source of duties and obligations. Kant claims that the reason persons are ends in themselves lies in their nature as autonomous, rational beings capable of directing their own lives, determining their own ends, and decreeing their own rules by which to live.
 
  
-This imperative tells us not to treat such people merely as mean. We treat people as means if we ignore what makes them persons. For instance, if we coerce them, lie to them, undermine their rational decision making features, discriminate against them, then we are not treating them as rational autonomous creatures, creatures capable of making their own choices. 
+This second imperative tells us not to treat such people merely as mean. We treat people as means if we ignore what makes them persons. For instance, if we coerce them, lie to them, undermine their rational decision making features, discriminate against them, then we are not treating them as rational autonomous creatures, creatures capable of making their own choices. 
  
 Two important notes:
 
