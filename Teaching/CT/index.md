@@ -4,11 +4,11 @@ title: Introduction
 
 ---
 
-#Persons & Problems <br> An Introduction to Philosophy#
+#Critical Thinking
 
 ### Computer Information ###
 
-This is an online course administered through Blackboard. Please consult NJCU's [online resources](http://www.njcu.edu/onlinelearning/enrolled-students/) for details on NJCU's online policies. If you have *academic questions* please contact me through the Blackboard site. If you have any technical questions about Blackboard, please consult this [page.](http://www.njcu.edu/onlinelearning/getting-help/)
+This is course is administered through Blackboard. Please consult NJCU's [online resources](http://www.njcu.edu/onlinelearning/enrolled-students/) for details on NJCU's online policies. If you have *academic questions* please contact me through the Blackboard site. If you have any technical questions about Blackboard, please consult this [page.](http://www.njcu.edu/onlinelearning/getting-help/)
 
 ### Syllabus  ###
 

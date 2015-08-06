@@ -4,7 +4,7 @@ title: Introduction
 
 ---
 
-#Persons & Problems <br> An Introduction to Philosophy#
+#The Examined Life#
 
 ### Computer Information ###
 
