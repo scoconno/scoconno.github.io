@@ -16,26 +16,14 @@ Please read the [syllabus](Syllabus.pdf) carefully.
 
 ### Glossary ###
 
-[Glossary of Terms](glossary).
+See the textbook for a glossary of terms. You can also find several critical thinking glossaries online. See [here](http://www.philosophy.uncc.edu/mleldrid/ct/glos.html) and [here.](http://mcckc.edu/services/criticalthinking/criticalthinkingproject/glossary.asp)
+
 
 
 ### Resources ###
 
-Please see [here](Resources) for various resources on reading and writing philosophy.  
++ See the textbook's companion website [here](http://global.oup.com/us/companion.websites/9780199856671/student/) for self assessment quizzes and other useful tools. 
++ Wi-Phi has a series of short videos on critical thinking [here](http://www.wi-phi.com/videos/Critical-Thinking)
++ See [here](\Teaching\Resources\) for various resources on reading and writing philosophy.  
 
-
-### Course Introduction
-
-Please click [here](0) for a brief introduction to me and the course, as well as instructions on how to proceed. 
-
-
-### Modules ###
-
-+ [Week 1](1)
-+ [Week 2](2)
-+ Week 3
-+ Week 4
-+ Week 5
-+ Week 6
-+ Week 7
 
