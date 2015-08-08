@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  19 JUL 2015 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  8 AUG 2015 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -109,7 +109,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \f@ncyO@olf=\skip50
 \f@ncyO@orf=\skip51
 )
-No file rubric.aux.
+(./rubric.aux)
 \openout1 = `rubric.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -124,6 +124,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
+
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
@@ -224,8 +225,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 (./rubric.aux) ) 
 Here is how much of TeX's memory you used:
- 2467 strings out of 493117
- 34645 string characters out of 6135433
+ 2469 strings out of 493117
+ 34667 string characters out of 6135433
  110428 words of memory out of 5000000
  5926 multiletter control sequences out of 15000+600000
  4553 words of font info for 17 fonts, out of 8000000 for 9000
@@ -235,7 +236,7 @@ Here is how much of TeX's memory you used:
 /cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb>
-Output written on rubric.pdf (1 page, 39135 bytes).
+Output written on rubric.pdf (1 page, 38685 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream

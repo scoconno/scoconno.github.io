@@ -18,3 +18,7 @@ title: Instructions
 
 + Complete Quiz 6 by 08/17 @ 1:00pm,
 + Begin Essay 2 which is due 08/20 @ 1:00pm
+
+## Optional
+
++ Read ['A Confession', by Leo Tolstoy](\Teaching\Intro\Tolstoy.pdf)
