@@ -3,9 +3,9 @@ layout: default
 title: Grading Abbreviations
 ---
 
-## Common Comments and their Abbreviations
+## Grading Abbreviations
 
-Below is a list of abbreviations that I use when grading papers or essay exams. I won't correct every instance of an error, or indeed every error. For instance, if I point to a word that you need to define, I may not point to every other word that needs to be defined. You should read through your paper and see whether there are further instances of the error:
+Below is a list of abbreviations that I use when grading papers or essay exams. I won't correct every instance of an error, or indeed every error. For instance, if I point to a word that you need to define, I may not point to every other word that needs to be defined. You should read through your paper and see whether there are further instances of the error.
 
 
 
