@@ -27,7 +27,17 @@ Your essays must be between 800-1000 words long. Essays shorter than 800 words o
 
 ##Prompt 
 
+Flex your imagination. Imagine you are a disembodied soul, a soul that has yet to live a mortal life. You know nothing about life. You know little about anything The only thing you are aware of are two angels somewhere nearby. You have a choice to make. You can choose a body, to be born, life a life and die. Or you can choose to fade away, into the peaceful nothingness from which you emerged. The angels disagree about what you should do. One tries to convince you that life is meaningless, that you are, in fact, better off being nothing at all than a being who is born, lives a while, and dies. The other disagrees. You should choose life, they claim. For it is, they say, something full of meaning and purpose, something which is better than  being dead. 
 
-Why did Tolstoy initially think that death robbed human life of meaning? How did turning to religion change his mind? Were his reasons for turning to religion justified? Give reasons for your answer.
+Write a dialogue between you and these two angels. In the mouth of the first angel, explain Tolstoy's initial argument that life is meaningless. In the mouth of second, explain Tolstoy's subsequent conversion and argument that life is meaningful. Finally, in your own words, choose between life and nothing and explain your choice to the angels. Tell them why you found one argument convincing, the other not. 
+
 
 ## Further Instruction
+
+Note that this is a dialog. Imagine the way dialogs go. There is some back and forth. There is humor. There are jibes. There are serious moments and light moment. Your submission should be written accordingly. 
+
+You should give names to the angels and clearly indicate who is speaking. 
+
+
+
+
