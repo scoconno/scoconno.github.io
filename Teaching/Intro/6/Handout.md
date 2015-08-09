@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Meaning of Life
----
+
 
 # The Meaning of Life
 
@@ -48,6 +48,7 @@ One of the best know arguments that life has no meaning comes from Leo Tolstoy. 
 
 
 1. Life is choice worthy only if it has internal meaning. 2. Life has internal meaning only if life has external meaning. 3. Life has no external meaning. 4. Life has no internal meaning. 5. Life is not choice worthy. Tolstoy motivates his argument by way of a fable:
+![alt text](/Teaching/Intro/6/Tolstoy.jpg)
 > Imagine a traveller fleeing a ferocious, hungry beast. Our traveller's only means of escape is a well they stumble on. They jump down to escape the infuriated beast who remains waiting at the well's edge. Some great trees grow beside our well, their roots jutting down and through its walls. The traveller reaches out, grabs the roots and saves himself from falling, which turns out quite fortuitous for him. As his eyes adjust, the traveller notices red glowing eyes at the bottom of the well. A dragon! 
 Our traveler is stuck. The beast above awaits if he climbs. The dragon below awaits if he climbs down. He pauses, clutching the roots growing from the cleft of the well wall. Things get worse. Two mice, one black one white, appear and start nibbling on the roots, which will inevitable break. Our traveller realizes that inevitable fall into the dragon's jaws below. While he is still clinging, he sees some drops of honey hanging on the roots, and so reaches out for them with his tongue and tastes the sweetness that distracts him from the beast above, the dragon below, and the mice wearing down the roots.  
 
