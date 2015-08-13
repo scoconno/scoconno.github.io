@@ -4,9 +4,9 @@ title: Essay Rubric
 ---
 
 
-## Grading Rubric
+# Grading Rubric
 
-Essays are graded according to a rubric that can be found [here.](rubric.pdf) Below is a brief description of the various grading categories.
+Essays are graded according to a rubric that can be found [here.](rubric.pdf) Below is a brief description of the various categories mentioned on that rubric.
 
 
 
@@ -19,7 +19,6 @@ Essays are graded according to a rubric that can be found [here.](rubric.pdf) Be
 
 **Mechanics:**  I will examine whether you have read, understood, and can deploy the lessons of the writing resources linked to in [Resources](\Teaching\Resources\). I will be assessing a) how well you organize your whole paper---why you make the points you do, and why you present them in the order that you do---, b) how well you organize and write each individual paragraph---each paragraph should contain one distinct point with the other sentences clearly relating to that point, and c) how well you write each sentence, and d) how well you incorporate and cite any material that you have used in preparing your essay.	
 
-*Appendix B: How to Write a Philosophy Paper* (p.387)
 
 
 
