@@ -14,7 +14,7 @@ title: Readings
 
 [PDF](\Teaching\Metaphysics\Readings\Flatland.pdf)
 
-
+Some stuff
 
 Vonnegut’s pure fatalism is buttressed by the classic portrayal of four-dimensional space-time that Billy Pilgrim learns from the Trafalmadorians.  The Trafalmadorians do not experience time in a linear fashion, but all at once.  This fatalism, then, is also a form of consolation, since any awful condition of a person co-exists with their happiness or peace at many other times, all of which exist (in the sense of being actually present events, not merely possible or remembered events) unchangingly.
 
