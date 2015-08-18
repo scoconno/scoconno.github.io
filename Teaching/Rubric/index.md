@@ -32,9 +32,9 @@ Essays are graded according to a rubric that can be found [here.](rubric.pdf) Be
 3. Presenting material in new and interesting ways or
 4. Containing some new, but relevant, remark about the logic of an argument or the truth of its premises. 
 
-**Mechanics:** For advice on how to write a philosophy paper, see [here](\Teaching\Resources\). A very good essay will: 
+**Mechanics:** For advice on how to write a philosophy paper, see [here](\Teaching\Resources\). A very good essay: 
 
-1.  contain a good, clear overall structure. This will be assessed by asking why you make the points you do and why you present them in the order that you do.
+1.  contain a good, clear overall structure. This will be assessed by examine which points are made and the order in which they are presented.
 2.  contain organized paragraphs---each paragraph should contain one distinct point with the other sentences clearly relating to that point.
 3.  contain well written sentences 
 4.  incorporate and judiciously cite any material that has been used in its preparation.	
