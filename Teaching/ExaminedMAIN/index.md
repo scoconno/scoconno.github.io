@@ -29,7 +29,7 @@ Essays are graded according to a rubric.
 
 ### Resources ###
 
-Please see [here](Resources) for various resources on reading and writing philosophy. 
+Please see [here](\Teaching\Resources\) for various resources on reading and writing philosophy. 
 
 
 
