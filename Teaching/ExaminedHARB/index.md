@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: The Examined Life
 
 ---
 
@@ -12,11 +12,20 @@ This course is administered through Blackboard. Please consult NJCU's [online re
 
 ### Syllabus  ###
 
-Please read the [syllabus](Syllabus.pdf) carefully. 
+You are required to read the [syllabus](Syllabus.pdf) carefully. 
 
 ### Glossary ###
 
 [Glossary of Terms](glossary).
+
+
+### Grading
+
+Essays are graded according to a rubric. 
+
++ Find the rubric [here.](\Teaching\Rubric\rubric.pdf)
++ Find an explanation of the rubric [here.](\Teaching\Rubric)
++ Find grading abbreviations [here.](\Teaching\Abbreviations)
 
 
 ### Resources ###
