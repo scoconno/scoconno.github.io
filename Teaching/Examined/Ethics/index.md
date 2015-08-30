@@ -5,6 +5,7 @@ title: Ethics
 
 ## Normative Ethics
 
-+ [Handout](Handout)
++ [Handout 1](Handout)
++ [Handout 2](Handout2)
 
 
