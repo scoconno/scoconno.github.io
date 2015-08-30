@@ -3,7 +3,7 @@ layout: page
 title: Contact
 
 ---
-####  Details
+###  Details
 
 + Dr. Scott O'Connor 
 + Office: Karnoutsos Hall 606
@@ -13,9 +13,10 @@ title: Contact
 Email is the best way to reach me. I answer emails on weekdays, usually within 24 hrs.
 
 
-#### Note for Students
+### Note for Students
 
-Please check your syllabus before emailing your question. If it is covered in the syllabus, I likely won’t respond. If you would like a response, please adhere to these basic email etiquette guidelines:
+Do not telephone the Philosophy Department office. They will not give you my private number and I am unlikely able to take your call in my office. I will not reply to voice mails. Email and Blackboard messages are the only ways to contact me.
+But please do check the syllabus before contacting me. If it is covered in the syllabus, I likely won’t respond. If you would like a response, please adhere to these basic email etiquette guidelines:
 
 + Use your NJCU email account to send email. To comply with Federal Law I will not respond to non-NJCU email addresses. 
 +  Keep the body of your email brief and to the point. If it’s longer than a paragraph, consider arranging a meeting during office hours to discuss your issue instead.

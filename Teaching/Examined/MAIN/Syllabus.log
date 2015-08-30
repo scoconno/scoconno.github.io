@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  29 AUG 2015 22:11
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  30 AUG 2015 17:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -341,6 +341,9 @@ Package verse [2008/07/23] emulated by memoir.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/mdwtools/mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
 (/usr/local/texlive/texmf-local/tex/latex/local/org-preamble-xelatex.sty
 Package: org-preamble-xelatex 2011/02/21 v0.01 Bundling of Preamble items for O
 rg to XeLaTeX export
@@ -1220,10 +1223,6 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write5
 \openout5 = `Syllabus.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1232,6 +1231,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Syllabus.bbl' not found.
+
 No file Syllabus.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
@@ -1416,63 +1416,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 103.
+(Font)              <10.95> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 103.
+(Font)              <8> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 103.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/it' will be
-(Font)              scaled to size 9.57924pt on input line 111.
-
-
-LaTeX Font Warning: Font shape `EU1/Georgia(0)/m/sc' undefined
-(Font)              using `EU1/Georgia(0)/m/n' instead on input line 113.
-
-[2]
-Overfull \hbox (40.3373pt too wide) in paragraph at lines 121--122
-[]\EU1/Georgia(0)/m/it/10.95 Grade Distribution: \EU1/Georgia(0)/m/n/10.95 Atte
-ndance—1 point per class (10 total); Short Writing Assignments—
- []
-
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 9.74332pt on input line 127.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/sc' will be
-(Font)              scaled to size 9.80263pt on input line 152.
-[3]
-Overfull \hbox (22.84332pt too wide) in paragraph at lines 165--174
-\EU1/Georgia(0)/m/sc/10.95 website at [][]www.njcu.edu/Specialized_Services.asp
-x[][] (listed under Student Resources-
- []
-
-[4] [5] [6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
- (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 337.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 337.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Syllabus
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'Syllabus.run.xml'.
-\openout1 = `Syllabus.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 31034 strings out of 493734
- 554357 string characters out of 6146348
- 1108269 words of memory out of 5000000
- 34143 multiletter control sequences out of 15000+600000
- 7527 words of font info for 48 fonts, out of 8000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 60i,11n,88p,10385b,2434s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on Syllabus.pdf (7 pages).

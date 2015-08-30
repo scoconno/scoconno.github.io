@@ -4,7 +4,7 @@ title: Course Introduction
 
 ---
 
-#Course Introduction#
+#Course Introduction
 
 
 + [Instructions](Instructions)

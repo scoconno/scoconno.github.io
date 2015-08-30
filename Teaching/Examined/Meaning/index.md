@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Module 2
+title: Meaning
 ---
 
-#Module 3#
+#Module: The Meaning of Life#
 
 
 + [Handout](Handout)

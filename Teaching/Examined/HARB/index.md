@@ -4,7 +4,7 @@ title: The Examined Life
 
 ---
 
-## Phil 104: The Examined Life
+## Phil 140: The Examined Life
 
  
 
