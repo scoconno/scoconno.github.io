@@ -3,17 +3,12 @@ layout: default
 title: The Meaning of Life
 ---
 
-## The Meaning of Life
+# The Meaning of Life
 
 
 ###  Personal Note
 
 We will be talking about death, suicide, and depression in this module. These are uncomfortable topics for many and have touched most of us directly or indirectly. They raise core philosophical questions, perhaps raise the most important philosophical questions. I would like to encourage you to keep a very open mind about the material.  Don't accept that, say, you are better off being dead only after reading the material for a few days. A full and proper study of the issues would take many years. 
-
-
-### Textbook
-
-This handout surveys material in ch.8.1--8.3. See also the [optional reading](/Teaching/Examined/Meaning/Tolstoy.pdf)
 
 ### Introduction 
 
@@ -47,7 +42,7 @@ When we ask about the meaning of life, we are asking about internal value. We ar
 We will see that Tolstoy initially believes that nothing can play this role, nothing could give life internal value. His argument relies on the assumption that life will only have internal value, it will be something that we can find choice worthy, if life has external value. Tolstoy initially thinks that death undermines any external meaning our lives might have. Our lives last a mere moment from the perspective of the universe. Even if our accomplishments outlive us, they too will one day be forgotten. We cannot even say that we live for our family; they will die in no time at all from the perspective of the universe. 
 ### Pessimism
 Pessimism is the view that life has no meaning at all. The argument for it is  straightforward:  
-1. Life is choice worthy only if it has internal value. 2. Life has internal value only if life has external value. 3. Life has no external value. 4. Life has no internal value. 5. Life is not choice worthy. The two key premises are 2 and 3. Distinguish the question whether life is valuable from the question whether things like education, health, eradicating world hunger, writing a great novel, family, and so on. These latter things are candidates for the goals and projects that we might find as valuable and so give to our lives internal value. Premise 2 says that any of these candidates can give life internal value only if they, themselves, have external value. Premise 3 says that no candidate does, in fact, have external value. Tolstoy argues for Premise 3 by way of a fable: ![alt text](/Teaching/Intro/6/Tolstoy.jpg)
+1. Life is choice worthy only if it has internal value. 2. Life has internal value only if life has external value. 3. Life has no external value. 4. Life has no internal value. 5. Life is not choice worthy. The two key premises are 2 and 3. Distinguish the question whether life is valuable from the question whether things like education, health, eradicating world hunger, writing a great novel, family, and so on. These latter things are candidates for the goals and projects that we might find as valuable and so give to our lives internal value. Premise 2 says that any of these candidates can give life internal value only if they, themselves, have external value. Premise 3 says that no candidate does, in fact, have external value. Tolstoy argues for Premise 3 by way of a fable: ![alt text](/Teaching/Examined/Meaning/Tolstoy.jpg)
 > Imagine a traveller fleeing a ferocious, hungry beast. Our traveller's only means of escape is a well they stumble upon. They jump down to escape the infuriated beast who remains waiting at the well's edge. Some great trees grow beside our well, its roots jutting down and through its walls. The traveller reaches out, grabs the roots and saves himself from falling, which turns out quite fortuitous for him. As his eyes adjust, the traveller notices red glowing eyes at the bottom of the well. A dragon! 
 > Our traveler is stuck. The beast above awaits if he climbs up. The dragon below awaits if he climbs down. He pauses, clutching the roots growing from the cleft of the well wall. Things get worse. Two mice, one black and one white, appear and start nibbling on the roots. Our traveller realizes that the roots will break and inevitably he will fall into the dragon's jaws below. > While he is still clinging, he sees some drops of honey hanging on the roots, and so reaches out for them with his tongue. He tastes the sweetness, which distracts him for a while from the beast above, the dragon below, and the mice eating the roots.  
 
