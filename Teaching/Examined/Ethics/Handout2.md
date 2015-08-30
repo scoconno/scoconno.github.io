@@ -13,7 +13,7 @@ Study last week's handout. We'll look at 3 theories or groups of theories. My go
 ## Consequentialism
 
 
-![alt text](/Teaching/Intro/4/Slide1.jpg)
+![alt text](/Teaching/Examined/Ethics/Slide1.jpg)
 
 
 Consequentialists claim that the morality depends completely on the effects of that action. Whether or not you intended those effects is irrelevant. 
@@ -157,7 +157,7 @@ Lying to public about a NSA operation, or something similar.
 ## Introduction ##
 
 
-![alt text](/Teaching/Intro/4/Slide1.jpg)
+![alt text](/Teaching/Examined/Ethics/Slide1.jpg)
 
 
 The first two theories we have discussed are action orientated. Each agrees that the the rightness and wrongness of an action in no way depends on the the person performing the action. A person's intent, whether their heart was in the right place, etc., is irrelevant in determining the morality of their action. On these views, being a good person is irrelevant to the morality of your action. Virtue ethics is a radically different view. It traces its roots to the Ancient Greeks. We will call from our introduction to this course that, for Socrates, the most important goal in this life is to live a good life, to be a perfect kind of person. This, we recall, was a dominant view amongst the Greeks. They cared about living the best possible life, emulating their heroes, being recorded in the annals of history, etc. The Greeks 
@@ -176,7 +176,7 @@ The mantra is become a good person. It's not do the right thing. It requires me 
 
 ![alt text](/Teaching/Intro/4/Slide1.jpg)
 	
-Before I discuss the virtues, being a virtuos person is n
+Before I discuss the virtues, being a virtuous person is n
 + Virtue does not equal christian virtue like patiences and chastity.  
 + Virtuous person is one who has the virtues.
 

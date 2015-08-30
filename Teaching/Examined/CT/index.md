@@ -4,10 +4,10 @@ title: CT
 
 ---
 
-# Critical Thinking
+## Critical Thinking
 
 
-+ [Ch.1.3.](ch1.3.pdf) (Copyright issues prohibit me distributing anything further parts of the textbook.)
++ [Ch.1.3.](ch1.3.pdf) (Copyright issues prohibit me distributing any further parts of the textbook.)
 + [Handout](Handout)
 + [Answer Key](Answers)
 + [Star Trek Clip](http://www.imdb.com/video/screenplay/vi329318937)

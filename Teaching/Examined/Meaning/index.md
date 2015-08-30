@@ -3,12 +3,12 @@ layout: default
 title: Meaning
 ---
 
-#Module: The Meaning of Life#
+## The Meaning of Life
 
 
 + [Handout](Handout)
-+ [Discussion Question 1](Essay)
-+ [Optional Reading](/Teaching/Intro/Tolstoy.pdf)
++ [Short Writing Assignment 1](SW1)
++ [Optional Reading](/Teaching/Examined/Main/Tolstoy.pdf)
 
 
 

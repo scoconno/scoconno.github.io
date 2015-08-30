@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Free Will
+title: Free will
 ---
 
-#Free Will
+## Free will
 
 
 + [Handout](Handout)
++ Essay 2
 
 

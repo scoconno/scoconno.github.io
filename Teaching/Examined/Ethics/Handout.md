@@ -59,7 +59,7 @@ If we are going to evaluate moral reasons, distinguish the good reasons from the
 Ethicists offer different theories about which reasons satisfy these requirements. These 3 theories offer general claims about the appropriate reasons for morality. There are three main theories (or groups of theories.) To introduce you to these theories first look at this diagram: 
 
 
-![alt text](/Teaching/Intro/4/Slide1.jpg)
+![alt text](/Teaching/Examined/Ethics/Slide1.jpg)
 
 The actor represents each of us. It's the person whose actions will be evaluated. The arrow represents the various actions people perform, e.g., walking, punching, complementing, stealing, eating meat, taking drugs, and so on. The box represents the effects of our various actions. If punching someone causes them pain, then pain is an effect of punching. If eating meat were to cause indigestion, then indigestion is the effect of eating meat. 
 

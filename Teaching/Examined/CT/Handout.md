@@ -3,7 +3,7 @@ layout: default
 title: Handout
 ---
 
-#Critical Thinking: Work Sheet#
+## Critical Thinking: Work Sheet
 
 If you haven't read Ch. 1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some self-assessment exercises below. The answer key is on the website. 
 

@@ -8,25 +8,23 @@ title: The Examined Life
 
  
 
-#### Course Information
+### Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading Information](\Teaching\Grading\)
-+ [ECI Rubric](ECI Rubric.pdf)
 + [Resources](\teaching\Resources\)
 + [Contact Information](\Contact)
 + [Blackboard](http:\\www.blackboard.njcu.edu) (for submitting assignments)
 
 
 
-#### Modules
+### Modules
 
 + [Module 1](\Teaching\Examined\Intro)
 + [Module 2](\Teaching\Examined\CT)
 + [Module 3](\Teaching\Examined\Meaning)
-+ [Week 4]
-+ [Week 5]
-+ [Week 6]
-+ [Week 7]
++ [Module 4](\Teaching\Examined\God)
++ [Module 5](\Teaching\Examined\FreewWill)
++ [Module 6](\Teaching\Examined\Ethics)
++ [Module 7](\Teaching\Examined\Applied)
 
 
-#### Assignment Deadlines
