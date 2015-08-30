@@ -1,41 +1,20 @@
 ---
 layout: default
-title: Introduction
+title: Metaphysics
 
 ---
 
-# Metaphysics #
+## Phil 205: Metaphysics 
 
-### Computer Information ###
-
-This course is administered through Blackboard. Please consult NJCU's [online resources](http://www.njcu.edu/onlinelearning/enrolled-students/) for details on NJCU's online policies. If you have *academic questions* please contact me through the Blackboard site. If you have any technical questions about Blackboard, please consult this [page.](http://www.njcu.edu/onlinelearning/getting-help/)
-
-
-### Syllabus  ###
-
-You are required to read the [syllabus](Syllabus.pdf) carefully. 
-
-### Grading
-
-Essays are graded according to a rubric. 
-
-+ Find the rubric [here.](\Teaching\Rubric\rubric.pdf)
-+ Find an explanation of the rubric [here.](\Teaching\Rubric)
-+ Find grading abbreviations [here.](\Teaching\Abbreviations)
+#### Course Information
++ [Syllabus](Syllabus.pdf)
++ [Grading Information](\Teaching\Grading\)
++ [Resources](\teaching\Resources\)
++ [Contact Information](\Contact)
++ [Blackboard](http:\\www.blackboard.njcu.edu) (for submitting assignments)
 
 
-### Glossary ###
+#### Weeks
 
-[Glossary of Terms](glossary).
-
-
-### Resources ###
-
-Please see [here](\teaching\Resources\) for various resources on reading and writing philosophy.  
-
-
-
-### Handouts ###
-
-
+I will post assignments and handouts here. 
 
