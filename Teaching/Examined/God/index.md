@@ -13,4 +13,4 @@ title: God
 ### Arguments Against God's Existence
 
 + [Handout](Handout2)
-+ [Essay 1](Essay 1)
++ [Essay 1](Essay1)
