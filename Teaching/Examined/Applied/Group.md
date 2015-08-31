@@ -3,28 +3,28 @@ layout: default
 title: Group
 ---
 
-## Group Projects 
+# Group Projects 
 
-### Due Date
+## Due Date
 Please consult the syllabus and course website for the due date.
 
-### Late Submissions
+## Late Submissions
 
 Per the policies outlined in the syllabus, late work will not be accepted. As the policies also state, there are no make-ups or extra credit opportunities. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or commitments, then you should start this paper early and submit it early. 
 
-### Format
+## Format
 Please submit the file as either a word file or simple .rtf file will also suffice.
 
-### Grading
+## Grading
 Please find the rubric and explanation of it [here](\Teaching\Grading\).
 
-### Resources
+## Resources
 Please find links to writing resources [here](\Teaching\Resources\)
 
-### Word Count
+## Word Count
 
 Your dialog must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
 
-### Prompt 
+## Prompt 
 
 TBD. 

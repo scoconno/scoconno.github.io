@@ -3,4 +3,4 @@ layout: default
 title: FreeWill
 ---
 
-## Freewill 
+# Free will 

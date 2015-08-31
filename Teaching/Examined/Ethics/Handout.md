@@ -86,7 +86,7 @@ Similarly, the moral relativist claims that there are no *objective* moral stand
 Cultural relativism has an important upshot: there are no genuine cross-cultural moral disagreements. If your culture disapproves of forcing the elderly to commit suicide, then such force is immoral *in your culture*. But if another culture approves of forcing the elderly to kill themselves, you must remain silent. You cannot say that the other culture has made a mistake, that your culture has the right policy, and the other has the wrong policy. Your culture's standards are not theirs, and there is no cross-cultural standard that applies to both cultures equally that would make one policy immoral, the other moral. 
 
 
-### The Argument for Cultural Relativism ###
+## The Argument for Cultural Relativism ##
 
 It's useful to have a clear statement of cultural relativism before we proceed: 
 

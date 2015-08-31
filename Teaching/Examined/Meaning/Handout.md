@@ -6,11 +6,11 @@ title: The Meaning of Life
 # The Meaning of Life
 
 
-###  Personal Note
+##  Personal Note
 
-We will be talking about death, suicide, and depression in this module. These are uncomfortable topics for many and have touched most of us directly or indirectly. They raise core philosophical questions, perhaps raise the most important philosophical questions. I would like to encourage you to keep a very open mind about the material.  Don't accept that, say, you are better off being dead only after reading the material for a few days. A full and proper study of the issues would take many years. 
+We will be talking about death, suicide, and depression in this module. These are uncomfortable topics for many and have touched most of us directly or indirectly. They raise core philosophical questions, perhaps raise the most important philosophical questions. I would like to encourage you to keep a very open mind about the material.  Don't accept that, say, you are better off being dead only after reading the material for a few days. A full and proper study of the issues would take many years. You might also like to know that NJCU offers [free counseling  services](http://www.njcu.edu/counselingcenter) to registered NJCU students. 
 
-### Introduction 
+## Introduction 
 
 You are mortal. Your friends, families, and loved ones are mortal. Each of us will die. It is easy to ignore it. We often think of death as happening some point in the far future. Like a distant land that we may have to visit one day, that land is not this land and we are happy to ignore it. Unfortunately, death is an ever pressing possibility. Several have recently died from Legionnaires disease in the Bronx. Many are killed in car accidents every day. There are the bizarre accidents too. Walking to work you don't think that this might be the day you die. It's too depressing! But you could die at any moment. You might stumble and hit your head awkwardly. A wall might collapse upon you. 
 
@@ -40,7 +40,7 @@ Let us illustrate the difference with an example. What value does the life of a 
 When we ask about the meaning of life, we are asking about internal value. We are asking why we should feel that there is something in our lives that make them worthwhile. Is there any project or goal that could make our lives choice worthy, could shape our psychology so dramatically that we are motivated to get up in the morning, keep going, and find all the trials and tribulations of life worthwhile? 
 
 We will see that Tolstoy initially believes that nothing can play this role, nothing could give life internal value. His argument relies on the assumption that life will only have internal value, it will be something that we can find choice worthy, if life has external value. Tolstoy initially thinks that death undermines any external meaning our lives might have. Our lives last a mere moment from the perspective of the universe. Even if our accomplishments outlive us, they too will one day be forgotten. We cannot even say that we live for our family; they will die in no time at all from the perspective of the universe. 
-### Pessimism
+## Pessimism
 Pessimism is the view that life has no meaning at all. The argument for it is  straightforward:  
 1. Life is choice worthy only if it has internal value. 2. Life has internal value only if life has external value. 3. Life has no external value. 4. Life has no internal value. 5. Life is not choice worthy. The two key premises are 2 and 3. Distinguish the question whether life is valuable from the question whether things like education, health, eradicating world hunger, writing a great novel, family, and so on. These latter things are candidates for the goals and projects that we might find as valuable and so give to our lives internal value. Premise 2 says that any of these candidates can give life internal value only if they, themselves, have external value. Premise 3 says that no candidate does, in fact, have external value. Tolstoy argues for Premise 3 by way of a fable: ![alt text](/Teaching/Examined/Meaning/Tolstoy.jpg)
 > Imagine a traveller fleeing a ferocious, hungry beast. Our traveller's only means of escape is a well they stumble upon. They jump down to escape the infuriated beast who remains waiting at the well's edge. Some great trees grow beside our well, its roots jutting down and through its walls. The traveller reaches out, grabs the roots and saves himself from falling, which turns out quite fortuitous for him. As his eyes adjust, the traveller notices red glowing eyes at the bottom of the well. A dragon! 
@@ -53,7 +53,7 @@ This fable, says Tolstoy, depicts the life each of us live. The dragon and beast
 
 > It was indeed terrible. And to rid myself of the terror I wished to kill myself. ...
 
-### Four Attitudes Toward Death
+## Four Attitudes Toward Death
 If Tolstoy's diagnosis of our lives is correct, there are four attitudes we can take towards our lives. Similarly, there are four attitudes you could take while you cling to the well wall: 1. Ignorance: It consists in not knowing, not understanding, that life is an evil and an absurdity. People of this sort have yet to  see the dragon that awaits them. They have yet to see the mice gnawing the shrub by which they are hanging. The lick the honey. They do so only for a while: something will eventually turn their attention to the dragon and the mice. They will then stop their licking. 3. Epicureanism: while knowing the hopelessness of life, make use meanwhile of the advantages one has, disregarding the dragon and the mice, and licking the honey in the best way, especially if there is much of it within reach. This, though, is an unsustainable attitude. Many live in terrible conditions. Many have no honey to taste. It is a mere accident, claims Tolstoy, that you have good circumstances rather than poor, and ''the accident that has today made me a Solomon may tomorrow make me a Solomon's slave.'' Epicureans try but cannot ultimately forget that all these pleasures are ephemeral. They are as easily lost as gained. Nobody can be confident that life will always provide these distractions.
 
 4. Weakness: "It consists in seeing the truth of the situation and yet clinging to life, knowing in advance that nothing can come of it. People of this kind know that death is better than life, but not having the strength to act rationally - to end the deception quickly and kill themselves - they seem to wait for something. This is the escape of weakness, for if I know what is best and it is within my power, why not yield to what is best?" 
@@ -70,7 +70,7 @@ This fable, says Tolstoy, depicts the life each of us live. The dragon and beast
 Optimists claim that life does have meaning; it does have internal value. There are two versions of optimism. The first agrees that life has internal value only if it has external value, but identifies an external value to life in religion. The second accepts that life has no external value, but denies that internal value depends on there being external value. The first is associated with Theism. The second with Atheism. You can find further discussion of each in the textbook. I provide a few extra details about the first here. 
 
 
-### Theism 
+## Theism 
 
 Tolstoy did not remain depressed. He reports meeting and talking with rural farmers at a time in Russia when farmers lived a menial existence. They had nothing. Yet Tolstoy sees in these rural farmers an acceptance of life's vicissitudes. Reclaiming his faith, he realized that he had found value in the wrong things. His art, his family, etc., could never provide the meaning he had sought. But God, an eternal perfect being, could provide that value. Tolstoy comes to accept the following two claims:
 
@@ -79,7 +79,7 @@ Tolstoy did not remain depressed. He reports meeting and talking with rural farm
 2. A human's life can have internal meaning if they align their life---their goals, projects, ambitions---with God's plan. That is, life will be choice worthy if you can identify God's plan for you and set about realizing that plan. 
 
 
-### Meaning & Christianity
+## Meaning & Christianity
 
 Tolstoy doesn't detail how Christianity construes the meaning of life. He merely says that if you believe that God exists, then you can see that your life has some external value. But can we say something more about what this external value consists in? 
 
@@ -92,7 +92,7 @@ Christianity also emphasizes other characters with God given purposes. Noah, the
  
 
 
-### Objection ###
+## Objection 
 
 Here I briefly raise a problem for this account of the meaning of life. Suppose we grant that the lives of Jesus, Noah, the other Saints had external value because each of them had a God given purpose. It does not thereby follow that each human has a God given purpose and some of the candidates for this purpose are unsatisfactory: 
 

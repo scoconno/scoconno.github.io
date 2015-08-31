@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{The Good of Philosophy}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Cognitive Skills}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{The Intrinsic Value of Philosophy: Liberation}{10}{0}{2}
+\beamer@sectionintoc {3}{First Few Topics}{18}{0}{3}

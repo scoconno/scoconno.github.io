@@ -3,9 +3,9 @@ layout: default
 title: Ethics
 ---
 
-## Normative Ethics
+# Normative Ethics
 
-+ [Handout 1](Handout)
-+ [Handout 2](Handout2)
++ [Notes 1](Handout)
++ [Notes 2](Handout2)
 
 

@@ -48,7 +48,7 @@ Premise 4 is an inference from 2&3. Since evil exists, there is no omni+ God.
 
 The argument as stated is valid. The conclusion does follow from the premises. The main point of contention is Premise 3. Theists have tried, in a number of ways, to argue that God's existence is, in fact, compatible with the existence of evil, i.e., they have tried to argue that God's being omni+ does not entail the non-existence of evil.  I will outline two solutions and responses to those solutions. 
 
-### Solution 1
+## Solution 1
 
 
 **Whole/Part Solution**
@@ -71,7 +71,7 @@ Another way of putting this objection is that if God couldn't have made it so th
  
 
 
-###Solution 2
+## Solution 2
 
 The most promising solution to the Problem of Evil is called **the Free Will Response.** It claims that evil is the product of free-will. While God could prevent this evil, this would undermine our freedom. Since he has decided that it is good for us to be free, he watches, sadly perhaps, as we use our freedom in evil ways. 
 

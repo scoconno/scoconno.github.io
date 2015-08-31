@@ -55,7 +55,7 @@ Premise 5 is an inference from Premises 2&4. If every designed object has a crea
 
 6 states our conclusion. Paley thinks that if organisms have a creator, then  God is that creator, and, so, God exists.  
 
-###Objections & Responses
+##Objections & Responses
 
 Recall Ch.1.3 and the logical tools we introduced there. Paley's argument (for our purposes) is a deductive argument. In evaluating a deductive argument, you should avoid focusing merely on the conclusion. Set aside the question whether you believe it or not. Your job is to assess whether the argument for the conclusion is a good one, i.e., you must determine whether the argument is valid and sound. (If you don't remember these distinctions, please study Ch.1.3 again. These notions will be used in each module.)
 
@@ -63,7 +63,7 @@ It is also important in evaluating philosophical arguments to distinguish betwee
 
 Our first three objections are easy to respond to, the fourth is not. In what follows, I will first list each objection, then offer some notes on how the objection speaks to the original argument. I will outline Paley's response to the first three objections.  
 
-###Objection 1
+##Objection 1
 
 **Objection:** since we have never seen a watch made or know how to make one, we cannot conclude that someone made the watch.
 
@@ -75,7 +75,7 @@ Our first three objections are easy to respond to, the fourth is not. In what fo
 
 
 
-###Objection 2 
+##Objection 2 
 
 **Objection:** There are some parts of organisms that seem to serve no function, e.g., the appendix.
 
@@ -84,7 +84,7 @@ Our first three objections are easy to respond to, the fourth is not. In what fo
 **Response:** Paley responds by clarifying Premise 3. Premise 3 does not require that every part of the organism serves some purpose. His argument works as long as there are some parts that serve some purpose; there is still an explanation that is required of how those parts serve the purpose they do. Paley also observes that the objection concedes to him that organisms have parts that are purposive; the objector cannot distinguish parts that do not have purposes from those that do unless she concedes that there are parts of the latter kind. In addition, we may note that while organisms may have some parts that serve no purpose, these are few in number compared to the vast majority of parts that do. 
 
 
-### Objection 3
+## Objection 3
 
 **Objection:** Organisms are produced from organisms through normal sexual and asexual reproduction. A baby chipmunk is not produced by God, but by his or her parents. 
 
@@ -93,7 +93,7 @@ Our first three objections are easy to respond to, the fourth is not. In what fo
 **Response:** Paley responds by denying that the objector has provided examples of creation that do not involve God. He first observes that organisms can only replicate because they contain within themselves a reproductive system, a system of parts that precisely serve the role of reproduction. Since these parts have a purpose, they have a design, and hence, Paley, claims a creator. He asks us to imagine an inventor who creates a robot who can collect material in the workshop and create new robots by itself. This first robot creates new robots, robots that are not directly created by the inventor, but the first robot can only make new robots because it was created with the right parts and instructions to allow it do so. So, Paley accepts that organisms create other organisms, however, he claims that the only feasible explanation for the ability of organisms to reproduce is that there exists a God who created organisms with that ability. 
 
 
-### A Fatal Objection?
+## A Fatal Objection?
 
 The most powerful objection to the Design Argument comes from evolutionary biology. For our purpose, we can take evolutionary biology to attack Premise 3. It claims that natural selection shows us how organisms came to be how they are, came to display the purposive behaviors that they do, by completely random forces. This is a philosophy course, so I won't assume that you have studied biology. Instead, I provide here two of the simplest and shortest YouTube videos that will help you understand the very basics of evolutionary biology: 
 
@@ -117,8 +117,7 @@ St. Anselm claims that if we clearly entertain the idea of God, if we properly i
 
 While the argument is difficult, at the core is the following simple thought: the Theist's belief in God is a belief both that God is the greatest being that exists and also that existing is one of the things that makes something great. When the Atheist denies that God exists, they cannot be denying that this greatest being exists; in their mind the image of God they form is of a non-existent being, which is an image of a less than perfect being. It's as if, on the one hand, the Theist claims both that unicorns have horns and they exist, and, on the other hand, the Atheist claims that unicorns have no horns and don't exist. The image of a unicorn in the mind of the Atheist differs from the image of a unicorn in the mind of the Theist. So, when one claims that unicorns exist and the other denies it, they are not in disagreement. They are talking about different things altogether. 
 
-#### Summary of argument: ####
-
+## Summary of argument
 1. God is a being than which none greater can be imagined (that is, the greatest possible being that can be imagined).
 2. God exists only as an idea in the mind.
 3. A being that exists as an idea in the mind and in reality is, other things being equal, greater than a being that exists only as an idea in the mind.
@@ -126,7 +125,7 @@ While the argument is difficult, at the core is the following simple thought: th
 5. It is a contradiction to suppose that we can imagine a being greater than the greatest possible being that can be imagined. (From 1&4)
 6. Therefore, God exists. (From 5)
 
-#### Notes on argument: ####
+## Notes on argument: 
 
 
 + Premise 1 is the Theist's stipulation. Their belief in God is a belief in the greatest possible being. If the Atheist were to deny this premise, they would, in effect, be shifting the terms of the debate. 

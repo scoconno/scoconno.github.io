@@ -5,5 +5,5 @@ title: Applied Ethics
 
 ## Applied Ethics
 
-+ [Handout](Handout)
++ [Notes](Handout)
 + [Group Projects](Group) 

@@ -4,15 +4,15 @@ title: Answer Key to Handout
 ---
 
 
-#Answer Key#
+#Answer Key to Work Sheet
 
 
-###Stop###
+## Stop
 
 Are you reading this document before trying the exercises yourself? Acquiring critical thinking skills requires some mental exercise along the way. Think of playing a video game. You could get a cheat key to work your way easily through a level, but you'll never master the game. So if you had difficulty with any of the exercises, I encourage you to read Ch 1.3 again, look at my notes, and then try work out the answers by yourself before turning here. 
 
 
-### Exercise 1 
+## Exercise 1 
 
 Recall that statements are assertions that something is or is not the case. They are always either true or false. 
 
@@ -28,7 +28,7 @@ Recall that statements are assertions that something is or is not the case. They
 + Is God all-powerful?...this is a question. It does not assert that God is one way or the other. + Turn that music off...this is a command. It does not assert that something is or is not the case.+ Great balls of fire!...this is an exclamation. It does not assert that something is or is not the case. 
 
 
-### Exercise 2 
+## Exercise 2 
 
 Here are some more examples: 
 
@@ -48,7 +48,7 @@ Here are some more examples:
 
 
 
-### Exercise 3 
+## Exercise 3 
 
 'P'='premise'
 'C'='conclusion'
@@ -71,7 +71,7 @@ Here are some more examples:
 + C: The movie last night was awful.
 
 
-### Exercise 4
+## Exercise 4
 
 
 **Passage 1** does not contain an argument. It merely asserts, in a somewhat dogmatic tone, that the cause of underage drinking is the marketing of alcohol, tobacco, and sex to children. There is no evidence provided for this assertion. 
@@ -90,7 +90,7 @@ Here are some more examples:
 
 
 
-### Exercise 5 
+## Exercise 5 
 
 
 **Passage 1:** there is an argument here, but there is lots of waffle that is distracting. The argument boils down to the following: 
@@ -108,7 +108,7 @@ Here are some more examples:
 
 
 
-### Exercise 6
+## Exercise 6
 
 
 **Argument 1:** Valid. The two premises are true. Since the argument is both valid and has true premises, the argument is also sound. 
@@ -121,7 +121,7 @@ Here are some more examples:
 **Argument 4:** Valid. Is it sound? We can't tell from just the information provided. We would need to find out who each person is and also what street they live on. Again, we can always tell the validity of an argument by just assessing the structure of the argument provided. But we cannot always tell if the argument is sound by just the information provided. Often we have to further research the premises to determine whether they true or false. 
 
 
-### Exercise 7:
+## Exercise 7:
 
 **Sound:**
 
@@ -144,7 +144,7 @@ Here are some more examples:
 **NB:** It might surprise you that this last argument is invalid. After all, the premises and conclusion are each true. Nevertheless, while the premises and conclusion are true, you cannot infer the conclusion just from the premises. No premise states that Socrates is human, so we can't rule out the possibility that he's a dog, or a dolphin, or any other mortal creature. The important lesson here is that assessing arguments requires you to assess the structure of **exactly** the argument provided. It's not your job to supply information that would make the argument a good one.
 
 
-### Exercise 8 
+## Exercise 8 
  
 
 **Strong Inductive Arguments**

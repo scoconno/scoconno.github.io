@@ -3,7 +3,7 @@ layout: default
 title: Handout 
 ---
 
-## Applied Ethics
+# Applied Ethics
 
 
 

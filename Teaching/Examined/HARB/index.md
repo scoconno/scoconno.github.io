@@ -4,11 +4,11 @@ title: The Examined Life
 
 ---
 
-## Phil 140: The Examined Life
+# Phil 140: The Examined Life
 
  
 
-### Course Information
+## Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading Information](\Teaching\Grading\)
 + [Resources](\Teaching\Resources\)
@@ -17,7 +17,7 @@ title: The Examined Life
 
 
 
-### Modules
+## Modules
 
 + [Module 1](\Teaching\Examined\Intro)
 + [Module 2](\Teaching\Examined\CT)

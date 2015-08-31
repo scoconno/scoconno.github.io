@@ -3,10 +3,10 @@ layout: default
 title: Meaning
 ---
 
-## The Meaning of Life
+# The Meaning of Life
 
 
-+ [Handout](Handout)
++ [Notes](Handout)
 + [Short Writing Assignment 1](SW1)
 + [Optional Reading](/Teaching/Examined/Main/Tolstoy.pdf)
 
