@@ -11,9 +11,9 @@ title: The Examined Life
 ### Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading Information](\Teaching\Grading\)
-+ [Resources](\teaching\Resources\)
++ [Resources](\Teaching\Resources\)
 + [Contact Information](\Contact)
-+ [Blackboard](http:\\www.blackboard.njcu.edu) (for submitting assignments)
++ [Blackboard](http:\\blackboard.njcu.edu) (for submitting assignments)
 
 
 
