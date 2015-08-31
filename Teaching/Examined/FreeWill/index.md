@@ -7,6 +7,6 @@ title: Free will
 
 
 + [Handout](Handout)
-+ Essay 2
++ [Essay 2](Essay)
 
 
