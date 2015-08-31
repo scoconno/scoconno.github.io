@@ -8,13 +8,13 @@ title: The Examined Life
 
  
 
-#### Course Information
+### Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading Information](\Teaching\Grading\)
 + [ECI Rubric](ECI Rubric.pdf)
-+ [Resources](\teaching\Resources\)
++ [Resources](\Teaching\Resources\)
 + [Contact Information](\Contact)
-+ [Blackboard](http:\\www.blackboard.njcu.edu) (for submitting assignments)
++ [Blackboard](http:\\blackboard.njcu.edu) (for submitting assignments)
 
 
 
@@ -24,6 +24,6 @@ title: The Examined Life
 + [Module 2](\Teaching\Examined\CT)
 + [Module 3](\Teaching\Examined\Meaning)
 + [Module 4](\Teaching\Examined\God)
-+ [Module 5](\Teaching\Examined\FreewWill)
++ [Module 5](\Teaching\Examined\FreeWill)
 + [Module 6](\Teaching\Examined\Ethics)
 + [Module 7](\Teaching\Examined\Applied)
