@@ -4,9 +4,9 @@ title: Metaphysics
 
 ---
 
-## Phil 205: Metaphysics 
+# Phil 205: Metaphysics 
 
-#### Course Information
+## Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading Information](\Teaching\Grading\)
 + [Resources](\teaching\Resources\)
@@ -14,7 +14,12 @@ title: Metaphysics
 + [Blackboard](http:\\www.blackboard.njcu.edu) (for submitting assignments)
 
 
-#### Weeks
-
-I will post assignments and handouts here. 
+## Modules
++ [Module 0](Intro)
++ [Module 1](Space)
++ [Module 2](Motion)
++ [Module 3](Time)
++ [Module 4](Change)
++ [Module 5](TT)
++ [Module 6](Personal)
 

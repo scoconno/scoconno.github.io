@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  27 AUG 2015 12:19
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  31 AUG 2015 22:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -39,8 +39,8 @@ Package ifluatex Info: LuaTeX not detected.
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count82
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/memoir/mem11.clo
-File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+(/usr/local/texlive/2014/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 )
 \binding=\skip48
 \spinemargin=\skip49
@@ -1236,28 +1236,28 @@ Package biblatex Info: Reference segment=0 on input line 32.
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952224930100089.
+. Georgia scale = 0.8952205882352941.
 .................................................
 \g_fontspec_family_Georgia_int=\count392
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952224930100089.
+. Georgia scale = 0.8952205882352941.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/B scale = 0.8898062986734639.
+. Georgia/B scale = 0.8898059475806452.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/I scale = 0.8748140312370953.
+. Georgia/I scale = 0.8748141724479683.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/BI scale = 0.8696437006545651.
+. Georgia/BI scale = 0.8696428571428571.
 .................................................
 .................................................
 . fontspec info: "defining-font"
@@ -1269,50 +1269,50 @@ Package biblatex Info: Reference segment=0 on input line 32.
 . 
 . * 'normal' with NFSS spec.:
 . 
-. <->s*[0.8952224930100089]"Georgia/ICU:script=latn;language=DFLT;mapping=tex-t
+. <->s*[0.8952205882352941]"Georgia/ICU:script=latn;language=DFLT;mapping=tex-t
 ext;"
 . 
 . * 'bold' with NFSS spec.:
 . 
-. <->s*[0.8898062986734639]"Georgia/B/ICU:script=latn;language=DFLT;mapping=tex
+. <->s*[0.8898059475806452]"Georgia/B/ICU:script=latn;language=DFLT;mapping=tex
 -text;"
 . 
 . * 'italic' with NFSS spec.:
 . 
-. <->s*[0.8748140312370953]"Georgia/I/ICU:script=latn;language=DFLT;mapping=tex
+. <->s*[0.8748141724479683]"Georgia/I/ICU:script=latn;language=DFLT;mapping=tex
 -text;"
 . 
 . * 'bold italic' with NFSS spec.:
 . 
-. <->s*[0.8696437006545651]"Georgia/BI/ICU:script=latn;language=DFLT;mapping=te
+. <->s*[0.8696428571428571]"Georgia/BI/ICU:script=latn;language=DFLT;mapping=te
 x-text;"
 .................................................
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 9.80263pt on input line 39.
+(Font)              scaled to size 8.95218pt on input line 39.
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952195986037383.
-.................................................
-.................................................
-. fontspec info: "set-scale"
-. 
-. Georgia scale = 0.8952195986037383.
+. Georgia scale = 0.8952174188640975.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/B scale = 0.889803421778669.
+. Georgia scale = 0.8952174188640975.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/I scale = 0.8748112028148457.
+. Georgia/B scale = 0.8898027973790324.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/BI scale = 0.8696408889488719.
+. Georgia/I scale = 0.8748110753221012.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Georgia/BI scale = 0.8696397783251233.
 .................................................
 .................................................
 . fontspec info: "defining-font"
@@ -1324,48 +1324,48 @@ LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
 . 
 . * 'normal' with NFSS spec.:
 . 
-. <->s*[0.8952195986037383]"Georgia/ICU:script=latn;language=DFLT;mapping=tex-t
+. <->s*[0.8952174188640975]"Georgia/ICU:script=latn;language=DFLT;mapping=tex-t
 ext;"
 . 
 . * 'bold' with NFSS spec.:
 . 
-. <->s*[0.889803421778669]"Georgia/B/ICU:script=latn;language=DFLT;mapping=tex-
-text;"
+. <->s*[0.8898027973790324]"Georgia/B/ICU:script=latn;language=DFLT;mapping=tex
+-text;"
 . 
 . * 'italic' with NFSS spec.:
 . 
-. <->s*[0.8748112028148457]"Georgia/I/ICU:script=latn;language=DFLT;mapping=tex
+. <->s*[0.8748110753221012]"Georgia/I/ICU:script=latn;language=DFLT;mapping=tex
 -text;"
 . 
 . * 'bold italic' with NFSS spec.:
 . 
-. <->s*[0.8696408889488719]"Georgia/BI/ICU:script=latn;language=DFLT;mapping=te
+. <->s*[0.8696397783251233]"Georgia/BI/ICU:script=latn;language=DFLT;mapping=te
 x-text;"
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952195986037383.
+. Georgia scale = 0.8952174188640975.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952195986037383.
+. Georgia scale = 0.8952174188640975.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/B scale = 0.889803421778669.
+. Georgia/B scale = 0.8898027973790324.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/I scale = 0.8748112028148457.
+. Georgia/I scale = 0.8748110753221012.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/BI scale = 0.8696408889488719.
+. Georgia/BI scale = 0.8696397783251233.
 .................................................
 .................................................
 . fontspec info: "defining-font"
@@ -1388,31 +1388,29 @@ x-text;"
 . <->s*[0.8]"Georgia/BI/ICU:script=latn;language=DFLT;mapping=tex-text;"
 .................................................
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 8.05696pt on input line 60.
+(Font)              scaled to size 7.16174pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 22.27303pt on input line 60.
+(Font)              scaled to size 18.56682pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 22.13824pt on input line 60.
+(Font)              scaled to size 18.45447pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/Georgia(1)/bx/n' will be
+(Font)              scaled to size 18.45447pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/Georgia(1)/bx/n' will be
+(Font)              scaled to size 12.81313pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/Georgia(1)/bx/n' will be
+(Font)              scaled to size 8.89801pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(1)/bx/n' will be
 (Font)              scaled to size 22.13824pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(1)/bx/n' will be
-(Font)              scaled to size 15.37575pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(1)/bx/n' will be
-(Font)              scaled to size 9.74332pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 12.89113pt on input line 60.
+(Font)              scaled to size 10.74261pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(2)/m/n' will be
-(Font)              scaled to size 7.20003pt on input line 60.
+(Font)              scaled to size 6.40002pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(1)/m/n' will be
-(Font)              scaled to size 12.89113pt on input line 71.
+(Font)              scaled to size 10.74261pt on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 91.
+(Font)              <7> on input line 91.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 91.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 91.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/it' will be
-(Font)              scaled to size 9.57924pt on input line 97.
+(Font)              <5> on input line 91.
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -1420,37 +1418,52 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 [1
 
 ]
-Overfull \hbox (3.06541pt too wide) in paragraph at lines 104--105
-[]\EU1/Georgia(0)/m/it/10.95 1 Group project \EU1/Georgia(0)/m/n/10.95 comprisi
-ng a proposal, literature review, short presentation (each
- []
+LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/it' will be
+(Font)              scaled to size 8.74817pt on input line 101.
 
-
-Overfull \hbox (30.841pt too wide) in paragraph at lines 108--109
-[]\EU1/Georgia(0)/m/it/10.95 Grade Distribution: \EU1/Georgia(0)/m/n/10.95 Atte
-ndance–0.5 point per class (10 total); 3 Discussion Questions—
+Overfull \hbox (24.1518pt too wide) in paragraph at lines 113--114
+[]\EU1/Georgia(0)/m/it/10 Grade Distribution: \EU1/Georgia(0)/m/n/10 Attendance
+–0.5 point per class (10 total); 3 Discussion Questions—
  []
 
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 9.74332pt on input line 132.
+(Font)              scaled to size 8.89801pt on input line 137.
+
+Overfull \hbox (1.10715pt too wide) in paragraph at lines 139--140
+\EU1/Georgia(0)/m/n/10 specifically acknowledged. Being a student at NJCU requi
+res you to follow [][]NJCU’s
+ []
+
 
 LaTeX Font Warning: Font shape `EU1/Georgia(0)/m/sc' undefined
-(Font)              using `EU1/Georgia(0)/m/n' instead on input line 147.
+(Font)              using `EU1/Georgia(0)/m/n' instead on input line 140.
 
 [2]
-Overfull \hbox (22.84332pt too wide) in paragraph at lines 147--156
-\EU1/Georgia(0)/m/n/10.95 website at [][]www.njcu.edu/Specialized_Services.aspx
-[][] (listed under Student Resources-
+Overfull \hbox (1.2265pt too wide) in paragraph at lines 147--148
+\EU1/Georgia(0)/m/n/10 eating, leaving your seat, talking out of turn, and aggr
+ession are prohibited. Penal-
+ []
+
+
+Overfull \hbox (6.52568pt too wide) in paragraph at lines 154--155
+\EU1/Georgia(0)/m/n/10 NJCU assessment team, which scores them using approved p
+rogram rubrics. While
+ []
+
+
+Overfull \hbox (0.90628pt too wide) in paragraph at lines 162--167
+\EU1/Georgia(0)/m/n/10 site at [][]www.njcu.edu/Specialized_Services.aspx[][] (
+listed under Student Resources-
  []
 
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/sc' will be
-(Font)              scaled to size 9.80263pt on input line 190.
-[3] [4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
+(Font)              scaled to size 8.95218pt on input line 167.
+[3] [4] [5] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 259.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 259.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 282.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 282.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1460,12 +1473,12 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31034 strings out of 493734
- 554357 string characters out of 6146348
- 1106273 words of memory out of 5000000
- 34143 multiletter control sequences out of 15000+600000
- 7527 words of font info for 48 fonts, out of 8000000 for 9000
+ 31017 strings out of 493734
+ 554168 string characters out of 6146348
+ 1109289 words of memory out of 5000000
+ 34132 multiletter control sequences out of 15000+600000
+ 5087 words of font info for 40 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  60i,11n,88p,10385b,2434s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Syllabus.pdf (5 pages).
+Output written on Syllabus.pdf (6 pages).
