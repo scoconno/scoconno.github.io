@@ -14,7 +14,7 @@ title: Research
 
 + "Persistence in Aristotle's Physics I-II" 
 
-+ "The Eleatic Challenge in Aristotle's *Physics* I.8" 
++ "The Eleatic Challenge in Aristotle's *Physics* I.8" (under review)
 
 + "Aristotle's Response to Plato in *Physics* I.9"
 

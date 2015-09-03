@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  31 AUG 2015 17:49
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.5.25)  1 SEP 2015 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1443,29 +1443,29 @@ res you to follow [][]NJCU’s
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/sc' will be
 (Font)              scaled to size 8.95218pt on input line 155.
 [3]
-Overfull \hbox (1.2265pt too wide) in paragraph at lines 164--165
+Overfull \hbox (1.2265pt too wide) in paragraph at lines 160--161
 \EU1/Georgia(0)/m/sc/10 eating, leaving your seat, talking out of turn, and agg
 ression are prohibited. Penal-
  []
 
 
-Overfull \hbox (6.52568pt too wide) in paragraph at lines 171--172
+Overfull \hbox (6.52568pt too wide) in paragraph at lines 167--168
 \EU1/Georgia(0)/m/sc/10 NJCU assessment team, which scores them using approved 
 program rubrics. While
  []
 
 
-Overfull \hbox (0.90628pt too wide) in paragraph at lines 179--184
+Overfull \hbox (0.90628pt too wide) in paragraph at lines 175--180
 \EU1/Georgia(0)/m/sc/10 site at [][]www.njcu.edu/Specialized_Services.aspx[][] 
 (listed under Student Resources-
  []
 
 [4] [5] [6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 341.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 341.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 337.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 337.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 341.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 341.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 337.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 337.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1477,7 +1477,7 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  31017 strings out of 493734
  554168 string characters out of 6146348
- 1109305 words of memory out of 5000000
+ 1109313 words of memory out of 5000000
  34132 multiletter control sequences out of 15000+600000
  5087 words of font info for 40 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
