@@ -15,7 +15,6 @@ title: Metaphysics
 
 
 ## Modules
-+ [Module 0](Intro)
 + [Module 1](Space)
 + [Module 2](Motion)
 + [Module 3](Time)
