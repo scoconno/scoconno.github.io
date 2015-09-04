@@ -20,10 +20,10 @@ Per the policies outlined in the syllabus, late work will not be accepted. As th
 Please submit the file as either a word file or simple .rtf file will also suffice.
 
 ### Grading
-Please find the rubric and explanation of it [here](\Teaching\Grading\).
+Please find the rubric and explanation of it [here](/Teaching/Grading/).
 
 ### Resources
-Please find links to writing resources [here](\Teaching\Resources\)
+Please find links to writing resources [here](/Teaching/Resources/)
 
 ### Word Count
 

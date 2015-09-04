@@ -11,7 +11,7 @@ title: Start here
 
 Welcome! I'm Dr. Scott O'Connor and I'll be your instructor this semester. Originally from Dublin, I joined the Philosophy Department at NJCU in Fall 2014. Before my arrival, I received a Masters Degree in Philosophy from Oxford University and a Doctorate Degree in Philosophy from Cornell University. My areas of specialization are Ancient Philosophy and Metaphysics, though I have broad, general interests in philosophy too. If you want to know a bit more about me, then you can learn about my research on this website and find a picture of me [here](http://www.njcu.edu/philosophy/faculty/). 
 
-While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](\Contact) for further information.
+While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](/Contact) for further information.
 
 
 ## Mechanics
