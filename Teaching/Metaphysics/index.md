@@ -8,10 +8,10 @@ title: Metaphysics
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
-+ [Grading Information](\Teaching\Grading\)
-+ [Resources](\Teaching\Resources\)
-+ [Contact Information](\Contact)
-+ [Blackboard](http:\\blackboard.njcu.edu) (for submitting assignments)
++ [Grading Information](/Teaching/Grading/)
++ [Resources](/Teaching/Resources/)
++ [Contact Information](/Contact)
++ [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 
 
 ## Modules
