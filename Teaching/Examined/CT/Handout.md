@@ -5,14 +5,22 @@ title: Handout
 
 # Critical Thinking: Work Sheet
 
-If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some self-assessment exercises below. The answer key is on the website. 
+If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is on the website. 
 
 
 ## Introduction
 
-Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophy is first and foremost a rational, rule governed activity. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views, in other words, the arguments that prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
+Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophy is first and foremost a rule governed tool for rationally forming and assessing the reasons for beliefs. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views. These reasons come in the form of **arguments** which prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
 
-Since philosophy is concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. 
+Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are normally intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that, and that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
+
+Second, you will be learning how to construct your own good arguments. If you want me or anyone else to accept any of your beliefs, say about taxation or religion or music, you need to provide me reasons for thinking your belief is true. You do that by providing me good arguments for that belief. 
+
+Since philosophy is concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. This handout proceeds in four rough parts: 1) the elements of an argument are introduced, 2) arguments are distinguished from non-arguments, 3) the difference between deductive and inductive arguments is introduced, and 4) the criteria for distinguishing good from bad arguments (first deductive, then inductive)
+are outlined. I encourage you to read a section or two. Try the self-assessment exercises and check the answer key to make sure you understood the material. 
+
+
+## Arguments
 
 What is an argument? An **argument** is a group of statements in which some of them (**the premises**) are intended to support another of them (**the conclusion**). They will standardly be presented in the following way:
 
@@ -20,7 +28,7 @@ What is an argument? An **argument** is a group of statements in which some of t
 + P2: Socrates is human. 
 + C: Socrates is mortal.
 
-P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many premises. For our purposes, we'll be focusing on relatively short arguments. Let us look a little closer at the elements of an argument:
+P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many premises. For our purposes, we'll be focusing on relatively short arguments. Let us look a little closer at the elements of an argument.
 
 ## Statements
 
@@ -72,6 +80,7 @@ If Arme is in town, then she's staying at the Barbary Hotel. She's in town. Ther
 ```
 Because banning assault rifles violates a constitutional right, the U.S. government should not ban assault rifles.
 ```
+
 ```
 Listen, any movie with clowns in it cannot be a good movie. Last night's movie had at least a dozen clowns in it. Consequently it was awful.
 ```
@@ -111,7 +120,7 @@ I don't understand what is happening to this country. The citizens of this count
 ```
 
 ## Complex Passages
-It is often difficult to identify the core argument in a complex passage. You need to recognize which statements are part of that argument, but also which statements are not part of that argument. These other statements may serve some other role such as providing important background information, or explaining a premise, or explaining the consequences of accepting the conclusion, and so on. Try the following exercise before checking the answer key: 
+It is often difficult to identify the core argument in a complex passage. You need to recognize which statements are parts of that argument, but also which statements are not parts of that argument. These other statements may serve some other role such as providing important background information, or explaining a premise, or explaining the consequences of accepting the conclusion, and so on. Try the following exercise before checking the answer key: 
 
 
 ### Exercise 5: 
