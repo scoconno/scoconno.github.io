@@ -5,7 +5,7 @@ title: Grading
 
 
 # Grading
-Essays are graded according to a rubric that can be found [here.](rubric.pdf) Below is a brief description of the various rubric categories. Please find grading abbreviations [here.](\Teaching\Abbreviations)
+Essays are graded according to a rubric that can be found [here.](rubric.pdf) Below is a brief description of the various rubric categories. Please find grading abbreviations [here.](/Teaching/Abbreviations)
 
 
 
@@ -32,7 +32,7 @@ Essays are graded according to a rubric that can be found [here.](rubric.pdf) Be
 4. Containing some new, but relevant, remark about the logic of an argument, or
 5. Containing some new, but relevant, remark about the truth of an argument's premises. 
 
-**Mechanics:** For advice on how to write a philosophy paper, see [here](\Teaching\Resources\). A very good essay: 
+**Mechanics:** For advice on how to write a philosophy paper, see [here](/Teaching/Resources/). A very good essay: 
 
 1.  Contains a good, clear overall structure. This will be assessed by examining which points are made and the order in which they are presented.
 2.  Contains organized paragraphs---each paragraph should contain one distinct point with the other sentences clearly relating to that point.
