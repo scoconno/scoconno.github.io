@@ -1,0 +1,110 @@
+---
+title: Space
+---
+
+# Absolute vs Relational Space
+
+
+Do space and time have independent existence from objects they ‘contain’?
+
+We don't see space. We see objects that stand in spatial relations to one another. One object is 10 feet from me. Another is 20 feet from me. But being inaccessible by direct observation is unimportant. Neutrinos and force fields are not directly observable either, but many believe they exist
+
+Absolute space is called substantivalism. 
+
+Here are the two big consequences. One is whether there could be empty space. The other over motion. Ask them to explain why relationist cannot allow empty space. 
+
+
+The second is about absolute motion. Think of being still. Are you? Well Earth is moving. So not really. We might say that you are still relative to the person beside you. But not still relative to the sun. Compare this to being on a train. One issue is whether there is absolute motion. What would the relationalist say? 
+
+Here is some history on it. 
+
+Democritus and the atomists. 
+
+Aristotle on the plenum
+
+
+
+space is constituted by complex relational structure of material objects and their parts and the spatial relations in which all these stand to one anotherconcrete, symmetrical, transitive, reflexive relation relationalism not cost-free: there must be spatial relationsover and above the material objects that existempty space: relationalism is committed to non-existence of unoccupied places and regions, whereas substantivalist account entails possibility of empty places⇒ How can we meaningfully speak of mid-point between Earth and Mars?
+
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼“In claiming that objects inherit their spatial properties from the regions of space that they occupy, the substantivalist is inserting an invisible and redundant intermediary between objects. We cannot observe space itself, but we can observe objects at various distances from one another. The most economical way of making sense of this is simply to say that objects are directly related to one another by spatial relations. Instead of appealing to space-object relations, we can appeal to object-object relations, where the relations in question are of a spatial sort. These spatial relations should not be thought of as material objects in their own right, but as distinctive properties, of a relational sort, that material objects can possess.” (Dainton, 141)
+
+Aristotle on the void. 
+
+Space and time exist as independent substances, i.e. they are existing particulars in their own right, over and above the material content of the universe. Space and time are continuous and pervasive media that extend everywhere and everywhen.
+
+
+Space and time do not exist as independent substances, there is only the material content of the universe. Space and time are merely defined through spatiotemporal relations among the material objects in the universe.
+
+We are concerned with Absolute vs. Relative Spcae. Also concerned with absolute vs. relative motion. 
+
+My whole introduction to it here. 
+
+The argument strategy is as follows. There are clearly differences between right and left gloves. We want to know what makes them different. What we'll do is look at some options. The only way we'll make sense of it is postulating space as something absolute. Let me emphasize that we are primarily interested in the dialectic here. 
+ 
+
+
+"Concerning the Ultimate Foundation of the Differentiation of Regions of Space" (1768).Claim: Absolute space is necessary to explain the existence of incongruent counterparts.
+[An incongruent counterpart is]...an object which is completely like and similar to another, although it cannot be included exactly within the same limits."
+Two types of mirror imageLet O be an object and let O' be its mirror image.(1) O' is a congruent counterpart of O if it can be made to coincide with O by rigid motions.
+O' is an incongruent counterpart of O if it cannot be made to coincide with O by rigid motions.￼￼
+You might have them think about if from a 2 dimensional standpoint. You can make E become back to found E by turning it on its axis. But you cannot make a F become a back to front F in this way. (Maybe cut out the letter)
+
+
+An object is said to possess handedness (chirality) just when it and its mirror image are incongruent counterparts.An object is said to lack handedness (chirality) just when it and its mirror image are congruent counterparts.
+
+
+
+## Master Argument
+
+What makes an argument right or left handed? 
+
+1.  A hand is left or right either (a) solely in virtue of the
+    *internal* relations among the parts of the hand, or (b) at least
+    partly in virtue of the *external* relations of the hand to
+    something outside it, either (i) other material objects, or (ii)
+    space itself.
+
+2.  A hand is not left or right solely in virtue of its internal
+    relations, since the internal relation are the same for right and
+    left, i.e. the proportion and the position of the parts to one
+    another of each hand are the same.
+
+3.  A hand is neither right nor left even partly in virtue of its
+    relations to other material objects, since a hand that was all alone
+    in the universe would still be right or left.
+
+4.  Therefore, a hand is left or right at least party in virtue of its
+    relation to absolute space.[^1]
+
+
+1--3 state the premises of the argument. 4 states the conclusion. The argument is valid. If it is sound, then 4 must be true. Here are the arguments for the premises. 
+
+
+## Internalism
+
+Internalists accept 1 and 3, but they rejects 2. They accept, 3, that a hand that was all alone in the Universe would still be a right or left hand, but they think that it's being left or right can be explained without looking outside the hand itself. The features of the hand alone will make it a right or left one. Hence, one needs no other material objects or space itself to explain these features. 
+
++ Kant assumed that the internal relation were distances between points and angles between lines. These are the same for both hands. If these are the only internal relations, then Kant is right to deny that internal relations can distinguish right from left handedness. 
+
++ But might there be other other internal relations that explain the difference  between the left and right hand? 
+
++ Any candidates face a certain killer objection: if we can flip the hands in a fourth dimension to make them congruent, then right handedness and left handedness cannot be intrinsic properties of the hands.
+
+## Externalism
+
+Externalists accept 1 and 2, but reject 3. They claim that being a left or right hand depends on a relationship to other material objects. 
+
+Objection: a world in which only a hand exists would either be left or right handed. (a) Suppose that there is a world in which only a hand, H, exists. (b) Now suppose that a body possessing no hands pops into existence. (c) H can fit only the left or the right wrist. (d) Therefore, H was right or left handed before the body popped into existence.
+
+How would the existence of a fourth-dimension effect this objection, if at all? If 4th exists, then it was nor right or left beforehand. 
+
+## Absolutism
+
+Absolutists accept each premises, and since the argument is also valid, they think the conclusion is true. Space, they claim, is absolute. 
+
+    -   If we only accept the existence of 3 spatial dimensions, must we
+        then accept that absolute space exists? I think the issue is that 4th dimension undermines the absolutists. The Externalist can appeal to 4th to say that they are not congruent at all. But then there is an issue of being incongruent in the 4th dimension. 
+
+
+[^1]: ‘Incongruent Counterparts and Higher Dimensions’, by James Van
+    Cleve
