@@ -20,7 +20,7 @@ title: CT
 I post here a copy of Chapter 1 as well as the exercises from which some of the problem sets will be drawn (see Problem Set 1 in Blackboard for further details). Copyright restrictions prohibit me from distributing anything further. 
 
 + [Chapter 1](ch1.pdf)
-+ [Exercises](DOC016.pdf). You will be asked in Problem Set 1 to answer some, but not all, of the questions in these exercises. 
++ [Exercises](exercises.pdf). You will be asked in Problem Set 1 to answer some, but not all, of the questions in these exercises. 
 
 
 
