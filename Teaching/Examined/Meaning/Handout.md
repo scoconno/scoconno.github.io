@@ -3,8 +3,6 @@ layout: default
 title: The Meaning of Life
 ---
 
-# The Meaning of Life
-
 
 ##  Personal Note
 
@@ -12,11 +10,14 @@ We will be talking about death, suicide, and depression in this module. These ar
 
 ## Introduction 
 
-You are mortal. Your friends, families, and loved ones are mortal. Each of us will die. It is easy to ignore it. We often think of death as happening some point in the far future. Like a distant land that we may have to visit one day, that land is not this land and we are happy to ignore it. Unfortunately, death is an ever pressing possibility. Several have recently died from Legionnaires disease in the Bronx. Many are killed in car accidents every day. There are the bizarre accidents too. Walking to work you don't think that this might be the day you die. It's too depressing! But you could die at any moment. You might stumble and hit your head awkwardly. A wall might collapse upon you. 
+You are mortal. Your friends, families, and loved ones are mortal. Each of us will die. It is easy to ignore it. We often think of death as happening some point in the far future. Like a distant land that we may have to visit one day, that land is not this land and we prefer not thinking about it. Unfortunately, death is an ever pressing possibility. Several have recently died from Legionnaires disease in the Bronx. Many are killed in car accidents every day. There are the bizarre accidents too. You don't think that this might be the day you die. It's too depressing! But you could die at any moment. You might stumble and hit your head awkwardly. A wall might collapse upon you. 
 
 In this module, we are going to examine Leo Tolstoy's argument that our mortality robs our life of meaning, though, we will also look at the meaning he did finally find in life. Tolstoy puts his concern as follows:
 
-> ... My question - that which at the age of fifty brought me to the verge of suicide - was the simplest of questions, lying in the soul of every man from the foolish child to the wisest elder: it was a question without an answer to which one cannot live, as I had found by experience. It was: "What will come of what I am doing today or shall do tomorrow? What will come of my whole life?"
+> ... My question - that which at the age of fifty brought me to the verge of suicide - was the simplest of questions, lying in the soul of every man from the foolish child to the wisest elder: it was a question without an answer to which one cannot live, as I had found by experience. It was: "What will come of what I am doing today or shall do tomorrow? What will come of my whole life?" [^1]
+
+[^1]: 
+
 
 >Differently expressed, the question is: "Why should I live, why wish for anything, or do anything?" It can also be expressed thus: "Is there any meaning in my life that the inevitable death awaiting me does not destroy?"...
 

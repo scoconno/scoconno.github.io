@@ -8,7 +8,7 @@ title: Meaning
 
 + [Notes](Handout)
 + [Short Writing Assignment 1](SW1)
-+ [Optional Reading](/Teaching/Examined/Main/Tolstoy.pdf)
++ [Optional Reading](/Teaching/Examined/Meaning/Tolstoy.pdf)
 
 
 
