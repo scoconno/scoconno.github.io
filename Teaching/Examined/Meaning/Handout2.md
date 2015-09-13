@@ -26,7 +26,7 @@ Recall that life has meaning only if it has significant value or purpose over ti
 When we ask about the meaning of life, we are asking about internal value. We are asking why we should feel that there is something in our lives that makes them worthwhile. Is there any project or goal that could make our lives choice worthy, could shape our psychology so dramatically that we are motivated to get up in the morning, keep going, and find all the trials and tribulations of life worthwhile? 
 
 Pessimists, recall, claim that life is not choice worthy. Their argument: 
-1. Life is choice worthy only if it has internal value. 2. Life has internal value only if life has external value. 3. Life has no external value. 4. Life has no internal value. C. Life is not choice worthy. We saw that Tolstoy argues for Premise 2 and 3 by way of a fable: ![The sweetness of life?](/Teaching/Examined/Meaning/Tolstoy.jpg)
+1. Life is choice worthy only if it has internal value. 2. Life has internal value only if life has external value. 3. Life has no external value. 4. Life has no internal value (from 1--3). 5. Life is not choice worthy (from 1 & 4).We saw that Tolstoy argues for Premise 2 and 3 by way of a fable: ![The sweetness of life?](/Teaching/Examined/Meaning/Tolstoy.jpg)
 
 
 The argument for Premise 2 seems to be a point about human psychology. Humans, Tolstoy, assumes cannot sustain an interest in a long term project, make sacrifices towards achieving it, and allow it do its jobs unless they come to see it as having external value. 
