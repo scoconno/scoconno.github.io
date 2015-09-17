@@ -15,6 +15,7 @@ title: The Examined Life
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
++ [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
 
 

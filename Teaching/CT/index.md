@@ -13,6 +13,7 @@ title: CT
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Contact Information](/Contact)
 + [Resources](/Teaching/Resources/)
++ [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
 
 
