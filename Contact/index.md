@@ -7,7 +7,12 @@ title: Contact
 
 + Dr. Scott O'Connor 
 + Office: Karnoutsos Hall 606
-+ Office Hours for Fall 2015: TBD
++ Office Hours for Fall 2015. Please send a brief email if you intend to drop by.
+	+ M&W 8:45--9:45am (K606)
+	+ W: 2:00--4:00pm (K606)
+	+ T: 3:00--4:00pm (SOB)
+	+ by appointment
+
 + E-mail: <soconnor@njcu.edu>
 
 Email is the best way to reach me. I answer emails on weekdays, usually within 24 hrs.
