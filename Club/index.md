@@ -6,7 +6,7 @@ title: club
 ## Philosophy Club
 
 This is a temporary site for NJCU's Philosophy & Religious Studies
-Student Club. 
+Student Club. Everyone is welcome!
 
 + Location: Hepburn Hall 220
 + Time: Tuesday, 3--4pm
