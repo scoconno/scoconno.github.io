@@ -8,10 +8,11 @@ relative_permalinks: true
 
 # Setup
 title:            Scott O'Connor
-tagline:          'A Jekyll theme'
-description:      ' '
 url:              http://hyde.getpoole.com
 baseurl:          /
+
+paginate: 5
+
 
 author:
   name:           'Mark Otto'
