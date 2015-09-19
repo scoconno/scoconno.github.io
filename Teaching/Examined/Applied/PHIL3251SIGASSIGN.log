@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 SEP 2015 14:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 SEP 2015 18:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**handout.tex
-(./handout.tex
+**PHIL3251SIGASSIGN.tex
+(./PHIL3251SIGASSIGN.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -706,8 +706,8 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 47.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 47.
-(./handout.aux)
-\openout1 = `handout.aux'.
+No file PHIL3251SIGASSIGN.aux.
+\openout1 = `PHIL3251SIGASSIGN.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
@@ -723,7 +723,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 70.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 70.
@@ -765,10 +765,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 70.
 LaTeX Info: Redefining \pageref on input line 70.
 LaTeX Info: Redefining \nameref on input line 70.
-
-(./handout.out) (./handout.out)
 \@outlinefile=\write3
-\openout3 = `handout.out'.
+\openout3 = `PHIL3251SIGASSIGN.out'.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -827,58 +825,60 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 101.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 101.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 101.
- [1
+) [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 120.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 164.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
- (./handout.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
-Package rerunfilecheck Info: File `handout.out' has not changed.
-(rerunfilecheck)             Checksum: 63A661AB1BC94F1924DB8CA3D94F4F58;488.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 202.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 202.
+
+(./PHIL3251SIGASSIGN.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 202.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 202.
+
+
+Package rerunfilecheck Warning: File `PHIL3251SIGASSIGN.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `PHIL3251SIGASSIGN.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  4A6CAB7772E971DC6EB5490AD30D1A58;908.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 202.
  ) 
 Here is how much of TeX's memory you used:
- 11742 strings out of 493089
- 169542 string characters out of 6134842
- 260321 words of memory out of 5000000
- 15012 multiletter control sequences out of 15000+600000
- 62875 words of font info for 87 fonts, out of 8000000 for 9000
+ 11683 strings out of 493089
+ 168725 string characters out of 6134842
+ 261200 words of memory out of 5000000
+ 14965 multiletter control sequences out of 15000+600000
+ 39963 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,43p,232b,343s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
-/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2015/
-texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-dist
-/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/
-lm/lmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr17.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/20
-15/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
-pe1/public/lm/lmro10.pfb>
-Output written on handout.pdf (2 pages, 226898 bytes).
+ 42i,11n,43p,242b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2015/
+texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/typ
+e1/public/lm/lmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public
+/lm/lmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr12.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmro10.pfb>
+Output written on PHIL3251SIGASSIGN.pdf (3 pages, 188806 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 18473 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 32 named destinations out of 1000 (max. 500000)
+ 12289 words of extra memory for PDF output out of 14400 (max. 10000000)
 
