@@ -38,7 +38,9 @@ The existence of a higher spatial dimensions has been taken to be important for 
 
 ## Further Instruction
 
-+ This essay has 2 major learning goals. The first is to teach the difference between explaining a view and arguing for a view. In the first part of your paper, you should neutrally explain Internalism as clearly as you can, but avoid giving any arguments for or against Internalism. In the second part of your essay, you will be arguing against Internalism by using the possibility of higher spatial dimensions. The second learning goal is to teach you to separate your own views from the explanations and arguments you might provide. Un the first part of your essay, you should explain Internalism as clearly and charitably as you can (as if it was the view you accepted). In the second part, you will use possibility of higher dimensions to argue against Internalism as forcibly as you can (regardless of whether you think there are higher dimensions or if you think that Internalism is true or not.) 
++ This essay has 2 major learning goals. The first is to teach the difference between explaining a view and arguing for a view. In the first part of your paper, you should neutrally explain Internalism as clearly as you can, but avoid giving any arguments for or against Internalism. In the second part of your essay, you will be arguing against Internalism by using the possibility of higher spatial dimensions. 
+
+	The second learning goal is to teach you to separate your own views from the explanations and arguments you might provide. in the first part of your essay, you should explain Internalism as clearly and charitably as you can (as if it was the view you accepted). In the second part, you will use the possibility of higher dimensions to argue against Internalism as forcibly as you can (regardless of whether you think there are higher dimensions or if you think that Internalism is true or not.) 
 
 + Assume that your audience is bright, but not familiar with the topic. You will need to explain the terminology you introduce. Try also to find ways of explaining what a fourth dimension might be.   
 

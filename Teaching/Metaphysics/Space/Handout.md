@@ -68,7 +68,11 @@ Relations have different features:
 
 6. A relation R is **non-reflexive** if some some object a, $$ \neg aRa $$
 
-Absolutism is the view that objects can stand in spatial relations to space itself, i.e., the view that there are absolute spatial relations like *located at*. Suppose that x and y are 10 feet part. X is located in the region R1 of space that contains it. Y is located in the region R2 of space that contains it. In between R1 and R2 there exists another thing, a 10 foot region of space.     
+Absolutism is the view that objects can stand in spatial relations to space itself, i.e., the view that there are absolute spatial relations like *located at* between objects and places in space. Suppose that x and y are 10 feet part. X is located in the region R1 of space that contains it. Y is located in the region R2 of space that contains it. In between R1 and R2 there exists another thing, a 10 foot region of space.  
+
+> “Space is eternal in duration and immutable in nature... Although space may be empty of body, nevertheless it is itself not a void: and something is there, because spaces are there, although nothing more than that.” (*De Gravitatione*, as quoted by Dainton, 133)
+
+> “Absolute space, in its own nature, without relation to anything external, remains always similar and immovable.” (Principia, as quoted by Huggett, 118)
 
 Relationalism is the view that spatial relations exist, but space itself does not. If x and y are 10 feet apart and there is nothing in between them, there does not also exist the regions of space that x and y occupy as well as the region of space 10 feet long that is occupied by nothing. Leibniz uses the following analogy to explain Relationalism: 
 > [T]he Mind can fancy to itself an Order made up of Genealogical Lines, whose Bigness would consist only in the Number of Generations, wherein every Person would have his Place. (The Leibniz-Clarke Correspondence, (ed.) Alexander 1956, 70)> and if to this one should add the Fiction of a Metempsychosis, and bring in the same Human Souls again; the Persons in those Lines might change place; he who was a Father, or a Grandfather, might become a Son, or a Grand-son etc. (Ibid. 70-1)
@@ -127,11 +131,8 @@ Internalists accept 1 and 3, but they rejects 2. They accept that a hand that wa
 Objection: 
 
 a. The internal relations of both the left and right hand are distances between points and angles between lines, e.g., the length of the index finger.
-
 b. The internal relations of both the left and right hand are identical.
-
 c. If the internal relations of a right hand make it a right hand, then they cannot be identical to the internal relations of a left hand.  
-
 c. The internal relations of a right hand do not make it a right hand (similarly for the left hand)...(from a--c)
 
 Our conclusion says that internal relations cannot distinguish right from left handedness.  
@@ -141,20 +142,13 @@ Our conclusion says that internal relations cannot distinguish right from left h
 
 Externalists accept 1 and 2, but reject 3. They claim that being a left or right hand depends on a relationship to other material objects. Kant raises the following objection: 
 
-a. Suppose that there is a world in which only a hand, H, exists. 
-
+a. Suppose that there is a world in which only a hand, H, exists.
 b. Suppose that a body possessing no hands pops into existence.
-
-c. H can fit only the left or the right wrist. 
-
-d. If H fits the right wrist, H was a right hand before the body popped into existence. 
-
-e. If H fits the left wrist, H was a left hand before the body popped into existence. 
-
+c. H can fit only the left or the right wrist.
+d. If H fits the right wrist, H was a right hand before the body popped into existence.
+e. If H fits the left wrist, H was a left hand before the body popped into existence.
 f. H was a right or left hand before the body popped into existence...(from c--e)
-
-g. H was a right or left hand when no other material object exists...(from f) 
-
+g. H was a right or left hand when no other material object exists...(from f)
 i. H's being a right or left hand is not explained by its relationship to any other material object...(from g)
 
 
