@@ -1,7 +1,6 @@
 ---
 layout: default
 title: The Examined Life
-
 ---
 
 # Phil 140: The Examined Life
@@ -10,9 +9,12 @@ title: The Examined Life
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
++ [Reading Schedule](Reading)
++ [Assignment Schedule](Assign)
 + [Grading Information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
++ [Office Hours](/Contact/office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 

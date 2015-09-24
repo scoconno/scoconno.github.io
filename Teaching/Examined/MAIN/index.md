@@ -10,10 +10,13 @@ title: The Examined Life
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
++ [Reading Schedule](Reading)
++ [Assignment Schedule](Assign)
 + [Grading Information](/Teaching/Grading/)
 + [ECI Rubric](ECI Rubric.pdf)
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
++ [Office Hours](/Contact/office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
