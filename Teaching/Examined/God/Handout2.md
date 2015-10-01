@@ -18,27 +18,38 @@ While the argument is difficult, at the core is the following simple thought: th
 
 ## Summary of argument
 
+1. Assume that God exists only as an idea in the mind.
 1. God is a being than which none greater can be imagined (that is, the greatest possible being that can be imagined).
-2. God exists only as an idea in the mind.
 3. A being that exists as an idea in the mind and in reality is, other things being equal, greater than a being that exists only as an idea in the mind.
-4. Thus, we can imagine something that is greater than God, namely, a being that is like God in every way but also exists in reality. (From 2&3)
-5. It is a contradiction to suppose that we can imagine a being greater than the greatest possible being that can be imagined. (From 1&4)
-6. Therefore, God exists. (From 5)
+4. Thus, a being greater than God can be imagined, namely, a being that is like God in every way but also exists in reality. (From 1&3)
+5. God is and is not the greatest possible being that can be imagined. (From 2&4)
+6. Therefore, God exists, i.e., our assumption in Premise 1 is false (From 5)
+
 
 ## Notes on the argument 
 
+This argument for is called a *reductio ad absurdum*. Recall that a valid argument cannot have true premises and a false conclusion. This is useful. If an argument is valid and the conclusion false, we know that a premise is false. Consider this example:
+ 
++ P1. Assume that Socrates is immortal. 
++ P2. Socrates is human. 
++ P3. All humans are mortal. 
++ P4. Therefore, Socrates is mortal. (from P2 and P3)
++ P5 Therefore, Socrates is mortal and immortal. (from P4 and P5)
 
-+ Premise 1 is the Theist's stipulation. Their belief in God is a belief in the greatest possible being. If the Atheist were to deny this premise, they would, in effect, be shifting the terms of the debate. 
+We know that P5 is false. It is impossible for something to be both mortal and immortal. Since P5 is false, and since it follows from earlier premises, one of those earlier premises must be false. Many will likely conclude that the culprit was our first assumption: 
 
-+ By "God", the Theist means an absolutely unsurpassable being, a being that cannot conceivably be improved upon. If being knowledgeable is a good feature to have, then God, the greatest possible being, will be perfectly knowledgeable, more knowledgeable than any other being. The same goes for being good, being powerful, etc.
++ C. It is not the case that Socrates is immortal, i.e., P1 is false. 
 
-+ Premise 2 says that God exists as an idea in the mind, i.e., the Atheist accept that they can form an idea of God, but they deny that anything in reality corresponds to this idea. The argument will now proceed to show that Premise 1 and Premise 2 cannot be both true together. God cannot both be the greatest possible being and only exist in the mind.  
+The Ontological Argument works in a similar way. We first assume that God does not exist in reality, but only in the mind. We then show that this ultimately leads to an impossible result, namely, that God is and is not the greatest possible being that can be imagined. Since that impossible results follows on from earlier premises, we know that one of the earlier premises must be false. The Theist claims that the mistake was Premise 1, which says that God exists as an idea in the mind, which is the Atheist's claim. They accept that they can form an idea of God, but they deny that anything in reality corresponds to this idea. But why think that premise 1 must be the false premise? 
+
+
++ Premise 2 is the Theist's stipulation. Their belief in God is a belief in the greatest possible being. If the Atheist were to deny this premise, they would, in effect, be shifting the terms of the debate. Why? By "God", the Theist means an absolutely unsurpassable being, a being that cannot conceivably be improved upon. If being knowledgeable is a good feature to have, then God, the greatest possible being, will be perfectly knowledgeable, more knowledgeable than any other being. The same goes for being good, being powerful, etc. Belief in God just is a belief, then, in a being that cannot be improved upon. If the Atheist denies Premise 2, then we are not denying the existence of a being that the Theist believes in. 
 
 + Premise 3 says that existing is a feature something can have and also that existing is a good feature to have. Compare this to the claim that being strong is a feature and also a good one to have. When we imagine God, then, we should imagine a being that possesses all the great making features, existing in reality among them. Premise 3 is the most controversial premise. See the textbook for further discussion.
 
-+ Premise 4 is a valid inference from Premises 2&3. If God does not exist in reality, but existing in reality is great making feature, then we can easily imagine a being that is greater than God. 
++ Premise 4 follows from Premises 1&3. If God does not exist in reality, but existing in reality is great making feature, then we can easily imagine a being that is greater than God. 
 
-+ Premise 5 follows from Premises 1&4. It cannot be true both that God is the greatest possible being we can imagine and also that we can imagine a greater possible being. 
++ Premise 5 follows from Premises 2&4. It cannot be true both that God is the greatest possible being we can imagine and also that we can imagine a greater possible being. 
 
 + 6 states our conclusion. It may not be obvious how 6 follows from the premises. The core idea is that it is impossible for you to imagine that God does not exist. If you try, then you will be involved in the contradiction stated in 5. 
 

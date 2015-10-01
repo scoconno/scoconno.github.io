@@ -1,13 +1,11 @@
 ---
 layout: default
-title: SW2
+title: Short Writing Assignment 2
 ---
-
-# Short Writing Assignment 2
 
 ### Introduction
 
-There are many claims that you agree with. Many you don't. As a philosopher, your job is to think about the arguments for and against claims. It's not that important whether you believe the conclusions of these argument. What's important is your evaluation of the argument for those conclusions. In order to do that, you need to learn how to think with someone's views, even if they are radically different from your own. So, in this prompt you will be asked to defend the existence of God. Again, it's not important whether you believe that God does or does not exist. What's important is being able to work through the arguments on both sides.  
+There are many claims that you agree with. Many you don't. As a philosopher, your job is to think about the arguments for and against claims. It's not that important whether you believe the conclusions of these argument. What's important is your evaluation of the argument for those conclusions. In order to do that, you need to learn how to think with someone's views, even if they are radically different from your own. So, in this prompt you will be asked to defend the existence of God. Again, it's not important whether you believe that God does or does not exist. What's important is being able to work through the argument for his existence.  
 
 
 ### Plagiarism

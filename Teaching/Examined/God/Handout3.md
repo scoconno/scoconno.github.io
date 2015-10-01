@@ -3,18 +3,16 @@ layout: default
 title: The Problem of Evil
 ---
 
-# The Problem of Evil
-
 
 ## Introduction ##
 
-'The Problem of Evil' is a title given to a particular argument against God's existence. The argument points to an apparent inconsistency between the way the world actually is and the way world should be if God existed. For a very forceful way of putting the point, watch the following interview with Stephen Fry [here.](https://www.youtube.com/watch?v=-suvkwNYSQo)
+'The Problem of Evil' is a title given to an argument against God's existence. The argument points to an apparent inconsistency between the way the world actually is and the way world should be if God existed. For a very forceful way of putting the point, watch the following interview with Stephen Fry [here.](https://www.youtube.com/watch?v=-suvkwNYSQo)
 
 It is important to understand the kind of argument strategy that you will be encountering. Suppose that you were in a windowless room and received a text message that it is raining outside. This will generate an expectation: there should be water falling from the sky. If you walk outside and no water is falling from the sky, you will conclude that the text message erred, or perhaps conclude that someone was playing a prank on you. 
 
 In a similar way, many have observed that if God exists, the God of the Abrahamic religions at least, then we expect the world to be a certain way. Namely, we expect it to be a world in which there is no evil. However, when we look around the world, there clearly is evil. Just as we can conclude that it is not raining if there is no water falling from the sky, so too we can conclude, says the Atheist, that God doesn't exist since there is evil all around us. I outline the argument below and survey some responses. You can also watch a presentation of the argument [here.](https://www.youtube.com/watch?v=9pRzyioUKp0)
 
-##The Argument
+##God's Perfections
 
 Before I introduce the argument, note that the three Abrahamic religions attribute to God the following three qualities: 
 
@@ -25,9 +23,12 @@ Before I introduce the argument, note that the three Abrahamic religions attribu
 
 + God is omni-benevolent: God is all good. God has the thoughts, emotions, and responses that any good person would have. If good people feel angry when watching cruel behavior, God too would feel such anger. If good people think it's required of them to save the sick, the downtrodden, and the elderly, then God thinks that this is also required of him.
 
-If God is all loving, he would not want anyone to suffer. Since he is all powerful, he could bring it about that nobody suffers. And since he is all knowing, he knows both that suffering exists and knows how to alleviate it. For instance, God knows about each person who is being tortured as you read these notes, he has the power to stop it, and he wants to stop. If God is like this, then there should be no evil in the world. Unfortunately, there is evil in the world, so, the Atheist, claims God does not exist. Here is the argument: 
+If God is all loving, he would not want anyone to suffer. Since he is all powerful, he could bring it about that nobody suffers. And since he is all knowing, he knows both that suffering exists and knows how to alleviate it. For instance, God knows about each person who is being tortured as you read these notes, he has the power to stop it, and he wants to stop. If God is like this, then there should be no evil in the world. Unfortunately, there is evil in the world, so, the Atheist, claims God does not exist.
 
-2. If God exists, then He is omni-benevolent, omniscient, and omnipotent (call this "onmni+")
+
+## Summary of the argument
+
+1. If God exists, then He is omni-benevolent, omniscient, and omnipotent (call this "onmni+")
 2. If God is omni+, then evil does not exist. 
 3. Evil exists. 
 4. Therefore, God is not omni+ (from 2&3)
@@ -44,14 +45,11 @@ Premise 4 is an inference from 2&3. Since evil exists, there is no omni+ God.
 5 states our conclusion. Since there is no omni+ God, there is no God at all. 
 
 
-## Solutions  
+
 
 The argument as stated is valid. The conclusion does follow from the premises. The main point of contention is Premise 3. Theists have tried, in a number of ways, to argue that God's existence is, in fact, compatible with the existence of evil, i.e., they have tried to argue that God's being omni+ does not entail the non-existence of evil.  I will outline two solutions and responses to those solutions. 
 
-## Solution 1
-
-
-**Whole/Part Solution**
+## Whole/Part Solution
 
 + Suppose a whole, w, has a property F. 
 + Suppose a part, p, of w has the opposite property, not-F. 
@@ -67,21 +65,21 @@ This solution, though, is easily rebutted. The most fatal objection is that God 
 
 Similarly, if God is all powerful, he could have made it so that no dependency exists between good and evil, i.e., he could have created a world in which the goodness in a life does not depend on some part of that life being bad. If he is all good, then he would have gone ahead and created the world in this way. 
 
-Another way of putting this objection is that if God couldn't have made it so that goodness is independent of evil, then he is not all powerful. There would be one thing that he could not do. If, on the other hand, he could have made goodness independent of evil, but didn't, then he is not all good after all. Either way, if goodness depends on evil, then God does not exist. 
+Another way of putting this objection is that if God couldn't have made it so that goodness is independent of evil, then he is not all powerful. There would be one thing that he could not do. If, on the other hand, he could have made goodness independent of evil, but didn't, then he is not all good after all. Either way, if goodness depends on evil, then God as described by the Abrahamic religions, does not exist. 
  
 
 
-## Solution 2
+## The Free Will Response
 
 The most promising solution to the Problem of Evil is called **the Free Will Response.** It claims that evil is the product of free-will. While God could prevent this evil, this would undermine our freedom. Since he has decided that it is good for us to be free, he watches, sadly perhaps, as we use our freedom in evil ways. 
 
-Before I introduce this argument, let us note the following key assumption about the nature of freedom: a person S does P freely only if it is within S's power to not do P. For instance, I freely move my hand only if it is in my power to do otherwise. If, then, Mike Tyson takes my arm and uses it to hit my brother, I do not freely hit my brother---it was not in my power to do otherwise. Likewise, a person only freely saves a child or steals some bread if it is in their power to do otherwise. The argument:
+Before I introduce this argument, let us note the following key assumption about the nature of freedom: a person S does P freely only if it is within S's power to not do P. For instance, I freely move my hand only if it is in my power to do otherwise. If, then, Mike Tyson takes my arm and uses it to hit my brother, I do not freely hit my brother---it was not in my power to do otherwise. Likewise, a person only freely saves a child or steals some bread if it is in their power to do otherwise. Keeping this in mind, here is our Free Will Response: 
 
-1. The best thing for humans is free will. 
-5. Since God is Omni+, he would give humans what is best for them. 
-6. God created humans with free will (from 1 & 2)  
-6. Evil is either directly or indirectly caused by some person's free will. 
-7. Evil is compatible with God being omni+ (from 4 & 5)
+1. The best thing for humans is free will.
+2. Since God is Omni+, he would give humans what is best for them.
+3. God created humans with free will (from 1 & 2)
+4. Evil is either directly or indirectly caused by some person's free will.
+5. Evil is compatible with God being omni+ (from 4 & 5)
 
 Premise 1 is one we will all accept. The reason slavery is so abhorrent is precisely because it inhibits the basic freedom every human should be allowed to enjoy. The reason we raise our children to be responsible for their own actions is because we think being free to make your own choices is an essential feature of living a good life; an adult who could not make any of their own choices would be living an impaired life. 
 
@@ -95,7 +93,7 @@ Indirect cases are harder. They include instances where someone doesn't intend t
 
 5 states our conclusion: evil is not incompatible with an all good, all powerful, all knowing God.
 
-**Objections**
+## Objections
  
  
 1. Not all suffering, specially the suffering caused by natural disasters, is caused by human action. No person, or group of people, caused Hurricane Katrina. Of course, climate change is caused by humans and so future natural disasters may be caused by humans. But many past natural disasters were not caused by humans. 
