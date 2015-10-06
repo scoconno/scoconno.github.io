@@ -43,12 +43,15 @@ title: Zeno 1
 
 This handout will proceed by discussing Premise 2. See Handout 2 for discussion of Premise 3. I first outline Zeno's argument for Premise 2.  I then examine 3 different responses. 
 
+
 *Strategy:* Assume that space is infinitely divisible. Then argue that
 it is impossible to move from one place to another by showing that (a)
 doing so requires completing an infinite number of tasks, and (b) it is
 impossible to complete an infinite number of tasks.
 
-Zeno argues for premise 2 by using a number of paradoxes. The first is called *Racecourse*, which argues that it is impossible to complete an arbitrary journey from A to B - to start at A, move to B, and then stop: 
+Zeno argues for premise 2 by using a number of paradoxes. The first is called *Racecourse*, which argues that it is impossible to complete an arbitrary journey from A to B - to start at A, move to B, and then stop. 
+
+> The first asserts the non-existence of motion on the ground that that which is in locomotion must arrive at the half-way stage before it arrives at the goal. (Aristotle Physics, 239b11)
 
 A.  The distance between A and B is infinitely divisible (assumed).
 
@@ -67,6 +70,9 @@ E. It is impossible to complete the journey from A to B.
 + An inverted version of the paradox shows us that our traveler cannot begin to move. 
 + A different paradox, the Achilles paradox, shows us that in a race between Achilles and a tortoise, where the tortoise is given a head start, Achilles could never catch-up and pass the tortoise. 
 
+
+> The [second] argument was called “Achilles,” accordingly, from the fact that Achilles was taken [as a character] in it, and the argument says that it is impossible for him to overtake the tortoise when pursuing it. For in fact it is necessary that what is to overtake [something], before overtaking [it], first reach the limit from which what is fleeing set forth. In [the time in] which what is pursuing arrives at this, what is fleeing will advance a certain interval, even if it is less than that which what is pursuing advanced … . And in the time again in which what is pursuing will traverse this [interval] which what is fleeing advanced, in this time again what is fleeing will traverse some amount … . And thus in every time in which what is pursuing will traverse the [interval] which what is fleeing, being slower, has already advanced, what is fleeing will also advance some amount. (Simplicius(b) On Aristotle's Physics, 1014.10)
+
 ### Response 1: Reject C
 
 Some deny premise C by claiming that as we divide the distances of the journey, we should also divide the total time taken, and, further, that the sum of these infinite series of decreasingly short time intervals is still equal to a finite period of time. These denials assume that the argument for C is the following: 
@@ -78,7 +84,7 @@ Some deny premise C by claiming that as we divide the distances of the journey, 
 + C. Therefore, it is not possible to complete an infinite series of tasks.
 
 
-This argument for Premise C is valid, but some deny that it is not sound because C2 is false. They claim that it relies on the false assumption that completing an infinite series of tasks would take an infinite period of time. This seems false. As we divide the distances between the points we travel, we should also divide the time it takes to travel the ever smaller distances: 
+This argument for Premise C is valid, but some deny that it is not sound because C1 is false. They claim that it relies on the false assumption that completing an infinite series of tasks would take an infinite period of time. This seems false. As we divide the distances between the points we travel, we should also divide the time it takes to travel the ever smaller distances: 
 
 + It takes $\frac{1}{2}$ the time to run from A to $\frac{1}{2}AB$ as it does to run from A to B.
 

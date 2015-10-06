@@ -1,0 +1,221 @@
+\documentclass[]{article}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={Zeno 1},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\title{Zeno 1}
+\author{Scott O'Connor}
+
+\begin{document}
+\maketitle
+
+\subsubsection{Motion does not exist}\label{motion-does-not-exist}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Space is infinitely divisible or not infinitely divisible.
+\item
+  If space is infinitely divisible, motion is impossible.
+\item
+  If space is not infinitely divisible, motion is impossible.
+\item
+  Motion is impossible (From 1-3).
+\end{enumerate}
+
+\subsubsection{Premise 1 - the divisibility of
+space}\label{premise-1---the-divisibility-of-space}
+
+\begin{itemize}
+\item
+  If x is infinitely divisible, x can be divided into ever smaller parts
+  \emph{ad infinitum}. In other words, x contains no indivisible parts,
+  i.e.~parts that cannot further be divided.
+
+  \begin{itemize}
+  \item
+    For example, suppose that a line, L, is infinitely divisible. Lines
+    are divided into line segments. So every line segment of L can be
+    divided into further smaller line segments - there is no smallest
+    line segment.
+  \item
+    Think of this process of dividing something out as merely
+    conceptual. Don't worry whether or not we could literally do
+    something to x to divide it in this way.
+  \end{itemize}
+\item
+  If x is not infinitely divisible, x can be divided into a finite
+  number of \emph{smallest} parts, i.e.~parts that cannot be divided
+  into any smaller parts.
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    For example, suppose that a line, L, is not infinitely divisible.
+    Then L contains a finite number of smallest line segments, i.e.,
+    line segments with some smallest extent that cannot be divided into
+    any further line segments.
+  \end{itemize}
+\end{itemize}
+
+\subsection{Premise 2}\label{premise-2}
+
+This handout will proceed by discussing Premise 2. See Handout 2 for
+discussion of Premise 3. I first outline Zeno's argument for Premise 2.
+I then examine 3 different responses.
+
+\emph{Strategy:} Assume that space is infinitely divisible. Then argue
+that it is impossible to move from one place to another by showing that
+(a) doing so requires completing an infinite number of tasks, and (b) it
+is impossible to complete an infinite number of tasks.
+
+Zeno argues for premise 2 by using a number of paradoxes. The first is
+called \emph{Racecourse}, which argues that it is impossible to complete
+an arbitrary journey from A to B - to start at A, move to B, and then
+stop:
+
+\begin{enumerate}
+\def\labelenumi{\Alph{enumi}.}
+\item
+  The distance between A and B is infinitely divisible (assumed).
+\item
+  A journey from A to B is a series of sub-journeys with no last member:
+  from A to \(\frac{1}{2}AB\), from \(\frac{1}{2}AB\) to
+  \(\frac{3}{4}AB\), and so on.
+\item
+  It is impossible to complete a series of sub-journeys with no last
+  member.
+\item
+  Completing a journey from A to B, requires completing the series of
+  sub-journeys with no last member: from A to \(\frac{1}{2}AB\), from
+  \(\frac{1}{2}AB\) to \(\frac{3}{4}AB\), and so on.
+\item
+  It is impossible to complete the journey from A to B.
+\end{enumerate}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  An inverted version of the paradox shows us that our traveler cannot
+  begin to move.
+\item
+  A different paradox, the Achilles paradox, shows us that in a race
+  between Achilles and a tortoise, where the tortoise is given a head
+  start, Achilles could never catch-up and pass the tortoise.
+\end{itemize}
+
+\subsubsection{Response 1: Reject C}\label{response-1-reject-c}
+
+Some deny premise C by claiming that as we divide the distances of the
+journey, we should also divide the total time taken, and, further, that
+the sum of these infinite series of decreasingly short time intervals is
+still equal to a finite period of time. These denials assume that the
+argument for C is the following:
+
+\begin{itemize}
+\item
+  C1. Completing an infinite series of tasks would take an infinite
+  amount of time.
+\item
+  C2. It is not possible to spend an infinite amount of time completing
+  some task(s).
+\item
+  C. Therefore, it is not possible to complete an infinite series of
+  tasks.
+\end{itemize}
+
+This argument for Premise C is valid, but some deny that it is not sound
+because C2 is false. They claim that it relies on the false assumption
+that completing an infinite series of tasks would take an infinite
+period of time. This seems false. As we divide the distances between the
+points we travel, we should also divide the time it takes to travel the
+ever smaller distances:
+
+\begin{itemize}
+\item
+  It takes \(\frac{1}{2}\) the time to run from A to \(\frac{1}{2}AB\)
+  as it does to run from A to B.
+\item
+  It takes \(\frac{1}{4}\) of the time to run from \(\frac{1}{2}AB\) to
+  \(\frac{3}{4}AB\), and so on.
+\item
+  The sum of these decreasing times is finite.\footnote{See `A
+    Contemporary Look at Zeno's Paradoxes', by Wesley Salmon}
+\item
+  Therefore, we can complete an infinite series of sub-journeys in a
+  finite period of time.
+\end{itemize}
+
+Let us grant that C1-C2 fail to establish Premise C. There is an
+alternative way of defending Premise C that is immune to our current
+objection:
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Even if it takes less time to complete each sub-journey, I still need
+  to first complete each sub-journey before completing the journey that
+  comes after it. If so, I always have one more sub-journey to complete
+  before I can complete the final step.
+\end{itemize}
+
+Note that the response assumes that time is infinitely divisible, i.e.
+divisible into a infinite number of finite parts. We'll be re-visiting
+that assumption in Handout 2.
+
+\subsubsection{Response 2: Reject B}\label{response-2-reject-b}
+
+Aristotle claims that a journey from A to B is a series of
+\emph{potential} and not \emph{actual} sub-journeys, i.e.~the full
+journey does not consist of actual parts each of which are sub-journeys.
+The point here is that Zeno is defining journeys in terms of the space
+over which you travel. Aristotle responds by denying that journeys are
+individuated in this way.
+
+In order to evaluate this response, we need to investigate the nature of
+actions/activities and try to understand what is involved in completing
+them. In other words, if journeys are not individuated by the distance
+over which they occur, how are they individuated?
+
+\end{document}
