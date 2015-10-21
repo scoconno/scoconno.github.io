@@ -41,7 +41,7 @@ Write a dialogue between you and these two angels. In the mouth of the first ang
 + This assignment covers material contained in Ch.8.1--8.3.
 + Note that this is a dialog. Imagine the way dialogs go. There is some back and forth. There is humor. There are jibes. Characters have names. Write your dialog accordingly. See any play for some ideas on format. 
 + Allow your characters to question each other, rebut each other, etc.
-+ In explaining the argument that life is meaningless, make sure that the angel uses Tolstoy's fable of the cave. 
++ In explaining the argument that life is meaningless, make sure that the angel uses Tolstoy's fable. 
 + In explaining Tolstoy's subsequent claim that life is meaningful, be as specific as you can in explaining *what* that meaning consists in. 
 + Your choice should be guided by your evaluation of the two arguments. Don't merely say which conclusion you accept. This part of the dialog should focus on assessing the logic and premises of the respective arguments.   
 
