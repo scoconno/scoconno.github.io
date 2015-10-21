@@ -35,7 +35,7 @@ Some believe in the existence of an all loving, all powerful, all knowing God. U
 ### Further Instruction 
 
 + Write this paper pretending to be an Atheist. 
-+ This essay has three parts. The first asks you to use the Problem of Evil to disprove God's existence. The second asks you to explain one way the Atheist might respond and the third asks you to rebut that response. 
++ This essay has three parts. The first asks you to use the Problem of Evil to disprove God's existence. The second asks you to explain one way the Theist might respond and the third asks you to rebut that response. 
 + This is an academic paper. It must include a thesis statement, an introduction, conclusion, and proper citation. See the resources page for guidance on writing philosophy papers. 
 + Assume a hostile audience. You need to change the minds of the Theist. Be clear. Offer full, but concise explanations, etc. 
 + Coffee Test: I will spend no more than 15 minutes reading each paper. Write *clearly*!
