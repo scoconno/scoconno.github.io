@@ -7,23 +7,38 @@ title: Free Will
 
 ## Introduction
 
-Stuff here
 
+
+You likely think that you have control of your own destiny, that you have power over your future. You are free, you might think, to choose what to eat, who to date, and what career to pursue. It certainly does appear that way. When trying to decide between chocolate cake and a salad, it seems that I really do have it in my power to eat either of those things. If I eat the cake, I still could have eaten the salad and *vice versa*. 
+
+The appearance of free-will might, though, just be an illusion. It might not really have been in my power to eat the salad even though I thought that it was. Many have thought that free-will is illusory because it jars with our understanding of the physical universe. Our actions are just part of a long chain of causes and effects. And it seems that the facts about the earliest parts of the chain in conjunction with the laws of nature determine exactly how the rest of the chain must go; I can't choose my future because the past has already set it in stone. 
 
 ## Causal Determinism
 
+Our argument against free-will relies on two claims, one a general claim that applies to all events in the universe, a second a claim about what free-will would require of us. 
 
-**Causal determinism:** given a specified way things are at a time *t*, everything which happens at a time later than t is fixed as a matter of natural law.
+Causal determinism:
+: Given a specified way things are at a time *t*, everything which happens at a time later than *t* is fixed as a matter of natural law.
 
-**Free Will:** an agent, S, freely chooses to do F at time t1 if and only if it was up to S at time t to bring either F or not F about. 
+Consider a rock falling down a side of a mountain on Mars this morning. That rock was set in motion by some preceding event, perhaps a rover hit and dislodged it. Causal determinism says that the entire state of the universe this morning, including that rock falling down the mountain, was completely determined by the state at any time before this morning plus the laws governing motion, gravity, etc. This might seem far-fetched. But that's exactly what our scientific laws are; they determine how things will be in the future given how things are in the past. If, then, there was a God like scientist. By knowing the state of the universe 1000 years ago plus all the rules governing our universe, our God-like scientist would know for certain that the rock was going to fall this morning. 
 
-1. If S freely choose to do F at t1, then S's doing F is not fixed at times earlier than t1.
-2. If causal determinism is true, then S's doing F is fixed at times earlier than t1. 
-3. If causal determinism is true, then S does not freely choose to do F at t1.
-4. Causal determinism is true. 
-5. S does not feely choose to do F at t1. 
+Causal determinism seems to jar with a fairly ordinary sense free-will. 
+
+Free Will:
+: An agent, S, freely chooses to do F at time *t1* if and only if it was S's power at time *t1* to bring either F or not F about. 
+
+Suppose Mike Tyson force feeds me some cake. No-one would claim that I ate that cake freely. Since it was not in my power to not eat the cake, the eating was not in my power at all. Similarly, if you were forced to take a job, or forced to take a course, and it was not in your power to do otherwise, you would not be taking that job of pursuing that course of your own free-will. If you don't have the power to do otherwise, then it was never in your power in the first place. The problem is that Causal Determinism seems to say that it is never in our power to do otherwise: 
+
+*Argument Against Free-Will*
+
+1. If a person acts of her own free will, then she could have done otherwise.
+2. If determinism is true, no one can do otherwise than one actually does.
+3. Therefore, if determinism is true, no one acts of her own free will. 
 
 
+The key premise is 2. Recall that Causal Determinism says that states of the universe, including what you are doing at any particular time, are completely determined by how the universe was in the past, even the far far past, plus the laws of nature. If that's true, then my eating the cake was causally determined, it is already set in stone. In that case, I had no power to not eat the cake. Causal Determinism constrains my actions as much as Mike Tyson can constrain my actions. 
+
+Philosophers have been concerned with determining, first, whether Causal Determinism is really true, and, second, whether free-will can be found compatible with Causal Determinism: 
 
 --------
 
@@ -34,56 +49,29 @@ Stuff here
 
 
 
-## Compatibilism ##
+##Libertarianism
 
-Compatibilists accept Causal Determinism but they claim that humans are still morally responsible for their behavior and deserving of blame and punishment. If a person is morally responsible for their behavior, then they must have control over their own conduct. Compatibilists offer an alternative account of Free Will that they hope is a) compatible with Causal Determinism, and b) sufficient for moral responsibility. 
+Libertarians try rescue free-will by rejecting Causal Determinism. They are committed to the following 4 claims: 
 
+1.  Free Will & Causal Determinism are incompatible. 
+2.  Free Will requires that we have the power to *choose* between alternative possibilities...(emphasis on freedom of will and not merely of action)
+3.  Causal Determinism is false.
+4.  We sometimes act freely. 
 
-
-+ Causal Determinism: the facts of the past, in conjunction with the laws of nature, entail every truth about the future.
-
-*Argument Against Free-Will*
-
-1. If a person acts of her own free will, then she could have done otherwise.
-2. If determinism is true, no one can do otherwise than one actually does.
-3. Therefore, if determinism is true, no one acts of her own free will.
+The key claim is, of course, 3. Libertarians have argued for it in two very different ways. The first argues that humans are not purely physical creatures and that Causal Determinism applies to purely physical things. The second argues that proper attention to physics shows that Causal Determinism is false. 
 
 
+##Option 1: Dualism
+
+1. The mind/soul/will is not reducible to anything physical.
+2. The mind/soul/will is at least partially the cause of some of our actions. 
+3. Thus, some of our actions have non-physical causes. 
+4. Thus, some of our actions are not causally determined. 
+
+**Problem with 1:** How could a non-physical being be the cause of something physical? 
 
 
-**Compatibilists** deny claim 1. They offer an alternative account of Free-Will
-
-
-
-**Forking Path (rejected by compatibilists)**
-
-+ An agent has control over her conduct at a moment in time if she has the ability to select among, or choose between, alternative courses of action, i.e., choose between alternative future paths. 
-
-**Source of Action**
-
-+ An agent freely does F if 1) F arises from her internal states and character, and 2) are not forced by external conditions or agents. 
-
-####Problems####
-
-+ Note the distinction between freely *acting* a certain way and freely *choosing* to act a certain way. Compatibilists are claiming you act freely when your actions arises from your character. But can your actions be free if they you did not freely choose them? 
-+ Since the Compatibilist accepts Causal Determinism, they accept that your character is determined by the past. 
-+ If your character is shaped by circumstances outside your control, are the actions that arise from your character free? 
-
-
-
-
-
-
-##Libertarianism##
-
-+ Free Will & Causal Determinism are incompatible. 
-+ Free Will requires that we have the power to *choose* between alternative possibilities...(emphasis on freedom of will and not merely of action)
-+ Causal Determinism is false.
-+ We sometimes act freely. 
-
-**Strategy:** Proper attention to the nature of human persons shows us that our actions are not causally determined. 
-
-###Option 1: Physicalism###
+##Option 2: Physicalism
 
 + Proper attention to physics shows that Causal Determinism is false. 
 
@@ -96,17 +84,39 @@ Causal Determinism seems to require Classical Physics: the state of the universe
 **Problem:** We are not sub-atomic particles. How does the failure of Causal Determinism at the microscopic level, show that Causal Determinism is false at the macroscopic level?
 
 
-###Option 2: Dualism###
 
-1. The mind/soul/will is not reducible to anything physical.
-2. The mind/soul/will is at least partially the cause of some of our actions. 
-3. Thus, some of our actions have non-physical causes. 
-4. Thus, some of our actions are not causally determined. 
+## Compatibilism
 
-**Problem with 1:** How could a non-physical being be the cause of something physical? 
+Compatibilists accept Causal Determinism but they claim that humans are still morally responsible for their behavior and deserving of blame and punishment. If a person is morally responsible for their behavior, then they must have control over their own conduct. Compatibilists offer an alternative account of Free Will that they hope is a) compatible with Causal Determinism, and b) sufficient for moral responsibility. 
 
-##Yoga: The Freedom of Surrender##
+
+
+**Compatibilists** deny claim 1. They offer an alternative account of Free-Will
+
+
+
+**Forking Path (rejected by compatibilists)**
+
++ An agent has control over her conduct at a moment in time if she has the ability to select among, or choose between, alternative courses of action, i.e., choose between alternative future paths. 
+
+
+Give my car examples. 
+
+**Source of Action**
+
++ An agent freely does F if 1) F arises from her internal states and character, and 2) are not forced by external conditions or agents.
+
+Give some examples.  
+
+##Objections
+
+Note the distinction between freely *acting* a certain way and freely *choosing* to act a certain way. Compatibilists are claiming you act freely when your actions arise from your character. You do not But can your actions be free if they you did not freely choose them? 
+
+Since the Compatibilist accepts Causal Determinism, they accept that your character is determined by the past. 
++ If your character is shaped by circumstances outside your control, are the actions that arise from your character free? 
+
+
+
+##Yoga: The Freedom of Surrender
 
 "The Supreme Lord is situated in everyone's heart, O Arjuna, and is directing the wanderings of all living entities, who are seated as on a machine, made of the material energy."
-
-
