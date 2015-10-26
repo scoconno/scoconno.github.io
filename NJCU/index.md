@@ -19,10 +19,13 @@ title: Instructor Resources
 
 #### Approved Courses
 
-Consult the original proposal for the catalog description and relevant learning goals for the relevant course. 
+Consult the original proposal for the catalog description and learning goals.  
 
++ [Ethics in Everyday Life](Ethics.pdf)
 + [The Examined Life](Examined.pdf)
-+ Education
++ [The Philosophy of Education](Ed.pdf)
++ [Food, Philosophy, and Global Health](Food.pdf)
++ [Social Justice](Social.pdf)
 
 #### Sample Syllabi
 
@@ -41,10 +44,8 @@ Those teaching a GenEd  course must develop a signature assignment to assess the
 
 
 
-## Syllabi Cover Sheets
-
-Please consider appending these cover sheets to your syllabi. They include the standard NJCU blurb and should save you save time. 
-
+## Other
+Please let me know if there is anything else that might be useful to add here. 
 
 
 + [Syllabus Guidelines](syllabusguidelines.pdf)
