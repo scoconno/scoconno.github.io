@@ -17,3 +17,4 @@ title: Time
 ### The Arrows of Time
 
 + [Reading](arrows.pdf)
++ [Short Writing Assignment 3](SW3)
