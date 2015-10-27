@@ -3,9 +3,10 @@ layout: default
 title: Ethics
 ---
 
-# Normative Ethics
+## Normative Ethics
 
-+ [Notes 1](Handout)
-+ [Notes 2](Handout2)
++ [Handout 1](Handout)
++ [Handout 2](Handout2)
++ [Kirinyaga](Kirinyaga.epub) (read ch.1.)
 
 

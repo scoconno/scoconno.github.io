@@ -103,7 +103,7 @@ The argument for Cultural Relativism is called the *Cultural Differences Argumen
 1. If different cultures have different moral beliefs, then there are no objective moral truths. 
 2. Therefore, there are no objective moral truths. 
 
-Premise 1 has a wealth of evidence. The discipline of Anthropology catalogues and studies the plethora of different cultural differences across the globe. For some interesting examples, skim ['Anthropology and the Abnormal', by Ruth Benedict.](Benedict.pdf) The study of history provides plenty of other examples. The Callatians, on the one hand, thought one should eat the bodies of the dead. The Ancient Greeks, on the other hand, thought the practice abhorrent. 
+Premise 1 has a wealth of evidence. The discipline of Anthropology catalogues and studies the plethora of different cultural differences across the globe. For some interesting examples, skim ['Anthropology and the Abnormal'](Benedict.pdf), by Ruth Benedict. The study of history provides plenty of other examples. The Callatians, on the one hand, thought one should eat the bodies of the dead. The Ancient Greeks, on the other hand, thought the practice abhorrent. 
 
 Premise 2 is the crucial claim. Anthropologists report extreme variations in moral practices across the globe. There does not seem, they claim, to be any moral belief that is universally shared. This, of course, might come as a surprise. It would certainly have come as a surprise to those colonialists who tired to impose their cultural norms on the peoples whose lands they colonized, often in most horrific and violent ways. 
  
