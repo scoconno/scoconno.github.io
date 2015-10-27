@@ -1,38 +1,34 @@
-Character Traits
-
-3 features: 
-
-Traits are complex dispositions comprising sub-dispositions to notice, construe, think, desire, and act in characteristic ways. To be generous, for instance, is (among other things) to be disposed to notice occasions for giving, to construe ambiguous social cues charitably, to desire to give people things they want, need, or would appreciate, to deliberate well about what they want, need, or would appreciate, and to act on the basis of such deliberation.
-
-hey are not honest, courageous, or greedy,
 
 
-1. Robustness Claim: an individual with a particular character trait will exhibit trait-relevant behavior across a broad spectrum of trait-relevant situations. Such traits are said to be ``robust'' traits. For example, the Robustness Claim suggests that an honest person will tend to tell the truth in a wide range of honesty-related situations: honesty toward friends, family members, co-workers, students, etc. 
+## Character
 
-2. Stability Claim: traits are relatively stable over time. The Stability Claim doesn't preclude the possibility of an individual changing his moral character over time. Rather, it holds that such changes take time. A soldier who has courageously proven himself in battle situations over the course of numerous years will not cease to be courageous overnight. If the soldier does act non-courageously in a particular battle, the Stability Claim suggests that we should still think of the soldier as possessing the virtue of courage unless the soldier behaves non-courageously for a significant period of time.
+Compatibilists claim that an actions is our own just because it arises from our unique personality; if my character makes me eat the cake, then eating the cake, according to the compatibilist, is free. 
+ 
+Our personality is made up a variety of different traits like honesty, courage, greed, etc. Some people are honest and courageous. Some are honest, but cowardly. I will first make a few remarks about traits in general. I then discuss some evidence that there are no traits whatsoever. 
 
-3. Integrity Claim: there is a probabilistic correlation between having one virtue and having other virtues. For example, an individual who is temperate with regard to the pleasures derived from food (the virtue of abstinence) is likely to also be temperate with regard to the pleasures derived from sexual intercourse (the virtue of chastity). Likewise, an individual with a particular vice is likely to possess other vices. Here, the Integrity Claim suggests that an individual who is disposed to lie for monetary gain will likely also be disposed to cheat for monetary gain. The Traditional View thus expects a fairly high level of inter-trait consistency.
+Traits are complex dispositions to notice, construe, think, desire, and act in characteristic ways. To be generous, for instance, is to be disposed to notice occasions for giving, to construe ambiguous social cues charitably, to desire to give people things they want, need, or would appreciate, to deliberate well about what they want, need, or would appreciate, and to act on the basis of such deliberation.
+
+Character traits are normally characterized by three claims: 
+
+1. Robustness Claim: an individual with a particular character trait will exhibit trait-relevant behavior across a broad spectrum of trait-relevant situations. Such traits are said to be "robust" traits, e.g., an honest person will tend to tell the truth to friends, family members, co-workers, students, etc. 
+
+2. Stability Claim: traits are relatively stable over time.  A soldier who behaves courageously for a significant period of time is courageous. A soldier who behaves non-courageously for a significant period of time is not courageous. A soldier will not become or cease to be courageous overnight. 
+
+3. Integrity Claim: there is a correlation between having one trait and having another, e.g., a person who is temperate with regard to the pleasures derived from food is likely to also be temperate with regard to the pleasures derived from sexual intercourse. Likewise, an individual with a particular vice is likely to possess other vices. 
 
 
 
 ### Situationism
 
+Many have doubted that our behavior is always caused by internal character traits. Psychologists have been concerned to decide when the features of the situation we are in rather than our character traits cause our behavior. Some have argued that we have no character traits whatsoever and that all our behavior is caused by external factors: 
 
-Question the very presuppositions that we have character traits:
 
- John Doris captures this concern:
-
-> "I regard this renaissance of virtue with concern. Like many others, I find the lore of virtue deeply compelling, yet I cannot help noticing that much of this lore rests on psychological theory that is some 2,500 years old. A theory is not bad simply because it is old, but in this case developments of more recent vintage suggest that the old ideas are in trouble. In particular, modern experimental psychology has discovered that circumstance has surprisingly more to do with how people behave than traditional images of character and virtue allow (Doris 2002, ix)."
-
-In other words, the Traditional View of moral character is empirically inadequate (see also Mischel 1968).
-
-This criticism of the Traditional View began with attributionism, a branch of psychology that seeks to differentiate what is rightly attributable to an individual's character from what is rightly attributable to outside features. Much of attribution theory attributes a significantly higher proportion of the causal basis of behavior to external factors and less to moral character than traditionally thought. According to such theorists, most individuals overestimate the role of dispositional factors such as moral character in explaining an individual's behavior, and underestimate the role the situation plays in explaining an agent's behavior. 
+> "... modern experimental psychology has discovered that circumstance has surprisingly more to do with how people behave than traditional images of character and virtue allow (John Doris 2002, ix)."
 
 Gilbert Harmon expresses this idea as follows:
 
 > In trying to characterize and explain a distinctive action, ordinary thinking tends to hypothesize a corresponding distinctive characteristic of the agent and tends to overlook the relevant details of the agent's perceived situation.... Ordinary attributions of character traits to people are often deeply misguided and it may even be the case that there... [are] no ordinary traits of the sort people think there are (Harman 1999, 315f).
 
-Philosophers such as Doris and Harman have used this work in the social sciences to develop an alternative approach to moral character, commonly known as "Situationism."
 
 Situationism can be understood as comprised of three central claims:
 
