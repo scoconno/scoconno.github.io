@@ -11,7 +11,7 @@ title: Instructor Resources
 #### Writing a Proposal 
 
 + [Course Approval Guidelines](Guide.pdf)
-+ [Rubrics](Rubrics)
++ [Rubrics](/NJCU/Rubrics/)
 + [Application Cover Sheet](app.pdf)
 
 
@@ -19,7 +19,7 @@ title: Instructor Resources
 
 #### Approved Courses
 
-Consult the original proposal for the catalog description and learning goals. Note that you'll need to consult the rubrics below to understand the university wide learning goals in the proposals.    
+Consult these original proposal for the catalog description and learning goals. Note that you'll need to consult the rubrics above to understand the university wide learning goals listed in the proposals.    
 
 + [Ethics in Everyday Life](Ethics.pdf)
 + [The Examined Life](Examined.pdf)
