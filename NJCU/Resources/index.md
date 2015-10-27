@@ -19,7 +19,7 @@ title: Instructor Resources
 
 #### Approved Courses
 
-Consult the original proposal for the catalog description and learning goals.  
+Consult the original proposal for the catalog description and learning goals. Note that you'll need to consult the rubrics below to understand the university wide learning goals in the proposals.    
 
 + [Ethics in Everyday Life](Ethics.pdf)
 + [The Examined Life](Examined.pdf)
@@ -31,14 +31,16 @@ Consult the original proposal for the catalog description and learning goals.
 
 If/when you teach a GenEd course, please do consider sharing your syllabus.
 
-+ [The Examined Life](Link), O'Connor, Fall 215 
++ [The Examined Life](ExamSyl), O'Connor, Fall 215 
 
 
 
 
 #### Sample Signature Assignments
 
-Those teaching a GenEd  course must develop a signature assignment to assess the learning goal for the respective course. This will be assessed by an outside assessment team. I include here a sample. Please do send me more if/when you develop them: 
+Those teaching a GenEd course must develop a signature assignment to assess the learning goals for that course. This will be assessed by an outside assessment team. I include here a sample. Please do send me more if/when you develop them: 
+
++ [The Examined Life, Signature Assignment](Sig.pdf)
 
 
 
