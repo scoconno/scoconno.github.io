@@ -31,7 +31,7 @@ Consult these original proposal for the catalog description and learning goals. 
 
 If/when you teach a GenEd course, please do consider sharing your syllabus.
 
-+ [The Examined Life](ExamSyl), O'Connor, Fall 215 
++ [The Examined Life](ExamSyl.pdf), O'Connor, Fall 215 
 
 
 
