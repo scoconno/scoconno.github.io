@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.1)  1 NOV 2015 17:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.10.1)  1 NOV 2015 18:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -879,25 +879,25 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 113.
+(Font)              <10> on input line 114.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 113.
+(Font)              <7> on input line 114.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 113.
+(Font)              <5> on input line 114.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
  [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 178.
 
 (./Puzzles.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 178.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
 Package rerunfilecheck Info: File `Puzzles.out' has not changed.
 (rerunfilecheck)             Checksum: 5A4F4E9C016BD4E050B2286914392236;977.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 178.
  ) 
 Here is how much of TeX's memory you used:
  12123 strings out of 493091
@@ -906,7 +906,7 @@ Here is how much of TeX's memory you used:
  15324 multiletter control sequences out of 15000+600000
  70017 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,43p,554b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,11n,43p,536b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2015/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2015/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2015/texmf-dist
@@ -918,7 +918,7 @@ cal/texlive/2015/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2015/texmf-d
 ist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/lm/lmri10.pfb>
-Output written on Puzzles.pdf (4 pages, 236359 bytes).
+Output written on Puzzles.pdf (4 pages, 236599 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
