@@ -17,6 +17,7 @@ title: The Examined Life
 + [Office Hours](/Contact/office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
++ [Current Grade](/Teaching/Examined/Grade.xlsx)
 
 
 ## Modules
