@@ -22,8 +22,7 @@ Blackboard by 1:00pm. No late work accepted. No make-ups. No exceptions.
 4.  *11/09/2015,* [Essay 1—The Problem of
     Evil](http://scoconno.github.io/Teaching/Examined/God/Essay1)
 
-5.  *11/23/2015,* [Essay 2—Free
-    Will](http://scoconno.github.io/Teaching/Examined/FreeWill/Essay/)
+5.  *11/23/2015,* [Essay 2—Cultural Relativism](http://scoconno.github.io/Teaching/Examined/Ethics/Essay/)
 
 6.  *12/05/2015,* [Group Project–Draft 1
     Due](http://scoconno.github.io/Teaching/Examined/Applied/Group/)[^1]
