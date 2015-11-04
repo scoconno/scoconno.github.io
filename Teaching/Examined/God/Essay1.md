@@ -13,7 +13,7 @@ Please consult the syllabus and course website for the due date.
 
 ### Late Submissions
 
-Per the policies outlined in the syllabus, late work will not be accepted. As the policies also state, there are no make-ups or extra credit opportunities. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or commitments, then you should start this paper early and submit it early. 
+Per the policies outlined in the syllabus, late work will not be accepted. As the policies also state, there are no make-ups or extra credit opportunities. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early. 
 
 ### Format
 Please submit your paper as a word file. 

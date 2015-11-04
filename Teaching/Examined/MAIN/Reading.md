@@ -95,8 +95,7 @@ Module 5:
 
         1.  Ch.5.1–5.2
 
-        2.  \*\*‘Do Androids Dream of Electric Sheep’, Philip, K. Dick
-            (extract TBD)
+        2.  TBD
 
     2.  *11/03/2015,* Compatibilism
 
@@ -113,7 +112,7 @@ Module 6:
 
         1.  Ch.3.1–3.2.
 
-        2.  TBD
+        2.  **`Kirinyaga', ch.1. 
 
     2.  *11/16/2015,* Consequentialism & Deontology
 
