@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  3 NOV 2015 19:52
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  10 NOV 2015 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1455,19 +1455,19 @@ Overfull \hbox (0.90628pt too wide) in paragraph at lines 175--180
 
 [4] [5] [6]
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 6.26653pt on input line 324.
+(Font)              scaled to size 6.26653pt on input line 323.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 324.
+(Font)              <8> on input line 323.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 324.
+(Font)              <6> on input line 323.
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 5.3713pt on input line 324.
+(Font)              scaled to size 5.3713pt on input line 323.
  [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 340.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 340.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 340.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 340.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 339.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 339.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.

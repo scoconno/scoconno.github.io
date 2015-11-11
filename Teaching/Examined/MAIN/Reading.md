@@ -125,8 +125,6 @@ Module 6:
 
         1.  Ch.3.4–3.5
 
-        2.  \*\*‘Billy Budd’, Herman Melville (extract)
-
 Module 7:
 
 :   [Applied

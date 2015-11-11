@@ -53,7 +53,6 @@ Module 3:
 
         1.  Ch.8.3
 
-        2.  \*\*TBD
 
 Module 4: 
 
@@ -122,8 +121,6 @@ Module 6:
     3.  *11/17/2015,* Deontology & Virtue Ethics
 
         1.  Ch.3.4–3.5
-
-        2.  \*\*‘Billy Budd’, Herman Melville (extract TBD)
 
 Module 7:
 
