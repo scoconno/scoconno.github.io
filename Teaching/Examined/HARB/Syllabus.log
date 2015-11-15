@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  10 NOV 2015 19:34
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  15 NOV 2015 15:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1222,6 +1222,10 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write5
 \openout5 = `Syllabus.out'.
 
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1230,7 +1234,6 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Syllabus.bbl' not found.
-
 No file Syllabus.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
@@ -1238,113 +1241,135 @@ Package biblatex Info: Reference segment=0 on input line 32.
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952205882352941.
+. Minion Pro scale = 0.9840166104623617.
 .................................................
-\g__fontspec_family_Georgia_int=\count345
-.................................................
-. fontspec info: "set-scale"
-. 
-. Georgia scale = 0.8952205882352941.
-.................................................
+\g__fontspec_family_MinionPro_int=\count345
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/B scale = 0.8898059475806452.
+. Minion Pro scale = 0.9840166104623617.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/I scale = 0.8748141724479683.
+. Minion Pro scale = 0.9840166104623617.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/BI scale = 0.8696428571428571.
+. Minion Pro/B scale = 0.9840166104623617.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Minion Pro/B scale = 0.9840166104623617.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Minion Pro/I scale = 0.9840166104623617.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Minion Pro/I scale = 0.9840166104623617.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Minion Pro/BI scale = 0.9840166104623617.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. Minion Pro/BI scale = 0.9840166104623617.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Georgia(0)' created for font 'Georgia' with options
+. Font family 'MinionPro(0)' created for font 'Minion Pro' with options
 . [Scale=MatchLowercase,Ligatures=TeX,Mapping=tex-text].
 . 
 . This font family consists of the following shapes:
 . 
 . * 'normal' with NFSS spec.:
-. 
-. <->s*[0.8952205882352941]"Georgia/OT:script=latn;language=DFLT;mapping=tex-te
-xt;mapping=tex-text;"
+. <->s*[0.9840166104623617]"Minion
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'small caps' with NFSS spec.:
-. 
+. <->s*[0.9840166104623617]"Minion
+. Pro/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 . and font adjustment code:
 . 
 . 
 . * 'bold' with NFSS spec.:
-. 
-. <->s*[0.8898059475806452]"Georgia/B/OT:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;"
+. <->s*[0.9840166104623617]"Minion
+. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'bold small caps' with NFSS spec.:
-. 
+. <->s*[0.9840166104623617]"Minion
+. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 . and font adjustment code:
 . 
 . 
 . * 'italic' with NFSS spec.:
-. 
-. <->s*[0.8748141724479683]"Georgia/I/OT:script=latn;language=DFLT;mapping=tex-
-text;mapping=tex-text;"
+. <->s*[0.9840166104623617]"Minion
+. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'small caps' with NFSS spec.:
-. 
+. <->s*[0.9840166104623617]"Minion
+. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
 . and font adjustment code:
 . 
 . 
 . * 'bold italic' with NFSS spec.:
-. 
-. <->s*[0.8696428571428571]"Georgia/BI/OT:script=latn;language=DFLT;mapping=tex
--text;mapping=tex-text;"
+. <->s*[0.9840166104623617]"Minion
+. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;"
 . 
 . * 'bold small caps' with NFSS spec.:
-. 
+. <->s*[0.9840166104623617]"Minion
+. Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+smcp;"
+
 . and font adjustment code:
 . 
 .................................................
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 8.95218pt on input line 39.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 9.84024pt on input line 39.
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952174188640975.
-.................................................
-.................................................
-. fontspec info: "set-scale"
-. 
-. Georgia scale = 0.8952174188640975.
+. Minion Pro scale = 0.9840235779381846.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia scale = 0.8952174188640975.
+. Georgia scale = 0.8952269269776876.
+.................................................
+\g__fontspec_family_Georgia_int=\count346
+.................................................
+. fontspec info: "set-scale"
+. 
+. Georgia scale = 0.8952269269776876.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/B scale = 0.8898027973790324.
+. Georgia/B scale = 0.889812247983871.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/I scale = 0.8748110753221012.
+. Georgia/I scale = 0.8748203666997027.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Georgia/BI scale = 0.8696397783251233.
+. Georgia/BI scale = 0.8696490147783251.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Georgia(1)' created for font 'Georgia' with options
+. Font family 'Georgia(0)' created for font 'Georgia' with options
 . [Scale=MatchLowercase,WordSpace={1,0,0},PunctuationSpace=WordSpace,Mapping=te
 x-text,Scale=0.8].
 . 
@@ -1386,26 +1411,26 @@ x-text,Scale=0.8].
 . \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font =0\fontdimen 3\font
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
 .................................................
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 7.8722pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 20.40866pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 20.40866pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 14.16994pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 9.84024pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 24.48251pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 11.80829pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 18.56682pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 18.45447pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 12.81313pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 8.89801pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/bx/n' will be
-(Font)              scaled to size 22.13824pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 10.74261pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/Georgia(1)/m/n' will be
 (Font)              scaled to size 6.40002pt on input line 60.
 
-Overfull \hbox (8.85335pt too wide) in paragraph at lines 76--77
-\EU1/Georgia(0)/m/n/10 This course teaches students to identify and evaluate th
-ose beliefs that guide their thoughts
+Overfull \hbox (4.67142pt too wide) in paragraph at lines 76--77
+\EU1/MinionPro(0)/m/n/10 This course teaches students to identify and evaluate 
+those beliefs that guide their thoughts
  []
 
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
@@ -1419,48 +1444,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 100.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 100.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/it' will be
-(Font)              scaled to size 8.74817pt on input line 113.
-
-
-LaTeX Font Warning: Font shape `EU1/Georgia(0)/m/sc' undefined
-(Font)              using `EU1/Georgia(0)/m/n' instead on input line 115.
-
-[2]
-Overfull \hbox (1.10715pt too wide) in paragraph at lines 150--151
-\EU1/Georgia(0)/m/n/10 specifically acknowledged. Being a student at NJCU requi
-res you to follow [][]NJCU’s
- []
-
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/sc' will be
-(Font)              scaled to size 8.95218pt on input line 161.
-[3]
-Overfull \hbox (1.2265pt too wide) in paragraph at lines 162--163
-\EU1/Georgia(0)/m/sc/10 eating, leaving your seat, talking out of turn, and agg
-ression are prohibited. Penal-
- []
-
-
-Overfull \hbox (6.52568pt too wide) in paragraph at lines 169--170
-\EU1/Georgia(0)/m/sc/10 NJCU assessment team, which scores them using approved 
-program rubrics. While
- []
-
-
-Overfull \hbox (0.90628pt too wide) in paragraph at lines 177--186
-\EU1/Georgia(0)/m/sc/10 site at [][]www.njcu.edu/Specialized_Services.aspx[][] 
-(listed under Student Resources-
- []
-
-[4] [5]
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 6.26653pt on input line 316.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/it' will be
+(Font)              scaled to size 9.84024pt on input line 113.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/sc' will be
+(Font)              scaled to size 9.84024pt on input line 115.
+ [2] [3] [4] [5]
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 6.88817pt on input line 316.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 316.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 316.
-LaTeX Font Info:    Font shape `EU1/Georgia(0)/m/n' will be
-(Font)              scaled to size 5.3713pt on input line 316.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 5.90414pt on input line 316.
  [6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
@@ -1469,18 +1465,23 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 326.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 326.
 
 
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                Syllabus
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32571 strings out of 493706
- 587412 string characters out of 6145769
- 1169720 words of memory out of 5000000
- 35687 multiletter control sequences out of 15000+600000
- 6643 words of font info for 49 fonts, out of 8000000 for 9000
+ 32593 strings out of 493706
+ 588353 string characters out of 6145769
+ 1169673 words of memory out of 5000000
+ 35695 multiletter control sequences out of 15000+600000
+ 6691 words of font info for 55 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  63i,11n,105p,10385b,2442s stack positions out of 5000i,500n,10000p,200000b,80000s
 
