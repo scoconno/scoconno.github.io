@@ -21,7 +21,7 @@ accepted. No make-ups. No exceptions.
 
 5.  *11/13/2015,* Problem Set 4 (covers ch.8)
 
-6.  *11/25/2015,* Problem Set 5 (covers ch.5)
+6.  *11/29/2015,* Problem Set 5 (covers ch.5)
 
 7.  *12/11/2015,* Problem Set 6 (covers ch.9)
 
