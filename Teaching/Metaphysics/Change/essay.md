@@ -19,7 +19,7 @@ I have not supplied you with readings that deny the existence of temporal parts.
 
 ### Word Count
 
-1250--1500 words. Writing less than 12500 or more than 1500 words will lose you points. 
+1250--1500 words. Writing less than 1250 or more than 1500 words will lose you points. 
 
 
 ### Plagiarism
