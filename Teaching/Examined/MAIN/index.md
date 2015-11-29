@@ -34,6 +34,6 @@ title: The Examined Life
 + [Module 4](/Teaching/Examined/God)
 + [Module 5](/Teaching/Examined/FreeWill)
 + [Module 6](/Teaching/Examined/Ethics)
-+ [Module 7](/Teaching/Examined/Applied)
++ [Final Assignment](/Teaching/Examined/Applied/MAINSIG.pdf)
 
 
