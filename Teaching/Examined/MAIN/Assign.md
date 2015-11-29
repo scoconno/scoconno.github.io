@@ -24,7 +24,7 @@ Blackboard by 1:00pm. No late work accepted. No make-ups. No exceptions.
 
 5.  *11/23/2015,* [Essay 2—Ethics](http://scoconno.github.io/Teaching/Examined/Ethics/Essay/)
 
-6.  *12/05/2015,* [Group Project–Draft 1
+6.  *12/06/2015,* [Group Project–Draft 1
     Due](http://scoconno.github.io/Teaching/Examined/Applied/Group/)[^1]
 
 7.  *12/07/2015,* [Group
@@ -32,13 +32,10 @@ Blackboard by 1:00pm. No late work accepted. No make-ups. No exceptions.
 
 8.  *12/09/2015,* [Group
     Project–Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
-    [^3]
-
-9.  *12/15/2015,* [Group Project–Final Submission
+    
+8.  *12/14/2015,* [Group
+    Project–Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
+    
+9.  *12/18/2015,* [Group Project–Final Submission
     Due](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
 
-[^1]: Corrected 9/18/15
-
-[^2]: Ibid
-
-[^3]: Ibid
