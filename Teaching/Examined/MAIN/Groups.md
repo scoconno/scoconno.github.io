@@ -3,14 +3,14 @@ Title: Final Project Groups
 ---
 
 ### Group 1
-1. Jean Jacques 
-2. Christian Cooper
-3. Chloe Cason
+1. Christian Cooper
+2. Chloe Cason
+3. Ricardo Corado
 
 
 ### Group 2
 1. John Bianchino
-2. Ricardo Corado
+2. Jean Jacques 
 3. Elizabeth Danco
 
 ### Group 3
@@ -19,7 +19,7 @@ Title: Final Project Groups
 3. Oni Hernandez
 
 
-### Group 
-1. Eurana Lott
+### Group 4
+1. Eurana Lott 
 2. Donte Morgan
 3. Daviel Rodriguez

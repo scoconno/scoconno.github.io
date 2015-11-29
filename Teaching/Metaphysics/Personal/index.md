@@ -7,4 +7,4 @@ title: Personal Identity
 
 ## Personal Identity
 
-+ [Final Project](Final)
++ [Final Project](Final.pdf)
