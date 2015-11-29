@@ -30,6 +30,6 @@ Blackboard by 1:00pm. No late work accepted. No make-ups. No exceptions.
     Project–Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)[^1]
 
 8.  *12/15/2015,* [Group Project–Final Submission
-    due](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
+    due](http://scoconno.github.io/Teaching/Examined/Applied/MAINSIG.pdf)
 
 [^1]: Corrected 9/18/2015

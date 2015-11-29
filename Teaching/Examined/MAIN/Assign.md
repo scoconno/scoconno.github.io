@@ -9,7 +9,7 @@ title: Assignment Schedule
 This information is copied from the syllabus. 
 
 Dates refer to the due date. All assignments must be submitted through
-Blackboard by 1:00pm. No late work accepted. No make-ups. No exceptions.
+Blackboard. No late work accepted. No make-ups. No exceptions.
 
 1.  *09/21/2015,* Critical Thinking Quiz (in class)
 
@@ -24,18 +24,15 @@ Blackboard by 1:00pm. No late work accepted. No make-ups. No exceptions.
 
 5.  *11/23/2015,* [Essay 2—Ethics](http://scoconno.github.io/Teaching/Examined/Ethics/Essay/)
 
-6.  *12/06/2015,* [Group Project–Draft 1
-    Due](http://scoconno.github.io/Teaching/Examined/Applied/Group/)[^1]
+6.  *12/07/2015,* [Final Project–Research Documents Peer Review
+    Due](http://scoconno.github.io/Teaching/Examined/Applied/MAINSIG.pdf/)]
 
-7.  *12/07/2015,* [Group
-    Project–Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)[^2]
 
-8.  *12/09/2015,* [Group
-    Project–Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
+8.  *12/09/2015,* [Final Project-Documents Due to Blackboard by 9:55)](http://scoconno.github.io/Teaching/Examined/Applied/MAINSIG.pdf/)
     
-8.  *12/14/2015,* [Group
-    Project–Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
+8.  *12/14/2015,* [Final
+    Project–Group Presentations](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
     
-9.  *12/18/2015,* [Group Project–Final Submission
-    Due](http://scoconno.github.io/Teaching/Examined/Applied/Group/)
+9.  *12/18/2015,* [Final Project–Final Submission
+    Due](http://scoconno.github.io/Teaching/Examined/Applied/MAINSIG.pdf/)
 
