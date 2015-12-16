@@ -2,9 +2,9 @@
 layout: default
 title: Rubrics
 ---
+## Rubrics
 
-
-These are the rubrics for the 6 university wide learning goals. Each GenEd course must assess at least two:
+These are the rubrics for the 6 university wide learning goals:
 
 + [Civic Engagement](Civic.pdf)
 + [Oral Communication](Oral.pdf)
