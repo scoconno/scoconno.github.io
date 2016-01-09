@@ -1,25 +1,16 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  1 NOV 2011 23:29
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  29 NOV 2015 15:09
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **"Peer Review.tex"
 (./Peer Review.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
-c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
-h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
-h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
- icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
-iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
- lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
-ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
-ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
-.
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -33,14 +24,14 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/base/t1enc.def
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/local/texlive/2011/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip43
 \f@ncyO@elh=\skip44
 \f@ncyO@erh=\skip45
@@ -68,36 +59,33 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 17.
 
-(/usr/local/texlive/2011/texmf-dist/tex/latex/psnfss/t1ppl.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 56.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 62.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 56.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 62.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 56.
- [1{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 62.
+ [1
 
-] [2]
-(./Peer Review.aux) ) 
+]
+Overfull \hbox (5.10645pt too wide) in paragraph at lines 71--72
+[]\T1/ppl/m/n/10 Are quo-ta-tions clearly marked with quo-ta-tion marks and/or 
+block quotes? 
+ []
+
+[2] (./Peer Review.aux) ) 
 Here is how much of TeX's memory you used:
- 596 strings out of 493633
- 5904 string characters out of 3143378
- 55121 words of memory out of 3000000
- 3956 multiletter control sequences out of 15000+200000
- 18747 words of font info for 31 fonts, out of 3000000 for 9000
- 831 hyphenation exceptions out of 8191
- 35i,11n,43p,267b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2011/texmf-dist/fonts/enc/dvips/base/8
-r.enc}</usr/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><
-/usr/local/texlive/2011/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on "Peer Review.pdf" (2 pages, 43066 bytes).
-PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 587 strings out of 493706
+ 5766 string characters out of 6145769
+ 58568 words of memory out of 5000000
+ 3997 multiletter control sequences out of 15000+600000
+ 14220 words of font info for 24 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 35i,11n,43p,339b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on Peer Review.pdf (2 pages).
