@@ -17,6 +17,7 @@ title: Instructions
 + Practice some of the self-assessment exercises. Answers are in Appendix A of the text book.
 + Study [Handout 1](/Teaching/Examined/CT/Handout). Refer to the [answer key](/Teaching/Examined/CT/Answers) for answers to the self-assessment exercises. 
 + Re-read Ch.1.3.
++ Watch as many videos that you find interesting from [here](http://www.wi-phi.com/videos/Critical-Thinking?page=1)
 
 
 
