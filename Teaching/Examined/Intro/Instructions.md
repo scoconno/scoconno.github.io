@@ -28,5 +28,5 @@ This course has several modules, each one lasting 1-3 weeks. You will find links
 
 1. Read the syllabus carefully. Just as you would never take a prescription without reading the instructions first, do not start this course without reading the syllabus first.  
 2. Read my brief introduction to philosophy and watch the accompanying video clip. 
-3. Visit with me during office hours to ask questions, raise concerns, or just say 'hello'.
+3. Visit with me during [office hours](/Contact) to ask questions, raise concerns, or just say 'hello'.
 4. Complete the reading for our next meeting. See syllabus.

@@ -7,12 +7,12 @@ title: Critical Thinking Handout
 
 ## Work Sheet
 
-If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is on the website. 
+If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is on the website. **You do not submit answers to self-assessment exercises to me.**
 
 
 ## Introduction
 
-Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophy is first and foremost a rule governed tool for rationally forming and assessing the reasons for beliefs. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views. These reasons come in the form of **arguments** which prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
+Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views. These reasons come in the form of **arguments** which prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
 
 Philosophy, then, is concerned with critical thinking, which we will define as follow:
 
@@ -20,7 +20,7 @@ Philosophy, then, is concerned with critical thinking, which we will define as f
 
 : The systematic evaluation or formulation of beliefs, or statements by rational standards. 
 
-Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you devise new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful, or psychologically comforting they might be.
+Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you devise new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful, or psychologically comforting they might be. 
 
 Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are normally intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that, and that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
 
@@ -34,7 +34,7 @@ are outlined. I encourage you to read a section or two. Try the self-assessment 
 
 ## Arguments
 
-What is an argument? 
+What is an argument? (You might find this video [helpful](http://www.wi-phi.com/video/intro-critical-thinking)
 
 **Argument:** 
 
@@ -46,7 +46,7 @@ Arguments are embedded in the conversation we have with one another, the various
 + P2: Socrates is human. 
 + C: Socrates is mortal.
 
-P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many premises. For our purposes, we'll be focusing on relatively short arguments. Before we can learn to extract arguments we need to look closer at the elements of an argument
+P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many premises. For our purposes, we'll be focusing on relatively short arguments. Before we can learn to extract arguments we need to look closer at the elements of an argument. 
 
 ## Statements
 
@@ -171,13 +171,13 @@ What makes the connection appropriate will vary by the type of argument under co
 
 ## Deductive Arguments
 
-A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. 
+A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. (You find the [following video helpful](http://www.wi-phi.com/video/deductive-arguments)
 
-If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. 
+If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. See [here](http://www.wi-phi.com/video/validity) and [here](http://www.wi-phi.com/video/truth-and-validity) for more information on validity. 
 
 Note that the premises do not need to be true for an argument to be valid. Assessing an argument for validity asks us to suppose/imagine/hypothesize that the premises are  true (even if we know they are false), and then determine whether the conclusion must also be true given that supposition. Or, to put it differently, we want to know if there is any possible way the premises could be true and the conclusion false. If there is not, the argument is valid. If there is, then the argument is invalid. 
 
-A deductive argument is **sound** when (a) the argument is valid, and (b) the premises are true. 
+A deductive argument is **sound** when (a) the argument is valid, and (b) the premises are true. See [here](http://www.wi-phi.com/video/soundness) for more information on soundness. 	
 
 Note that a deductive argument can be valid without being sound. However, it cannot be both sound and invalid. 
 
