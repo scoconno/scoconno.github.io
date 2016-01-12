@@ -34,7 +34,7 @@ are outlined. I encourage you to read a section or two. Try the self-assessment 
 
 ## Arguments
 
-What is an argument? (You might find this video [helpful](http://www.wi-phi.com/video/intro-critical-thinking)
+What is an argument? (You might find []this video helpful](http://www.wi-phi.com/video/intro-critical-thinking).)
 
 **Argument:** 
 
@@ -171,7 +171,7 @@ What makes the connection appropriate will vary by the type of argument under co
 
 ## Deductive Arguments
 
-A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. (You find the [following video helpful](http://www.wi-phi.com/video/deductive-arguments)
+A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. (You find the [following video helpful](http://www.wi-phi.com/video/deductive-arguments).)
 
 If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. See [here](http://www.wi-phi.com/video/validity) and [here](http://www.wi-phi.com/video/truth-and-validity) for more information on validity. 
 
