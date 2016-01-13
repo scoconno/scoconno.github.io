@@ -15,7 +15,7 @@ Complete these tasks in order:
 + Reflect on the question on p.409
 + Identify what you believe by completing the self reflection survey on p.406
 + Read Chapter 9.1--9.2
-+ Study [Handout 1](/Teaching/Examined/Examined/Handout). 
++ Study [Handout 3](/Teaching/Examined/Examined/Handout3). 
 
 
 ## Assignments
