@@ -12,6 +12,9 @@ It is important to understand the kind of argument strategy that you will be enc
 
 In a similar way, many have observed that if God exists, the God of the Abrahamic religions at least, then we expect the world to be a certain way. Namely, we expect it to be a world in which there is no evil. However, when we look around the world, there clearly is evil. Just as we can conclude that it is not raining if there is no water falling from the sky, so too we can conclude, says the Atheist, that God doesn't exist since there is evil all around us. I outline the argument below and survey some responses. You can also watch a presentation of the argument [here.](https://www.youtube.com/watch?v=9pRzyioUKp0)
 
+
+https://www.youtube.com/watch?v=9pRzyioUKp0
+
 ##God's Perfections
 
 Before I introduce the argument, note that the three Abrahamic religions attribute to God the following three qualities: 
