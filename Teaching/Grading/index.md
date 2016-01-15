@@ -4,10 +4,7 @@ title: Grading
 ---
 
 
-# Grading
-
-I teach several courses and have various service and research commitments. So, 
-unless otherwise indicated, it can take up to two weeks for me to grade and return your assignments. 
+## Grading
 
 Assignments are graded using these two rubrics: 
 
@@ -16,6 +13,10 @@ Assignments are graded using these two rubrics:
 
 For the abbreviations used in the margin (normally only for longer assignments), see [here.](/Teaching/Abbreviations)
 
+
+## Timeline
+
+I teach several courses and have various service and research commitments. So, unless otherwise indicated, it can take up to two weeks for me to grade and return your assignments. 
 
 
 

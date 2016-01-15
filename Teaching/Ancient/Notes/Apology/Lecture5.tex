@@ -1,0 +1,141 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
+
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{verbatim}
+\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
+\usepackage{stmaryrd}
+%\usepackage{mathpartir}
+\usepackage{txfonts}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{fontspec}
+%\setmainfont{Hoefler Text}
+\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{hyperref}
+\usepackage{lastpage, fancyhdr}
+%\usepackage{setspace}
+\pagestyle{fancy}
+\lhead{}
+\chead{Lecture 5, Plato's \emph{Apology}\space---\space Handout} 
+\rhead{}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+\footskip=30 pt
+\headsep=20pt
+\thispagestyle{empty}
+\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{greek}
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\gk}[1]{\textgreek{#1}}
+\newcommand{\gloss}[1]{(\textgreek{#1})}
+
+\usepackage{covington}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\begin{document}
+
+%\maketitle
+\thispagestyle{empty}
+\begin{center} \LARGE{PHIL 321\\ Lecture 5: Plato's \emph{Apology}}\\ \vspace*{2mm}
+\large{9/12/2013}\end{center}
+\thispagestyle{empty}\vspace*{3mm}
+\vspace*{-8mm}
+\section*{Wrap-up from \emph{Euthyphro}}
+
+\noindent S's question: ``Is the pious loved by the gods because it's pious? Or is it pious because it's loved?'' (10a), is about the ``order of explanation,'' ``priority,'' or ``fundamentality'' of the relevant phenomena.
+\vspace*{2mm}
+
+\noindent He ultimately claims that the fact that a certain action is pious explains why (all) the gods love it, and not the other way round. This is why S says that E has identified (at best) a quality of piety, not the nature of piety.
+\vspace*{2mm}
+
+\noindent \textbf{``Euthyphro Dilemma''}: If certain actions were pious (right, wrong, obligatory, impermissible, etc.) \emph{because} they are dear to the gods (or commanded but God/the gods, etc.), we would ask why the gods love what they love. Either it is [A] \emph{arbitrary} what the gods love, or [B] the gods love what they do for \emph{reasons}. Either way, trouble looms:\begin{itemize}\item{[A] seems absurd (it is just obviously false that if the gods had happened to love rape, murder, etc. then rape, murder, etc. would be pious)}\item{If [B], it is the features of the actions in virtue of which the gods love them that explains why they are pious. The attitude of the gods is not what \emph{explains} or \emph{makes it the case} that they are pious} \end{itemize}
+\vspace*{-5mm}
+\section*{Basic structure of dialogue}
+17a--35d: S's main defense; found guilty
+\vspace*{2mm}
+
+\noindent 35e--38b: S proposes as ``punishment'' that he be given free meals in the Prytaneum; sentenced to death
+\vspace*{2mm}
+
+\noindent 38c--42a: S's parting words
+
+\vspace*{-3mm}
+\section*{Socratic ignorance: specific claims}
+
+\noindent [1] S does not know anything about ``physics''/natural philosophy (19c)
+\vspace*{2mm}
+
+\noindent [2] S does not know how to make people ``excellent'' (= virtuous) (20c)
+\vspace*{2mm}
+
+\noindent [3] S has (if anything) ``human wisdom'' = does not think he knows what he does not know (20--21d)
+\vspace*{2mm}
+
+\noindent [4] But: S grants the craftsmen know many things about their crafts (22d); how?
+\vspace*{2mm}
+
+\noindent These claims are typically stated with noun ``\emph{epist\^{e}m\^{e}}'' and verb ``\emph{epistasthai}''
+\vspace*{-3mm}
+
+\section*{What is human wisdom?}
+
+\noindent It seems clear that the scope of [3] covers ``the most important things''--seeming to mean moral or ethical truth; but, the meaning of his denial is controversial:\begin{itemize}\item{[3a] S has no (ethical) knowledge \emph{at all}; but, he does have (ethical) beliefs (if so, what does he take to be the status of those beliefs?)}\item{[3b] S has no technical or expert (ethical) knowledge, but does have non-technical knowledge}\item{[3c] (modification of 3b?) S lacks systematic (ethical) understanding but does have some piece-meal knowledge}\end{itemize}
+\vspace*{2mm}
+
+\noindent At 29b, Socrates claims, ``To act unjustly, on the other hand, to disobey someone better than oneself, whether god or man, that I do know (\emph{oida}) to be bad and shameful.''
+\vspace*{-4mm}
+\section*{The ``Elenchus'' (= ``test,'' ``cross-examining,'' ``method of (dis)proof'')}
+\noindent X = alleged knower; P, Q, R, etc. = propositions
+\begin{itemize}
+\item{S finds a claim X asserts, P}\item{S gets X to assert other claims, Q, R, ...}\item{S gets X to conclude (from Q, R, ...), not-P}\item{S gets (or tries to get) X to conclude that he does not know whether P}\end{itemize}
+\noindent This method shows, at the least, that X has an inconsistent belief set
+\vspace*{2mm}
+
+\noindent What kind of knowledge [1], [2], or [3] would this test for?
+\vspace*{-3mm}
+\section*{``The'' problem of the elenchus}
+\noindent S seems to think that elenchus is \emph{the} method of philosophical thought \emph{and} that philosophical thought is necessary for happiness, BUT
+\vspace*{2mm}
+
+\noindent A consistent set of beliefs can still be false, so what would be the upshot even if someone ``survived'' the elenchus?
+
+\begin{itemize}\item{How, despite this, could S think the elenchus can be employed to make progress?}
+\end{itemize}
+\vspace*{-3mm}
+\section*{What matters in life, according to Socrates}
+
+\noindent The state of one's soul (\emph{psuch\^{e}}) is of the utmost importance (29e, 30b). Is it the \emph{only} thing that matters? Or just the most important?
+\vspace*{2mm}
+
+\noindent The translation of 30b3-5 is controversial:
+\vspace*{1mm}
+
+\noindent ``It's not from wealth that virtue comes, but from virtue comes money, and all the other things that are good for human beings, both in private and in public life.'' [Grube]
+\vspace*{2mm}
+
+\noindent ``It's not from wealth that virtue comes, but from virtue money and all the other things become good for human beings, both in private and in public life.'' [Alternative]
+\vspace*{2mm}
+
+\noindent The fear of death should not lead people to act unjustly, impious, etc.
+
+\begin{itemize}\item{Socrates paints two possible pictures of what death is like, neither of which he thinks we should fear (40c--41c)}\begin{itemize}\item{A dreamless sleep}\item{Existence in Hades with other deceased people}\end{itemize}\end{itemize}
+
+\end{document}
