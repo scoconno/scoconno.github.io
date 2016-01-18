@@ -3,7 +3,7 @@ layout: default
 title: Office Hours
 ---
 
-###  Office Hours
+##  Office Hours
 
 + Office: Karnoutsos Hall 606
 	+ M&W 9:30--11:30 (K606)
