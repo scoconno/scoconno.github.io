@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  18 JAN 2016 13:18
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  18 JAN 2016 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1222,10 +1222,6 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write5
 \openout5 = `Syllabus.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1234,6 +1230,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Syllabus.bbl' not found.
+
 No file Syllabus.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
@@ -1534,15 +1531,6 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
  (./Syllabus.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 332.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 332.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Syllabus
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
@@ -1550,7 +1538,7 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  32607 strings out of 493706
  589190 string characters out of 6145769
- 1169624 words of memory out of 5000000
+ 1169671 words of memory out of 5000000
  35704 multiletter control sequences out of 15000+600000
  5207 words of font info for 55 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
