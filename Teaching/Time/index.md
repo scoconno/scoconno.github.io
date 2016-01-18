@@ -9,7 +9,7 @@ Culture, Ideas and Values IV
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
-+ [Additional Reading](/Readings/)
++ [Additional Reading](Readings/)
 + [Grading Information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
