@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  15 JAN 2016 11:48
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  18 JAN 2016 15:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1496,25 +1496,27 @@ x-text,Scale=0.8].
 . \fontdimen 4\font =0\fontdimen 4\font \fontdimen 7\font =0\fontdimen 2\font 
 .................................................
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 7.8722pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 20.40866pt on input line 60.
+(Font)              scaled to size 7.8722pt on input line 61.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 20.40866pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 18.46902pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 12.82323pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 8.90503pt on input line 60.
-LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 22.15572pt on input line 60.
+(Font)              scaled to size 7.8722pt on input line 61.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 11.80829pt on input line 60.
+(Font)              scaled to size 20.40866pt on input line 61.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 20.40866pt on input line 61.
+LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 18.46902pt on input line 61.
+LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 12.82323pt on input line 61.
+LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 8.90503pt on input line 61.
+LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 22.15572pt on input line 61.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 11.80829pt on input line 61.
 LaTeX Font Info:    Font shape `EU1/MinionPro(1)/m/n' will be
-(Font)              scaled to size 6.40002pt on input line 60.
+(Font)              scaled to size 6.40002pt on input line 61.
 LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 10.68604pt on input line 71.
+(Font)              scaled to size 10.68604pt on input line 72.
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
@@ -1523,36 +1525,36 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 10.77505pt on input line 89.
+(Font)              scaled to size 10.77505pt on input line 90.
 LaTeX Font Info:    Font shape `EU1/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 9.75099pt on input line 89.
+(Font)              scaled to size 9.75099pt on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 92.
+(Font)              <7> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 92.
+(Font)              <5> on input line 93.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/it' will be
-(Font)              scaled to size 9.84024pt on input line 108.
+(Font)              scaled to size 9.84024pt on input line 109.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 116.
+(Font)              scaled to size 9.84024pt on input line 117.
  [2]
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 143.
+(Font)              scaled to size 9.84024pt on input line 146.
  [3] [4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 296.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 296.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 296.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 296.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 299.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 299.
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32607 strings out of 493706
- 589589 string characters out of 6145769
- 1169720 words of memory out of 5000000
- 35713 multiletter control sequences out of 15000+600000
- 5175 words of font info for 51 fonts, out of 8000000 for 9000
+ 32609 strings out of 493706
+ 589691 string characters out of 6145769
+ 1170655 words of memory out of 5000000
+ 35714 multiletter control sequences out of 15000+600000
+ 5183 words of font info for 52 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  63i,11n,105p,10385b,2442s stack positions out of 5000i,500n,10000p,200000b,80000s
 
