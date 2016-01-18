@@ -22,6 +22,8 @@ title: God
 
 ### Assignments
 
-+ [Short Writing Assignment 2](SW2)
++ [Short essay 2](SW2)
++ [Short essay 3](SW3)
+
 
 
