@@ -4,14 +4,6 @@ title: Free Will
 ---
 
 
-
-## Introduction
-
-
-You likely think that you have control of your own destiny, that you have power over your future. You are free, you might think, to choose what to eat, who to date, and what career to pursue. It certainly does appear that way. When trying to decide between chocolate cake and a salad, it seems that I really do have it in my power to eat either of those things. If I eat the cake, I still could have eaten the salad and *vice versa*. 
-
-The appearance of free-will might, though, just be an illusion. It might not really have been in my power to eat the salad even though I thought that it was. Many have thought that free-will is illusory because it jars with our understanding of the physical universe. Our actions are just part of a long chain of causes and effects. And it seems that the facts about the earliest parts of the chain in conjunction with the laws of nature determine exactly how the rest of the chain must go; I can't choose my future because the past has already been set it in stone. 
-
 ## Causal Determinism
 
 Our argument against free will relies on two claims, one a general claim that applies to all events in the universe, a second a claim about what free will would require of us. 
@@ -47,39 +39,7 @@ Philosophers have been concerned with determining, first, whether Causal Determi
 
 
 
-##Libertarianism
 
-Libertarians try rescue free will by rejecting Causal Determinism. They are committed to the following 4 claims: 
-
-1.  Free Will & Causal Determinism are incompatible. 
-2.  Free Will requires that we have the power to *choose* between alternative possibilities...(emphasis on freedom of will and not merely of action)
-3.  Causal Determinism is false.
-4.  We sometimes act freely. 
-
-The key claim is, of course, 3. Libertarians have argued for it in two very different ways. The first argues that humans are not purely physical creatures and that Causal Determinism applies only to purely physical creature. The second argues that proper attention to physics shows that Causal Determinism is false. 
-
-
-##Option 1: Dualism
-
-1. The mind/soul/will is not reducible to anything physical.
-2. The mind/soul/will is at least partially the cause of some of our actions. 
-3. Thus, some of our actions have non-physical causes. 
-4. Thus, some of our actions are not causally determined. 
-
-**Problem with 1:** How could a non-physical being be the cause of something physical? 
-
-
-##Option 2: Physicalism
-
-+ Proper attention to physics shows that Causal Determinism is false. 
-
-Classical Physics: exact, simultaneous values can be assigned to all physical quantities, e.g., the position and momentum of a particle. 
-
-Quantum Physics: no exact, simultaneous values can be assigned to all physical quantities, e.g., no exact value can be assigned to both the position and momentum of each particle: the more precisely the position (momentum) of a particle is given, the less precisely can one say what its momentum (position) is. 
-
-Causal Determinism seems to require Classical Physics, which says that  the state of the universe is determined by the fixed state of the universe at some previous time plus the law of nature. But Quantum Physics tells us that the state of universe at each time is not totally fixed!!! 
-
-**Problem:** We are not sub-atomic particles. How does the failure of Causal Determinism at the microscopic level, show that Causal Determinism is false at the macroscopic level?
 
 
 

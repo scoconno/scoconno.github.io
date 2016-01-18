@@ -6,7 +6,8 @@ title: Free will
 ## Free will
 
 
-+ [Handout](Handout1)
-+ [Essay 2](Essay)
++ [Notes 1](Handout1)
++ Notes 2
++ [Short essay 4](SW)
 
 
