@@ -4,12 +4,17 @@ title: Final Project
 ---
 
 ## Applied Ethics: Final Project
+
+
 Applied Ethicists are more concerned with particular, practical cases than with more abstract theoretical questions. They want to know how, if at all, a hospital should distribute donated organs, whether it is permissible to bribe officials in foreign states to do business, etc. The questions listed below are all hot topics in the United States. Your job will be to answer them as an Applied Ethicist.
 
 
-## Pick a Topic
 
-Each group picks one of the questions from the list below. 
+
+
+## Prompt
+
+Pick one of the following questions and complete the documents requested below:
 
 1.  Is it permissible to abort a fetus?
 
@@ -33,22 +38,17 @@ Each group picks one of the questions from the list below.
 10. Should we curb climate change for the sake of future generations?
 
 
-## Prompt
+#### Required documents
 
+1.  After researching articles at [www.nj.com](http://www.nj.com) from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for New Jersey. What are the likely major downsides and benefits for New Jersey if the  policy is changed? Provide full citations to the newspaper articles.
 
-Write three short documents:
+2.  After researching articles at www.nj.com, identify some specific individuals from New Jersey who have been affected by your chosen issue. Detail the real life downsides and benefits to everyone involved. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. 
+  
 
-1.  After researching articles at [www.nj.com](http://www.nj.com) from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major downsides and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles.
+## Further Instructions
 
-2.  After researching articles at www.nj.com, identify some specific individuals who have been affected by your chosen issue. Detail the real life downsides and benefits to everyone involved. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. 
-3. 
-3.  Explain both act utilitarianism and rule utilitarianism. How are
-    they different? 
+To be determined
 
-
-**Prompt:** Compare and contrast how the act and rule utilitarian would
-answer your chosen question. Which theory has the most unsettling
-consequences? Give reasons for your answer. 
 
 
 
