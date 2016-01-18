@@ -16,7 +16,7 @@ Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find 
 + [Grading Information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
-+ [Office Hours](/Contact/office)
++ [Office Hours](/Contact/Office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 

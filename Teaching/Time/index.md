@@ -13,7 +13,7 @@ Culture, Ideas and Values IV
 + [Grading Information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
-+ [Office Hours](/Contact/office)
++ [Office Hours](/Contact/Office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
