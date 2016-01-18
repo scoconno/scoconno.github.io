@@ -8,5 +8,5 @@ title: CT
 
 + [Instructions](Instructions)
 + [Reading](ch1.3.pdf)
-+ [Handout](Handout)
++ [Notes](Handout)
 + [Answer Key](Answers)
