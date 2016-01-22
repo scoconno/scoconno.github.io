@@ -10,7 +10,7 @@ In the *Apology*, Socrates defends himself against a number of charges. Clearly 
 
 #### Further Instruction ####
 
-+ Please write 400-600 words. No more. No less. 
++ Please write 250-500 words. No more. No less. 
 + Submit your responses by Mon. @ 1pm. 
  
 

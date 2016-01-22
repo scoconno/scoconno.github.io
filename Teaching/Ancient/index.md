@@ -7,7 +7,7 @@ title: Ancient
 
 ## Introduction ##
 
-Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find here the syllabus, links, announcements, and occasional notes. For now, please make yourself familiar with this site, purchase/rent the textbook, and take at the syllabus.  
+Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find here the syllabus, links, announcements, and occasional notes. For now, please make yourself familiar with this site, purchase/rent the textbook, and take a look at the syllabus.  
 
 
 
@@ -21,9 +21,16 @@ Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find 
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
 
+## Additional Reading
+
++ [*Euthyphro* ](http://classics.mit.edu/Plato/euthyfro.html) for week 2. If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
+
+
+
 ## Greek Links ##
 
-+ A nice documentary on Ancient Greece: <https://www.youtube.com/watch?v=vHMu2gVzspA>
-+ An interactive site: <http://www.ancientgreece.co.uk/>
-+ An interactive version of Raphael's *School of Athens*: <http://agutie.homestead.com/files/school_athens_map.html>
-+ The Acropolis reconstructed: <https://www.youtube.com/watch?v=DMccsbWFAok>
++ [A nice documentary on Ancient Greece](https://www.youtube.com/watch?v=-dwWocwd160)
++ [An interactive site](http://www.ancientgreece.co.uk/)
++ [An interactive version of Raphael's *School of Athens*](http://agutie.homestead.com/files/school_athens_map.html)
++ [The Acropolis reconstructed](https://www.youtube.com/watch?v=DMccsbWFAok)
+

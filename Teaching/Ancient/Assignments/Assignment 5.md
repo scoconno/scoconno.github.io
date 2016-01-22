@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Assignment 5
+title: Short Essay 3
 ---
+
+## Short Essay 3
 
 #### Prompt ####
 
@@ -10,5 +12,5 @@ After declaring the ideal city established, Socrates turns to locate the four vi
 
 #### Further Instruction ####
  
-+ Write 400-600 words. No more. No less. 
++ Write 250-500 words. No more. No less. 
 + Submit your responses by Mon. @ 1pm.
