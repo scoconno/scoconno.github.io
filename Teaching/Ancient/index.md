@@ -30,6 +30,10 @@ All assignments are due through Blackboard. See the links in the 'assignment' pa
 
 + [*Euthyphro* ](http://classics.mit.edu/Plato/euthyfro.html) for week 2. If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
 
+## Handouts
+
++ [Week 1: Introduction](Teaching/Ancient/Notes/Introduction/Lecture 1.pdf)
++ [Week 2: *Euthyphro*](Teaching/Ancient/Notes/Euthyphro/Lecture 4.pdf)
 
 
 ## Greek Links ##
