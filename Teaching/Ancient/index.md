@@ -25,6 +25,12 @@ All assignments are due through Blackboard. See the links in the 'assignment' pa
 
 + [Short Essay 1](/Teaching/Ancient/Assignments/Short1) 
 + [Short Essay 2](/Teaching/Ancient/Assignments/Short2) 
++ [Long Essay 1](/Teaching/Ancient/Assignments/Long1)
++ [Short Essay 3](/Teaching/Ancient/Assignments/Short3)
++ [Short Essay 4](/Teaching/Ancient/Assignments/Short4)
++ [Long Essay 2](/Teaching/Ancient/Assignments/Long2)
++ [Short Essay 5](/Teaching/Ancient/Assignments/Short5)
++ [Long Essay 3](/Teaching/Ancient/Assignments/Long3)
  
 
 

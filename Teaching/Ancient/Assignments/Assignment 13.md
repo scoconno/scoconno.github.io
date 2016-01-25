@@ -3,6 +3,8 @@ layout: default
 title: Assignment 13
 ---
 
+
+
 ####Reading####
 
 Our focus next week will be on Epicurus.

@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Assignment 1
+title: Short Essay 2
 ---
 
-#### Prompt ####
+## Short Essay 2
 
-In the *Apology*, Socrates defends himself against a number of charges. Clearly outline these charges, then discuss, in detail, how he defends himself against *one* of them. Do you think his defense is a good one? Why? Why not? 
+*NB: This assignment will be confirmed closer to the due date. I provide it here for reference only.*
 
+### Prompt
 
-#### Further Instruction ####
+In the *Apology*, Socrates defends himself against a number of charges. Clearly outline these charges, then discuss, in detail, how he defends himself against *one* of them. 
+
+### Further Instruction 
 
 + Please write 250-500 words. No more. No less. 
 + Submit your responses by Mon. @ 1pm. 
