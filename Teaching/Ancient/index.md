@@ -23,7 +23,9 @@ Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find 
 ## Assignments
 All assignments are due through Blackboard. See the links in the 'assignment' pages for the Blackboard site for this course. Those links include information on when the assignments are due. You can also find the dates on the [syllabus](Syllabus.pdf). Recall that you must complete 3 out of 5 short essays, and 2 out of 3 long essays. 
 
-1. [Short Essay 1](/Teaching/Ancient/Assignments/Short1) 
++ [Short Essay 1](/Teaching/Ancient/Assignments/Short1) 
++ [Short Essay 2](/Teaching/Ancient/Assignments/Short2) 
+ 
 
 
 ## Additional Reading
