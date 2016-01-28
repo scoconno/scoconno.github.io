@@ -3,7 +3,6 @@ layout: page
 title: Contact
 ---
 
-###  Details
 
 + Dr. Scott O'Connor 
 + Office: Karnoutsos Hall 606
