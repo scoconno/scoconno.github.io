@@ -41,7 +41,7 @@ All assignments are due through Blackboard. See the links in the 'assignment' pa
 ## Handouts
 
 + [Week 1: Introduction](Teaching/Ancient/Notes/Introduction/Lecture 1.pdf)
-+ [Week 2: *Euthyphro*](Teaching/Ancient/Notes/Euthyphro/Lecture 4.pdf)
++ [Week 2: *Euthyphro*](Teaching/Ancient/Notes/Euthyphro/Lecture4.pdf)
 
 
 ## Greek Links ##
