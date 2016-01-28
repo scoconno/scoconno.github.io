@@ -1,17 +1,33 @@
 \documentclass[10 pt]{article}
 
-%\usepackage{fontspec}
-%\defaultfontfeatures{Mapping=tex-text}
-%\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont{Minion Pro}
 
-%\usepackage[usenames,dvipsnames]{color}
 %\usepackage{graphicx}
 %\usepackage{fullpage}
+\usepackage{pdfpages}
+\usepackage{lastpage, fancyhdr}
+\pagestyle{fancy}
+\lhead{Scott O'Connor}
+\chead{Phil 234} 
+\rhead{\emph{Euthyphro}}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+
+\thispagestyle{empty}
+
 
 \begin{document}
 \author{Phil 234}
-\title{\emph{Euthyphro}}
+\title{Euthyphro}
+
 \maketitle
+
+
+
+
 
 
 \section*{Overview}
