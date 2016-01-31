@@ -61,7 +61,7 @@ How do these remarks prove Premises 2 and 3? Let's take each in turn. Recall tha
 - (a) I will find some project/goal valuable over a long period of time, only if I believe that project/goal is externally valuable. 
 - (b) None of my projects/goals are externally valuable.
 - (c) I will inevitably discover that my projects/goals have no external value. 
-- (d) I will inevitably cease to find internal value in my life (from a--c).
+- (d) I will inevitably cease to find internal value in my life (from a-c).
 - (e) I will inevitably cease to find life choice worthy (from d)
 
 
