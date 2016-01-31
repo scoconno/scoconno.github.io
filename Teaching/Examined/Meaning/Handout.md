@@ -58,11 +58,11 @@ This fable, says Tolstoy, depicts the life each of us live. The dragon and beast
 How do these remarks prove Premises 2 and 3? Let's take each in turn. Recall that Premise 2 states that life has internal value only if it has external value. As a corollary, if life has no external value, then it has no internal value. Tolstoy's argument for this claim is hard to discern, but seems to rely on claims about human psychology: 
 
 
-- (a) I will find some project/goal valuable over a long period of time, only if I believe that project/goal is externally valuable. 
-- (b) None of my projects/goals are externally valuable.
-- (c) I will inevitably discover that my projects/goals have no external value. 
-- (d) I will inevitably cease to find internal value in my life (from a-c).
-- (e) I will inevitably cease to find life choice worthy (from d)
++ (a) I will find some project/goal valuable over a long period of time, only if I believe that project/goal is externally valuable. 
++ (b) None of my projects/goals are externally valuable.
++ (c) I will inevitably discover that my projects/goals have no external value. 
++ (d) I will inevitably cease to find internal value in my life (from a-c).
++ (e) I will inevitably cease to find life choice worthy (from d)
 
 
 Let's hold our discussion of (c) until the next section and focus on (a) and (b). Tolstoy's doesn't do much to motivate (a), but it does seem to apply to a large number of people. Suppose, for instance, you dedicate your life to eradicating poverty, or writing the greatest novel, or caring for your children. 
