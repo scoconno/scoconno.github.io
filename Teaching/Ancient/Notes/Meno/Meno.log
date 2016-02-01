@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  28 JAN 2016 12:17
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  31 JAN 2016 19:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Lecture 7 (9:19).tex"
-(./Lecture 7 (9:19).tex
+**Meno.tex
+(./Meno.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
@@ -416,8 +416,8 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 \f@ncyO@olf=\skip56
 \f@ncyO@orf=\skip57
 )
-(./Lecture 7 (9:19).aux)
-\openout1 = `"Lecture 7 (9:19).aux"'.
+(./Meno.aux)
+\openout1 = `Meno.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -435,8 +435,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 22.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 22.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 22.
@@ -514,28 +513,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 25.
 
-Runaway argument?
-{
-./Lecture 7 (9:19).tex:28: Paragraph ended before \@sect was complete.
-<to be read again> 
-                   \par 
-l.28 
-     
+[1
+
+]
+./Meno.tex:72: Undefined control sequence.
+l.72 \newthought
+                {Argument for P2:}
 ? 
-./Lecture 7 (9:19).tex:28: Emergency stop.
-<to be read again> 
-                   \par 
-l.28 
-     
+./Meno.tex:72: Emergency stop.
+l.72 \newthought
+                {Argument for P2:}
 End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 14331 strings out of 493706
- 298541 string characters out of 6145769
- 307455 words of memory out of 5000000
- 17634 multiletter control sequences out of 15000+600000
- 6504 words of font info for 39 fonts, out of 8000000 for 9000
+ 14337 strings out of 493706
+ 298776 string characters out of 6145769
+ 314441 words of memory out of 5000000
+ 17636 multiletter control sequences out of 15000+600000
+ 6528 words of font info for 42 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 48i,6n,61p,10407b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+ 48i,6n,61p,10393b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on Meno.pdf (1 page).
