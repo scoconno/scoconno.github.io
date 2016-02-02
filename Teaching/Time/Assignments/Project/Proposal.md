@@ -7,9 +7,9 @@ title: Independent Project-Stage 1
 
 
 ### Introduction
-Every discipline asks some question about time. That’s what makes it such a good topic. Hopefully, you have already started asking some of these questions yourselves. The purpose of this independent project is to teach you how to research a topic that interests you. That involves teaching you how to find relevant information.  
+Every discipline asks some question about time. That’s what makes it such a good topic. Hopefully, you have already started asking some of these questions yourselves. The purpose of this independent project is to teach you how to research a topic that interests you. 
 
-But where do you start? We are going to break up the process into several stages. In this first stage, you will be doing two distinct things. You will first clearly articulate some question about time. By 'clearly articulate', I mean that the question must be a simple 'what', 'why', or 'how' question. It should be one sentence long, i.e., require no big interlude. And it must be a question that is small enough that you can feasibly have a chance of answering it within the next 3 months. 
+But where do you start? We are going to break up the process into several stages. In this first stage, you will be doing two distinct things. You will first clearly articulate some question about time. By 'clearly articulate', I mean that the question must be a simple 'what', 'why', or 'how' question. And it must be a question that is small enough that you can feasibly have a chance of answering it within the next 2-3 months. 
 
 After articulating your question, you will **begin** to prepare an annotated bibliography that addresses that topic. 
 
@@ -29,17 +29,17 @@ Creating an annotated bibliography calls for the application of a variety of int
     the rest of the shelf. Often you will find other
     relevant material.
     - **NB:** Use librarians! One of the main jobs of an academic librarian is to help users find research material. Tell them what you are interested in and they will help you figure out what to read.
-    - Digital resources are terrible risky. There is as much false information online as there is accurate information. If you do use online resources, try only to use resources found through the library's website. 
+    - Digital resources are risky. There is as much false information online as there is accurate information. If you do use online resources, try only to use resources found through the library's website. 
 
 2.  Briefly examine and review the actual items. While you only
     need to skim these sources, you need to read them closely enough to
-    decide whether they are relevant.</span>
+    decide whether they are relevant.
 
-3.  <span>Choose those works that provide a variety of perspectives on
-    your topic. Discard those that are irrelevant.</span>
+3.  Choose those works that provide a variety of perspectives on
+    your topic. Discard those that are irrelevant.
 
-4.  <span>Cite the book, article, or document using the your preferred
-    citation style, e.g., APA, Chicago, etc.</span>
+4.  Cite the book, article, or document using the your preferred
+    citation style, e.g., APA, Chicago, etc.
 
 5.  <span>Write a concise annotation that summarizes the central theme
     and scope of the book or article. Include one or more sentences
