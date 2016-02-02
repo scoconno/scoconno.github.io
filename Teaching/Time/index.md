@@ -21,4 +21,5 @@ Culture, Ideas and Values IV
 
 ## Assignments
 
-+ [Short Essay 1](/Teaching/Time/Assignments/Short1) 
++ [Short Essay 1](Assignments/Short1) 
++ [Independent Project](Assignments/Project/Proposal)
