@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  12 JAN 2016 12:26
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  31 JAN 2016 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1475,6 +1475,8 @@ x-text,Scale=0.8].
 .................................................
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
 (Font)              scaled to size 7.8722pt on input line 60.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 7.8722pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
 (Font)              scaled to size 20.40866pt on input line 60.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
@@ -1507,13 +1509,13 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 98.
+(Font)              <7> on input line 96.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 98.
+(Font)              <5> on input line 96.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/it' will be
-(Font)              scaled to size 9.84024pt on input line 111.
+(Font)              scaled to size 9.84024pt on input line 109.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 115.
+(Font)              scaled to size 9.84024pt on input line 119.
  [2]
 Overfull \hbox (0.23647pt too wide) in paragraph at lines 119--120
 []\EU1/MinionPro(0)/m/it/10 Grade Distribution: \EU1/MinionPro(0)/m/n/10 Quiz—1
@@ -1521,23 +1523,23 @@ Overfull \hbox (0.23647pt too wide) in paragraph at lines 119--120
  []
 
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 140.
+(Font)              scaled to size 9.84024pt on input line 141.
 [3] [4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 331.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 331.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 336.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 336.
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32605 strings out of 493706
- 589088 string characters out of 6145769
- 1170710 words of memory out of 5000000
- 35703 multiletter control sequences out of 15000+600000
- 5199 words of font info for 54 fonts, out of 8000000 for 9000
+ 32607 strings out of 493706
+ 589190 string characters out of 6145769
+ 1169671 words of memory out of 5000000
+ 35704 multiletter control sequences out of 15000+600000
+ 5207 words of font info for 55 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  63i,11n,105p,10385b,2442s stack positions out of 5000i,500n,10000p,200000b,80000s
 

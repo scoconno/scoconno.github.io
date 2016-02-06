@@ -21,10 +21,10 @@ Your dialog must be 500-750 words long. Essays shorter than 500 words or longer 
 ### Further Instruction
 
 + This assignment covers material contained in Ch.9.1--9.3.
-+ Note that this is a dialog. Imagine the way dialogs go. There is some back and forth. There is humor. There are jibes. Characters have names. Write your dialog accordingly. See any play for some ideas on format. 
-+ Allow your characters to question each other, rebut each other, etc.
 + In explaining the argument that life is meaningless, make sure that the angel uses Tolstoy's fable. 
 + In explaining Tolstoy's subsequent claim that life is meaningful, be as specific as you can in explaining *what* that meaning consists in. 
++ Note that this is a dialog. Imagine the way dialogs go. There is some back and forth. There is humor. There are jibes. Characters have names. Write your dialog accordingly. See any play for some ideas on format. 
++ Allow your characters to question each other, rebut each other, etc.
 + Your choice should be guided by your evaluation of the two arguments. Don't merely say which conclusion you accept. This part of the dialog should focus on assessing the logic and premises of the respective arguments.   
 
 
@@ -41,7 +41,7 @@ Please consult the syllabus for the due date.
 Per the policies outlined in the syllabus, late work will not be accepted. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early. 
 
 ### Format
-Please submit the file as either a word file.
+Please submit the file as a word file.
 
 ### Grading
 Please find the rubric and explanation of it [here](/Teaching/Grading/).

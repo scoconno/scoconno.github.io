@@ -30,8 +30,7 @@ When we ask about the meaning of life, we are asking about internal value. We ar
 + b. None of my projects/goals are externally valuable.
 + c. I will inevitably discover that my projects/goals have no external value. 
 + d. I will inevitably cease to find internal value in my life (from a--c).
-+ e. I will inevitably cease to find life choice worthy (from d)  Why did Tolstoy accept Premise 3? I suggested that Tolstoy assumes that a goal or project has external value only if that goal contributes towards some eternal enterprise. ## OptimismOptimists claim the Tolstoy's arguments for Premises 2 and 3 fail. There are two versions of Optimism. The first version accepts Premises 1 and 2, but rejects Premise 3. They find external value in religion. The second type of Optimist accepts Premise 3, that life has no external value, but denies that internal value depends on there being external value, i.e., they deny Premise 2. The first type of Optimism is associated with Theism, the second with Atheism. I discuss each in turn. 
-
++ e. I will inevitably cease to find life choice worthy (from d)  Why did Tolstoy accept Premise 3? I suggested that Tolstoy assumes that a goal or project has external value only if that goal contributes towards some eternal enterprise. ## OptimismOptimists claim the Tolstoy's arguments for Premises 2 and 3 fail. There are two versions of Optimism. The first version accepts Premises 1 and 2, but rejects Premise 3. They find external value in religion. The second type of Optimist accepts Premise 3, that life has no external value, but denies that internal value depends on there being external value, i.e., they deny Premise 2. The first type of Optimism is associated with Theism, the second with Atheism. This note discusses Theism. A subsequent note will discuss Atheism. 
 
 ## Theism 
 
@@ -59,7 +58,7 @@ Christians also emphasizes other characters with God given purposes. Noah, the S
 
 ## Objection 
 
-Here I briefly raise a problem for this account of the meaning of life. Suppose we grant that the lives of Jesus, Noah, the other Saints had external value because each of them had a God given purpose. It does not thereby follow that each human has a God given purpose. The candidates for this God given purpose seem unsatisfactory: 
+Here I briefly raise a problem for this account of the meaning of life. Suppose we grant that the lives of Jesus, Noah, the other Saints had external value because each of them had a God given purpose. It does not thereby follow that each human has a God given purpose, i.e., it does not follow that you have a God given purpose. And the candidates for this God given purpose seem unsatisfactory: 
 
 + **Suggestion 1:** Our purpose is to serve God. 
 
@@ -67,7 +66,9 @@ This is a very natural suggestion. A Theist might claim that we were created by 
 
 To motivate this objection, consider the very far fetched idea that God created us to perform a very specific role. Once our species has grown large enough, he will signal to an alien race to move to Earth where they will find a new rich food source. Us! If this were the case, God would have crated us to be the food in some alien's hamburger. We would have a role in his grand design. We would even know what it is. I doubt, though, that anyone would be happy to find out that they were created as food for some superior being. A menial role in a stage designed for another does not make life choice worthy.   
 
-There is a second worry with the claim that God created us to serve him. God is all loving, all knowing, and all powerful. If he is all loving, he would never have created us merely to serve him, especially since our lives involve so much suffering and pain. Suppose that we had the ability to create a a new fully conscious species. It is only an evil creator that would create such beings to suffer and toil in servitude to them.  
+There is a second worry with the claim that God created us to serve him. God is all loving, all knowing, and all powerful. If he is all loving, he would never have created us merely to serve him, especially since our lives involve so much suffering and pain. Suppose that we had the ability to create a a new fully conscious species. It is only an evil creator that would create such beings to suffer and toil in servitude to them. 
+
+Let us consider another way that the Theist might respond to the objection. 
 
 + **Suggestion 2:** The existence of God shows that we have a purpose, but we do not know what that purpose is. 
 
