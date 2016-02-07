@@ -3,11 +3,11 @@ layout: default
 title: Time
 ---
 
-# Hon 202: Time
+## Hon 202: Time
 
 Culture, Ideas and Values IV
 
-## Course Information
+### Course Information
 + [Syllabus](Syllabus.pdf)
 + [Additional Reading](Readings/)
 + [Grading Information](/Teaching/Grading/)
@@ -19,7 +19,26 @@ Culture, Ideas and Values IV
 
 
 
-## Assignments
+### Short Essays
 
 + [Short Essay 1](Assignments/Short1) 
-+ [Independent Project](Assignments/Project/Proposal)
++ [Short Essay 2](Assignments/Short2)
+
+
+
+
+### Independent Project
+
++ [Proposal](Assignments/Project/Proposal)
+
+
+### Videos of interest
+
++ [Measurement documentary](https://www.youtube.com/watch?v=g81opjVDAaA)
+
+
++ [Free will](https://www.youtube.com/watch?v=iSfXdNIolQA)
+
++ [The Ship of Theseus](https://www.youtube.com/watch?v=dYAoiLhOuao)
+
++ [The Grandfather Paradox](https://www.youtube.com/watch?v=M8oITAoaCr4)
