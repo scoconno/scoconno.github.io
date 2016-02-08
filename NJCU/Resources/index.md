@@ -8,7 +8,7 @@ title: Instructor Resources
 ### Major/Minor Information
 
 + [Major requirements:](https://dl.dropboxusercontent.com/u/3478322/RequirementsGenED.pdf) Please emphasize to students that substitutions can be made to accommodate those who began on the old General Studies Program.
-+ [Department Rubrics for Program Assessment](Program)
++ [Program Assessment](Program)
 
 
 
