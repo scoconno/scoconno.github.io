@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Short Essay 1
+title: Short Essay 2
 ---
 
-## Short Essay 1
+## Short Essay 2
 
 ### Prompt 
 
