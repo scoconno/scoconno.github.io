@@ -3,15 +3,15 @@ layout: default
 title: Ancient
 ---
 
-# Phil 234: Ancient Philosophy 
+## Phil 234: Ancient Philosophy 
 
-## Introduction ##
+### Introduction
 
 Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find here the syllabus, links, announcements, and occasional notes. For now, please make yourself familiar with this site, purchase/rent the textbook, and take a look at the syllabus.  
 
 
 
-## Course Information
+### Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading Information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
@@ -20,7 +20,7 @@ Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find 
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
-## Assignments
+### Assignments
 All assignments are due through Blackboard. See the links in the 'assignment' pages for the Blackboard site for this course. Those links include information on when the assignments are due. You can also find the dates on the [syllabus](Syllabus.pdf). Recall that you must complete 3 out of 5 short essays, and 2 out of 3 long essays. 
 
 + [Short Essay 1](/Teaching/Ancient/Assignments/Short1) 
@@ -34,11 +34,11 @@ All assignments are due through Blackboard. See the links in the 'assignment' pa
  
 
 
-## Additional Reading
+### Additional Reading
 
 + [*Euthyphro* ](http://classics.mit.edu/Plato/euthyfro.html) for week 2. If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
 
-## Handouts
+### Handouts
 
 + [Week 1: Introduction](Notes/Introduction/Lecture 1.pdf)
 + [Week 2: *Euthyphro*](Notes/Euthyphro/Lecture4.pdf)
@@ -47,7 +47,7 @@ All assignments are due through Blackboard. See the links in the 'assignment' pa
 
 
 
-## Greek Links ##
+### Greek Links ##
 
 + [A nice documentary on Ancient Greece](https://www.youtube.com/watch?v=-dwWocwd160)
 + [An interactive site](http://www.ancientgreece.co.uk/)
