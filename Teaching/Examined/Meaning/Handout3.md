@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Meaning of Life 2
+title: The Meaning of Life 3
 ---
 
 
@@ -26,11 +26,7 @@ Life has meaning only if it has significant value or purpose over time, where th
 When we ask about the meaning of life, we are asking about internal value. We are asking why we should feel that there is something in our lives that makes them worthwhile. Is there any project or goal that could shape our psychology so dramatically that we are motivated to get up in the morning, keep going, and find all the trials and tribulations of life worthwhile? Pessimists, recall, claim no. Their argument: 
 1. Life is choice worthy only if it has internal value. 2. Life has internal value only if life has external value. 3. Life has no external value. 4. Life has no internal value (from 1--3). 5. Life is not choice worthy (from 1 & 4).
 This argument is valid; the conclusion follows form the premises. Is it sound, i.e., are the premises true? The most important Premises are 2 and 3, which we saw Tolstoy arguing for via a fable. We can summarize his argument for Premise 2 as follows: 
-+ a. I will find some project/goal valuable over a long period of time, only if I believe that project/goal is externally valuable. 
-+ b. None of my projects/goals are externally valuable.
-+ c. I will inevitably discover that my projects/goals have no external value. 
-+ d. I will inevitably cease to find internal value in my life (from a--c).
-+ e. I will inevitably cease to find life choice worthy (from d)  Why did Tolstoy accept Premise 3? I suggested that Tolstoy assumes that a goal or project has external value only if that goal contributes towards some eternal enterprise. ## OptimismOptimists claim the Tolstoy's arguments for Premises 2 and 3 fail. There are two versions of Optimism. The first version accepts Premises 1 and 2, but rejects Premise 3. They find external value in religion. The second type of Optimist accepts Premise 3, that life has no external value, but denies that internal value depends on there being external value, i.e., they deny Premise 2. The first type of Optimism is associated with Theism, the second with Atheism. I discuss each in turn. 
+ ## OptimismOptimists claim that Tolstoy's arguments for Premises 2 and 3 fail. There are two versions of Optimism. The first version, which we discussed last week, accepts Premises 1 and 2, but rejects Premise 3. They find external value in religion. The second type of Optimist accepts Premise 3, that life has no external value, but denies that internal value depends on there being external value, i.e., they deny Premise 2. The first type of Optimism is associated with Theism, the second with Atheism. I discussed Theism in Note 2. I discuss Atheism in this handout.  
 
 
 ## Atheism
@@ -68,8 +64,20 @@ Wolf asks us to conclude with her that a meaningful life must be one actively en
 The Atheist claims that life can have internal value without external value. Wolf's defense of this claim relies on the claim that a life must be devoted to a project of positive value. That is, it is not enough that you value a project, the project itself must be of some genuine positive value. It seems we are back where we started. Tolstoy worried that since he and everyone else will ultimately die, none of his goals and accomplishments were of any external value. If a goal had positive value, it would have external value. So Wolf owes us an account of external value that is compatible with our mortality.
 
 
-## Buddhism
-TBD
+## Meaning Re-considered
+
+We are at an impasses. Atheists think we can do without external meaning, but it is unclear that a life without external meaning would be satisfying. Theists, on the other hand, are convinced that life has external meaning, but they struggle to give a satisfying account of what that meaning is. Is there an alternative? 
+
+One option is to re-consider Epicureanism, an option towards death that Tolstoy rejects. 
+
++ Epicureanism: while knowing the hopelessness of life, make use meanwhile of the advantages one has, disregarding the dragon and the mice, and licking the honey in the best way, especially if there is much of it within reach. This, though, is an unsustainable attitude. Many live in terrible conditions. Many have no honey to taste. It is a mere accident, claims Tolstoy, that you have good circumstances rather than poor, and ''the accident that has today made me a Solomon may tomorrow make me a Solomon's slave.'' Epicureans try but cannot ultimately forget that all these pleasures are ephemeral. They are as easily lost as gained. Nobody can be confident that life will always provide these distractions. (Tolstoy, p.22)
+
+
+Tolstoy assumes that the only pleasures in life are ephemeral, that they only things we can desire are those that ultimately will causes us pain. Buddha would agree that desiring the ephemeral is a cause of pain, but is Tolstoy right that we can *only* desire the ephemeral. Read *Buddhism* in ch.2 for Buddha's views on how desire can be changed and its pain lessened. 
+
+
+
+
 
 
 
