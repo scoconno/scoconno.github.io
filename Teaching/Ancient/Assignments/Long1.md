@@ -22,9 +22,9 @@ In this paper, you will be examining Socrates' views on death. The paper has two
 
 + Focus only on 57a--84b. 
 + Read at least one of the articles listed below. Read more if you would find it useful. 
-+ This is a research essay. It must include a proper citations and bibliography.
++ This is a research essay. It must include proper citations and bibliography.
 + Write 1250-1500 words. No more. No less. 
-+ Submit your responses by Mon. 2/29/2016, @ 1pm.
++ Submit your responses by Mon. 2/29/2016 @ 1pm.
 + I will check these submissions for plagiarism. If you use material, whether explicitly or implicitly, from any source, you must cite it. 
 
 ### Further Resources
