@@ -12,8 +12,8 @@ title: Instructions
 Complete these tasks in order:
 
 + Read Chapter 2.1--2.3 (up until p.75)
-+ ['Intelligent Design Has No Place in the Science Curriculum', Harold Morowitz, Robert Hazen, and James Trefil](Intel.pdf)
-+ ['Design for Living', Michael J. Behe](Des.pdf)
++ ['Intelligent Design Has No Place in the Science Curriculum', Harold Morowitz, Robert Hazen, and James Trefil](Teaching/Examined/God/Intel.pdf)
++ ['Design for Living', Michael J. Behe](/Teaching/Examined/God/Des.pdf)
 + Study [the notes](/Teaching/Examined/God/Handout1). 
 + Start watching this series of [videos](https://www.youtube.com/playlist?list=PLtKNX4SfKpzUPEsH9rswhJDwKp0oU40Xo). You can stagger your viewing of them over the next 3 weeks. 
 
