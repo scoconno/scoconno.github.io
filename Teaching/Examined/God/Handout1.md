@@ -8,7 +8,7 @@ title: The Design Argument
 
 Non-philosophers often claim that their belief in God is a matter of faith. God's existence, they claim, is something that cannot be proved or disproved. One rather must take a 'leap of faith' and accept that he does, in fact, exist. 
 
-Philosophers disagree. Since Aristotle in the 4th Century BC, philosophers have offered a number of arguments both for and against his existence. We are concerned in this handout with one argument for his existence, the Design Argument. The second handout in the module introduces further arguments for his existence while the third discusses arguments his existence.
+Philosophers disagree. Since Aristotle in the 4th Century BC, philosophers have offered a number of arguments both for and against his existence. We are concerned in this handout with one argument for his existence, the Design Argument. The second handout in the module introduces further arguments for his existence while the third discusses arguments against his existence.
 
 
 

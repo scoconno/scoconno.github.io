@@ -9,8 +9,8 @@ title: God
 
 ### Reading
 
-+ ['Intelligent Design Has No Place in the Science Curriculum’](Intel.pdf), Harold Morowitz, Robert Hazen, and James Trefil
-+ ['Design for Living'](Des.pdf), Michael J. Behe
++ ['Intelligent Design Has No Place in the Science Curriculum’](/Teaching/Examined/God/Intel.pdf), Harold Morowitz, Robert Hazen, and James Trefil
++ ['Design for Living'](/Teaching/Examined/God/Des.pdf), Michael J. Behe
 
 ### Notes
 + [Note 1:](Handout1) The Design Argument for God's existence.
