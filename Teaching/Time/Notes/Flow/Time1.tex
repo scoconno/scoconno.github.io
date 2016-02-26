@@ -1,72 +1,27 @@
-\documentclass[]{article}
+\documentclass[oneside, 11]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
 \usepackage{fancyhdr}
+ \usepackage{fancyhdr}
  \pagestyle{fancy}
-\rhead{\textsc{Scott O`Connor}}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\usepackage[usenames,dvipsnames]{color}
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={Zeno 2},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{longtable,booktabs}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-
-\title{Time 1}
-\author{Scott O’Connor}
-
-
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\The Philosophy of Time }}}
+ \chead{}
+ \rhead{\LARGE\textbf{\textsc{Two Times}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+\tolerance=700
 
 \begin{document}
-\maketitle
+\thispagestyle{fancy}
+\title{Time 1}
+\author{Scott O'Connor}
+
+
+
+
  
 
 \subsection*{The A-Series and the B-Series}
@@ -75,8 +30,8 @@
 \item Events are ordered in time. The A-series and the B-series are different theories about the nature of this ordering. 
 \item A-properties are one-place relations: \emph{being past, being two days past, being present, being future, being 1 year in the future}.
 \begin{itemize}
-\item Time flows by events changing their A-properties. 
-\item For example, in 1992 the event of Obama winning the election had the property of being a future event; an event that will happen. At that time, it did not have the property of being a present event; an event that was currently happening. Nor did it have the property of being a past event; an event that had occurred. This event briefly acquired the property of being present in 2008 before losing that property and becoming a past event. 
+\item Time flows by events changing in their A-properties. 
+\item Example: in 1992 the event of Obama winning the election had the property of being a future event, an event that will happen. At that time, it did not have the property of being a present event, an event that was currently happening. Nor did it have the property of being a past event, an event that had occurred. This event briefly acquired the property of being present in 2008 before losing that property and becoming a past event. 
 \end{itemize}
 \item B-properties are two-place relations: \emph{earlier than, later than, simultaneous with}
 \begin{itemize}
@@ -142,6 +97,14 @@ Big questions:
 \end{itemize}
 
 
+\subsection*{Flow re-described}
+
+\noindent Strategy: re-describe change in way that is compatible with the the B-theory. 
+
+\begin{itemize}
+\item Consider sailing down a long lake. You comment to your neighbor, `the river is really changing, it was so broad, now it is so narrow, and it will become narrower still. Also, did you see how dark the river was. But the color too is changing with the depth. It is becoming bluer and bluer as the day goes on'. 
+\item These sentences speak of the river changing in both breadth and in color. Taken literally, they mean that one individual entity loses and gains the properties of being broad and narrow. Taken literally, these sentences are then false. But we should not take them literally. What appears to be one object losing and gaining various properties is really different parts of that object having different properties: one stage of the river is broad, a distinct stage of the river is narrow. 
+\end{itemize}
 
 
 

@@ -11,10 +11,11 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read Chapter 9.2-9.3
-+ Study [notes 2](/Teaching/Examined/Meaning/Handout2). 
++ Read  'The Star’, Arthur C.Clarke, pp.126–128 
++ Read Ch.2.2
++ Study [notes 2](/Teaching/Examined/God/Handout2). 
 
 
 ## Assignments
 
-+ Complete [Short Essay 1](/Teaching/Examined/Meaning/SW1) by Monday 02/15/2016 @ 11:59pm.
++ Complete Quiz 4 by Monday 03/7/2016 @ 11:59pm.
