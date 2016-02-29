@@ -30,6 +30,8 @@ Culture, Ideas and Values IV
 ### Independent Project
 
 + [Proposal](Assignments/Project/Proposal)
++ [Literature Review](Assignments/Project/Literature)
+
 
 
 ### Videos of interest
