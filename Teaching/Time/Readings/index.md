@@ -5,6 +5,7 @@ title: Time
 
 ## Additional Readings
 
++ [`Free Will', Lewis Vaughn](freewill.pdf)
 + [`A Geography of Time', Robert Levine](Levine.pdf)
 + [`Aristotle on Time', Tony Roark](Roark.pdf)
 + [`Time, Work-Discipline, and Industrial Capitalism,' E.P. Thompson](Thompson.pdf)
