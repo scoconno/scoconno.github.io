@@ -17,4 +17,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete Quiz 3 by Monday 03/21/2016 @ 11:59pm.
++ Complete [short essay 3](/Teaching/Examined/God/SW3) by Monday 03/21/2016 @ 11:59pm.
