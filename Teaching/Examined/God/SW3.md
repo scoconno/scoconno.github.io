@@ -10,9 +10,9 @@ title: SW 3
 
 You are a court official. Your job is to keep detailed records of what everyone says in court. You are working on an unusual case. The plaintiff, named Ted, lost his fishing boat during a terrible hurricane. The insurance company refused to compensate Ted because they claimed the hurricane was an 'act of God'.
 
-Ted sues the Church and the insurance company. He claims that there are two possibilities. First, God could exist and could have caused the hurricane. If this were the case, then Ted claims that God is malicious and his representatives, the Church, must compensate him. Second, Ted argues that the hurricane and its evils show us that an all good, all powerful, all knowing God does not exist. If this were the case, the insurance company cannot claim the hurricane was an act of God. Ted concludes that either God exists and is malicious, or God does not exist at all. Either way, the insurance company or the Church must pay up. 
+Ted sues the Church and the insurance company. He claims that there are two possibilities. First, God could exist and could have caused the hurricane. If this were the case, then Ted claims that God is malicious and his representatives, the Church, must compensate him. Second, Ted argues that the hurricane and its evils might show us that an all good, all powerful, all knowing God does not exist at all. If this were the case, the insurance company cannot claim the hurricane was an act of God. Ted concludes that either God exists and is malicious, or God does not exist at all. Either way, the insurance company or the Church must pay up. 
 
-In this assignment, you will be reproducing Ted's closing statement (speech). Report word for word the summary of his argument. Report why he thinks that the hurricane shows either that God is malicious or that God does not exist. Report why he thinks appeal to free will don't undermine his arguments.     
+In this assignment, you will be reproducing Ted's closing statement (speech). Report word for word the summary of his argument. Report why he thinks that the hurricane shows either that God is malicious or that God does not exist. Report why he thinks appeal to free will doesn't undermine his arguments.     
 
 
 
