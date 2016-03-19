@@ -10,7 +10,10 @@ title: Free Will
 
 You likely think that you have control of your own destiny, that you have power over your future. You are free, you might think, to choose what to eat, who to date, and what career to pursue. It certainly does appear that way. When trying to decide between chocolate cake and a salad, it seems that I really do have it in my power to eat either of those things. If I eat the cake, I still could have eaten the salad and *vice versa*. 
 
-The appearance of free-will might, though, just be an illusion. It might not really have been in my power to eat the salad even though I thought that it was. Many have thought that free-will is illusory because it jars with our understanding of the physical universe. Our actions are just part of a long chain of causes and effects. And it seems that the facts about the earliest parts of the chain in conjunction with the laws of nature determine exactly how the rest of the chain must go; I can't choose my future because the past has already been set it in stone. 
+Many things that seem a certain way are not that way. Some of you, like me, may have believed passionately in the existence of Santa Clause when you were children. You later came to learn that you were mistaken. In this module, we will be considering whether our belief in free-will might be like a belief in Santa Clause, wholly mistaken. If we do not have free-will, then it was not in my power to eat the salad even though I thought that it was. 
+
+
+Why would anyone reject the existence of something that seems so obvious? A belief in free-will is central to our democracies, to our criminal justice systems, even to many of our religious world views. But many have thought that free-will jars with our understanding of the physical universe. They point out that our actions are part of a long chain of causes and effects. And it seems that the facts about the earliest parts of the chain in conjunction with the laws of nature determine exactly how the rest of the chain must go; I can't choose my future because the past has already set it in stone. 
 
 ## Causal Determinism
 
@@ -37,7 +40,7 @@ Suppose Mike Tyson force feeds me some cake. No-one would claim that I ate that 
 
 The key premise is 2. Recall that Causal Determinism says that states of the universe, including what you are doing at any particular time, are completely determined by how the universe was in the past, even the far far past, plus the laws of nature. If that's true, then my eating the cake was causally determined, it is already set in stone. In that case, I had no power to not eat the cake. Causal Determinism constrains my actions as much as Mike Tyson can constrain my actions. 
 
-Philosophers have been concerned with determining, first, whether Causal Determinism is really true, and, second, whether free-will can be found compatible with Causal Determinism: 
+Philosophers have been concerned with determining, first, whether Causal Determinism is really true, and, second, with determining whether free-will really is incompatible with Causal Determinism. There are four main positions: 
 
 
 |         |   Free Will is Not Possible         | Free Will is Possible  |
@@ -68,7 +71,7 @@ The key claim is, of course, 3. Libertarians have argued for it in two very diff
 
 **Problem with 1:** How could a non-physical being be the cause of something physical? 
 
-More information here on dualism. Direct them to the chapter and provide videos. 
+For a detailed discussion of dualism, see ch.4 on the relationship between mind and body.  
 
 
 ##Option 2: Physicalism

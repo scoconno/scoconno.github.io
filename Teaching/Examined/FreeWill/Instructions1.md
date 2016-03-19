@@ -6,21 +6,17 @@ title: Instructions
 
 # Instructions #
 
-
-## Read
-
-+ Read [Ch.1.3](/Teaching/Intro/1/ch1.3.pdf) 
-+ I am providing a copy of the reading for this week only. (Copyright issues prohibit me distributing anything further.)
-
 ## Study
 
-+ Practice some of the self-assessment exercises. Answers are in Appendix A of the text book.
-+ Study [Handout 1](/Teaching/Examined/CT/Handout). Refer to the [answer key](/Teaching/Examined/CT/Answers) for answers to the self-assessment exercises. 
-+ Re-read Ch.1.3.
-+ Watch as many videos that you find interesting from [here](http://www.wi-phi.com/videos/Critical-Thinking?page=1)
+Complete these tasks in order
+
++ Read A Little Omniscience Goes a Long Way’, Tomas Davis, pp.258–261
++ Read chapters 5.1, 5.2, & 5.4. (We will read 5.3 next week)
++ Study [the notes](/Teaching/Examined/FreeWill/Handout1).  
++ Watch this [video](https://www.youtube.com/watch?v=iSfXdNIolQA)
 
 
 
 ## Assignments
 
-+ Complete Quiz 1 by Monday 02/01/2016 @ 11:59pm.
++ Complete Quiz 5 by Monday 03/28/2016 @ 11:59pm.
