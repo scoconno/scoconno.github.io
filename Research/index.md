@@ -11,7 +11,7 @@ title: Research
 
 ### Work in Progress ###
 
-+ 'The Eleatic Challenge in Aristotle's *Physics* I.8' (under review)
++ 'The Eleatic Challenge in Aristotle's *Physics* I.8'
 
 + 'Persistence in Aristotle's *Physics* I-II'
 
