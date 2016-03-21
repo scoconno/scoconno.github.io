@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400italic,700,700italic&subset=latin,greek' rel='stylesheet' type='text/css'>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+$for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+$endfor$
+$if(date-meta)$
+  <meta name="date" content="$date-meta$" />
+$endif$
+  <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
+  <style type="text/css">code{white-space: pre;}</style>
+$if(quotes)$
+  <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+$endif$
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$" $if(html5)$$else$type="text/css" $endif$/>
+$endfor$
+$if(math)$
+  $math$
+$endif$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body>
+$for(include-before)$
+$include-before$
+$endfor$
+$if(title)$
+<div id="$idprefix$header">
+<h1 class="title">$title$</h1>
+$if(subtitle)$
+<h1 class="subtitle">$subtitle$</h1>
+$endif$
+$for(author)$
+<h2 class="author">$author$</h2>
+$endfor$
+$if(date)$
+<h3 class="date">$date$</h3>
+$endif$
+</div>
+$endif$
+$if(toc)$
+<div id="$idprefix$TOC">
+$toc$
+</div>
+$endif$
+
+<!--Address & Contact Info -->
+<div style="line-height: 1.2em">
+  <p>
+$for(address)$
+$address$</br>
+$endfor$
+</p>
+</div>
+
+<div style="line-height: 1.2em;">
+  <p>
+$for(phone)$
+    <i class="fa fa-phone"></i> $phone$</br>
+$endfor$
+$for(fax)$
+    <i class="fa fa-fax"></i> $fax$</br>
+$endfor$
+$for(email)$
+    <i class="fa fa-envelope-o"></i> $email$</br>
+$endfor$
+$for(urls)$
+    <i class="fa fa-globe"></i> $urls$</br>
+$endfor$
+</p>
+</div>
+
+<h1>$name$</h1>
+
+<!--AOS & AOC  -->
+
+
+<h3>Areas of Specialization: </h3>
+<li>
+  $for(AOS)$
+  $AOS$
+  $endfor$
+</li>
+
+<h3>Areas of Competence: </h3>
+<li>
+    $for(AOC)$
+    $AOC$
+    $endfor$
+</li>
+
+<!--Appointments -->
+
+<h2>Appointments</h2>
+$for(experience)$
+<li>
+<b>$experience.years$</b>: $experience.employer$ | $experience.job$ | $experience.city$
+</li>
+$endfor$
+<!-- Education -->
+
+<h2>Education</h2>
+
+$for(education)$
+<li>
+<b>$education.year$</b>: $education.subject$ | $if(education.degree)$, $education.degree$$endif$
+ $education.institute$$if(education.city)$, $education.city$$endif$
+</li>
+$endfor$
+
+<!--Publications -->
+<h2>Publications</h2>
+    <!--Articles -->
+
+    <h3>Articles</h3>
+    $for(articles)$
+    <li>
+    <b>$articles.year$</b>:  "$articles.title$."
+    <i>$articles.journal$</i> $articles.issue$
+    </li>
+    $endfor$
+
+    <!--Book Chapters -->
+
+    <h3>Book Chapters</h3>
+    $if(chapters)$
+    $for(chapters)$
+<li>
+    <b>$chapters.year$</b>: "$chapters.title$." In $chapters.editor$,
+    <i>$chapters.book$</i>. $chapters.publisher$
+</li>
+    $endfor$
+    $endif$
+
+    <!--Reviews & Criticism -->
+    <h3> Reviews & Criticism </h3>
+    $if(reviews)$
+    $for(reviews)$
+    <li>
+    <b>$reviews.year$</b>: "$reviews.title$."
+    <i>$reviews.journal$</i> $reviews.issue$
+    </li>
+    $endfor$
+    $endif$
+
+<!--Presentations -->
+<h2>Presentations</h2>
+
+    <!--Invited -->
+    <h3>Invited</h3>
+    $if(invited)$
+    $for(invited)$
+    <li>
+    <b>$invited.year$</b>: "$invited.title$."
+    $invited.place$. $invited.month$
+    </li>
+    $endfor$
+    $endif$
+
+    <!--Refereed -->
+    <h3>Refereed</h3>
+
+    $if(presentation)$
+    $for(presentation)$
+    <li>
+    <b>$presentation.year$</b>: "$presentation.title$."
+    $presentation.place$. $presentation.month$
+    </li>
+    $endfor$
+    $endif$
+
+<!--Teaching -->
+<h2>Teaching</h2>
+
+$if(teaching1)$
+$for(tplace1)$
+<h3>
+  $tplace1.year$: <span style="font-variant: small-caps;">$tplace1.place$</span>
+</h3>
+$endfor$
+$for(teaching1)$
+<li>
+  <span style="font-variant: small-caps;">$teaching1.number$</span> - $teaching1.title$
+</li>
+$endfor$
+$endif$
+
+$if(teaching2)$
+$for(tplace2)$
+<h3>
+  $tplace2.year$: <span style="font-variant: small-caps;">$tplace2.place$</span>
+</h3>
+$endfor$
+$for(teaching2)$
+<li>
+  <span style="font-variant: small-caps;">$teaching2.number$</span> - $teaching2.title$
+</li>
+$endfor$
+$endif$
+
+<!--Service -->
+<h2>Service</h2>
+
+$if(service)$
+$for(service)$
+<li>
+<b>$service.year$</b>: $service.post$
+</li>
+$endfor$
+$endif$
+
+<!--Languages -->
+<h2>Languages</h2>
+
+$if(languages)$
+$for(languages)$
+<li>
+  <i>$languages.language$</i> ($languages.proficiency$)
+</li>
+$endfor$
+$endif$
+
+<!--Awards -->
+<h2>Awards</h2>
+
+$if(awards)$
+$for(awards)$
+<li>
+  <b>$awards.year$</b>:  $awards.title$
+</li>
+$endfor$
+$endif$
+
+<!--References -->
+<h2>References</h2>
+
+$if(references)$
+$for(references)$
+<li>
+  <a href="mailto:$references.email$">$references.person$</a> - $references.place$
+</li>
+$endfor$
+$endif$
+
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
+</body>
+</html>

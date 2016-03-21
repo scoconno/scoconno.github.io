@@ -1,0 +1,99 @@
+\documentclass[12pt]{article}
+
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+\lhead{ }
+
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\usepackage[usenames,dvipsnames]{color}
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+\date{ \ }
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\begin{document}
+
+
+\noindent\textbf{The Arrow Paradox}
+
+\href{http://lowres-picturecabinet.com.s3-eu-west-1.amazonaws.com/39/main/2/14336.jpg}{http://lowres-picturecabinet.com.s3-eu-west-1.amazonaws.com/39/main/2/14336.jpg}
+
+\section{Version 1}
+
+\begin{enumerate}
+\item If the arrow moves throughout the period of its flight, then it is moves at each instant of that period. 
+\item The arrow occupies a space equal to its own volume at each instant. 
+\item If the arrow occupies a space equal to its own volume at an instant, then it is not in motion at that instant. 
+\item The arrow is not in motion at any instant of that period. (from 2-3)
+\item The arrow does not move throughout the period of its flight. (from 4)
+\end{enumerate}
+
+\section{Version 2}
+
+\begin{enumerate}
+\item If the arrow moves throughout the period of its flight, then, when it moves, it moves in the present. 
+\item The arrow is not in motion in the present. 
+\item The arrow does not move throughout the period of its flight. 
+\end{enumerate}
+ 
+\section{The Static Account of Motion}
+
+\begin{quote}
+An object is in motion throughout a period if and only if the object occupies different positions at every instant of that period; it is in motion at an instant if and only if it occupies a different position at instants immediately before and after that instant. 
+\end{quote}
+
+\end{document}
