@@ -62,23 +62,9 @@ This forking path view of freedom jars with causal determinism. The Compatibilis
 
 + An agent freely does F if 1) F arises from her internal states and character, and 2) are not forced by external conditions or agents.
 
-Suppose that I have a very sweet tooth. My having a sweet tooth will cause me to eat the cake. So that action, my eating the cake, is in some strong sense comes from me and not the outside; it's because of how I am that I ate the cake. The compatibilist claims that this is all that is required for an action to be free---it arises from inside of you and is not caused by external pressure.   
+Suppose that I have a very sweet tooth. My having a sweet tooth will cause me to eat the cake. So that action, my eating the cake, is in some strong sense comes from me and not the outside; it's because of how I am that I ate the cake. The compatibilist claims that this is all that is required for an action to be free---it arises from inside of you, from your personality, and is not caused by external pressure.   
 
-##Objections
-
-Here are two puzzling features of the compatibilist's view. I'll raise a stronger objection below. 
-
-1. Note the distinction between freely *acting* a certain way and freely *choosing* to act a certain way. Compatibilists are claiming you act freely when your actions arise from your character. You do not freely choose to act. But can your actions be free if they you did not freely choose them? 
-
-2. Since the Compatibilist accepts Causal Determinism, they accept that your character is determined by the past.If your character is shaped by circumstances outside your control, are the actions that arise from your character free? 
-
-## Character
-
-Compatibilists claim that an action is our own just because it arises from our unique personality; if my character makes me eat the cake, then eating the cake, according to the compatibilist, is free. 
- 
-Our personality is made up a variety of different traits like honesty, courage, greed, etc. Some people are honest and courageous. Some are honest, but cowardly. I will first make a few remarks about traits in general. I then discuss some evidence that there are no traits whatsoever. 
-
-Traits are complex dispositions to notice, construe, think, desire, and act in characteristic ways. To be generous, for instance, is to be disposed to notice occasions for giving, to construe ambiguous social cues charitably, to desire to give people things they want, need, or would appreciate, to deliberate well about what they want, need, or would appreciate, and to act on the basis of such deliberation.
+Our personality is made up a variety of different traits like honesty, courage, greed, etc. Some people are honest and courageous. Some are honest, but cowardly. Traits are complex dispositions to notice, construe, think, desire, and act in characteristic ways. To be generous, for instance, is to be disposed to notice occasions for giving, to construe ambiguous social cues charitably, to desire to give people things they want, need, or would appreciate, to deliberate well about what they want, need, or would appreciate, and to act on the basis of such deliberation.
 
 Character traits are normally characterized with these three claims: 
 
@@ -86,11 +72,27 @@ Character traits are normally characterized with these three claims:
 
 2. Stability Claim: traits are relatively stable over time.  A soldier who behaves courageously for a significant period of time is courageous. A soldier who behaves non-courageously for a significant period of time is not courageous. A soldier will not become or cease to be courageous overnight. 
 
-3. Integrity Claim: there is a correlation between having one trait and having another, e.g., a person who is temperate with regard to the pleasures derived from food is likely to also be temperate with regard to the pleasures derived from sexual intercourse. Likewise, an individual with a particular vice is likely to possess other vices. 
+3. Integrity Claim: there is a correlation between having one trait and having another, e.g., a person who is temperate with regard to the pleasures derived from food is likely to also be temperate with regard to the pleasures derived from sexual intercourse. Likewise, an individual with a particular vice is likely to possess other vices.
+
+
+ 
+The compatibilist is committed to the claim that we have character traits that are robust, stable, and integrated with one another. They believe that an action is our own just when it arises from our unique set of traits; if my character traits makes me eat the cake, then eating the cake, according to the compatibilist, is free.
+
+
+
+## Objections
+
+Here are two puzzling features of the compatibilist's view. I'll raise a stronger objection below. 
+
+1. Note the distinction between freely *acting* a certain way and freely *choosing* to act a certain way. Compatibilists are claiming you act freely when your actions arise from your character. You do not freely choose to act. But can your actions be free if they you did not freely choose them? 
+
+2. Since the Compatibilist accepts Causal Determinism, they accept that your character is determined by the past.If your character is shaped by circumstances outside your control, are the actions that arise from your character free? 
+
+## Situationism
 
 The compatibilist is committed to the claim that we have character traits that are robust, stable, and integrated with one another. But there is strong evidence that there is no such traits at all. 
 
-Psychologists have been concerned to decide when the features of the situation we are in rather than our character traits cause our behavior. Some have argued that we have no character traits whatsoever and that all our behavior is caused by external factors: 
+Psychologists have been concerned to decide when the features of the situation we are in rather than our character traits cause our behavior. Some have argued that all our behavior is caused by external factors. On this view, there are no character traits whatsoever: 
 
 
 > "... modern experimental psychology has discovered that circumstance has surprisingly more to do with how people behave than traditional images of character and virtue allow (John Doris 2002, ix)."
@@ -119,6 +121,6 @@ Perhaps most damning for the robust view of character are the results of the exp
 See one such experiment [here](https://www.youtube.com/watch?v=OSsPfbup0ac&spfreload=1)
 
 
-##Yoga: The Freedom of Surrender
+## Yoga: The Freedom of Surrender
 
 "The Supreme Lord is situated in everyone's heart, O Arjuna, and is directing the wanderings of all living entities, who are seated as on a machine, made of the material energy."
