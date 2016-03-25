@@ -4,8 +4,6 @@ title: Instructions
 ---
 
 
-# Instructions #
-
 
 # Instructions #
 
