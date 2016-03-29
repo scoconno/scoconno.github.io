@@ -90,16 +90,12 @@ $endfor$
 
 <h3>Areas of Specialization: </h3>
 <li>
-  $for(AOS)$
-  $AOS$
-  $endfor$
+  Ancient Philosophy, Metaphysics
 </li>
 
 <h3>Areas of Competence: </h3>
 <li>
-    $for(AOC)$
-    $AOC$
-    $endfor$
+   Philosophy of Mind, Early Modern Philosophy
 </li>
 
 <!--Appointments -->
@@ -133,9 +129,8 @@ $endfor$
     </li>
     $endfor$
 
-    <!--Book Chapters -->
-
-    <h3>Book Chapters</h3>
+    <!--Book Chapters 
+  <h3>Book Chapters</h3>
     $if(chapters)$
     $for(chapters)$
 <li>
@@ -143,9 +138,10 @@ $endfor$
     <i>$chapters.book$</i>. $chapters.publisher$
 </li>
     $endfor$
-    $endif$
+    $endif$-->
 
-    <!--Reviews & Criticism -->
+
+    <!--Reviews & Criticism 
     <h3> Reviews & Criticism </h3>
     $if(reviews)$
     $for(reviews)$
@@ -154,13 +150,13 @@ $endfor$
     <i>$reviews.journal$</i> $reviews.issue$
     </li>
     $endfor$
-    $endif$
+    $endif$-->
 
 <!--Presentations -->
 <h2>Presentations</h2>
 
     <!--Invited -->
-    <h3>Invited</h3>
+    <h3>Invited marked with *</h3>
     $if(invited)$
     $for(invited)$
     <li>
@@ -170,7 +166,7 @@ $endfor$
     $endfor$
     $endif$
 
-    <!--Refereed -->
+    <!--Refereed 
     <h3>Refereed</h3>
 
     $if(presentation)$
@@ -180,7 +176,7 @@ $endfor$
     $presentation.place$. $presentation.month$
     </li>
     $endfor$
-    $endif$
+    $endif$ -->
 
 <!--Teaching -->
 <h2>Teaching</h2>
