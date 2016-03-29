@@ -6,7 +6,7 @@ title: Long Essay 2
 
 ## Prompt 
 
-In *Phys.* II. Ch. 3, Aristotle distinguishes 4 different causes. How would Aristotle use these four causes to explain the growth of an oak tree from a sapling into an adult? Make sure to suggest candidates for the four causes of this growth and explain how these causes differ from one another. 
+In *Physics*  Book II Ch. 3, Aristotle distinguishes 4 different causes. How would Aristotle use these four causes to explain the growth of an oak tree from a sapling into an adult? Make sure to suggest candidates for the four causes of this growth and explain how these causes differ from one another. 
 
 
 ## Further Instruction 
