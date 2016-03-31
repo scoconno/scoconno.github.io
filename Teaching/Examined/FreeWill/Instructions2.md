@@ -18,4 +18,4 @@ Complete these tasks in order
 
 ## Assignments
 
-+ Complete short essay 4 by Monday 04/28/2016 @ 11:59pm.
++ Complete short [essay 4](/Teaching/Examined/FreeWill/Essay/) by Monday 04/28/2016 @ 11:59pm.

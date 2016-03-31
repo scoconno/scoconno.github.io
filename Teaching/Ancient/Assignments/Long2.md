@@ -13,4 +13,4 @@ In *Physics*  Book II Ch. 3, Aristotle distinguishes 4 different causes. How wou
 
 + Read [*Aristotle*, by Christopher Shields, ch.2](Shields.pdf)
 + Please write 1250-1500 words. No more. No less. 
-+ Submit your responses by Mon. 4/11/16 @ 1pm.
++ Submit your responses by Fri. 4/15/16 @ 6pm.
