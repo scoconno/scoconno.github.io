@@ -8,9 +8,7 @@ title: Handout 4
 
 ## Introduction ##
 
-Ethics is one of the main specialities in philosophy. It is also the one that everyone has already had some familiarity. You already have moral opinions. 
-
-Consider each of these statements and ask yourself whether you agree, disagree, or have no opinion. 
+Ethics is one of philosophy's main specialities. It is also the one that everyone has already had some familiarity. You already have ethical beliefs about the following claims:
 
 1. Cheating on your partner is never permissible. 
 4. Stealing is never permissible.  
@@ -23,7 +21,7 @@ Consider each of these statements and ask yourself whether you agree, disagree, 
 9. Eating meat is never permissible.  
 10. I should donate to charity when I can. 
 
-You likely agreed with some of these claims, disagreed with others. You also likely have reasons for why you think some of these claims are true, others are false. The study of Ethics is the study of these reasons. It is the discipline that tries to determine why certain actions are permissible, others are impermissible, and others are required. In particular, Ethicists try to adjudicate between a number of theories as to what makes actions moral or immoral. In this brief handout, I will first outline some features of the reasons that Ethicists seek. I will then discuss a challenge to the very possibility of ever finding reasons that have these features. 
+You likely agreed with some of these claims, disagreed with others. You also likely have reasons for why you think some of these claims are true, others are false. The study of ethics is the study of these reasons. It is the discipline that tries to determine why certain actions are allowed, others are prohibited, and others are required. In particular, ethicists try to adjudicate between a number of theories about which reasons are relevant for the rightness and wrongness of our actions. In this brief handout, I will first outline some features of the reasons that ethicists seek. I will then discuss a challenge to the very possibility of ever finding reasons that have these features. 
 
 ## Ethics and Reasons
 
@@ -43,7 +41,7 @@ Morality is part of normativity. Moral judgements are about (i) how a person sho
 
 In our everyday lives, we expect people to give reasons in support of their moral judgements and are quick to provide our own. So, someone might claim that Sonya should not have an affair *because* she promised to be faithful and having an affair would involve breaking that promise. Here the reason for 2 is *one shouldn't break a promise.* Another person might claim that Sonya should remain faithful *because* having an affair would hurt her partner. Here the reason for 2 is *one shouldn't hurt another.*  
 
-Ethics is the study of these reasons. It tries to determine which reasons are good ones and which ones are not. So, for instance, some Ethicists deny that it is always wrong to break a promise. If, for instance, Sonya breaking her promise were the only way to save a life---admittedly a far flung possibility---some claim that it would be permissible for her to do so. Many Ethicists deny that it is always wrong to hurt another. Vaccinations might be painful, but many claim we have an obligation to vaccinate our children even thought doing so is painful. The point is, Ethics is not so much concerned with giving reasons for moral judgements as it is concerned with trying to determine which reasons are adequate, which are not. 
+Ethics is the study of these reasons. It tries to determine which reasons are good ones and which ones are not. So, for instance, some ethicists deny that it is always wrong to break a promise. If, for instance, Sonya breaking her promise were the only way to save a life---admittedly a far flung possibility---some claim that it would be permissible for her to do so. Many ethicists deny that it is always wrong to hurt another. Vaccinations might be painful, but many claim we have an obligation to vaccinate our children even thought doing so is painful. The point is, Ethics is not so much concerned with giving reasons for moral judgements as it is concerned with trying to determine which reasons are adequate, which are not. 
 
 If we are going to evaluate moral reasons, distinguish the good reasons from the bad ones, we need to identify the characteristics of a good moral reason. These characteristics include: 
 
@@ -72,7 +70,9 @@ Our different moral theories explain why actions are moral or immoral (or neithe
 
 ## A Challenge to Ethics: Ethical Relativism 
 
-Moral relativism says that there are no universal moral truths, truths that hold for all people and all times. The moral relativism we are concerned with says that what's true varies by culture, e.g., causing pain might be immoral in one culture, but not in a different culture. 
+Before discussing these theories, we should address an objection that would attack not just all three, but any ethical theory. Some have argued that there are no universal moral truths, truths that hold for all people and all times. This view, **moral relativism** cuts to the very core of ethics. It claims we are mistaken when searching for appropriate reasons for ethical judgements. The relativist claims that there just are not any reasons that could serve the role we wish them to play. 
+
+The moral relativism we are concerned with says that what's true varies by culture, e.g., causing pain might be immoral in one culture, but not in a different culture. 
 
 Moral relativism is easily misunderstood; it's far more radical than you might initially think. Distinguish these two claims: 
 

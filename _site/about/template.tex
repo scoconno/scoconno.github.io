@@ -1,0 +1,363 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11, letterpaper]{article}
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+%% Change as needed. Or just add me as a coauthor. Only some of these are
+%% used below in the hyperref declaration and address banner section.
+\def\myauthor{$name$}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{}
+\def\myaddress{$address$}
+\def\myemail{$email$}
+\def\myweb{$urls$}
+\def\myphone{$phone$}
+
+% LAYOUT
+%--------------------------------
+% Margins
+\usepackage{geometry} 
+\geometry{$geometry$}
+
+% Do not indent paragraphs
+\setlength\parindent{0in}
+
+% Enable multicolumns
+\usepackage{multicol}
+\setlength{\columnsep}{5.3cm}
+
+% LANGUAGE
+%--------------------------------
+% Set the main language
+$if(lang)$
+\usepackage{polyglossia}
+\setmainlanguage{$lang$}
+$else$
+\usepackage{polyglossia}
+\setmainlanguage{english}
+$endif$
+
+% TYPOGRAPHY
+%--------------------------------
+\usepackage{fontspec} 
+\usepackage{xunicode}
+\usepackage{xltxtra}
+% converts LaTeX specials (quotes, dashes etc.) to Unicode
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{$mainfont$}
+\setsansfont[Mapping=tex-text]{$sansfont$}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Minion Pro}
+% Cool ampersand
+\newcommand{\amper}{{\fontspec[Scale=.95]{$mainfont$}\selectfont\itshape\&}}
+% icons
+\defaultfontfeatures{
+    Path = /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/fontawesome/ }
+\usepackage{fontawesome}
+\usepackage{marvosym}
+\usepackage[autostyle=try]{csquotes}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+
+% MARGIN NOTES
+%--------------------------------
+\usepackage{marginnote}
+\newcommand{\note}[1]{\marginnote{\scriptsize #1}}
+\renewcommand*{\raggedleftmarginnote}{\color{darkblue}\sffamily}
+\setlength{\marginparsep}{7pt}
+
+\reversemarginpar
+
+% HEADINGS
+%--------------------------------
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\rmfamily\mdseries} 
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
+
+% PDF SETUP
+%--------------------------------
+\usepackage[xetex, bookmarks, colorlinks, breaklinks, pdftitle={$name$'s Vita},pdfauthor={$name$}]{hyperref}
+\hypersetup{linkcolor=darkblue,citecolor=darjblue,filecolor=black,urlcolor=darkblue}
+
+% OTHER
+%-------------------------------
+\usepackage{lastpage}
+
+%%%------------------------------------------------------------------------
+%%% Page layout
+%%%------------------------------------------------------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\rfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+\lfoot{\footnotesize \myauthor}
+
+\fancypagestyle{firststyle}
+{
+  \fancyhf{}
+  % $if(cfoot)$\cfoot{$cfoot$}$else$\cfoot{\footnotesize \thepage\ | \pageref{LastPage}}$endif$
+  \rfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+  \renewcommand{\headrulewidth}{0pt}
+}
+\thispagestyle{firststyle}
+
+%%%------------------------------------------------------------------------
+%%% Local commands
+%%%------------------------------------------------------------------------
+
+%% Marginal header
+%% Note: as the document goes on you may need to introduce a (gradually increasing)
+%% \vspace element to keep the marginal header pleasingly aligned with the first
+%% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or
+%% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
+
+
+%% custom ampersand (font consistent with the one chosen above)
+% \newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
+
+%% No bullets on labels
+\renewcommand{\labelitemi}{~}
+
+%% Custom hanging indent for vita items
+\def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+%\def\ind{\hangindent=18pt\hangafter=1 \noindent}
+\def\labelitemi{~}
+\renewcommand{\labelitemii}{~}
+
+%-------------------------------------
+%-------------------------------------
+% DOCUMENT
+%-------------------------------------
+%-------------------------------------
+\begin{document}
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{2.95in}
+ \flushright \footnotesize $for(address)$ $address$\\ $endfor$
+\end{minipage}
+\hfill
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright \footnotesize \faicon{phone} ~$phone$\\ \faicon{envelope} ~$email$\\ $for(urls)$ \faicon{globe} ~$urls$\\ $endfor$
+  Updated: \today
+\end{minipage}
+
+\bigskip
+
+%% Name
+\noindent{\huge {\textsc{$name$}}}\\
+
+$intro$
+
+
+%-------------------------------------
+% Appointments
+%-------------------------------------
+\section*{Appointments}
+\noindent
+$for(experience)$
+\note{$experience.years$}\textbf{$experience.job$}\\
+\emph{$experience.employer$}, $experience.city$\\[.1cm]
+$endfor$
+
+%-------------------------------------
+%% Education
+%-------------------------------------
+\section*{Education}
+\noindent
+$for(education)$
+\note{$education.year$}\textbf{$education.subject$}$if(education.degree)$, $education.degree$$endif$\\
+\emph{$education.institute$}$if(education.city)$, $education.city$$endif$\\[.1cm]
+$endfor$
+
+%-------------------------------------
+% AOS & AOC
+%-------------------------------------
+
+\section*{Areas of Specialization \hfill Areas of Competence}
+
+\begin{multicols}{2}
+
+ Ancient Philosophy\\
+ Metaphysics
+
+ \columnbreak
+\begin{flushright}
+Philosophy of Mind\\ 
+Early Modern Philosophy
+\end{flushright}
+\end{multicols}
+
+%\section*{Areas of Specialization}
+
+%$for(AOS)$
+%\ind $AOS$
+%$endfor$
+
+%\section*{Areas of Competence}
+
+%$for(AOC)$
+%\ind $AOC$
+%$endfor$
+
+%-------------------------------------
+%-------------------------------------
+% Publications
+%-------------------------------------
+%-------------------------------------
+\section*{Publications}
+
+% Articles
+%-------------------------------------
+\subsection*{Articles}
+\noindent
+$for(articles)$
+\note{$articles.year$}\enquote{$articles.title$.}
+\emph{$articles.journal$} $articles.issue$\\[.1cm]
+$endfor$
+
+% Book Chapters
+%-------------------------------------
+$if(chapters)$
+\subsection*{Book Chapters}
+\noindent
+$for(chapters)$
+\note{$chapters.year$}\enquote{$chapters.title$.} In $chapters.editor$,
+\emph{$chapters.book$}. $chapters.publisher$\\[.1cm]
+$endfor$
+$endif$
+
+% Reviews and Criticism
+%-------------------------------------
+$if(reviews)$
+\subsection*{Reviews \& Criticism}
+\noindent
+$for(reviews)$
+\note{$reviews.year$}\enquote{$reviews.title$.}
+\emph{$reviews.journal$} $reviews.issue$\\[.1cm]
+$endfor$
+$endif$
+
+
+%-------------------------------------
+%-------------------------------------
+% Presentations
+%-------------------------------------
+%-------------------------------------
+
+\section*{Presentations}
+% Invited Presentations
+%-------------------------------------
+$if(invited)$
+\subsection*{Invited marked with *}
+\noindent
+$for(invited)$
+\note{$invited.year$}{$invited.title$.}
+\emph{$invited.place$}. $invited.month$\\[.1cm]
+$endfor$
+$endif$
+% Presentations
+%-------------------------------------
+$if(presentation)$
+\subsection*{Refereed}
+\noindent
+$for(presentation)$
+\note{$presentation.year$}\enquote{$presentation.title$.}
+\emph{$presentation.place$}. $presentation.month$\\[.1cm]
+$endfor$
+$endif$
+%-------------------------------------
+% Teaching
+%-------------------------------------
+$if(teaching1)$
+\section*{Teaching}
+$for(tplace1)$
+\note{$tplace1.year$}\textsc{$tplace1.place$}\\[.2cm]
+$endfor$
+$for(teaching1)$
+\textsc{$teaching1.number$} -- $teaching1.title$\\[.2cm]
+$endfor$
+$endif$
+
+$if(teaching2)$
+$for(tplace2)$
+\note{$tplace2.year$}\textsc{$tplace2.place$}\\[.1cm]
+$endfor$
+$for(teaching2)$
+\textsc{$teaching2.number$} -- $teaching2.title$\\[.1cm]
+$endfor$
+$endif$
+
+%-----
+% Other
+%----
+
+\section*{Other Experience}
+
+\note{2010--2013} \textbf{Graduate Resident Fellow}, Alice Cook House, Cornell University\\[.1cm] A GRF lives in a Residential Hall and supports the House Professor-Dean, Assistant Dean, and House Fellows in creating a positive, vibrant and academically engaging residential community; serves as mentor and role model to undergraduate residents; and serves in a leadership role for academic enrichment by promoting a variety of programs and activities.
+
+%-------------------------------------
+% Service
+%-------------------------------------
+$if(service)$
+\section*{Service}
+$for(service)$
+\note{$service.year$}
+{$service.post$}\\[.1cm]
+$endfor$
+$endif$
+
+\vspace{-2mm}
+
+%-------------------------------------
+% Awards
+%-------------------------------------
+$if(awards)$
+\section*{Awards}
+$for(awards)$
+\note{$awards.year$}
+$awards.title$\\[.1cm]
+$endfor$
+$endif$
+
+\vspace{-2mm}
+
+
+%-------------------------------------
+% Languages
+%-------------------------------------
+
+$if(languages)$
+\section*{Languages}
+$for(languages)$
+\emph{$languages.language$} ($languages.proficiency$)\\[.1cm]
+$endfor$
+$endif$
+
+\vspace{-2mm}
+%-------------------------------------
+% References
+%-------------------------------------
+$if(references)$
+\section*{References}
+$for(references)$
+\href{mailto:$references.email$}{$references.person$} -- $references.place$\\[.1cm]
+$endfor$
+$endif$
+
+
+\end{document}

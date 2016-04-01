@@ -1,0 +1,137 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
+
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{verbatim}
+\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
+\usepackage{stmaryrd}
+%\usepackage{mathpartir}
+\usepackage{txfonts}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{fontspec}
+%\setmainfont{Hoefler Text}
+\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{hyperref}
+\usepackage{lastpage, fancyhdr}
+%\usepackage{setspace}
+\pagestyle{fancy}
+\lhead{}
+\chead{Lecture 4, Plato's \emph{Euthyphro}\space---\space Handout} 
+\rhead{}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+\footskip=30 pt
+\headsep=20pt
+\thispagestyle{empty}
+\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{greek}
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\gk}[1]{\textgreek{#1}}
+\newcommand{\gloss}[1]{(\textgreek{#1})}
+%\title{Authority in the Two Worlds \\ \hrulefill}
+%\author{\href{http://www.princeton.edu/~edlord/Site/home.html}{Errol Lord}}
+%\date{}
+\usepackage{covington}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\begin{document}
+
+%\maketitle
+\thispagestyle{empty}
+\begin{center} \LARGE{PHIL 321\\ Lecture 4: Plato's \emph{Euthyphro}}\\ \vspace*{2mm}
+\large{9/10/2013}\end{center}
+\thispagestyle{empty}\vspace*{3mm}
+
+\section*{Plato: Life and Works}
+\begin{itemize}
+
+\item{Born in 428 BCE to an aristocratic and politically powerful Athenian family; so would have been expected to go into politics; In one of his letters he talks about how he was tempted to partake in public life, but the events surrounding the end of the Peloponnesian war, and in particular the treatment of Socrates, led him to believe that there you could not better Athenian society (or any actually existing society) ``from the inside''; so, he embarked on a philosophical life; but, one thing to bear in mind is that, if his autobiography is correct, he had a very practical aim; he did want to make society better}\item{In his youth, he fell in with Socrates. He was, in fact, so enamored of Socrates that he uses him as the main character in many of his dialogues}\item{Socrates himself seems to have written nothing, so his influence in the later tradition was through his personal interactions with people}\item{Plato seems to have left Athens upon the execution of Socrates in 399 BCE; returned and founded his Academy in around 387 BCE}\item{At the academy he both wrote his own philosophical dialogues and oversaw various research programs in philosophy, mathematics, and natural science}\item{He also seems to have taken trips to Sicily to try and bring his vision of the Philosopher-King into fruition, but that was ultimately a failure}\item{Died in 348 or 347 BCE in Athens}\item{His main philosophical form was the dialogue, in which various characters engage in philosophical discussion; we must consider why Plato wrote in this manner, and how this affects our understanding of his work and his philosophy}\item{His work is conventionally divided into three or four ``groups'', often chronological; but we must note that it is difficult to be certain about the chronology:}\begin{itemize}\item{``Socratic'' (sometimes called ``early'')--Socrates is the main character; some moral concept is investigated (e.g. piety, courage, temperance, friendship; often ends in \emph{aporia} or failure to come to a decisive conclusion}\item{``Middle'': the \emph{Republic}--here we get more positive theses stated and argued for, loses some of the aporetic nature of the Socratic dialogues}\item{Some people identify a distinct group of ``transitional'' (e.g. the \emph{Meno}) which they don't want to classify as Socratic nor as Middle}\item{Late}\end{itemize}
+\item{\textbf{Stephanus}}
+\end{itemize}
+
+\section*{Basic Structure of \emph{Euthyphro}}
+
+\begin{itemize}\item{2a--4a: Socrates encounters Euthyphro, who is about to prosecute his (E's) father for murder}\item{4a--5d: S claims that only someone with expertise about piety, crucially including knowledge of its nature, should be confident that he were not acting impious in prosecuting a relative}\item{5d--15d: E offers various candidates for the definition of piety, all of which S rejects}\item{15d--end: S requests to start from the beginning, E refuses, leaves}\end{itemize} 
+
+\section*{Ethical action without knowledge}
+\begin{itemize}
+
+\item{[1] E's prosecution of his father is based on his belief that he has expertise concerning piety}
+\begin{itemize}\item{\textbf{4b}}\end{itemize}
+\item{[2] S seems to show that E does \emph{not} have that expertise}\begin{itemize}\item{What conception of expertise is at work here? Why does such expertise require knowledge of the nature of piety?\begin{itemize}\item{\textbf{5de}}\end{itemize} Is it reasonable to demand such expertise? (for all actions? for some?) How does S test whether E has such expertise?}\end{itemize}
+
+\item{[3] If E becomes aware of [2], how would it be rational for him to act?}
+
+\item{[4] By the end, S seems to think that E shouldn't prosecute his father. Is this because:}\begin{itemize}\item{[4a] S knows what piety is and thus that this action is in fact impious?}\item{[4b] S knows that this action is impious, even if he doesn't know what piety is?}\item{[4c] S thinks that E does not have sufficiently good reasons for this unconventional action?}\end{itemize}\end{itemize}
+
+\section*{Socrates' method}
+
+\begin{itemize}
+\item{S gets E to offer a candidate, C, as a definition of piety}\item{S then gets E to agree to additional claims that seem to entail that C is not, in fact, the definition of piety}\item{What do S's rejections of E's various candidates tell us about what S thinks would be a \emph{satisfactory} answer to the question ``What is Piety?''?}\end{itemize}
+
+\section*{Candidates for the definition of piety (\emph{to hosion}) and Socrates' objections}
+\begin{itemize}
+
+\item{[1] 5e: Prosecuting the wrongdoer (regardless of personal relationship to wrongdoer)}
+
+\begin{itemize}\item{This is an \emph{example} of a (kind of) pious action, not a specification of that in virtue of which all pious actions are pious}\end{itemize}
+
+\item{[2] 7a: What is dear to the gods}
+
+\begin{itemize}\item{If the gods disagree on important ethical matters (as Euth. agrees they do at 6c and 7b--8a), then one and the same thing could be both pious (because dear to some god(s)) and impious (because hated by some other god(s)), but that is impossible}\end{itemize}
+
+\item{[3] (modification of [2]) 9e: What is dear to \emph{all} the gods}
+
+\begin{itemize}\item{This only gives us a quality or affection of piety, it does not tell us what piety is}\end{itemize}
+
+\item{[4] 12e: The part of justice concerned with the care of the gods}
+
+\begin{itemize}\item{Care for \emph{X} aims at benefitting \emph{X} or making \emph{X} better; But gods cannot be made better}\end{itemize}
+
+\item{[5] 13d: The part of justice concerned with service to the gods}
+
+\begin{itemize}\item{Service aims at some goal (e.g. service to generals aims to help them win wars, service to house builders aims to help them build houses) but Euth. can't specify what ``fine thing'' gods achieve such that service could aim to help them achieve that goal}\end{itemize} 
+
+\item{[6] (modification of [5]) 14d: [5] = Knowledge of how to sacrifice and pray}
+
+\begin{itemize}\item{This definition reduces to [3] and the claim that sacrifices and prayers are dear to all the gods}\end{itemize}
+
+\end{itemize}
+
+\section*{Socrates' rejection of [3]: Piety = What is dear to all the gods}
+\begin{itemize}
+\item{Distinction between something being \emph{X}ed and something's \emph{X}ing (e.g. something's being carried and something's carrying; being led and leading; being seen and seeing)}
+
+\item{S claims that something \emph{X}ing \emph{Y} is prior to \emph{Y}'s being \emph{X}ed}
+
+\item{So, something's being loved by the gods is \emph{posterior} to the gods' loving it (i.e. the fact that the gods love it explains why it is being loved, not the other way around)}
+
+\item{So, if to be pious is to be loved by all the gods, the fact that the gods are loving it is prior to the fact that it is loved by the gods}
+
+\item{But then we must ask, why do the gods love it (why are the gods loving it)?}
+
+\item{Answer must be ``because it is pious'' (Can't be ``because it is being loved'')}
+
+\item{But then the fact that it is pious \emph{explains why} the gods love it and the fact that the gods love it cannot be what makes it pious}
+
+\end{itemize}
+
+\end{document}

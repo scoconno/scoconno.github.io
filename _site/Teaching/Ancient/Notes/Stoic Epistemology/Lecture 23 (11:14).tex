@@ -1,0 +1,165 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
+
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{verbatim}
+\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
+\usepackage{stmaryrd}
+%\usepackage{mathpartir}
+\usepackage{txfonts}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{fontspec}
+%\setmainfont{Hoefler Text}
+\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{hyperref}
+\usepackage{lastpage, fancyhdr}
+%\usepackage{setspace}
+\pagestyle{fancy}
+\lhead{}
+\chead{Lecture 24, Stoic Epistemology\space---\space Handout} 
+\rhead{}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+\footskip=30 pt
+\headsep=20pt
+\thispagestyle{empty}
+\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{greek}
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\gk}[1]{\textgreek{#1}}
+\newcommand{\gloss}[1]{(\textgreek{#1})}
+
+\usepackage{covington}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\begin{document}
+
+%\maketitle
+\thispagestyle{empty}
+\begin{center} \LARGE{PHIL 321\\ Lecture 24: Stoic Epistemology}\\ \vspace*{2mm}
+\large{11/19/2013}\end{center}
+\thispagestyle{empty}\vspace*{3mm}
+\vspace*{-8mm}
+
+\section*{A basic skeptical argument (\emph{HP} 267, \S60)}
+
+\noindent The Stoics (and Epicureans) were empiricists---i.e. they think that all our knowledge and concepts ultimately derive from the senses; they differ in how they respond to this kind of skeptical argument:
+\vspace*{2mm}
+
+\noindent [P1] Some sense-impressions are true, some false
+\vspace*{1mm}
+
+\noindent\underline{[P2] It is not possible to distinguish true from false sense-impressions}
+\vspace*{1mm}
+
+\noindent [C] Nothing can be known
+\vspace*{2mm}
+
+\noindent The Epicureans reject [P1] (i.e. they think that all sense-impressions are true); they claim, then, that the ``criterion of truth'' (i.e. a mechanism for reliably discriminating truth from falsity) is perception, full stop
+\vspace*{2mm}
+
+\noindent The Epicureans, then, think that sense-perception furnishes us with basic truths, and that all propositions that do not have this basic status can be confirmed or repudiated by making reference to the basic truths
+\vspace*{2mm}
+
+\noindent The Stoics reject [P2]; i.e. they allow that some sense-impressions are false, and so they must give a criterion of truth that is a subset of sense-impressions. These are the ``cataleptic impressions''
+
+\section*{Impressions or ``Presentations''}
+
+\noindent An impression is an alteration of the mind [= ``leading part of the soul''] caused:
+\vspace*{2mm}
+
+i) by an external object via the senses; or
+\vspace*{1mm}
+
+ii) by an internal object via the reason or imagination of the subject
+\vspace*{2mm}
+
+\noindent The two kinds of animal have different kinds of impressions:
+\vspace*{2mm}
+
+i) non-human animals and children have only non-rational impressions
+\vspace*{1mm}
+
+ii) adult humans (and gods) have only rational impressions (i.e. impressions with propositional content)
+\vspace*{2mm}
+
+\noindent A rational impression is a thought---either one caused:
+\vspace*{2mm}
+
+i) by an external object (e.g. ``This is red''), or
+\vspace*{1mm}
+
+ii) a complex internal `object' (e.g. ``Pleasure is not good'')
+\vspace*{2mm}
+
+\noindent Thoughts are constituted by two aspects:
+\vspace*{2mm}
+
+\textbf{P}: propositional content---the aspect of a thought that can be expressed by a proposition, \&
+\vspace*{1mm}
+
+\textbf{R}: Representational content---the aspect of a thought which represents \textbf{P} in a determinate way
+\vspace*{-2mm}
+
+\section*{Cataleptic Impressions}
+
+\noindent The Stoics think that, although we \emph{cannot} discriminate true impressions from false impressions \emph{in general}, there is a sub-set of true impressions which \emph{can} be reliably discriminated from false impressions: \emph{cataleptic impressions}
+\newpage
+
+\noindent A cataleptic impression is an impression which meets the following conditions: (\emph{HP} 112, \S46; 126-7, \S227-373)
+\vspace*{2mm}
+
+[1] It comes from what is
+\vspace*{1mm}
+
+[2] It is stamped and impressed in accordance with what is
+\vspace*{1mm}
+
+[3] It is such as could not come about from what is not
+\vspace*{2mm}
+
+\noindent This means that the cataleptic impression is:
+\vspace*{2mm}
+
+[1*] True, because its \textbf{P} corresponds to the state of affairs it represents
+\vspace*{1mm}
+
+[2*] Representationally accurate---i.e. it represents the relevant state of affairs with all the features it has\\\hspace*{13mm}which are perceptible by the sense which is causally involved
+\vspace*{1mm}
+
+[3*] Cannot be false, because the representational content is such that it could \emph{only} be caused by the state\\\hspace*{13mm}of affairs it represents as obtaining
+\vspace*{2mm}
+
+\noindent Thus the Stoics think that we have some impressions that are so representationally rich that the only way they could have come about is by being caused in the appropriate way, and hence that their \textbf{P} is guaranteed by that \textbf{R}. The Stoics sometimes put this by saying that cataleptic impressions are so clear and distinct that they guarantee that their propositional content is true.
+\vspace*{2mm}
+
+\noindent Unlike the Epicureans, the Stoics do \emph{not} think that all propositions can be determined true or false by determining whether they are confirmed or repudiated by cataleptic impressions. Rather, cataleptic impressions work as \emph{criteria} of truth in the following ways:
+\vspace*{2mm}
+
+[1] They guarantee the truth of their own propositional content
+\vspace*{1mm}
+
+[2] By repeated assent to CIs (or proto-CIs), people form general conceptions of objects that are guaran-\\\hspace*{13mm}teed to be true (e.g. man is a rational animal)
+\vspace*{1mm}
+
+[3] Those conceptions can then be extended by examining the logical connections between them
+
+\end{document}
