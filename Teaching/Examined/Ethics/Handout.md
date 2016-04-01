@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Handout 4
+title: Ethics
 ---
 
-# Ethics
 
 
 ## Introduction ##
