@@ -13,7 +13,7 @@ title: Consequentialism
 
 Consequentialists claim that morality depends completely on the effects of our actions. They say that the actor side of the diagram is irrelevant as is the intrinsic nature of their acts. 
 
-There are different versions of Consequentialism. They differ, primarily, in what effects they construe as relevant for morality. **Egoism** says that right actions are those that further one’s own best interests. Egoists say that the effects your actions have on others is irrelevant to the morality of your actions. All that is relevant is the effects your actions have on you. For further discussion of Egoism, see the textbook.
+There are different versions of Consequentialism. They differ, primarily, in what effects they construe as relevant for morality. **Egoism** says that right actions are those that further one’s own best interests. Egoists say that the effects your actions have on others is irrelevant to the morality of your actions. All that is relevant is the effects your actions have on you. For further discussion of egoism, see the textbook.
 
 ## Utilitarianism
 
@@ -22,17 +22,17 @@ In this handout, I will discuss a second version of Consequentialism. **Utilitar
 The Principle of Utility
 :	Rights actions are those that result in greater overall well-being (or utility) for the people involved than any other possible action. 
 
-Consider torture. The police learn that a person S has planted a bomb somewhere in the city. They arrest S who remains silent after intense questioning. A police officer asks herself, 'would it be morally permissible for me to force an answer using violence, using torture?' The Utilitarian denies that there are is an absolute moral prohibition against torture. Whether it is moral depends entirely on the effects the action will have on the people involved. 
+Consider torture. The police learn that a person S has planted a bomb somewhere in the city. They arrest S who remains silent after intense questioning. A police officer asks herself, 'would it be morally permissible for me to force an answer using violence, using torture?' The utilitarian denies that there are is an absolute moral prohibition against torture. Whether it is moral depends entirely on the effects the action will have on the people involved. 
 
 What effects should we attend to? Utilitarians disagree on this point. For our purposes, we can focus on Jeremy Bentham's rather simple view that the only effects that matter are the pleasures and pains caused by the action on the people involved. On this view, one should maximize pleasure and minimize pains regardless of the distribution of those pleasures and pains. Here we have to consider two scenarios:
 
 Scenario 1
-:	The police officer tortures the prisoner. The prisoner experiences much pain. The officer suffers mental torment. They bomb is found. The officers feel relief at preventing a tragedy. Nobody suffers the pain of being injured, maimed by an exposition. Nobody suffers the pain from dying in an explosion. Nobody suffers the pain of losing a loved one in an explosion. 
+:	The police officer tortures the prisoner. The prisoner experiences much pain. The officer suffers mental torment. The bomb is found. The officer feels relief at preventing a tragedy. Nobody suffers the pain of being injured, maimed by an exposition. Nobody suffers the pain from dying in an explosion. Nobody suffers the pain of losing a loved one in an explosion. 
 
 Scenario 2
 :	The police officer does not torture the prisoner. The prisoner suffers no physical pain. The officer suffers no mental anguish from torturing her prisoner. Several people suffer incredible pain from being injured in the explosion. Many suffer great pain as they die from the explosion. Many suffer great pain from losing a loved one. 
 
-The officer can torture or not. According to Utilitarianism, she should decide by comparing the prospective pleasures and pains involved in both scenarios. As presented, scenario 2 involves a far greater ratio of pain to pleasure than scenario 1. Suppose that we quantify pains and pleasures. Scenario 1 might result in 20 units of pain and 20 units of pleasure, which is a ratio of pain to pleasure of 1:1. Scenario 2 might result in 2000 units of pain and 10 of pleasure, which is a ratio of pain to pleasure of 200:1. Clearly the first scenario has a better ratio of pain to pleasure, so, according to the Utilitarian, torture is the morally required thing to do in this circumstance.  
+The officer can torture or not. According to utilitarianism, she should decide by comparing the prospective pleasures and pains involved in both scenarios. As presented, scenario 2 involves a far greater ratio of pain to pleasure than scenario 1. Suppose that we quantify pains and pleasures. Scenario 1 might result in 20 units of pain and 20 units of pleasure, which is a ratio of pain to pleasure of 1:1. Scenario 2 might result in 2000 units of pain and 10 units of pleasure, which is a ratio of pain to pleasure of 200:1. Clearly the first scenario has a better ratio of pain to pleasure, so, according to the utilitarian, torture is the morally required thing to do in this circumstance.  
 
 
 ## Rule vs. Act Utilitarianism
@@ -58,9 +58,9 @@ Scenario 1
 Scenario 2
 :	The police officer does not torture the prisoner. Here the officer is acting on the assumption that it is never permissible for the police to torture a prisoner. Here the prisoner suffers no physical pain. The officer suffers no mental anguish from torturing her prisoner. There is no civil strife from a corrupt police force which has not lost the trust of the public.  Nevertheless, several people suffer incredible pain from being injured in the explosion. Many suffer great pain as they die from the explosion. Many suffer great pain from losing a loved one. 
 
-Here we must assess the effects of both rules being implemented and followed. In Scenario 1, the negative effects may involve a breakdown in civil society. In Scenario 2, civil society is preserved but the several acts of terrorism may not be prevented. Nevertheless, the negative effects in Scenario 1 likely outweigh those in Scenario 2. Thus the Rule Utilitarian will judge it immoral to torture even though, on occasion, it might help us avoid some specific negative result. 
+Here we must assess the effects of both rules being implemented and followed. In Scenario 1, the negative effects may involve a breakdown in civil society. In Scenario 2, civil society is preserved but several acts of terrorism may not be prevented. Nevertheless, the negative effects in Scenario 1 likely outweigh those in Scenario 2. Thus the Rule Utilitarian will judge it immoral to torture even though, on occasion, it might help us avoid some specific negative result. 
 
-For more on Utilitarianism, watch the following series of [clips.](https://www.youtube.com/watch?v=uvmz5E75ZIA&list=PLtKNX4SfKpzWiiUdXS9MKf8bgUfQSOlas)
+For more on utilitarianism, watch the following series of [clips.](https://www.youtube.com/watch?v=uvmz5E75ZIA&list=PLtKNX4SfKpzWiiUdXS9MKf8bgUfQSOlas)
 
 
 

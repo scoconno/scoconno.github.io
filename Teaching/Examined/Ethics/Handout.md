@@ -70,18 +70,18 @@ Our different moral theories explain why actions are moral or immoral (or neithe
 
 ## A Challenge to Ethics: Ethical Relativism 
 
-Before discussing these theories, we should address an objection that would attack not just all three, but any ethical theory. Some have argued that there are no universal moral truths, truths that hold for all people and all times. This view, **moral relativism** cuts to the very core of ethics. It claims we are mistaken when searching for appropriate reasons for ethical judgements. The relativist claims that there just are not any reasons that could serve the role we wish them to play. 
+Before discussing these theories, we should address an objection that attacks not just all three, but any ethical theory. Some have argued that there are no universal moral truths, truths that hold for all people and all times. This view, **moral relativism**, cuts to the very core of ethics. It claims that we are mistaken when searching for appropriate reasons for ethical judgements. The relativist claims that there are no reasons that could serve the role we wish them to play. 
 
-The moral relativism we are concerned with says that what's true varies by culture, e.g., causing pain might be immoral in one culture, but not in a different culture. 
+The moral relativism we are concerned with says that what's true, ethically, varies by culture, e.g., causing pain might be immoral in one culture, but not in a different culture. 
 
 Moral relativism is easily misunderstood; it's far more radical than you might initially think. Distinguish these two claims: 
 
 1. Culture A believes that abortion is immoral. Culture B believes that abortion is morally permissible. 
 2. Abortion *is* morally permissible in Culture B, but not in Culture A.
 
-Moral relativism is defending Claim 2, which is much stronger than Claim 1. We might compare Claim 2 to the claim that, say, what's tasty is relative to a person. Suppose we ask, for instance, whether cilantro is tasty. A relativist about taste will say that there are no facts about taste that apply to everyone; cilantro tastes horrible to one person, but not to another person. If taste is relative, a person can never be wrong as to whether cilantro is tasty. If they find it tasty, it is tasty, but to them. If someone claims it is horrible, you cannot claim they have made a mistake. For it will be horrible, but to that person. 
+Moral relativism is defending Claim 2, which is much stronger than Claim 1. We might compare Claim 2 to the claim that, say, what's tasty is relative to a person. Suppose we ask, for instance, whether cilantro is tasty. A relativist about taste will say that there are no facts about taste that apply to everyone; cilantro tastes horrible to one person, but not to another person. If taste is relative, a person can never be wrong as to whether cilantro is tasty. If they find it tasty, it is tasty, but to them. If someone claims it is horrible, you cannot claim they have made a mistake. It will be horrible, but to that person. 
 
-Similarly, the moral relativist claims that there are no *objective* moral standards, standards which apply to all moral judgements irrespective of where those judgements originated. Morality, they claim, is quite like taste. If a culture disapproves of an action, that action really is immoral, not to everyone, but just to members of that culture which disapprove the action. 
+Similarly, the moral relativist claims that there are no *objective* moral standards, standards which apply to all moral judgements irrespective of where those judgements originated. Morality, they claim, is quite like taste. If a culture disapproves of an action, that action really is immoral, not to everyone, but just to members of the disapproving culture. 
 
 Cultural relativism has an important upshot: there are no genuine cross-cultural moral disagreements. If your culture disapproves of forcing the elderly to commit suicide, then such force is immoral *in your culture*. But if another culture approves of forcing the elderly to kill themselves, you must remain silent. You cannot say that the other culture has made a mistake, that your culture has the right policy, and the other has the wrong policy. Your culture's standards are not theirs, and there is no cross-cultural standard that applies to both cultures equally that would make one policy immoral, the other moral. 
 
@@ -94,7 +94,7 @@ It's useful to have a clear statement of cultural relativism before we proceed:
 
 For convenience, let us say that this amounts to the claim that there are no objective moral truths, i.e., there are no general and universal moral truths (see above for definition)
 
-The argument for Cultural Relativism is called the *Cultural Differences Argument*. There are different ways of formulating the argument. You can find one on p.140 of the textbook. I include an alternative formulation here.
+The argument for Cultural Relativism is called the *Cultural Differences Argument*. There are different ways of formulating the argument. You can find one in ch.3.2 of the textbook. I include an alternative formulation here.
 
 
 **Cultural Differences Argument**
@@ -143,8 +143,7 @@ Here is another example:
 
 Again, this is a poor argument. There is a fact of the matter as to whether humans are causing the Earth to warm. Disagreement between cultures is no reason to doubt this.
 
-Similarly, the fact cultures disagree on moral issues, does not mean there are no objective moral facts. None of us may have discovered the truth yet. Or perhaps some culture has discovered the truth and others are mistaken.  Perhaps, for instance, forcing the elderly to commit suicide is morally permissible, but the majority of the world has yet to realize it. 
-
+Similarly, the fact cultures disagree on moral issues does not mean there are no objective moral facts. None of us may have discovered the truth yet. Or perhaps some culture has discovered the truth and others are mistaken. But the fact that we have not agreed on what the truth is does not mean that there is no truth to agree upon. This questionable inference is central to cultural relativism and should give one pause in accepting it.
 
 
 
