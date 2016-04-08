@@ -8,9 +8,21 @@ If you are a current student, please find the course web-site link on the syllab
 
 For details about upcoming courses, please do [e-mail me](/Contact).  
 
+### Fall 2016
+
++ Ethics: Friendship, Happiness, and the Good Life, M&W @ 4pm
++ The Examined Life, M&W @ 12:45
++ Persons & Problems (online)
+
+
+### Summer II 2016
+
++ Persons & Problems (online)
+
+
 ### Spring 2016
 
-+ A Survey of Ancient Philosophy, M&W @ 4pm
++ Survey of Ancient Philosophy, M&W @ 4pm
 + Time (Honors, cohort B), M&W @ 12:45
 + Persons and Problems (online)
 

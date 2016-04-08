@@ -15,7 +15,6 @@ title: Persons & Problems
 + [Office Hours](/Contact/Office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
-+ [Current Grade](/Teaching/Examined/Grade.xlsx)
 
 
 ## Modules

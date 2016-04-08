@@ -1,23 +1,20 @@
 ---
 layout: default
-title: The Examined Life
+title: Persons & Problems
 ---
 
-# Phil 140: The Examined Life
+# Phil 101: Persons & Problems
 
  
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
-+ [Reading Schedule](Reading)
-+ [Assignment Schedule](Assign)
 + [Grading Information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
 + [Contact Information](/Contact)
-+ [Office Hours](/Contact/office)
++ [Office Hours](/Contact/Office)
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
-+ [Current Grade](/Teaching/Examined/Grade.xlsx)
 
 
 ## Modules

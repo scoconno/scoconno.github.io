@@ -33,6 +33,7 @@ Culture, Ideas and Values IV
 
 + [Proposal](Assignments/Project/Proposal)
 + [Literature Review](Assignments/Project/Literature)
++ [Presentation](Assignments/Project/Presentation)
 
 
 
