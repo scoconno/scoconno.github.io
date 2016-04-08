@@ -34,6 +34,7 @@ Write 6 slides. Each slide should contain a striking picture, or quote, or graph
 ### Grading
 
 This assignment is worth 10 points. The breakdown is as follows: 
+
 + 1 point per slide (6 points total)
 + 4 points peer review (average response)
 
