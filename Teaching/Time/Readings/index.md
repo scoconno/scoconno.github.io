@@ -5,6 +5,9 @@ title: Time
 
 ## Additional Readings
 
++ ['The Metaphysics of Time', Bradley Dowden](Bradley.pdf)
+	+ Ch.8 is optional for week 12
+	+ Ch.4 is optional for week 13
 + [‘Material Constitution', Michael Rea](Rea.pdf) from *Metaphysics: the Basics*
 + ['Of Confused Subjects Which Are Equivalent to Two Subjects:. An Excerpt from The Port-Royal Logic', Antoine Arnauld and Pierre Nicole](Confused.pdf)
 + ['Identity, Ostension, and Hypostasis',  W. V. O. Quine, pp. 621--624](Quine.pdf)
