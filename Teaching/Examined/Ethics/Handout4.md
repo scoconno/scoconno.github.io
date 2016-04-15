@@ -33,7 +33,7 @@ Notice that being honest involves much more than merely acting honestly. The ide
 
 ## Virtues and Vices
 
-Virtue Ethicists claim that some traits are virtues, some are vices. What would make a trait one or the other? Perhaps the best known answer comes from Aristotle, a student of Plato. Aristotle, born 384, was Macedonian but moved to Athens to study with Plato. He ultimately established his own school, the Lyceum, and is one of the most influential, if not the most influential, philosopher of all time.
+Virtue Ethicists claim that some traits are virtues, some are vices. What would make a trait one or the other? Perhaps the best known answer comes from Aristotle, a student of Plato. Aristotle, born 384, was Macedonian but moved to Athens to study with Plato. He ultimately established his own school, the Lyceum, and is one of the most influential, if not the most influential, philosopher of all time. Find an overview of Aristotle's life and contributions [here.](https://www.youtube.com/watch?v=csIW4W_DYX4)
 
 According to Aristotle, the traits which are virtues are those that allow us to flourish as a human being. Some lives go well. Some lives go poorly. Whatever enables a life to go well we should pursue. Whatever prevents a life going well we should avoid. Obviously, then, we need to try determine what it is for a life to go well, that is, what it is for a person to flourish as a human being.  
 

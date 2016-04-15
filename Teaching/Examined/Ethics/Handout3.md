@@ -19,7 +19,7 @@ The Consequentialists think that actions are only right or wrong relationally, t
 
 The word *deontology* comes from the Greek meaning the study of obligations or duties. The Deontologist is more concerned with duties and rights. We might consider the Ten Commandments as an instance of a deontological view. The requirement to respect your elders is absolute. You are told to respect them not because of the effects of doing so. You must respect them regardless of the kind of people they are or what that impact respecting them might have on you and others.  
 
-The main task for the deontologists is to decide on our duties and responsibilities. Is respecting our elders really a duty? How about never breaking a promise? Here deontologists give different theories about the source of our duties. Our focus will be the most famous deontologist,Immanuel Kant. Kant makes the following claim:
+The main task for the deontologists is to decide on our duties and responsibilities. Is respecting our elders really a duty? How about never breaking a promise? Here deontologists give different theories about the source of our duties. Our focus will be the most famous deontologist,Immanuel Kant. Find an overview of Kant's life and contributions [here.](https://www.youtube.com/watch?v=nsgAsw4XGvU) Kant makes the following central claim in his ethics:
 
 
 **Right actions** 
