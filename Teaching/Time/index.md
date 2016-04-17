@@ -25,6 +25,7 @@ Culture, Ideas and Values IV
 + [Short Essay 2](Assignments/Short2)
 + [Short Essay 3](Assignments/Short3)
 + [Short Essay 4](Assignments/Short4)
++ [Short Essay 5](Assignments/Short5)
 
 
 
