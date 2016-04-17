@@ -11,7 +11,7 @@ title: Instructions
 
 Complete these tasks in order
 
-+ Read ‘Billy Budd’, Herman Melville,(extracts)
++ Read ['A Horseman in the Sky' by Ambrose Pierce'](Horseman.pdf)
 + Read ch.3.4
 + Study [the notes](/Teaching/Examined/Ethics/Handout3).  
 
