@@ -8,7 +8,7 @@ title: Ethics
 ### Reading 
 
 + [Kirinyaga](Kirinyaga.epub) (read ch.1.)
-+ Billy Budd, Herman Melville (extracts)
++ Read ['A Horseman in the Sky' by Ambrose Pierce'](Horseman.pdf)
 
 ### Notes
 
