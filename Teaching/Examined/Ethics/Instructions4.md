@@ -11,7 +11,7 @@ title: Instructions
 
 Complete these tasks in order
 
-+ Read ch. 3.4
++ Read ch. 3.5--3.6
 + Study [the notes](/Teaching/Examined/Ethics/Handout4).  
 
 
