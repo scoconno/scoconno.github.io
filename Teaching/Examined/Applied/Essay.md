@@ -41,14 +41,13 @@ Pick **one** of the follow questions:
 ### Prompt 
 
 
-Applied Ethicists are more concerned with particular, practical cases than with more abstract theoretical questions. They want to know how, if at all, a hospital should distribute donated organs, whether it is permissible to bribe officials in foreign states to do business, etc. The questions listed above are all hot topics in the United States. Your job will be to answer them as an Applied Ethicist. In this first draft,
-write three short documents:
+Applied Ethicists are more concerned with particular, practical cases than with more abstract theoretical questions. They want to know how, if at all, a hospital should distribute donated organs, whether it is permissible to bribe officials in foreign states to do business, etc. The questions listed above are all hot topics in the United States. Your job will be to answer your question as an Applied Ethicist. To do so, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that assignment. Your assignment comes in three parts:  
 
-1.  After researching articles at www.nj.com from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major downsides and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (600–800 words)
+2.  After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life downsides and benefits to that person, their friends, and their families. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (400–600 words)
 
-2.  After researching articles at www.nj.com, identify some specific individuals who have been affected by your chosen issue. Detail the real life downsides and benefits to everyone involved. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (600–800 words)
+1.  After researching articles at www.nj.com from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major downsides and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (400–600 words)
 
-3.  Given the information that you presented in the first two parts of your paper, explain your answer to your question.   (600–800 words)
+3.  Given the information that you presented in the first two parts of your paper, state your answer to the question and explain how the information from the first two parts of the paper influenced your answer. (200–400 words)
 
 
 
@@ -57,7 +56,7 @@ write three short documents:
 ### Grade Breakdown
 
 
-This paper is worth 20 points towards your final grade. 8 points will be awarded towards 
+This paper is worth 20 points towards your final grade. 8 points will be awarded towards the first part of the paper, 8 parts towards the second, and 4 parts towards the third. 
 
 
 
@@ -80,8 +79,4 @@ Please find the rubric and explanation of it [here](/Teaching/Grading/).
 
 ### Resources
 Please find links to writing resources [here](/Teaching/Resources/)
-
-### Word Count
-
-Your dialog must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
 
