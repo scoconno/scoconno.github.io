@@ -44,7 +44,7 @@ education:
   city: Oxford, U.K.
 - year: 2004
   subject: B.A, Mental and Moral Science (1st Class)
-  institute: Trinity College, Dublin
+  institute: Trinity College Dublin
   city: Dublin, Ireland
 
 articles:
@@ -54,7 +54,7 @@ articles:
 # issue:
 - year: 2015
   title: "The Subjects of Natural Generations in Aristotle's *Physics* I.7"
-  journal: Apeiron
+  journal: Apeiron, A Journal for Ancient Philosophy and Science
   issue: vol. 48 (1), pp. 45–75
 
 
@@ -92,7 +92,7 @@ invited:
 - year: 2015
   month: October
   title: \enquote{The Principles and Elements of Nature in Aristotle's \emph{Physics}\ I}
-  place: The Society for Ancient Greek Philosophy, NY
+  place: The Society for Ancient Greek Philosophy, Fordham University, NY
 
 - year: 2015
   month: April
@@ -103,11 +103,16 @@ invited:
   month: February
   title: \enquote{The Eleatic Challenge in Aristotle's \emph{Physics}\ I.8}
   place: Ancient Philosophy Workshop, UT Austin
+  
+- year: 2015
+  month: January
+  title: \enquote{The Eleatic Challenge in Aristotle's \emph{Physics}\ I.8}
+  place: NYU, NY  
 
 - year: 2014
   month: October
   title: \enquote{Aristotle's Criticism of Plato's First Principles in \emph{Physics}\ I.9}
-  place: The Society for Ancient Greek Philosophy, New York
+  place: The Society for Ancient Greek Philosophy, Fordham University, NY
 
 - year: 2014
   month: June
