@@ -27,6 +27,6 @@ title: Persons & Problems
 + [Module 4](/Teaching/Examined/God)
 + [Module 5](/Teaching/Examined/FreeWill)
 + [Module 6](/Teaching/Examined/Ethics)
-+ [Module 7](/Teaching/Examined/Applied)
++ [Module 7](/Teaching/Examined/Applied/Essay)
 
 
