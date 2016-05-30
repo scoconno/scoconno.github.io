@@ -7,11 +7,8 @@ title: Essay
 
 ### Prompt---A Letter 
 
-You are a religious leader concerned about the teaching of evolutionary biology in high schools. You think that only God could explain the existence of life. The local school board is accepting public submissions on the issue. 
+An e-mail from the future. Your future self send you an e-mail. It's going to tell you that you are wrong about something. They tell you that you have been living your life believing that something or other is important. Future self tells you how that belief has shaped you, what specific actions it has lead you to take, what big decisions you have made, friends made, jobs taken, opportunities lost, etc. Future self then challenges that held belief. They point to how you never really had a good reason for it and give an argument against it. 
 
-Write a short letter to the school board using the Design Argument (and no other argument) to argue that God exists, i.e., arguing that only the existence of God can explain complexity in nature.
-
-**NB: You must explain all the premises/steps of the Design argument. Failure to do so will result in significant loss of points. Mention of any other argument for God's existence will also result in loss of points.**
 
 
 ### Word Count
@@ -20,7 +17,7 @@ Your submission must be 500-750 words long. Essays shorter than 500 words or lon
 
 ### Further Instruction 
 
-+ This assignment covers material contained in Ch.2.
++ This assignment covers material contained in Ch.1.
 + Note that this is a letter. Include all appropriate letter headings, salutations, etc. 
 + The members of the school board are not philosophers. Your job here is to explain a piece of complex philosophy to smart lay people. Use examples, simple vocabulary, etc. 
 + Use simple examples when explaining the premises/steps of the Design Argument. Paley's use of the watch example is key. You are free to use other examples of artifacts, but you must explain to the reader how he convinces us that an artifact has a purpose before you can explain how he applies this result to nature.   

@@ -3,7 +3,6 @@ layout: default
 title: Short essay 4 
 ---
 
-## Short essay 4
 
 ### Prompt 
 

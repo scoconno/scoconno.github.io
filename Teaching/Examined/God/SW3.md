@@ -1,9 +1,8 @@
 ---
 layout: default
-title: SW 3
+title: Essay 
 ---
 
-## Short Essay 3##
 
 
 ### Prompt---A Speech
