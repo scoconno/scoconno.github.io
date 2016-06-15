@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The Meaning of Life 2
+title: Optimism with God
 ---
 
-
+# Optimism about the meaning of life: God
 
 ## Introduction 
 

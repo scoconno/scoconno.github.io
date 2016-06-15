@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  19 MAR 2016 17:01
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  24 APR 2016 16:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1524,7 +1524,16 @@ Overfull \hbox (0.23647pt too wide) in paragraph at lines 119--120
 
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
 (Font)              scaled to size 9.84024pt on input line 141.
-[3] [4] [5] [6]
+[3] [4]
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 6.88817pt on input line 283.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 283.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 283.
+LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
+(Font)              scaled to size 5.90414pt on input line 283.
+ [5] [6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
  (./Syllabus.aux)
@@ -1535,11 +1544,11 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32607 strings out of 493706
- 589190 string characters out of 6145769
+ 32629 strings out of 493706
+ 589669 string characters out of 6145769
  1169671 words of memory out of 5000000
- 35704 multiletter control sequences out of 15000+600000
- 5207 words of font info for 55 fonts, out of 8000000 for 9000
+ 35715 multiletter control sequences out of 15000+600000
+ 6763 words of font info for 64 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  63i,11n,105p,10385b,2442s stack positions out of 5000i,500n,10000p,200000b,80000s
 

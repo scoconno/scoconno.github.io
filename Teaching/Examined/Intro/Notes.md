@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction to Philosophy
+title: What is Philosophy? 
 ---
 
 # What is Philosophy?

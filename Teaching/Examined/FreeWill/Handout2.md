@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Free Will
+title: Compatibilism
 ---
 
 

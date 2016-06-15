@@ -1,0 +1,79 @@
+\documentclass[]{article}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={Short Essay 5},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\title{Short Essay 5}
+\date{}
+
+\begin{document}
+\maketitle
+
+\subsubsection{Prompt}\label{prompt}
+
+Some have tried to define the direction of time in terms of our
+psychology, i.e., in terms of the `Psychological Arrow'. First try
+explain the direction of time with the psychological arrow, then raise
+one objection to this view.
+
+\subsubsection{Further Instruction}\label{further-instruction}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Write 500-750 words. No more. No less.
+\item
+  This essay covers material from ch.12 of Robin Le Poidevin's `Travel
+  in Four Dimensions', especially p.213--218.
+\item
+  Make sure to introduce the problem that the Psychological Arrow
+  supposedly solves before explaining how it solves it.
+\item
+  Assume that your audience is bright, but not familiar with the topic.
+  You will need to explain the terminology you introduce.
+\item
+  Submit your responses by \textbf{Friday, April 29th @ 6:00pm.}
+\end{itemize}
+
+\end{document}

@@ -1,8 +1,9 @@
 ---
 layout: default
-title: The Meaning of Life 3
+title: Optimism without God
 ---
 
+# Optimism about the meaning of life without God
 
 
 ## Introduction 
@@ -64,7 +65,7 @@ Wolf asks us to conclude with her that a meaningful life must be one actively en
 The Atheist claims that life can have internal value without external value. Wolf's defense of this claim relies on the claim that a life must be devoted to a project of positive value. That is, it is not enough that you value a project, the project itself must be of some genuine positive value. It seems we are back where we started. Tolstoy worried that since he and everyone else will ultimately die, none of his goals and accomplishments were of any external value. If a goal had positive value, it would have external value. So Wolf owes us an account of external value that is compatible with our mortality.
 
 
-## Meaning Re-considered
+## Meaning re-considered
 
 We are at an impasses. Atheists think we can do without external meaning, but it is unclear that a life without external meaning would be satisfying. Theists, on the other hand, are convinced that life has external meaning, but they struggle to give a satisfying account of what that meaning is. Is there an alternative? 
 

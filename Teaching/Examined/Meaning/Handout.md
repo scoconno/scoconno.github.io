@@ -1,8 +1,9 @@
 ---
 layout: default
-title: The Meaning of Life
+title: Pessimism
 ---
 
+# Does life have any meaning? 
 
 ##  Personal Note
 

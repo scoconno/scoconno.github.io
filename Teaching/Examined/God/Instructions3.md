@@ -11,10 +11,11 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read Chapter 2.3
++ Read ‘A Little Omniscience Goes a Long Way’, Tomas Davis,pp.258–261
++ Read chapter 2.3
 + Study [notes 3](/Teaching/Examined/God/Handout3). 
 
 
 ## Assignments
 
-+ Complete [short essay 3](/Teaching/Examined/God/SW3) by Monday 03/21/2016 @ 11:59pm.
++ Complete [essay 4](/Teaching/Examined/God/SW3) by Monday 08/01/2016 @ 11:59pm.
