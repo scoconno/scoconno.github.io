@@ -2,15 +2,18 @@
 layout: default
 title: Essay
 ---
+## E-mailing your younger self
 
 
+### Prompt 
 
-### Prompt---A Letter 
+Our beliefs and values change over time. Some think that marriage is essential to a flourishing life and then find themselves thinking a solitary life the best. Some think that money is the only thing of value, but come to realize that, for them, family trumps wealth. Some are atheists when they are young, but find God later in life. Still others follow the religion of their parents and abandon it when they become adults. You too have changed over time. There is some belief your younger self held that you no longer share. It may concern politics, or the nature of a meaningful life, or the nature of friendship, or God, or your ethical requirements, or the nature of the mind, etc. You will have changed your mind about at least one thing!
 
-An e-mail from the future. Your future self send you an e-mail. It's going to tell you that you are wrong about something. They tell you that you have been living your life believing that something or other is important. Future self tells you how that belief has shaped you, what specific actions it has lead you to take, what big decisions you have made, friends made, jobs taken, opportunities lost, etc. Future self then challenges that held belief. They point to how you never really had a good reason for it and give an argument against it. 
+In this assignment, you will be writing an e-mail to your younger self explaining to them the mistake they are making. Explain to them the belief they hold, why they likely hold it, and how it shapes them. Then explain to your younger self why you now think that belief is false. 
 
+Note: the  goal of the assignment is twofold. First, I want you to realize that you do have beliefs about important philosophical topics. Second, I want to you to begin examining your beliefs as Socrates examined his own and others. This requires identifying reasons for your beliefs, being honest if you find that you have no good reasons for them, and also being courageous enough to change your mind.  
 
-
+ 
 ### Word Count
 
 Your submission must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
@@ -18,10 +21,9 @@ Your submission must be 500-750 words long. Essays shorter than 500 words or lon
 ### Further Instruction 
 
 + This assignment covers material contained in Ch.1.
-+ Note that this is a letter. Include all appropriate letter headings, salutations, etc. 
-+ The members of the school board are not philosophers. Your job here is to explain a piece of complex philosophy to smart lay people. Use examples, simple vocabulary, etc. 
-+ Use simple examples when explaining the premises/steps of the Design Argument. Paley's use of the watch example is key. You are free to use other examples of artifacts, but you must explain to the reader how he convinces us that an artifact has a purpose before you can explain how he applies this result to nature.   
-
++ Note that this is an e-mail. Include all appropriate headings, salutations, etc. 
++ You are writing to your younger self. Talk directly to them, not to me. Imagine what you would say to your younger self and how you might convince them to change their minds. 
++ Use simple examples. 
 
  
 
@@ -38,7 +40,7 @@ Please review the plagiarism policy on the syllabus. It is critical that you pre
 
 ### Format
 
-Submit your works by first clicking on the relevant assignment in Blackboard. Click on 'browse computer' and upload your document as a .doc, .rtf or .pdf file. Do not send it to me by e-mail or through Blackboard's messaging application. 
+Submit your works by first clicking on the relevant assignment in Blackboard. Click on 'browse computer' and upload your document as a .doc, .rtf or .pdf file. Please use 'attach document'. Do not send it to me by e-mail or through Blackboard's messaging application. 
 
 ### Grading
 Please find the rubric and explanation of it [here](/Teaching/Grading/).
