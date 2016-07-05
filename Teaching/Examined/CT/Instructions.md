@@ -11,7 +11,7 @@ title: Thinking Philosophically
 
 Complete these tasks in order: 
 
-+ Read [ch.1.3](/Teaching/CT/ch1.3.pdf) 
++ Read [ch.1.3](/Teaching/Examined/CT/ch1.3.pdf) 
 + Practice some of the self-assessment exercises. Answers are in appendix A of the text book. These are for your use only. Do not submit them to me. 
 + Study these [notes](/Teaching/Examined/CT/Handout). Refer to the [answer key](/Teaching/Examined/CT/Answers) for answers to the self-assessment exercises. These are for your use only. Do not submit them to me. 
 + Watch as many videos as you find interesting [here.](http://www.wi-phi.com/videos/Critical-Thinking?page=1)
