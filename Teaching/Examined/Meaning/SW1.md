@@ -1,9 +1,9 @@
 ---
 layout: default
-title: SWI
+title: Essay
 ---
 
-## Short Essay 1
+## Dialog on the Meaning of Life
 
 
  
