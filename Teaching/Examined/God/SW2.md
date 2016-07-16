@@ -9,9 +9,12 @@ title: Essay
 
 You are a religious leader concerned about the teaching of evolutionary biology in high schools. You think that only God could explain the existence of life. The local school board is accepting public submissions on the issue. 
 
-Write a short letter to the school board using the Design Argument (and no other argument) to argue that God exists, i.e., arguing that only the existence of God can explain complexity in nature.
+Do the following: 
 
-**NB: You must explain all the premises/steps of the Design argument. Failure to do so will result in significant loss of points. Mention of any other argument for God's existence will also result in loss of points.**
++ Write a short letter to the school board. 
++ In your letter, use the Design Argument (and no other argument) to argue that God exists. 
++ You must explain all the premises/steps of the Design Argument. Failure to do so will result in significant loss of points. Mention of any other argument for God's existence will also result in loss of points.
++ Do not attempt to attack the Design Argument. This exercise tests your ability to explain the Design Argument. You not being asked for your personal opinions on the issue. 
 
 
 ### Word Count
@@ -24,7 +27,7 @@ Your submission must be 500-750 words long. Essays shorter than 500 words or lon
 + Note that this is a letter. Include all appropriate letter headings, salutations, etc. 
 + The members of the school board are not philosophers. Your job here is to explain a piece of complex philosophy to smart lay people. Use examples, simple vocabulary, etc. 
 + Use simple examples when explaining the premises/steps of the Design Argument. Paley's use of the watch example is key. You are free to use other examples of artifacts, but you must explain to the reader how he convinces us that an artifact has a purpose before you can explain how he applies this result to nature.   
-
++ Set aside your personal beliefs in completing this assignment. You might be a committed atheist. But you are not being asked to defend your own views. You are being asked to explain the Design Argument regardless of whether you accept its conclusion.   
 
  
 
