@@ -12,7 +12,7 @@ title: Instructions
 Complete these tasks in order:
 
 + Re-read chapter 9.2-9.3
-+ Read *Buddhism* in chapter 2.6, 
++ Read *Buddhism* in chapter 2.6.
 + Study the [notes](/Teaching/Examined/Meaning/Handout3). 
 
 
