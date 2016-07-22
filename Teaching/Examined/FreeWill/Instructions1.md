@@ -10,9 +10,9 @@ title: Instructions
 
 Complete these tasks in order
 
-+ Read chapters 5.1, 5.2, & 5.4. (We will read 5.3 next week)
++ Read chapters 5.1, 5.2, & 5.4. 
 + Study the [notes](/Teaching/Examined/FreeWill/Handout1).  
-+ Watch this [video](https://www.youtube.com/watch?v=iSfXdNIolQA)
++ Watch this [video](https://www.youtube.com/watch?v=iSfXdNIolQA).
 
 
 
