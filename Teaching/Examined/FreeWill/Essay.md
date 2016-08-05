@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Short essay 4 
+title: Essay
 ---
 
 
@@ -22,10 +22,10 @@ Do the following:
 
 ### Further Instruction
 
-+ This assignment is concerned with compatibilism and an objection to it, namely, free will requires more than our actions flowing from our character.  
++ This assignment is concerned with compatibilism and the main objection to it. 
 + Write in very simple English prose.  
 + Give vivid, specific details.
-+ Write 400-600 words. No more. No less. 
++ Write 500-750 words. No more. No less. 
 
 
 ### Plagiarism

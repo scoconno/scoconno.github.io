@@ -50,7 +50,7 @@ Philosophers have been concerned with determining, first, whether Causal Determi
 
 
 
-##Libertarianism
+## Libertarianism
 
 Libertarians try rescue free will by rejecting Causal Determinism. They are committed to the following 4 claims: 
 
@@ -62,7 +62,7 @@ Libertarians try rescue free will by rejecting Causal Determinism. They are comm
 The key claim is, of course, 3. Libertarians have argued for it in two very different ways. The first argues that humans are not purely physical creatures and that Causal Determinism applies only to purely physical creature. The second argues that proper attention to physics shows that Causal Determinism is false. 
 
 
-##Option 1: Dualism
+### Option 1-Dualism
 
 1. The mind/soul/will is not reducible to anything physical.
 2. The mind/soul/will is at least partially the cause of some of our actions. 
@@ -74,7 +74,7 @@ The key claim is, of course, 3. Libertarians have argued for it in two very diff
 For a detailed discussion of dualism, see ch.4 on the relationship between mind and body.  
 
 
-##Option 2: Physicalism
+### Option 2-Physicalism
 
 + Proper attention to physics shows that Causal Determinism is false. 
 

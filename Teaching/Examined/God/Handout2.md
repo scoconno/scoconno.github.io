@@ -8,7 +8,7 @@ title:  Further Arguments for God's Existence
 
 Ontological arguments for God's existence try to deduce God's existence from the very concept of God. Just as being male is part of the concept of a bachelor and being a figure is part of the concept of a square, some philosophers have claimed that existing is part of the concept of God. If existing is part of the concept of God, then it is impossible to entertain the concept of God while at the same time denying that he exists. It would be like trying to entertain the idea of a bachelor that is not male, or of a square which is not a shape. 
 
-We will be studying a version of the argument from St. Anselm who was writing in the 11th Century. The argument, then, is nearly 1000 years old. It's age is noteworthy for three reasons. First, many have found the argument convincing. They think that Anselm's argument is both valid and sound. Second, many Atheists have thought the argument powerful and in need of a strong objection. Third, the argument is short, but sophisticated and incredibly challenging: many have found the challenge of studying it rewarding in itself just as they might find working on a challenging crossword puzzle a challenge in itself. Take this third point as a word of caution. You won't get this argument immediately. It takes several attempts and significant mental gymnastics. 
+We will be studying a version of the argument from St. Anselm who was writing in the 11th Century. The argument, then, is nearly 1000 years old. Its age is noteworthy for three reasons. First, many have found the argument convincing. They think that Anselm's argument is both valid and sound. Second, many Atheists have thought the argument powerful and in need of a strong objection. Third, the argument is short, but sophisticated and incredibly challenging: many have found the challenge of studying it rewarding in itself just as they might find working on a challenging crossword puzzle a reward in itself. Take this third point as a word of caution. You won't get this argument immediately. It takes several attempts and significant mental gymnastics. 
 
 Let me introduce the core idea by way of analogy. Think about a cube. In your mind, what features does that cube have? It has specific size, color, 8 points, and 6 sides. Now holding the image of the cube fixed in your mind, increase its size. Now decrease its size. Now change its  color. All of this is easy. You can do it. Now try holding the image fixed in your mind and change the number of sides it has. Try it. Make the cube have just 3 sides. This, of course, is an absurd request. A cube must have 6 sides; you can never imagine a cube with less or more. 
 
@@ -28,9 +28,9 @@ While the argument is difficult, at the core is the following simple thought: th
 
 ## Notes on the argument 
 
-This argument for is called a *reductio ad absurdum*. Recall that a valid argument cannot have true premises and a false conclusion. This is useful. If an argument is valid and the conclusion false, we know that a premise is false. Consider this example:
+This type of argument is called a *reductio ad absurdum*. Recall that a valid argument cannot have true premises and a false conclusion. This is useful. If an argument is valid and the conclusion false, we know that a premise is false. Consider this example:
  
-+ P1. Assume that Socrates is immortal. 
++ P1. Socrates is immortal. 
 + P2. Socrates is human. 
 + P3. All humans are mortal. 
 + P4. Therefore, Socrates is mortal. (from P2 and P3)
@@ -40,12 +40,12 @@ We know that P5 is false. It is impossible for something to be both mortal and i
 
 + C. It is not the case that Socrates is immortal, i.e., P1 is false. 
 
-The Ontological Argument works in a similar way. We first assume that God does not exist in reality, but only in the mind. We then show that this ultimately leads to an impossible result, namely, that God is and is not the greatest possible being that can be imagined. Since that impossible results follows on from earlier premises, we know that one of the earlier premises must be false. The Theist claims that the mistake was Premise 1, which says that God exists as an idea in the mind, which is the Atheist's claim. They accept that they can form an idea of God, but they deny that anything in reality corresponds to this idea. But why think that premise 1 must be the false premise? 
+The Ontological Argument works in a similar way. We first assume that God does not exist in reality, but only in the mind. We then show that this ultimately leads to an impossible result, namely, that God is and is not the greatest possible being that can be imagined. Since that impossible results follows on from earlier premises, we know that one of the earlier premises must be false. The Theist claims that the mistake was Premise 1, which says that God exists only as an idea in the mind. Premise 1 is the core claim of Atheism. Atheists accept that they can form an idea of God, but they deny that anything in reality corresponds to this idea. Since the argument is valid and the conclusion false, at least one premise must also be false. But why think that the fault is premise 1? The answer: the other premises seem true. 
 
 
 + Premise 2 is the Theist's stipulation. Their belief in God is a belief in the greatest possible being. If the Atheist were to deny this premise, they would, in effect, be shifting the terms of the debate. Why? By "God", the Theist means an absolutely unsurpassable being, a being that cannot conceivably be improved upon. If being knowledgeable is a good feature to have, then God, the greatest possible being, will be perfectly knowledgeable, more knowledgeable than any other being. The same goes for being good, being powerful, etc. Belief in God just is a belief, then, in a being that cannot be improved upon. If the Atheist denies Premise 2, then we are not denying the existence of a being that the Theist believes in. 
 
-+ Premise 3 says that existing is a feature something can have and also that existing is a good feature to have. Compare this to the claim that being strong is a feature and also a good one to have. When we imagine God, then, we should imagine a being that possesses all the great making features, existing in reality among them. Premise 3 is the most controversial premise. See the textbook for further discussion.
++ Premise 3 says that existing is a feature something can have and also that existing is a good feature to have. Compare this to the claim that being strong is a feature and also a good one to have. When we imagine God, then, we should imagine a being that possesses all the great making features, existing in reality being one of these features. Premise 3 is the most controversial premise. See the textbook for further discussion.
 
 + Premise 4 follows from Premises 1&3. If God does not exist in reality, but existing in reality is great making feature, then we can easily imagine a being that is greater than God. 
 
