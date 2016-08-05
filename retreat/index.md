@@ -21,7 +21,7 @@ We will be traveling together in a coach from NJCU. I will confirm the exact tim
 
 ### Food 
 
-Please let me know if you have dietary restrictions by August 12th. The retreat center can accommodate you only if they know in advance what to buy. Note also that we will not have access to stores, restaurants, etc. We will be trading the city for forests, lakes, and the beautiful outdoors!
+Please [email me](contact) any dietary restrictions by August 12th. The retreat center can accommodate you only if they know in advance what to buy. Note also that we will not have access to stores, restaurants, etc. We will be trading the city for forests, lakes, and the beautiful outdoors!
 
 - Five meals will be provided. This includes dinner on Friday, three meals on Saturday, and breakfast on Sunday. 
 - Snacks are not provided and are not readily available for purchase. Bring snacks if you think you might want them.  
@@ -39,6 +39,13 @@ We are staying in large cabins in the woods. Don't pack your finest clothes and 
 - Bug spray. 
 - Sun screen. 
 
+### Non-essential Packing 
+
+Our goal is for you to build bonds, have fun, and learn about honors. Perhaps some of you would like to bring things like: 
+
+- Musical instruments.
+- Board games. 
+- Cards. 
 
 ### Activities 
 
