@@ -25,7 +25,7 @@ We will be traveling together in a coach from NJCU. I will confirm the exact tim
 - Five meals will be provided. This includes dinner on Friday, three meals on Saturday, and breakfast on Sunday. 
 - Snacks are not provided and are not readily available for purchase. Bring snacks if you think you might want them.  
 
-Please [email me](/Contact) any dietary restrictions by August 12th. The retreat center can accommodate you only if they know in advance what to buy. Note also that we will not have access to stores, restaurants, etc. We will be trading the city for forests, lakes, and the beautiful outdoors!
+If you have dietary restrictions, please fill out this [form](https://goo.gl/forms/aOxLIttkfRVyOQpm2) by August 12th. The retreat center will happily accommodate you, but they must know in advance what to buy. Note also that we will not have access to stores, restaurants, etc. We will be trading the city for forests, lakes, and the beautiful outdoors!
 
 ### Essential Packing
 
