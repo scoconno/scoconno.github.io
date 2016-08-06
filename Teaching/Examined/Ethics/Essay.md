@@ -8,12 +8,18 @@ title: Essay
 
 ## Prompt
 
-Kirinyaga essay 
-
-
-
-+ Read [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.epub) 
+This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.epub) 
 	+ **NB:** You will need to open this file with software that can read ePubs. iBooks for macs works great. Calibre for pcs is a good option. Both are free.
+
+
+Koriba strangles a newborn child. He claims that the traditions of his people, the Kikuyu, say it is morally required of him to do so. Maintenance is concerned. They send Barbara Eaton to investigate. In this assignment, pretend to be Barbara Eaton and write that report. The report must explain the following: 
+
++ Conditions on the ground. What did you see? Did people seem happy, healthy, etc?
++ How were you received? 
++ How did Koriba explain his strangling of the child? 
++ How did Koriba respond when you claimed it was immoral to kill the child?  
+
+
 
 
 ## Word Count
@@ -23,9 +29,7 @@ Kirinyaga essay
 
 ## Further Instruction
 
-Evaluating Carol's action with an ethical theory requires you to a) decide whether that theory would judge the action moral, immoral, or neither, and b) explain why the ethical theory would make that evaluation. In doing both, you will need to be as specific as possible. 
 
-Points for this assignment are distributed equally across the two paragraphs.
 
 ## Due Date
 Please consult the syllabus and course website for the due date.
