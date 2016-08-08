@@ -10,7 +10,7 @@ title: Essay
 
 This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.epub) 
 
-	+ **NB:** You will need to open this file with software that can read ePubs. iBooks for macs works great. Calibre for pcs is a good option. Both are free.
++ **NB.** You will need to open this file with software that can read ePubs. iBooks for macs works great. Calibre for pcs is a good option. Both are free.
 
 
 Koriba strangles a newborn child. He claims that the traditions of his people, the Kikuyu, say it is morally required of him to do so. Maintenance is concerned. They send Barbara Eaton to investigate. In this assignment, pretend to be Barbara Eaton and write that report. The report must explain the following: 
