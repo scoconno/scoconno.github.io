@@ -9,6 +9,7 @@ title: Essay
 ## Prompt
 
 This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.epub) 
+
 	+ **NB:** You will need to open this file with software that can read ePubs. iBooks for macs works great. Calibre for pcs is a good option. Both are free.
 
 
@@ -27,7 +28,6 @@ Koriba strangles a newborn child. He claims that the traditions of his people, t
 500-750. Essays shorter than 500 words or longer than 750 words will lose points. 
 
 
-## Further Instruction
 
 
 
