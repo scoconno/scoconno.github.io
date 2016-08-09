@@ -12,10 +12,14 @@ We will be staying at a YMCA Retreat Center. It is approximately 2 hours from NJ
 
 ### Travel Information
 
-We will be traveling together in a coach from NJCU. I will confirm the exact time of departure and meeting point on campus by August 12th.  
+We will be traveling together in a coach from NJCU. 
 
-- Depart NJCU on Aug. 19th at approximately 1pm. I will confirm the exact time next week, but please plan to eat lunch in advance of arriving on campus.  
-- Arrive back at NJCU on Aug. 21st at approximately 1pm. 
+- Meeting time: 12:30pm, Fri Aug 19th
+- Meeting point: carpark beside the Education & Professional Studies Building. It is accessible from Audobon Ave. 
+- Departure time: 1pm sharp. 
+- Return time: Sun, Aug. 21st, approximately 1pm. 
+
+**NB:** Please eat lunch before we leave on Friday. 
 
 
 
@@ -50,5 +54,29 @@ Our goal is for you to build bonds, have fun, and learn about honors. Perhaps so
 
 ### Activities 
 
-Organized activities include a variety of team building exercises, educational hikes, and site specific history lessons. They last 90 minutes each. There will also low key activities, e.g., discussions, card games, ghost stories, etc. 
+Organized activities include a variety of team building exercises, educational hikes, and site specific history lessons. They last 90 minutes each. There will also low key activities, e.g., discussions, card games, ghost stories, etc. Tentative schedule: 
+
+
+**Friday**
+
+- Honors introduction workshop
+- Dinner
+- Open time
+
+**Saturday**
+ 
+- Breakfast
+- Activity 1: Team-building
+- Lunch
+- Activity 2: Ecology hike
+- Activity 3: Pilgrim History
+- Dinner
+- Open time
+
+**Sunday**
+
+- Breakfast
+- Departure
+
+
 
