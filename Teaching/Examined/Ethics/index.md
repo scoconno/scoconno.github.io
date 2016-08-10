@@ -18,6 +18,6 @@ title: Ethics
 + [Notes 4](Handout4)
 
 ### Assignments 
-+ [Short essay 5](DQ3)
-
++ [Essay 1](DQ3)
++ [Essay 2](Essay)
 
