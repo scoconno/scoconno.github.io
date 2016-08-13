@@ -18,6 +18,6 @@ Complete these tasks in order
 
 ## Assignments
 
-+ Complete quiz 7 by Monday 8/21/2016 @ 11:59pm.
++ Complete the final quiz by Monday 8/22/2016 @ 11:59pm.
 
 
