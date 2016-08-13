@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Short Essay 5
+title: Essay
 ---
 
 
