@@ -17,7 +17,7 @@ Write three short paragraphs evaluating Carol's behavior. The paragraphs must be
 
 - Paragraph 1 evaluates her action from the perspective of a consequentialist. 
 - Paragraph 2 evaluate her action from the perspective of a deontologist.
-- Paragraph 3 evaluates her action from the perspective of a virtue ethicists.
+- Paragraph 3 evaluates her action from the perspective of a virtue ethicist.
 
 **NB:** By 'evaluating from the perspective of', I mean that you must explain what the relevant ethical theory would say about her action. Would the theory judge it moral or immoral? More importantly, why would it judge it the particular way that it does?  
 
@@ -26,12 +26,6 @@ Write three short paragraphs evaluating Carol's behavior. The paragraphs must be
 
 500-750. Essays shorter than 500 words or longer than 750 words will lose points. 
 
-
-## Further Instruction
-
-Evaluating Carol's action with an ethical theory requires you to a) decide whether that theory would judge the action moral, immoral, or neither, and b) explain why the ethical theory would make that evaluation. In doing both, you will need to be as specific as possible. 
-
-Points for this assignment are distributed equally across the two paragraphs.
 
 ## Due Date
 Please consult the syllabus and course website for the due date.
