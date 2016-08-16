@@ -11,7 +11,7 @@ title: Instructions
 
 Complete these tasks in order
 
-+ Read ['A Horseman in the Sky' by Ambrose Pierce'](Horseman.pdf)
++ Read ['A Horseman in the Sky' by Ambrose Pierce'](/Teaching/Examined/Ethics/Horseman.pdf)
 + Read chapter 3.4
 + Study the [notes](/Teaching/Examined/Ethics/Handout3).  
 
