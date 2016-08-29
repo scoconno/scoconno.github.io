@@ -16,7 +16,7 @@ While you are my student, the appropriate way to address me is as Dr. O'Connor. 
 
 ## Mechanics
 
-There are two topics each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. The topics in each week will have the following elements: 
+There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. Each week will include: 
 
 1. Instructions.
 2. Notes that partially review the assigned readings.  
@@ -24,25 +24,30 @@ There are two topics each week. You will find these under 'weeks' in Blackboard.
 4. Optional Readings.
 5. Media, e.g., video clips, blogs, etc.
 
-You will work through the topics by clicking on 'instructions' and then completing the various elements. Since there are two topics per week, there are two assignments per week, one quiz and one short essay. See the syllabus for the complete requirements. 
+You will work through the topics by clicking on 'instructions' and then completing the various elements. There is one assignment per week. Some of these are essays. Some are short quizzes. See the syllabus for the complete requirements. 
 
 ## Assignments
 
 You will find a full description on the syllabus, but let me emphasize here again the assignments due for this course. You will find the assignments on Blackboard: 
 
-1. A reading quiz is assigned each week. It is due on Mon. at 11:59pm. You must complete 5 of the 7 assigned quizzes. If you complete more than 5, the lowest grades will be dropped. 
-2. An essay is assigned each week. It is due on Mon. at 11:59pm. You must complete 5 of the 7 assigned essays. If you complete more than 5, the lowest grades will be dropped. 
+1. Assignments are due on Monday by 11.59pm.
+2. You must complete 5 of the 7 assigned quizzes. If you complete more than 5, the lowest grades will be dropped. 
+3. You must complete 5 of the 7 assigned essays. If you complete more than 5, the lowest grades will be dropped. 
 
-It is important to keep in mind that we must cover 3 credits worth of material in our short 7 weeks together. So, expect to spend about 12 hours per week on the readings and assignments. If this work load is too high for you, then I urge to reconsider taking this class. There won't be any opportunities to make up missed assignments and I will not accept late work under any circumstances. Don't ask for privileged treatment. 
+
+Keep in mind that we must cover 3 credits worth of material in our time together. So, expect to spend about 6--8 hours per week on the readings and assignments. If this work load is too high for you, then I urge to reconsider taking this class. There won't be any opportunities to make up missed assignments and I will not accept late work under any circumstances. 
+
+Students do sometimes ask to submit work late or for a make-up opportunity. I always decline. I treat my students equally and don't like being asked for special privileges. Instead, I prefer to offer assign more essays and quizzes than are needed to complete the course. If you are unable to do 5 of the 7 assigned quizzes and 5 of the assigned essays due to illness, then you likely should be requesting a medical withdrawal from NJCU for the semester.  
+
 
 ## Technical Help
 
-All Blackboard activity is recorded. I see when you log in, what you click, and how long you stay on various pages. Blackboard outages are rare and are automatically reported to me. If you encounter technical difficulties, the most likely source will be a difficulty with your browser or computer. By taking this course, you are indicating that you have sufficient computer literacy. If at any point, you are uncertain how to use Blackboard or have some technical difficulty, then you should consult NJCU's online learning resources here: [http://newlearning.njcu.edu/dl/enrolled.htm](http://newlearning.njcu.edu/dl/enrolled.htm)
+All Blackboard activity is recorded. I see when you log on, what you click, and how long you stay on the pages you click. Blackboard outages are rare and are automatically reported to me. If you encounter technical difficulties, the most likely source will be a difficulty with your browser or computer. By taking this course, you are indicating that you have sufficient computer literacy. If at any point, you are uncertain how to use Blackboard or have some technical difficulty, then you should consult NJCU's online learning resources here: [http://newlearning.njcu.edu/dl/enrolled.htm](http://newlearning.njcu.edu/dl/enrolled.htm)
 
-I occasionally have online students report that their computer crashes 1 minute before a test is due. My response is always the same: it is your responsibility to ensure you are using a reliable computer on a stable internet connection. If your computer crashed one minute before it is due, I encourage you to reflect on whether leaving the assignment to the last minute was a responsible strategy. It is never grounds for me to change my policies on late submissions. 
+I occasionally have online students report that their computer crashes 1 minute before a test is due. My response is always the same: it is your responsibility to ensure you are using a reliable computer on a stable internet connection. If your computer crashed one minute before it was due, I encourage you to reflect on whether leaving the assignment to the last minute was a responsible strategy. It is never grounds for me to change my policies on late submissions. 
 
 
 ## Next Steps 
 
-1. Read the syllabus carefully. Just as you would never take a prescription without reading the instructions first, do not start this course without reading the syllabus first. 
-2. Complete Topics 1 and 2 in Week 1. 
+1. Read the syllabus carefully. Course policies vary by professors, sometimes significantly. I don't allow make-ups, other professors do. You need to understand the policies that govern this course and what is required of you.  
+2. Complete Week 1. 

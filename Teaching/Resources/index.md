@@ -1,10 +1,21 @@
 ---
-layout: default
+layout: page
 title: Resources
 
 ---
 
 # Resources #
+
+### Study Resources
+
+Productive study requires focus. That's not easy. If you are like me, you get distracted by email, notifications, news stories, etc. I have had success using an app called 'Freedom'. I use it to block my access to specific sites and apps, or, at times, the entire internet. I either block a period of time or set a recurring schedule. I find one hour blocks to be very effective. You can sign up for a free trial and subscriptions run at a few dollars a month. There are promo codes online that give a heavy discount. I also signed up to a referral program that occasionally offers discounts to those who follow my referral link. This does pay me 10% of any subscription, but I'll donate any funds I receive. 
+
++ Try freedom [here](https://freedom.refersion.com/c/8f6a6)
+
+I also have success using the pomodoro technique. A 'pom' is a 25 minutes of dedicated work. Anyone can avoid distraction for 25 minutes. If the phone rings, I ignore it. If I get thirsty, I wait until the pom finishes. A pom is followed by  a five minute break. Four poms are followed by a one hour break.  Instead of trying to complete a specific number of tasks a day, I attempt to complete a specific number of poms a day. By following this technique, I quickly came to realize how much can be done in 25 minutes. Even if you have work or personal commitments, you'll likely have time for one pom. There are plenty of free pomodoro apps that make it easy to time your work. 
+
++ Learn more about the pomodoro technique [here](http://en.wikipedia.org/wiki/Pomodoro_Technique) 
+
 
 
 ### Philosophy Resources
@@ -40,10 +51,9 @@ title: Resources
 
 
 
-### Sundry Resources
 
-+ [Freedom](https://macfreedom.com/) saves you from distraction.
-+ [The Pomodoro Technique](http://en.wikipedia.org/wiki/Pomodoro_Technique) boosts productivity.  
+### Sundry
+
 + [Mou](http://25.io/mou/) is a clean, nice markdown editor. 
 + [Pandoc](http://pandoc.org) for document coversion.
 + [Bibdesk](http://bibdesk.sourceforge.net) for reference management.

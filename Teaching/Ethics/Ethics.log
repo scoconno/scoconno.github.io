@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  12 AUG 2016 22:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.12)  23 AUG 2016 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **Ethics.tex
 (./Ethics.tex
-LaTeX2e <2016/03/31>
+LaTeX2e <2016/03/31> patch level 3
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
@@ -480,7 +480,7 @@ X
 \g__file_internal_ior=\read2
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu1enc.def
 File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
@@ -515,26 +515,20 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks24
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: xetex.def on input line 96.
+Package graphics Info: Driver file: xetex.def on input line 99.
 
-(/usr/local/texlive/2016/texmf-dist/tex/xelatex/xetex-def/xetex.def
-File: xetex.def 2016/04/06 v4.08 LaTeX color/graphics driver for XeTeX (TeX Liv
-e/RRM/JK)
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
+))
 \Gin@req@height=\dimen181
 \Gin@req@width=\dimen182
 ))
@@ -670,8 +664,8 @@ LaTeX Info: Redefining \- on input line 2746.
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/rotating/rotating.sty
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/05/22 v2.16c rotated objects in LaTeX
 \c@r@tfl@t=\count171
 \rotFPtop=\skip191
 \rotFPbot=\skip192
@@ -696,7 +690,7 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@newzealand = a dialect from \language\l@british 
 ))
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
+Package: csquotes 2016/07/14 v5.1h context-sensitive quotations (JAW)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
@@ -711,7 +705,7 @@ Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \csq@ltx@everypar=\toks26
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
+File: csquotes.def 2016/07/14 v5.1h csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
@@ -755,7 +749,7 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ulht=\dimen186
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
@@ -764,8 +758,8 @@ Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
@@ -778,7 +772,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
@@ -796,7 +790,7 @@ Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
 Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
 Package: xcolor-patch 2016/05/16 xcolor patch
 Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
@@ -811,40 +805,40 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@pagecounter=\count181
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count182
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4322.
-Package hyperref Info: Option `plainpages' set `false' on input line 4322.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4322.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4322
+Package hyperref Info: Option `colorlinks' set `true' on input line 4362.
+Package hyperref Info: Option `plainpages' set `false' on input line 4362.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4362.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4362
 .
-Package hyperref Info: Hyper figures OFF on input line 4446.
-Package hyperref Info: Link nesting OFF on input line 4451.
-Package hyperref Info: Hyper index ON on input line 4454.
-Package hyperref Info: Plain pages OFF on input line 4461.
-Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4691.
+Package hyperref Info: Bookmarks ON on input line 4735.
 \c@Hy@tempcnt=\count183
-LaTeX Info: Redefining \url on input line 5044.
+LaTeX Info: Redefining \url on input line 5088.
 \XeTeXLinkMargin=\dimen188
 \Fld@menulength=\count184
 \Field@Width=\dimen189
 \Fld@charsize=\dimen190
-Package hyperref Info: Hyper figures OFF on input line 6298.
-Package hyperref Info: Link nesting OFF on input line 6303.
-Package hyperref Info: Hyper index ON on input line 6306.
-Package hyperref Info: backreferencing OFF on input line 6313.
-Package hyperref Info: Link coloring ON on input line 6316.
-Package hyperref Info: Link coloring with OCG OFF on input line 6323.
-Package hyperref Info: PDF/A mode OFF on input line 6328.
-LaTeX Info: Redefining \ref on input line 6368.
-LaTeX Info: Redefining \pageref on input line 6372.
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring ON on input line 6360.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
 \Hy@abspage=\count185
 \c@Item=\count186
 \c@Hfootnote=\count187
@@ -859,10 +853,10 @@ ass
 Package hyperref Message: Driver: hxetex.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2016/05/05 v6.83n Hyperref driver for XeTeX
+File: hxetex.def 2016/06/24 v6.83q Hyperref driver for XeTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2016/05/05 v6.83n Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/stringenc.sty
 Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
@@ -887,7 +881,7 @@ tly
 )
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago
 .sty
-Package: biblatex-chicago 2016/03/15 v 3.3 biblatex style
+Package: biblatex-chicago 2016/06/01 v 3.4 biblatex style
  (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2016/05/14 v3.4 programmable bibliographies (PK/JW/AB)
 
@@ -1065,15 +1059,23 @@ Package biblatex Info: ... file 'chicago-authordate.bbx' found.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/chicago-authorda
 te.bbx
-File: chicago-authordate.bbx 2016/03/21 v 2.9a biblatex bibliography style
+File: chicago-authordate.bbx 2016/06/07 v 3.4 biblatex bibliography style
 \lositemsep=\skip269
+\c@bbx:relatedcount=\count382
+\c@bbx:relatedtotal=\count383
 )
 Package biblatex Info: Trying to load citation style 'chicago-authordate'...
 Package biblatex Info: ... file 'chicago-authordate.cbx' found.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/chicago-authorda
 te.cbx
-File: chicago-authordate.cbx 2016/03/18 v 2.9a biblatex citation style
+File: chicago-authordate.cbx 2016/06/07 v 3.4 biblatex citation style
+Package biblatex Info: Trying to load citation style 'chicago-dates-common'...
+Package biblatex Info: ... file 'chicago-dates-common.cbx' found.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/chicago-dates-co
+mmon.cbx
+File: chicago-dates-common.cbx 2016/06/07 v 3.4 biblatex citation style
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -1084,7 +1086,8 @@ Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcites'.
 Package biblatex Info: Redefining '\footcitetexts'.
-)
+Package biblatex Info: Patching 'autolang=other' option.
+))
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/biblatex.cfg
@@ -1106,7 +1109,7 @@ Package biblatex Info: Trying to load language 'american' -> 'cms-american'...
 Package biblatex Info: ... file 'cms-american.lbx' found.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx
-File: cms-american.lbx 2013/10/29 v 2.8 biblatex localization
+File: cms-american.lbx 2016/06/01 v 3.4 biblatex localization
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/biblatex/lbx/american.lbx
@@ -1206,12 +1209,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package hyperref Info: Link coloring ON on input line 32.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count382
+\c@section@level=\count384
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -1240,7 +1243,7 @@ Package biblatex Info: Reference segment=0 on input line 32.
 . 
 . Minion Pro scale = 0.9840166104623617.
 .................................................
-\g__fontspec_family_MinionPro_int=\count383
+\g__fontspec_family_MinionPro_int=\count385
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1318,7 +1321,7 @@ LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
 . 
 . Myriad Pro scale = 0.890502342415052.
 .................................................
-\g__fontspec_family_MyriadPro_int=\count384
+\g__fontspec_family_MyriadPro_int=\count386
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1364,7 +1367,7 @@ LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
 . 
 . Georgia scale = 0.8952269269776876.
 .................................................
-\g__fontspec_family_Georgia_int=\count385
+\g__fontspec_family_Georgia_int=\count387
 .................................................
 . fontspec info: "set-scale"
 . 
@@ -1464,42 +1467,29 @@ LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/it' will be
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/it' will be
 (Font)              scaled to size 9.84024pt on input line 118.
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 125.
+(Font)              scaled to size 9.84024pt on input line 126.
  [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
-[4] [5] [6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
+[4] [5] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
  (./Ethics.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 336.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Ethics
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 317.
 Package logreq Info: Writing requests to 'Ethics.run.xml'.
 \openout1 = `Ethics.run.xml'.
 
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 199 ({)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 32554 strings out of 493591
- 575646 string characters out of 6143546
- 1148253 words of memory out of 5000000
- 35713 multiletter control sequences out of 15000+600000
+ 32707 strings out of 493589
+ 578707 string characters out of 6143512
+ 1182680 words of memory out of 5000000
+ 35872 multiletter control sequences out of 15000+600000
  5215 words of font info for 56 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 63i,11n,105p,10372b,5664s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,105p,10372b,5734s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Ethics.pdf (7 pages).
+Output written on Ethics.pdf (6 pages).
