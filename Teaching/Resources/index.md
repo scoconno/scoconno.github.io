@@ -4,7 +4,6 @@ title: Resources
 
 ---
 
-# Resources #
 
 ### Study Resources
 
