@@ -252,6 +252,17 @@ $for(reviews)$
 $endfor$
 $endif$
 
+% In-progress
+%-------------------------------------
+$if(progress)$
+\subsection*{In-progress}
+\noindent
+$for(progress)$
+{$progress.title$.}
+{$progress.journal$} $progress.issue$\\[.1cm]
+$endfor$
+$endif$
+
 
 %-------------------------------------
 %-------------------------------------

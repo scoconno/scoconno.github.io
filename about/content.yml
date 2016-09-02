@@ -58,20 +58,22 @@ articles:
   issue: vol. 48 (1), pp. 45–75
 
 
-# chapters:
-# - year: Forthcoming
-#  title: Somewhere "
+# In-progress:
+ #- year: Forthcoming
+#  title: "Persistence in Aristotle's *Physics* I--II"
 #  editor: Sometime
  # book: Yeah
  # publisher: "Right"
 
 
-#reviews:
-# - year: 2016
- # title: "Review of Robert Brandom, *From Empiricism to Expressivism*"
- # journal: Ethics
- # issue: 126(3)
+#progress:
+#-  title: \enquote{Persistence in Aristotle's \emph{Physics}  I--II}
+#   journal: \emph{Journal of the History of Philosophy}, 
+#  issue: (revised and resubmitted)
 
+#-  title: \enquote{The Eleatic Challenge in Aristotle's \emph{Physics}~I.8}
+#   journal: \emph{Archiv f{\"u}r Geschichte der Philosophie}, 
+#   issue: (under review)
 
 invited:
 - year: 2016
