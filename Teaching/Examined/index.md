@@ -1,17 +1,21 @@
 ---
 layout: default
-title: Course Introduction
+title: The Examined Life
 
 ---
 
-# The Examined Life
+# Phil 140: The Examined Life
+
+ 
+
+## Course Information
++ [Syllabus](Syllabus.pdf)
++ [Grading information](/Teaching/Grading/)
++ [Resources](/Teaching/Resources/)
++ [Contact information](/Contact)
++ [Office hours](/Contact/office)
++ [Blackboard](http://blackboard.njcu.edu) 
 
 
-+ [Introduction](Intro)
-+ [Thinking Philosophically](CT)
-+ [The Meaning of Life](Meaning)
-+ [The Philosophy of Religion](God)
-+ [Freewill](FreeWill)
-+ [Ethics](Ethics)
 
 
