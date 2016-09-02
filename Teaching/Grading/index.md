@@ -4,7 +4,7 @@ title: Grading
 ---
 
 
-## Grading
+## Grading Information
 
 Assignments are graded using these two rubrics: 
 
