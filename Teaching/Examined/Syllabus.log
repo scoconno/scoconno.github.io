@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.12)  3 SEP 2016 17:57
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.12)  3 SEP 2016 18:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1485,7 +1485,7 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  32705 strings out of 493589
  578630 string characters out of 6143512
- 1181668 words of memory out of 5000000
+ 1181664 words of memory out of 5000000
  35871 multiletter control sequences out of 15000+600000
  5207 words of font info for 55 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
