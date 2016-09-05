@@ -60,7 +60,7 @@ $endif$
 \newcommand{\amper}{{\fontspec[Scale=.95]{$mainfont$}\selectfont\itshape\&}}
 % icons
 \defaultfontfeatures{
-    Path = /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/fontawesome/ }
+    Path = /usr/local/texlive/2016/texmf-dist/fonts/opentype/public/fontawesome/ }
 \usepackage{fontawesome}
 \usepackage{marvosym}
 \usepackage[autostyle=try]{csquotes}
@@ -249,6 +249,17 @@ $if(reviews)$
 $for(reviews)$
 \note{$reviews.year$}\enquote{$reviews.title$.}
 \emph{$reviews.journal$} $reviews.issue$\\[.1cm]
+$endfor$
+$endif$
+
+% In-progress
+%-------------------------------------
+$if(progress)$
+\subsection*{In-progress}
+\noindent
+$for(progress)$
+{$progress.title$.}
+{$progress.journal$} $progress.issue$\\[.1cm]
 $endfor$
 $endif$
 

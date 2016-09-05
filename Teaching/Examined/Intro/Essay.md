@@ -4,12 +4,31 @@ title: Essay
 ---
 ## E-mailing your younger self
 
-
-### Prompt 
+### Introduction
 
 Our beliefs and values change over time. Some think that marriage is essential to a flourishing life and then find themselves thinking a solitary life the best. Some think that money is the only thing of value, but come to realize that, for them, family trumps wealth. Some are atheists when they are young, but find God later in life. Still others follow the religion of their parents and abandon it when they become adults. You too have changed over time. There is some belief your younger self held that you no longer share. It may concern politics, or the nature of a meaningful life, or the nature of friendship, or God, or your ethical requirements, or the nature of the mind, etc. You will have changed your mind about at least one thing!
 
-In this assignment, you will be writing an e-mail to your younger self explaining to them the mistake they are making. Explain to them the belief they hold, why they likely hold it, and how it shapes them. Then explain to your younger self why you now think that belief is false. 
+
+
+### Purpose 
+
+The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
+
+
+1) Identifying your own beliefs about important philosophical topics.
+
+2)  Questioning your beliefs as Socrates questioned his own and others. This requires identifying reasons for your beliefs, being honest if you find none, and being courageous enough to change your mind. 
+
+
+
+### Task
+
+Write an e-mail to your younger self. This email must include the following: 
+
+1) Identify the belief your younger self holds that you no longer do. 
+2) Identify how that belief shaped your younger self. You can do this by, for instance, identifying how this belief affected their relationships, education, career choices, etc. 
+3) Tell your younger self why they likely hold this belief, i.e., identify the reasons they have for thinking it true. 
+4) Explain to your younger self why you now think that belief is false. In doing so, make sure to explain why the reasons that  
 
 Note: the  goal of the assignment is twofold. First, I want you to realize that you do have beliefs about important philosophical topics. Second, I want to you to begin examining your beliefs as Socrates examined his own and others. This requires identifying reasons for your beliefs, being honest if you find that you have no good reasons for them, and also being courageous enough to change your mind.  
 

@@ -20,6 +20,6 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete quiz 1 in Blackboard by Monday 7/11/2016 @ 11:59pm. You will find the quiz under week 1, topic 2.
++ Complete quiz 1 in Blackboard by Monday 9/19/2016 @ 11:59pm. You will find the quiz in the folder for week 2. 
 + Note that each quiz is timed. Once you click 'start quiz', you have 60 continuous minutes to complete it. If you navigate away from the page or close your browser, you cannot restart it. 
 + Answers to the quiz will be released after the due date. 
