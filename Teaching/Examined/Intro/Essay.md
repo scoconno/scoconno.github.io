@@ -15,9 +15,9 @@ Our beliefs and values change over time. Some think that marriage is essential t
 The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
 
 
-1) Identifying your own beliefs about important philosophical topics.
+1.  Identifying your own beliefs about important philosophical topics.
 
-2)  Questioning your beliefs as Socrates questioned his own and others. This requires identifying reasons for your beliefs, being honest if you find none, and being courageous enough to change your mind. 
+2.  Questioning your beliefs as Socrates questioned his own and others. This requires identifying reasons for your beliefs, being honest if you find none, and being courageous enough to change your mind. 
 
 
 
@@ -25,12 +25,11 @@ The purpose of this assignment is to help you practice the following skills that
 
 Write an e-mail to your younger self. This email must include the following: 
 
-1) Identify the belief your younger self holds that you no longer do. 
-2) Identify how that belief shaped your younger self. You can do this by, for instance, identifying how this belief affected their relationships, education, career choices, etc. 
-3) Tell your younger self why they likely hold this belief, i.e., identify the reasons they have for thinking it true. 
-4) Explain to your younger self why you now think that belief is false. In doing so, make sure to explain why the reasons that  
+1. Identify the belief your younger self holds that you no longer do. 
+2. Identify how that belief shaped your younger self. You can do this by, for instance, identifying how this belief affected their relationships, education, career choices, etc. 
+3. Tell your younger self why they likely hold this belief, i.e., identify the reasons they have for thinking it true. 
+4. Explain to your younger self why you now think that belief is false. In doing so, make sure to explain why the reasons that  
 
-Note: the  goal of the assignment is twofold. First, I want you to realize that you do have beliefs about important philosophical topics. Second, I want to you to begin examining your beliefs as Socrates examined his own and others. This requires identifying reasons for your beliefs, being honest if you find that you have no good reasons for them, and also being courageous enough to change your mind.  
 
  
 ### Word Count
