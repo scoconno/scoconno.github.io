@@ -28,18 +28,17 @@ Write an e-mail to your younger self. This email must include the following:
 1. Identify the belief your younger self holds that you no longer do. 
 2. Identify how that belief shaped your younger self. You can do this by, for instance, identifying how this belief affected their relationships, education, career choices, etc. 
 3. Tell your younger self why they likely hold this belief, i.e., identify the reasons they have for thinking it true. 
-4. Explain to your younger self why you now think that belief is false. In doing so, make sure to explain why the reasons that  
-
+4. Explain to your younger self why you now think that belief is false. 
 
  
 ### Word Count
 
-Your submission must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
+ 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
 
 ### Further Instruction 
 
 + This assignment covers material contained in Ch.1.
-+ Note that this is an e-mail. Include all appropriate headings, salutations, etc. 
++ This is an e-mail. Include all appropriate headings, salutations, etc. 
 + You are writing to your younger self. Talk directly to them, not to me. Imagine what you would say to your younger self and how you might convince them to change their minds. 
 + Use simple examples. 
 

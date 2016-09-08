@@ -28,3 +28,10 @@ title: Ethics
 + [The Acropolis reconstructed](https://www.youtube.com/watch?v=DMccsbWFAok)
 + [General introduction to Aristotle](http://plato.stanford.edu/entries/aristotle/)
 + [Documentary about Aristotle](https://www.youtube.com/watch?v=QesWw3Zz0Ms)
+
+
+### Sundry
+
++ Reading for week 2. Complete by Monday. Please purchase the textbook by week 3. 
+	+ [*Nicomachean Ethics*, Book 1, ch.1--6](Book1.pdf) (read the first seven pages)
+	+ [Aristotle's *Nicomachean Ethics*: An Introduction](Pakaluk.pdf) (read pp.38--46 and as much of chapter 1 as you can)
