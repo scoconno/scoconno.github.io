@@ -16,6 +16,12 @@ title: The Examined Life
 + [Office hours](/Contact/Office)
 + [Blackboard](http://blackboard.njcu.edu) 
 
+## More philosophy? 
+
++ [What you can do with a philosophy major](http://whatcanidowiththismajor.com/major/philosophy/)
++ [Mid-career median salary for philosphy majors is $81,000](http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html)
++ [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
++ NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
 
 
@@ -23,13 +29,13 @@ title: The Examined Life
 
 Readings must be completed by the first day of class. The readings for the first week are optional, but you may wish to read through them in preparation for your first essay.  
 
-+ Week 1 (9/7/2016)
++ **Week 1 (9/7/2016)**
 	+ [Notes](Intro/Notes/)
 	+ [Reading](/Teaching/Examined/Intro/ch1.pdf)--please purchase the book by next week.
 	+ [Allegory of the Cave](https://www.youtube.com/watch?v=h55X9LJTAg4)
 	+ [Essay 1](Intro/Essay) by Monday 9/12/2016 @ 12:00pm. You will find this in the essay folder in Blackboard. Submit the essay through Blackboard. Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
 
-+ Week 2 (9/12/2016)
++ **Week 2 (9/12/2016)**
 	+ [Notes](CT/Handout)
 	+ [Answer key](CT/Answers) 
 	+ [Optional videos](http://www.wi-phi.com/videos/Critical-Thinking?page=1)
