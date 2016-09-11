@@ -4,7 +4,7 @@ title: Answer Key to Handout
 ---
 
 
-#Answer Key to Work Sheet
+# Answer Key to Work Sheet
 
 
 ## Stop
@@ -74,16 +74,17 @@ Here are some more examples:
 ## Exercise 4
 
 
-**Passage 1** does not contain an argument. It merely asserts, in a somewhat dogmatic tone, that the cause of underage drinking is the marketing of alcohol, tobacco, and sex to children. There is no evidence provided for this assertion. 
 
-**Passage 2** does contain an argument:
 
+**Passage 1** does contain an argument:
 
 + P1: The GAO says that any weapon that costs more than $50 million apiece will actually impair our military readiness.
 + P2: We should never impair our readiness.
 + P3: The cost of the new XJ fighter plane is $650 million dollars. 
 + P4: The cost of three AR21 fighter bombers is $1.2 billion.  
 + C: The administration should cancel the XJ fighter plane project and the AR21 project.  
+
+**Passage 2** does not contain an argument. It merely asserts, in a somewhat dogmatic tone, that the cause of underage drinking is the marketing of alcohol, tobacco, and sex to children. There is no evidence provided for this assertion. 
 
 **Passage 3** does not contain an argument. The writer claims that the requirement for church and state to be separate doesn't require a ban on public prayer. But the rest of the passage gives no argument for that claim. We are told that the US is the greatest country and that it was founded on Christian beliefs. But that is not relevant in assessing whether separation of church and state requires banning prayer in public places, the issue in question.  
 
@@ -93,19 +94,19 @@ Here are some more examples:
 ## Exercise 5 
 
 
-**Passage 1:** there is an argument here, but there is lots of waffle that is distracting. The argument boils down to the following: 
 
-+ P1: The news media are not in the business of endorsing or validating lifestyles.
-+ C: The news media should never (explicitly or implicitly) endorse lifestyles by announcing those lifestyles to the world.
-
-
-**Passage 2:** The conclusion is buried half way through the passage. The premises come in the second half:
+**Passage 1:** The conclusion is buried half way through the passage. The premises come in the second half:
 
 + P1: In some of your letters to a friend you admitted that you were misleading me.
 + P2: You've been telling everyone that we are just friends, not lovers. 
 + P3: You've been secretly dating someone else.
 + C: Everything that you've told me regarding our relationship has been a lie. 
 
+
+**Passage 2:** there is an argument here, but there is lots of waffle that is distracting. The argument boils down to the following: 
+
++ P1: The news media are not in the business of endorsing or validating lifestyles.
++ C: The news media should never (explicitly or implicitly) endorse lifestyles by announcing those lifestyles to the world.
 
 
 ## Exercise 6

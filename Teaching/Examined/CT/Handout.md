@@ -5,9 +5,9 @@ title: Critical Thinking Handout
 
 
 
-## Work Sheet
+# Work Sheet
 
-If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is on the website. **You do not submit answers to self-assessment exercises to me.**
+If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is [here](Teaching/Examined/CT/Answers). **You do not submit answers to self-assessment exercises to me.**
 
 
 ## Introduction
@@ -18,23 +18,28 @@ Philosophy, then, is concerned with critical thinking, which we will define as f
 
 **Critical Thinking:** 
 
-: The systematic evaluation or formulation of beliefs, or statements by rational standards. 
+: The systematic evaluation and formulation of beliefs and statements by rational standards. 
 
-Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you devise new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful, or psychologically comforting they might be. 
+Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you formulate new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful or psychologically comforting they might be. 
 
-Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are normally intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that, and that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
+Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are normally intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
 
 Second, you will be learning how to construct your own good arguments. If you want me or anyone else to accept any of your beliefs, say about taxation or religion or music, you need to provide me reasons for thinking your belief is true. You do that by providing me good arguments for that belief. 
 
 Since philosophy is concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. You will be introduced to some jargon that you need to learn. It will help you characterize argument as well as evaluate them. 
 
-This handout proceeds in four rough parts: 1) the elements of an argument are introduced, 2) arguments are distinguished from non-arguments, 3) the difference between deductive and inductive arguments is introduced, and 4) the criteria for distinguishing good from bad arguments (first deductive, then inductive)
-are outlined. I encourage you to read a section or two. Try the self-assessment exercises and check the answer key to make sure you understood the material. 
+This handout proceeds in four rough parts: 
+1. The elements of an argument are introduced.
+2. Arguments are distinguished from non-arguments.
+3. The difference between deductive and inductive arguments is introduced.
+4. The criteria for distinguishing good from bad arguments (first deductive, then inductive) are outlined.
+
+I encourage you to read a section or two. Try the self-assessment exercises and check the answer key to make sure you understood the material. 
 
 
 ## Arguments
 
-What is an argument? (You might find []this video helpful](http://www.wi-phi.com/video/intro-critical-thinking).)
+What is an argument? (You might find [this video helpful](http://www.wi-phi.com/video/intro-critical-thinking).)
 
 **Argument:** 
 
@@ -46,11 +51,11 @@ Arguments are embedded in the conversation we have with one another, the various
 + P2: Socrates is human. 
 + C: Socrates is mortal.
 
-P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many premises. For our purposes, we'll be focusing on relatively short arguments. Before we can learn to extract arguments we need to look closer at the elements of an argument. 
+P1 and P2 are the premises of the argument. C is the conclusion. Not every argument has two premises. In principle, there are arguments with indefinitely many. For our purposes, we'll be focusing on relatively short arguments. But before we can learn to extract arguments we need to look closer at their elements. 
 
 ## Statements
 
-Your beliefs and the reasons that support them are expressed by statements. Think of the conclusion of an argument as the statement which expresses the belief you or someone else holds. Think of the premises as statements which express the reasons that support those beliefs. If we are to properly state our beliefs and identify the reasons for them, we need a grasp of statements. 
+Your beliefs and the reasons that support them are expressed by statements. Think of the conclusion of an argument as the statement which expresses the belief you or someone else holds. Think of the premises as statements which express the reasons that support those beliefs. If we are to properly state our beliefs and identify the reasons for them, we need then to understand what statements are. 
 
 **Statements:**
 
@@ -68,14 +73,14 @@ Not all sentences express statements, i.e., not all sentences express claims tha
 + Does a triangle have three sides?
 + Stop telling lies.
 + Hey, dude.
-+ Yay for Hilary!
++ Yay for Penny!
 
 Since reasons must be expressed by statements, a non-statement can never serve as a reason for a belief, a premise in an argument. Consider the following: 
 
-1. Yay for Hilary!
-2. Hilary will make the best President. 
+1. Yay for Penny!
+2. Penny will make the best President. 
 
-Suppose that 2 expresses someone's sincerest belief. You know now that 1, since it is not a statement, could never be used to support that belief. 
+Suppose that 2 expresses someone's sincerest belief. You know now that 1, since it is not a statement, could never be used to support that belief. So, you know that anyone who tries to prove 2 by claiming 1 is offering no real argument at all. 
 
 
 
@@ -134,12 +139,9 @@ You might read a passage like this in a novel or a newspaper article. Don't be f
 
 Which of the following passages contain an argument? In the passages containing an argument, identify and underline the conclusions and premises. 
 
-
-> Attributing alcohol abuse by children too young to buy a drink to lack of parental discipline, intense pressure to succeed, and affluence incorrectly draws attention to proximate causes while ignoring the ultimate cause: a culture that tolerates overt and covert marketing of alcohol tobacco and sex to these easily manipulated, voracious consumers. [Letter to the editor, New York Times]
-
-
 > The GAO says that any weapon that costs more than $50 million apiece will actually impair our military readiness. The cost of the new XJ fighter plane is $650 million dollars. The cost of three AR21 fighter bombers is $1.2 billion. We should never impair our readiness. Therefore, the administration should cancel both these projects.
 
+> Attributing alcohol abuse by children too young to buy a drink to lack of parental discipline, intense pressure to succeed, and affluence incorrectly draws attention to proximate causes while ignoring the ultimate cause: a culture that tolerates overt and covert marketing of alcohol tobacco and sex to these easily manipulated, voracious consumers. [Letter to the editor, New York Times]
 
 > I don't understand what is happening to this country. The citizens of this country are trying to destroy the beliefs of our forefathers with their liberal views. This country was founded on Christian beliefs. This has been and I believe still is the greatest country in the world. But the issue that we cannot have prayer in public places and on public property because there has to be separation of church and state is a farce. [Letter to the editor, Douglas County Sentinel]
 
@@ -153,9 +155,12 @@ It is often difficult to identify the core argument in a complex passage. You ne
 
 In the following passages, identify those statements which are part of the argument. Identify those which are. Also identify the conclusions and premises. 
 
+> [1] You have already said that you love me and that you can't imagine spending the rest of your life without me. [2] Once, you even tried to propose to me. [3] And now you claim that you need time to think about whether we should be married. [4] Well, everything that you've told me regarding our relationship has been a lie. [5] In some of your letters to a friend you admitted that you were misleading me. [6] You've been telling everyone that we are just friends, not lovers. [7] And worst of all, you've been secretly dating someone else. [8] Why are you doing this? [9] It's all been a farce, and I'm outta here.
+
+
 > [1] A. L. Jones used flawed reasoning in his letter yesterday praising this newspaper's decision to publish announcements of same-sex unions. [2] Mr. Jones asserts that same-sex unions are a fact of life and therefore should be acknowledged by the news media as a legitimate variation on social partner ships. [3] But the news media are not in the business of endorsing or validating lifestyles. [4] They're supposed to report on lifestyles, not bless them. [5] In addition, by validating same-sex unions or any other lifestyle, the media abandon their objectivity and become political partisans-which would destroy whatever respect people have for news outlets. [6] All of this shows that the news media-including this newspaper-should never (explicitly or implicitly) endorse lifestyles by announcing those lifestyles to the world.
 
-> [1] You have already said that you love me and that you can't imagine spending the rest of your life without me. [2] Once, you even tried to propose to me. [3] And now you claim that you need time to think about whether we should be married. [4] Well, everything that you've told me regarding our relationship has been a lie. [5] In some of your letters to a friend you admitted that you were misleading me. [6] You've been telling everyone that we are just friends, not lovers. [7] And worst of all, you've been secretly dating someone else. [8] Why are you doing this? [9] It's all been a farce, and I'm outta here.
+
 
 
 

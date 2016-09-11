@@ -1,4 +1,9 @@
 \documentclass[]{article}
+
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+\rhead{\textsc{Scott O`Connor}}
+
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
@@ -33,7 +38,7 @@
 \usepackage[usenames,dvipsnames]{color}
 \hypersetup{breaklinks=true,
             bookmarks=true,
-            pdfauthor={Scott O'Connor},
+            pdfauthor={},
             pdftitle={Critical Thinking Handout},
             colorlinks=true,
             citecolor=blue,
@@ -49,8 +54,8 @@
 \setcounter{secnumdepth}{0}
 
 \title{Critical Thinking Handout}
-\author{Scott O'Connor}
-\date{}
+\author{Scott O’Connor}
+
 
 % Redefines (sub)paragraphs to behave more like sections
 \ifx\paragraph\undefined\else
@@ -65,49 +70,51 @@
 \begin{document}
 \maketitle
 
-\subsection{Work Sheet}\label{work-sheet}
+\section{Work Sheet}\label{work-sheet}
 
 If you haven't read Ch.1.3 of the textbook, stop. Please read that first
 before turning to this handout, which is a summary/supplement to the
 textbook. You will find some \textbf{self-assessment} exercises below.
-The answer key is on the website.
+The answer key is \href{Teaching/Examined/CT/Answers}{here}. \textbf{You
+do not submit answers to self-assessment exercises to me.}
 
 \subsection{Introduction}\label{introduction}
 
 Don't be fooled by every day uses of the words `philosophy',
 `philosophical', and `philosopher'. Being philosophical is not the same
-as merely stating your belief about some deep issue. Philosophy is first
-and foremost a rule governed tool for rationally forming and assessing
-the reasons for beliefs. Philosophers have little patience for those who
-just state their views on some issue. They care about \textbf{the
-reasons} for accepting such views. These reasons come in the form of
-\textbf{arguments} which prove those views true or false. So, don't
-expect us philosophers merely to respect your opinion. We will respect
-your good arguments and will expect you to provide them.
+as merely stating your belief about some deep issue. Philosophers have
+little patience for those who just state their views on some issue. They
+care about \textbf{the reasons} for accepting such views. These reasons
+come in the form of \textbf{arguments} which prove those views true or
+false. So, don't expect us philosophers merely to respect your opinion.
+We will respect your good arguments and will expect you to provide them.
 
-Philosophy, then, is concerned with with critical thinking, which we
-will define as follow:
+Philosophy, then, is concerned with critical thinking, which we will
+define as follow:
 
-\textbf{Critical Thinking:} The systematic evaluation or formulation of
-beliefs, or statements by rational standards.
+\begin{description}
+\item[\textbf{Critical Thinking:}]
+The systematic evaluation and formulation of beliefs and statements by
+rational standards.
+\end{description}
 
 Critical thinking is systematic because it involves distinct methods or
 procedures. We'll be learning some of those methods in this course. It
 concerns evaluation because it concerns itself with assessing existing
 beliefs, either your own or others. And it concerns formulation because
-it helps you devise new beliefs. Finally, critical thinking assess
-beliefs by particular standard, namely, by how well that belief is
-supported by reasons. This contrasts to evaluating beliefs based on how
-beautiful, or psychologically comforting they might be.
+it helps you formulate new beliefs. Finally, critical thinking assesses
+beliefs by a particular standard, namely, by how well that belief is
+supported by reasons. This contrasts to evaluating beliefs based on, for
+instance, how beautiful or psychologically comforting they might be.
 
 Philosophy, then, is concerned with arguments. You will encounter
 arguments in two ways. First, you will be learning how to assess the
 arguments of others. Such arguments are normally intended to convince
 you to believe something. If someone argues that, say, corporation tax
 should be raised, they want you, the listener, to agree with them and
-form the same belief. You need some tool to decide whether to do that,
-and that's how learning to assess arguments helps. It gives you the
-ability to determine whether the reason someone has given for raising
+form the same belief. You need some tool to decide whether to do that;
+that's how learning to assess arguments helps. It gives you the ability
+to determine whether the reason someone has given for raising
 corporation tax supports that conclusion, and so helps you determine
 whether you should accept their proposal.
 
@@ -121,21 +128,37 @@ Since philosophy is concerned with good arguments, you need to learn
 what arguments are and when an argument is a good one. The branch of
 philosophy that concerns itself with these questions is called logic.
 You could dedicate your life to the study of logic, but, for our
-purposes, we only need a brief introduction to it. This handout proceeds
-in four rough parts: 1) the elements of an argument are introduced, 2)
-arguments are distinguished from non-arguments, 3) the difference
-between deductive and inductive arguments is introduced, and 4) the
-criteria for distinguishing good from bad arguments (first deductive,
-then inductive) are outlined. I encourage you to read a section or two.
-Try the self-assessment exercises and check the answer key to make sure
-you understood the material.
+purposes, we only need a brief introduction to it. You will be
+introduced to some jargon that you need to learn. It will help you
+characterize argument as well as evaluate them.
+
+This handout proceeds in four rough parts: 1. The elements of an
+argument are introduced. 2. Arguments are distinguished from
+non-arguments. 3. The difference between deductive and inductive
+arguments is introduced. 4. The criteria for distinguishing good from
+bad arguments (first deductive, then inductive) are outlined.
+
+I encourage you to read a section or two. Try the self-assessment
+exercises and check the answer key to make sure you understood the
+material.
 
 \subsection{Arguments}\label{arguments}
 
-What is an argument? An \textbf{argument} is a group of statements in
-which some of them (\textbf{the premises}) are intended to support
-another of them (\textbf{the conclusion}). They will standardly be
-presented in the following way:
+What is an argument? (You might find
+\href{http://www.wi-phi.com/video/intro-critical-thinking}{this video
+helpful}.)
+
+\begin{description}
+\item[\textbf{Argument:}]
+A group of statements in which some of them (\textbf{the premises}) are
+intended to support another of them (\textbf{the conclusion}).
+\end{description}
+
+Arguments are embedded in the conversation we have with one another, the
+various things we read, and the various papers we write. Philosophers
+try to extract arguments from all the noise to see exactly what is being
+claimed and what evidence is being provided. They will regularly present
+the arguments they hear or read about in bullet form:
 
 \begin{itemize}
 \tightlist
@@ -149,9 +172,9 @@ presented in the following way:
 
 P1 and P2 are the premises of the argument. C is the conclusion. Not
 every argument has two premises. In principle, there are arguments with
-indefinitely many premises. For our purposes, we'll be focusing on
-relatively short arguments. Let us look a little closer at the elements
-of an argument.
+indefinitely many. For our purposes, we'll be focusing on relatively
+short arguments. But before we can learn to extract arguments we need to
+look closer at their elements.
 
 \subsection{Statements}\label{statements}
 
@@ -160,9 +183,15 @@ statements. Think of the conclusion of an argument as the statement
 which expresses the belief you or someone else holds. Think of the
 premises as statements which express the reasons that support those
 beliefs. If we are to properly state our beliefs and identify the
-reasons for them, we need a grasp of \textbf{statements.} A statement is
-an assertion that something is or is not the case. Statements are either
-true or false. Examples:
+reasons for them, we need then to understand what statements are.
+
+\begin{description}
+\item[\textbf{Statements:}]
+An assertion that something is or is not the case. They are either true
+or false.
+\end{description}
+
+Examples:
 
 \begin{itemize}
 \tightlist
@@ -189,7 +218,7 @@ statements:
 \item
   Hey, dude.
 \item
-  Yay for Hilary!
+  Yay for Penny!
 \end{itemize}
 
 Since reasons must be expressed by statements, a non-statement can never
@@ -200,14 +229,15 @@ following:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  Yay for Hilary!
+  Yay for Penny!
 \item
-  Hilary will make the best President.
+  Penny will make the best President.
 \end{enumerate}
 
 Suppose that 2 expresses someone's sincerest belief. You know now that
 1, since it is not a statement, could never be used to support that
-belief.
+belief. So, you know that anyone who tries to prove 2 by claiming 1 is
+offering no real argument at all.
 
 \subsubsection{Exercise 1:}\label{exercise-1}
 
@@ -305,20 +335,20 @@ containing an argument, identify and underline the conclusions and
 premises.
 
 \begin{quote}
+The GAO says that any weapon that costs more than \$50 million apiece
+will actually impair our military readiness. The cost of the new XJ
+fighter plane is \$650 million dollars. The cost of three AR21 fighter
+bombers is \$1.2 billion. We should never impair our readiness.
+Therefore, the administration should cancel both these projects.
+\end{quote}
+
+\begin{quote}
 Attributing alcohol abuse by children too young to buy a drink to lack
 of parental discipline, intense pressure to succeed, and affluence
 incorrectly draws attention to proximate causes while ignoring the
 ultimate cause: a culture that tolerates overt and covert marketing of
 alcohol tobacco and sex to these easily manipulated, voracious
 consumers. {[}Letter to the editor, New York Times{]}
-\end{quote}
-
-\begin{quote}
-The GAO says that any weapon that costs more than \$50 million apiece
-will actually impair our military readiness. The cost of the new XJ
-fighter plane is \$650 million dollars. The cost of three AR21 fighter
-bombers is \$1.2 billion. We should never impair our readiness.
-Therefore, the administration should cancel both these projects.
 \end{quote}
 
 \begin{quote}
@@ -348,6 +378,19 @@ the argument. Identify those which are. Also identify the conclusions
 and premises.
 
 \begin{quote}
+{[}1{]} You have already said that you love me and that you can't
+imagine spending the rest of your life without me. {[}2{]} Once, you
+even tried to propose to me. {[}3{]} And now you claim that you need
+time to think about whether we should be married. {[}4{]} Well,
+everything that you've told me regarding our relationship has been a
+lie. {[}5{]} In some of your letters to a friend you admitted that you
+were misleading me. {[}6{]} You've been telling everyone that we are
+just friends, not lovers. {[}7{]} And worst of all, you've been secretly
+dating someone else. {[}8{]} Why are you doing this? {[}9{]} It's all
+been a farce, and I'm outta here.
+\end{quote}
+
+\begin{quote}
 {[}1{]} A. L. Jones used flawed reasoning in his letter yesterday
 praising this newspaper's decision to publish announcements of same-sex
 unions. {[}2{]} Mr.~Jones asserts that same-sex unions are a fact of
@@ -363,20 +406,14 @@ of this shows that the news media-including this newspaper-should never
 lifestyles to the world.
 \end{quote}
 
-\begin{quote}
-{[}1{]} You have already said that you love me and that you can't
-imagine spending the rest of your life without me. {[}2{]} Once, you
-even tried to propose to me. {[}3{]} And now you claim that you need
-time to think about whether we should be married. {[}4{]} Well,
-everything that you've told me regarding our relationship has been a
-lie. {[}5{]} In some of your letters to a friend you admitted that you
-were misleading me. {[}6{]} You've been telling everyone that we are
-just friends, not lovers. {[}7{]} And worst of all, you've been secretly
-dating someone else. {[}8{]} Why are you doing this? {[}9{]} It's all
-been a farce, and I'm outta here.
-\end{quote}
-
 \subsection{Evaluating Arguments}\label{evaluating-arguments}
+
+You can now distinguish statements from non-statements, identify which
+statements serve as premises and which as the conclusion, and extract
+the core argument from a piece of text. Our next job as philosophers is
+to decide whether an argument is a good one, i.e., do the reasons given
+by the premises prove that the claim stated in the conclusion is true?
+Good and bad arguments are distinguished as follows:
 
 A \textbf{good argument} has (1) solid logic (an appropriate connection
 between the premises and conclusion), and (2) true premises.
@@ -392,11 +429,16 @@ and inductive.
 \subsection{Deductive Arguments}\label{deductive-arguments}
 
 A \textbf{deductive argument} is an argument intended to give logically
-conclusive support to its conclusion.
+conclusive support to its conclusion. (You find the
+\href{http://www.wi-phi.com/video/deductive-arguments}{following video
+helpful}.)
 
 If a deductive argument has good logic, then the argument is
 \textbf{valid}. An argument is valid when the following situation
-obtains: if the premises are true, then the conclusion must be true.
+obtains: if the premises are true, then the conclusion must be true. See
+\href{http://www.wi-phi.com/video/validity}{here} and
+\href{http://www.wi-phi.com/video/truth-and-validity}{here} for more
+information on validity.
 
 Note that the premises do not need to be true for an argument to be
 valid. Assessing an argument for validity asks us to
@@ -408,7 +450,9 @@ conclusion false. If there is not, the argument is valid. If there is,
 then the argument is invalid.
 
 A deductive argument is \textbf{sound} when (a) the argument is valid,
-and (b) the premises are true.
+and (b) the premises are true. See
+\href{http://www.wi-phi.com/video/soundness}{here} for more information
+on soundness.
 
 Note that a deductive argument can be valid without being sound.
 However, it cannot be both sound and invalid.
