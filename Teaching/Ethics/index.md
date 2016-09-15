@@ -30,8 +30,17 @@ title: Ethics
 + [Documentary about Aristotle](https://www.youtube.com/watch?v=QesWw3Zz0Ms)
 
 
-### Sundry
+### Gobbets
 
-+ Reading for week 2. Complete by Monday. Please purchase the textbook by week 3. 
++ 12 reading quetions will be assigned. Each reading question consists in several gobbets. For informations about gobbets, see the following guide the Classics Department at Oxford University [here.](Gobbets)
+
+
+
+### Weeks
+
++ **Week 2.** Complete by Monday. Please purchase the textbook by week 3. 
 	+ [*Nicomachean Ethics*, Book 1, ch.1--6](Book1.pdf) (read the first seven pages)
 	+ [Aristotle's *Nicomachean Ethics*: An Introduction](Pakaluk.pdf) (read pp.38--46 and as much of chapter 1 as you can)
+
++ **Week 3** See the sylabus for the required reading. 
+	+ [Gobbets,](RQ1) i.e., reading question 1. This is due by Mondaty 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
