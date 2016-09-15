@@ -43,4 +43,4 @@ title: Ethics
 	+ [Aristotle's *Nicomachean Ethics*: An Introduction](Pakaluk.pdf) (read pp.38--46 and as much of chapter 1 as you can)
 
 + **Week 3** See the sylabus for the required reading. 
-	+ [Gobbets,](Gobbets/1) i.e., reading question 1. This is due by Mondaty 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
+	+ [Gobbets,](/Gobbets/1) i.e., reading question 1. This is due by Mondaty 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
