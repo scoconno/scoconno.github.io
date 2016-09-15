@@ -20,7 +20,7 @@ title: Ethics
 
 
 
-### Greek Links ##
+### Greek Links 
 
 + [A nice documentary on Ancient Greece](https://www.youtube.com/watch?v=-dwWocwd160)
 + [An interactive site about Greece](http://www.ancientgreece.co.uk/)
@@ -32,9 +32,9 @@ title: Ethics
 
 ### Gobbets
 
-+ 12 reading quetions will be assigned. Each reading question consists in several gobbets. For informations about gobbets, see the following guide the Classics Department at Oxford University [here.](Gobbets)
++ 12 reading quetions will be assigned. Each reading question consists in several gobbets. For informations about gobbets, see the following guide the Classics Department at Oxford University [here.](Gobbets/Guide.pdf)
 
-
+[Test](Gobbets/Essay)
 
 ### Weeks
 
@@ -43,4 +43,4 @@ title: Ethics
 	+ [Aristotle's *Nicomachean Ethics*: An Introduction](Pakaluk.pdf) (read pp.38--46 and as much of chapter 1 as you can)
 
 + **Week 3** See the sylabus for the required reading. 
-	+ [Gobbets,](/Gobbets/1) i.e., reading question 1. This is due by Mondaty 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
+	+ [Gobbets,](Gobbets/1) i.e., reading question 1. This is due by Mondaty 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
