@@ -11,12 +11,11 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read the short story, 'The Good Brahmin' by Voltaire, p.408. 
-+ Read Chapter 9.1-9.2
-+ Study [the notes](/Teaching/Examined/Meaning/Handout). 
-+ Complete the self reflection survey on p.406. Do not submit this to me. It's for your purposes only.  
++ Read [`A Confession’](Tolstoy Confession.pdf), Leo Tolstoy, pp.13-–55
++ Read Chapter 9.1--9.2
++ Study [the notes](/Teaching/Examined/Meaning/Handout) 
 
 
 ## Assignments
 
-+ Complete quiz 2 on Blackboard by Monday 07/18/2016 @ 11:59pm.
++ Complete quiz 2 on Blackboard by Monday 09/26/2016 @ 11:59pm.
