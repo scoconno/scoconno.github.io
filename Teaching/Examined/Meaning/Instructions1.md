@@ -11,7 +11,7 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read [`A Confession’](Tolstoy Confession.pdf), Leo Tolstoy, pp.13-–55
++ Read [`A Confession’](TolstoyConfession.pdf), Leo Tolstoy, pp.13-–55
 + Read Chapter 9.1--9.2
 + Study [the notes](/Teaching/Examined/Meaning/Handout) 
 
