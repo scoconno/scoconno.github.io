@@ -25,9 +25,10 @@ title: The Examined Life
 
 
 
-## Weeks 
+## Links for each week
 
-Readings must be completed by the first day of class. The readings for the first week are optional, but you may wish to read through them in preparation for your first essay.  
+Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. You should consult the syllabus to identify what you must read for each week. The below does not include that information. 
+
 
 + **Week 1 (9/7/2016)**
 	+ [Notes](Intro/Notes/)
@@ -43,8 +44,10 @@ Readings must be completed by the first day of class. The readings for the first
 		+ Note that each quiz is timed. Once you click 'start quiz', you have 60 continuous minutes to complete it. If you navigate away from the page or close your browser, you cannot restart it. 
 		+ Answers to the quiz will be released after the due date. 
 	
-	
-	
++ **Week 3 (9/19/2016)**	
+	+ [Notes](Meaning/Handout)
+	+ [Optional reading](Meaning/Confession.pdf)
+	+ Complete quiz 2 in Blackboard by Monday 9/26/2016 @ 12:00pm. You will find the quiz in the quizzes folder on Blackboard. 
 	
 	
 	
