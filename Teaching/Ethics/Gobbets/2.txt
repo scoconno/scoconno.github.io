@@ -1,0 +1,27 @@
+---
+layout: default
+title: Reading Question 1
+---
+
+## Gobbets (Book II)
+
+Sentence 1:
+: Hence we may take it that virtue is the sort of state concerned with pleasures and pains that is a doer of the best actions, and that vice is the contrary state (1105a27).
+
+Sentence 2:
+: To entrust what is greatest and noblest to luck would strike a very false note (1100a32).
+
+Sentence 3:
+: This much, then, makes clear that the mean state is praiseworthy in all cases but that we should sometimes incline toward excess and sometimes deficiency, since that way we shall most easily hit the mean and what constitutes doing well (1109b24).
+
+
+## Introduction 
+
+There are three gobbets. The numbers after each sentence refer to the Bekker numbers. You can find the Bekker numbers by first attending to the number at the top corner of each page and then looking for the numbers that occur in brackets after specific words. 
+
+Remember 'gobbets' are reading quetions. You must do three things: 
+1. explain the context of the sentence, i.e., explain what Aristotle is doing in the chapter and how the sentence fits into that project. 
+2. Explain the content/meaning of the sentence. 
+3. Assess the sentence, i.e., state what you think the sentence contributes to Aristotle's overall project, or raise an objection, or raise an interesting question, etc.  
+
+Please submit through Blackboard. Click on 'gobbets' in the left panel. Then click on 'gobbets 1' to upload the answer.
