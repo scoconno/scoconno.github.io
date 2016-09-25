@@ -49,7 +49,11 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Optional reading](Meaning/Confession.pdf)
 	+ Complete quiz 2 in Blackboard by Monday 9/26/2016 @ 12:00pm. You will find the quiz in the quizzes folder on Blackboard. 
 	
-	
-	
++ **Week 4 (9/26/2016)**
+	+ [Notes 1](Meaning/Handout2)
+	+ [Notes 2](Meaning/Handout3)	
+	+ [Optional reading](Meaning/Confession.pdf)
+	+ Complete [essay 2](Meaning/SW1) by Monday 9/3/2016 @ 12:00pm
+
 	
 	

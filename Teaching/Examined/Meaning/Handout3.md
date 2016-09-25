@@ -74,7 +74,7 @@ One option is to re-consider Epicureanism, an option towards death that Tolstoy 
 + Epicureanism: while knowing the hopelessness of life, make use meanwhile of the advantages one has, disregarding the dragon and the mice, and licking the honey in the best way, especially if there is much of it within reach. This, though, is an unsustainable attitude. Many live in terrible conditions. Many have no honey to taste. It is a mere accident, claims Tolstoy, that you have good circumstances rather than poor, and ''the accident that has today made me a Solomon may tomorrow make me a Solomon's slave.'' Epicureans try but cannot ultimately forget that all these pleasures are ephemeral. They are as easily lost as gained. Nobody can be confident that life will always provide these distractions. (Tolstoy, p.22)
 
 
-Tolstoy assumes that the only pleasures in life are ephemeral, that they only things we can desire are those that ultimately will causes us pain. Buddha would agree that desiring the ephemeral is a cause of pain, but is Tolstoy right that we can *only* desire the ephemeral. Read *Buddhism* in ch.2 for Buddha's views on how desire can be changed and its pain lessened. 
+Tolstoy assumes that the only pleasures in life are ephemeral, that they only things we can desire are those that ultimately will causes us pain. Buddha would agree that desiring the ephemeral is a cause of pain, but is Tolstoy right that we can *only* desire the ephemeral? Read *Buddhism* in ch.2 for Buddha's views on how desire can be changed and its pain lessened. 
 
 
 
