@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.8.20)  28 SEP 2016 12:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.8.20)  26 SEP 2016 12:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Handout.tex
-(./Handout.tex
+**SW1.tex
+(./SW1.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 79 languages loaded.
 (c:/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -641,8 +641,8 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 41.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 41.
-(./Handout.aux)
-\openout1 = `Handout.aux'.
+No file SW1.aux.
+\openout1 = `SW1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
@@ -658,7 +658,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
- (c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+(c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 51.
@@ -721,13 +721,14 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
-
-(./Handout.out) (./Handout.out)
 \@outlinefile=\write3
-\openout3 = `Handout.out'.
+\openout3 = `SW1.out'.
 
+
+! I can't write on file `SW1.pdf'.
+(Press Enter to retry, or Control-Z to exit; default file extension is `.pdf')
+Please type another file name for output: sw.pdf
 LaTeX Font Info:    Try loading font information for U+msa on input line 53.
-
 (c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -747,50 +748,46 @@ LaTeX Warning: No \author given.
 
 [1
 
-{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 252.
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
 
-[4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 252.
- (./Handout.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 252.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 252.
+(./SW1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 
 
-Package rerunfilecheck Warning: File `Handout.out' has changed.
+Package rerunfilecheck Warning: File `SW1.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `Handout.out':
-(rerunfilecheck)             Before: D29803EB79A67D8DF3E6AA68381089DC;673
-(rerunfilecheck)             After:  7B8861259E404CF3342F249A14F0547E;1028.
+Package rerunfilecheck Info: Checksums for `SW1.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  13340ADB71A0A3E43781D7CCD80E25D3;1356.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 252.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 11315 strings out of 493108
- 160915 string characters out of 6138440
- 259851 words of memory out of 5000000
- 14574 multiletter control sequences out of 15000+600000
- 21625 words of font info for 97 fonts, out of 8000000 for 9000
+ 11224 strings out of 493108
+ 159517 string characters out of 6138440
+ 257433 words of memory out of 5000000
+ 14530 multiletter control sequences out of 15000+600000
+ 13885 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,8n,35p,232b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
-ive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2014/
+ 31i,6n,35p,228b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
+live/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2014/
 texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2014/texmf-dist
 /fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2014/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx1440.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
-cm-super/sfrm0600.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/s
-frm0700.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pf
-b><c:/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texl
-ive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2014/t
-exmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on Handout.pdf (4 pages, 160788 bytes).
+e1/public/cm-super/sfrm1000.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/
+cm-super/sfrm1728.pfb>
+Output written on sw.pdf (3 pages, 62109 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 14377 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
+ 8193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
