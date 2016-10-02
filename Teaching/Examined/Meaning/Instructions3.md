@@ -18,4 +18,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete Quiz 3 by Monday 10/03/2016 @ 11:59pm. You will find the quiz on Blackboard in the folder for week 5. 
++ Complete Quiz 3 by Monday 10/10/2016 @ 11:59pm. You will find the quiz on Blackboard in the folder for week 5. 
