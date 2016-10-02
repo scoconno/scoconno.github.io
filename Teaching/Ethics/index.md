@@ -44,15 +44,15 @@ title: Ethics
 + **Week 3.** See the sylabus for the required reading. 
 	+ [Gobbets](Gobbets/1), i.e., reading question 1. This is due by Monday 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
 
-+ **Week 4** See the syllabus for the required reading.
++ **Week 4.** See the syllabus for the required reading.
 	+ [Gobbets](Gobbets/2), i.e., reading question 2. This is due by **Monday at 3pm** through Blackboard. Note the updated time for submissions. This will be retained for the semester. I won't remind you of this due date for later weeks. 
 	+ [Essay 1](Essays/1). This is due by Monday at 3pm through Blackboard. I won't remind you of this due date for later weeks. 
 
-+ **Week 5** See the syllabus for the required reading.
++ **Week 5.** See the syllabus for the required reading.
 	+ [Gobbets](Gobbets/3), i.e., reading question 3. 
 	+ [Essay 2](Essays/2)
 	
-+ **Week 6** See the syllabus for the required reading.
++ **Week 6.** See the syllabus for the required reading.
 	+ [Gobbets](Gobbets/4), i.e., reading question 3. 
 	+ [Essay 2](Essays/3)
 
