@@ -53,7 +53,22 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Notes 1](Meaning/Handout2)
 	+ [Notes 2](Meaning/Handout3)	
 	+ [Optional reading](Meaning/Confession.pdf)
-	+ Complete [essay 2](Meaning/SW1) by Monday 9/3/2016 @ 12:00pm
+	+ Complete [essay 2](Meaning/SW1) by Monday 10/3/2016 @ 12:00pm
+
++ **Week 5 (10/03/2016)**
+	+ [Notes 1](God/Handout1)
+	+ ['Intelligent Design Has No Place in the Science Curriculum', Harold Morowitz, Robert Hazen, and James Trefil](/Teaching/Examined/God/Intel.pdf)
+	+ ['Design for Living', Michael J. Behe](/Teaching/Examined/God/Des.pdf)
+	+ Complete [essay 3](God/SW2) by Monday 10/10/2016 @ 12:00pm
+
++ **Week 6 (10/10/2016)**
+	+ [Notes 1](God/Handout2)
+	+ Complete quiz 3 in Blackboard by Monday 10/17/2016 @ 12:00pm.  
+
++ **Week 7 (10/17/2016)**
+	+ [Notes 1](God/Handout3)
+	+ ‘Surprise! It’s Judgment Day’,  Thomas Davis
+	+ Complete [essay 4](Meaning/SW2) by Monday 10/24/2016 @ 12:00pm
 
 	
 	

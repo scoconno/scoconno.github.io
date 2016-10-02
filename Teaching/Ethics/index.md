@@ -48,4 +48,13 @@ title: Ethics
 	+ [Gobbets](Gobbets/2), i.e., reading question 2. This is due by **Monday at 3pm** through Blackboard. Note the updated time for submissions. This will be retained for the semester. I won't remind you of this due date for later weeks. 
 	+ [Essay 1](Essays/1). This is due by Monday at 3pm through Blackboard. I won't remind you of this due date for later weeks. 
 
++ **Week 5** See the syllabus for the required reading.
+	+ [Gobbets](Gobbets/3), i.e., reading question 3. 
+	+ [Essay 2](Essays/2)
+	
++ **Week 6** See the syllabus for the required reading.
+	+ [Gobbets](Gobbets/4), i.e., reading question 3. 
+	+ [Essay 2](Essays/3)
+
+
  
