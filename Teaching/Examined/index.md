@@ -57,13 +57,13 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + **Week 5 (10/03/2016)**
 	+ [Notes 1](God/Handout1)
-	+ ['Intelligent Design Has No Place in the Science Curriculum', Harold Morowitz, Robert Hazen, and James Trefil](/Teaching/Examined/God/Intel.pdf)
-	+ ['Design for Living', Michael J. Behe](/Teaching/Examined/God/Des.pdf)
+	+ ['Intelligent Design Has No Place in the Science Curriculum',](/Teaching/Examined/God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
+	+ ['Design for Living',](/Teaching/Examined/God/Des.pdf) Michael J. Behe	
 	+ Complete [essay 3](God/SW2) by Monday 10/10/2016 @ 12:00pm
 
 + **Week 6 (10/10/2016)**
 	+ [Notes 1](God/Handout2)
-	+ Complete quiz 3 in Blackboard by Monday 10/17/2016 @ 12:00pm.  
+	+ Complete quiz 3 in Blackboard by Monday 10/17/2016 @ 12:00pm  
 
 + **Week 7 (10/17/2016)**
 	+ [Notes 1](God/Handout3)

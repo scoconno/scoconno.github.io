@@ -53,8 +53,8 @@ title: Ethics
 	+ [Essay 2](Essays/2)
 	
 + **Week 6.** See the syllabus for the required reading.
-	+ [Gobbets](Gobbets/4), i.e., reading question 3. 
-	+ [Essay 2](Essays/3)
+	+ [Gobbets](Gobbets/4), i.e., reading question 4. 
+	+ [Essay 3](Essays/3)
 
 
  
