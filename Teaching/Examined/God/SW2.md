@@ -5,16 +5,25 @@ title: Essay
 
 
 
-### Prompt---A Letter 
+### Introduction 
 
 You are a religious leader concerned about the teaching of evolutionary biology in high schools. You think that only God could explain the existence of life. The local school board is accepting public submissions on the issue. 
 
-Do the following: 
 
-+ Write a short letter to the school board. 
-+ In your letter, use the Design Argument (and no other argument) to argue that God exists. 
-+ You must explain all the premises/steps of the Design Argument. Failure to do so will result in significant loss of points. Mention of any other argument for God's existence will also result in loss of points.
-+ Do not attempt to attack the Design Argument. This exercise tests your ability to explain the Design Argument. You not being asked for your personal opinions on the issue. 
+### Purpose
+
+The purpose of this assignment is to help you practice the following skills that
+are essential to your success in this course and others.
+1. Charitably explaining arguments about issues of public importance.
+3. Explaining difficult concepts in your own words.
+
+### Task
+
+Write a short letter to the school board using the design argument to prove that intelligent design should be taught in biology classes. Your letter must do the following:
+
++ Use the design argument (and no other argument) to argue that God exists. 
++ Explain all the premises/steps of the design argument. Use a simple example like Paley's watch to discuss these premises. Picking a different example is encouraged.
++ Avoid attacking the design argument. Your job is to prove God's existence regardless of your personal opinion.
 
 
 ### Word Count
