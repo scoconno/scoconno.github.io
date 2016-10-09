@@ -11,11 +11,11 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read ‘A Little Omniscience Goes a Long Way’, Thomas Davis, pp.258–261
++ Read ['Surprise! It’s Judgment Day’,](Surprise) Thomas Davis
 + Read chapter 2.3
 + Study the [notes](/Teaching/Examined/God/Handout3). 
 
 
 ## Assignments
 
-+ Complete [essay 4](/Teaching/Examined/God/SW3) by Monday 08/01/2016 @ 11:59pm.
++ Complete [essay 4](/Teaching/Examined/God/SW3) by Monday 10/31/2016 @ 11:59pm.

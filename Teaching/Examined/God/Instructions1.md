@@ -20,4 +20,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete [essay 3](/Teaching/Examined/God/SW2) by Monday 07/25/2016 @ 11:59pm.
++ Complete [essay 3](/Teaching/Examined/God/SW2) by Monday 10/17/2016 @ 11:59pm.

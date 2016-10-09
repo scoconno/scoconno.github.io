@@ -67,8 +67,17 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + **Week 7 (10/17/2016)**
 	+ [Notes 1](God/Handout3)
-	+ ‘Surprise! It’s Judgment Day’,  Thomas Davis
-	+ Complete [essay 4](Meaning/SW2) by Monday 10/24/2016 @ 12:00pm
+	+ ['Surprise! It’s Judgment Day’,](God/Surprise) Thomas Davis
+	+ Complete [essay 4](God/SW2) by Monday 10/24/2016 @ 12:00pm
+
++ **Week 8 (10/24/2016)**
+	+ [Notes 1](FreeWill/Handout1)
+	+ Complete quiz 4 in Blackboard by Monday 10/31/2016 @ 12:00pm
+	
++ **Week 9 (10/31/2016)**
+	+ [Notes 1](FreeWill/Handout2)
+	+ ['Please Don’t Tell Me How The Story Ends’,](FreeWill/Story) Thomas Davis
+	+ Complete [essay 5](FreeWill/Essay) in Blackboard by Monday 11/7/2016 @ 12:00pm
 
 	
 	
