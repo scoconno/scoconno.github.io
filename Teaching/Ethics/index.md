@@ -15,7 +15,7 @@ title: Ethics
 + [Grading information](/Teaching/Grading/)
 + [Resources](/Teaching/Resources/)
 + [Contact information](/Contact)
-+ [Office hours](/Contact/office)
++ [Office hours](/Contact/Office)
 + [Blackboard](http://blackboard.njcu.edu) 
 
 
@@ -37,24 +37,30 @@ title: Ethics
 
 ### Weeks
 
-+ **Week 2.** Complete by Monday. Please purchase the textbook by week 3. 
++ **Week 2 (9/12/16).** Complete by Monday. Please purchase the textbook by week 3. 
 	+ [*Nicomachean Ethics*, Book 1, ch.1--6](Book1.pdf) (read the first seven pages)
 	+ [Aristotle's *Nicomachean Ethics*: An Introduction](Pakaluk.pdf) (read pp.38--46 and as much of chapter 1 as you can)
 
-+ **Week 3.** See the sylabus for the required reading. 
++ **Week 3 (9/12/16).** See the sylabus for the required reading. 
 	+ [Gobbets](Gobbets/1), i.e., reading question 1. This is due by Monday 9/19 at 12pm on Blackboard. (Please note that I won't continually remind you of the due dates. Assignments are always due on the relevant Monday through Blackboard at 12pm. The syllabus has full details).  
 
-+ **Week 4.** See the syllabus for the required reading.
++ **Week 4 (9/26/16).** See the syllabus for the required reading.
 	+ [Gobbets](Gobbets/2), i.e., reading question 2. This is due by **Monday at 3pm** through Blackboard. Note the updated time for submissions. This will be retained for the semester. I won't remind you of this due date for later weeks. 
 	+ [Essay 1](Essays/1). This is due by Monday at 3pm through Blackboard. I won't remind you of this due date for later weeks. 
 
-+ **Week 5.** See the syllabus for the required reading.
++ **Week 5 (10/3/26).** See the syllabus for the required reading.
 	+ [Gobbets](Gobbets/3), i.e., reading question 3. 
 	+ [Essay 2](Essays/2)
 	
-+ **Week 6.** See the syllabus for the required reading.
++ **Week 6 (10/10/16).** See the syllabus for the required reading.
 	+ [Gobbets](Gobbets/4), i.e., reading question 4. 
 	+ [Essay 3](Essays/3)
 
++ **Week 7 (10/17/16).** See the syllabus for the required reading.
+	+ [Gobbets](Gobbets/5), i.e., reading question 5. 
+	+ [Essay 4](Essays/4)
 
++ **Week 8 (10/24/16).** See the syllabus for the required reading.
+	+ [Gobbets](Gobbets/6), i.e., reading question 6. 
+	+ [Essay 5](Essays/5)
  
