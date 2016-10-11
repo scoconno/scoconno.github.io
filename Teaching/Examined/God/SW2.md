@@ -14,8 +14,9 @@ You are a religious leader concerned about the teaching of evolutionary biology 
 
 The purpose of this assignment is to help you practice the following skills that
 are essential to your success in this course and others.
+
 1. Charitably explaining arguments about issues of public importance.
-3. Explaining difficult concepts in your own words.
+2. Explaining difficult concepts in your own words.
 
 ### Task
 
