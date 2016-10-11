@@ -35,7 +35,9 @@ title: Ethics
 + 12 reading quetions will be assigned. Each reading question consists in several gobbets. For informations about gobbets, see the following guide by the Classics Department at Oxford University [here.](Gobbets/Guide.pdf)
 
 
-### Weeks
+### Assignments Due
+
+Complete by 3pm on the first day of the week (the date in the brackets).
 
 + **Week 2 (9/12/16).** Complete by Monday. Please purchase the textbook by week 3. 
 	+ [*Nicomachean Ethics*, Book 1, ch.1--6](Book1.pdf) (read the first seven pages)
@@ -48,19 +50,19 @@ title: Ethics
 	+ [Gobbets](Gobbets/2), i.e., reading question 2. This is due by **Monday at 3pm** through Blackboard. Note the updated time for submissions. This will be retained for the semester. I won't remind you of this due date for later weeks. 
 	+ [Essay 1](Essays/1). This is due by Monday at 3pm through Blackboard. I won't remind you of this due date for later weeks. 
 
-+ **Week 5 (10/3/26).** See the syllabus for the required reading.
++ **Week 5 (10/3/26).** 
 	+ [Gobbets](Gobbets/3), i.e., reading question 3. 
 	+ [Essay 2](Essays/2)
 	
-+ **Week 6 (10/10/16).** See the syllabus for the required reading.
-	+ [Gobbets](Gobbets/4), i.e., reading question 4. 
++ **Week 6 (10/10/16).** 
+ 	+ [Gobbets](Gobbets/4), i.e., reading question 4. 
 	+ [Essay 3](Essays/3)
 
-+ **Week 7 (10/17/16).** See the syllabus for the required reading.
-	+ [Gobbets](Gobbets/5), i.e., reading question 5. 
++ **Week 7 (10/17/16).** 
+ 	+ [Gobbets](Gobbets/5), i.e., reading question 5. 
 	+ [Essay 4](Essays/4)
 
-+ **Week 8 (10/24/16).** See the syllabus for the required reading.
-	+ [Gobbets](Gobbets/6), i.e., reading question 6. 
-	+ [Essay 5](Essays/5)
++ **Week 8 (10/24/16).** 
+	+ [Gobbets]Gobbets/6), i.e., reading question 6. 
+	+ [Essay 5]Essays/5)
  
