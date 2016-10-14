@@ -59,6 +59,7 @@ Complete by 3pm on the first day of the week (the date in the brackets).
 	+ [Essay 3](Essays/3)
 
 + **Week 7 (10/17/16).** 
+
  	+ [Gobbets](Gobbets/5), i.e., reading question 5. 
 	+ [Essay 4](Essays/4)
 
