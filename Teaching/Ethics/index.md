@@ -63,6 +63,6 @@ Complete by 3pm on the first day of the week (the date in the brackets).
 	+ [Essay 4](Essays/4)
 
 + **Week 8 (10/24/16).** 
-	+ [Gobbets]Gobbets/6), i.e., reading question 6. 
-	+ [Essay 5]Essays/5)
+	+ [Gobbets](Gobbets/6), i.e., reading question 6. 
+	+ [Essay 5](Essays/5)
  

@@ -68,7 +68,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + **Week 7 (10/17/2016)**
 	+ [Notes 1](God/Handout3)
 	+ ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
-	+ Complete [essay 4](God/SW2) by Monday 10/24/2016 @ 12:00pm
+	+ Complete [essay 4](God/SW3) by Monday 10/24/2016 @ 12:00pm
 
 + **Week 8 (10/24/2016)**
 	+ [Notes 1](FreeWill/Handout1)
