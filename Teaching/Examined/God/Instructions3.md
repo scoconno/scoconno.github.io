@@ -11,7 +11,7 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read ['Surprise! It’s Judgment Day’,](Surprise) Thomas Davis
++ Read ['Surprise! It’s Judgment Day’,](/Teaching/Examined/God/Surprise.pdf) Thomas Davis
 + Read chapter 2.3
 + Study the [notes](/Teaching/Examined/God/Handout3). 
 
