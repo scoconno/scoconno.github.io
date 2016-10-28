@@ -69,3 +69,8 @@ Complete by 3pm on the first day of the week (the date in the brackets).
  + **Week 9 (10/31/16).** 
 	+ [Gobbets](Gobbets/7), i.e., reading question 7. 
 	+ [Essay 6](Essays/6)
+
+ + **Week 10 (11/7/16).**
+	+ [Gobbets](Gobbets/8), i.e., reading question 8.
+	+ [Essay 7](Essays/7)
+

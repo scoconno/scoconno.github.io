@@ -76,8 +76,11 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	
 + **Week 9 (10/31/2016)**
 	+ [Notes 1](FreeWill/Handout2)
-	+ ['Please Don’t Tell Me How The Story Ends’,](FreeWill/Story) Thomas Davis
+	+ ['Please Don’t Tell Me How The Story Ends’,](http://creationdemonstration.blogspot.com/2013/03/please-dont-tell-me-how-story-ends.html) Thomas Davis
 	+ Complete [essay 5](FreeWill/Essay) in Blackboard by Monday 11/7/2016 @ 12:00pm
 
 	
-	
++ **Week 10 (11/7/2016)**
+	+ [Notes 1](Ethics/Handout)
+	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
+	+ Complete [essay 6](Ethics/Essay) in Blackboard by Monday 11/14/2016 @ 12:00pm
