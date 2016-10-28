@@ -8,7 +8,8 @@ title: Instructions
 
 ## Study
 
-Complete these tasks in order
+Complete these tasks in order:
+
 + Read ‘A Little Omniscience Goes a Long Way’, Thomas Davis, pp.258–2612. 
 + Read chapters 5.1, 5.2, & 5.4 
 + Study the [notes](/Teaching/Examined/FreeWill/Handout1)
