@@ -2,50 +2,43 @@
 layout: page
 title: Teaching
 
----
+--- 
 
-If you are a current student, please find the course web-site link on the syllabus. The site can also be found through Blackboard. Out of an attempt to protect copyright, I won't make the links publicly available. 
+### Recent & Upcoming Courses
 
-For details about upcoming courses, please do [e-mail me](/Contact).  
+#### Spring 2017
 
-### Fall 2016
-
-+ Ethics: Friendship, Happiness, and the Good Life, M&W @ 4pm
-+ The Examined Life, M&W @ 12:45
-+ Persons & Problems (online)
++ Phil 236: 'Self: I as Mind', M & W @ 9:55am
++ Phil 140: 'The Examined Life', M & W @ 12:45pm
++ Phil 101: 'Persons & Problems', online
 
 
-### Summer II 2016
+#### Fall 2016
 
-+ Persons & Problems (online)
-
-
-### Spring 2016
-
-+ Survey of Ancient Philosophy, M&W @ 4pm
-+ Time (Honors, cohort B), M&W @ 12:45
-+ Persons and Problems (online)
++ Phil 207: 'Ethics: Friendship, Happiness, and the Good Life', M & W @ 4pm
++ Phil 140: 'The Examined Life', M & W @ 12:45pm
++ Phil 101: 'Persons & Problems', online
 
 
-### Fall 2015 
+#### Summer II 2016
 
-+ Metaphysics: Appearance & Reality
-+ The Examined Life
-+ Critical Thinking
++ Phil 101: 'Persons & Problemson', online
 
 
-### Summer 2015 
+### Regularly Offered
 
-+ Persons and Problems (online)
++ Phil 211: 'A Survey of Ancient Philosophy'
++ Phil 205: 'Metaphysics' 
++ Phil 236: 'Self: I as Mind' 
++ Phil 140: 'The Examined Life' 
++ Phil 102: 'Critical Thinking'
++ Phil 101: 'Persons & Problems', online
+
+### Other
+
++ Honors: 'Time', Spring 2016
 
 
-### Spring 2015 
-
-+ Persons and Problems
-+ Critical Thinking
 
 
-### Fall 2014 
 
-+ Persons and Problems
-+ A Survey of Ancient Philosophy

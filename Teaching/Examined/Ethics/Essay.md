@@ -6,30 +6,33 @@ title: Essay
 
 
 
-## Prompt
-
-This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.epub) 
-
-+ **NB.** You will need to open this file with software that can read ePubs. iBooks for macs works great. Calibre for pcs is a good option. Both are free.
+This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.pdf) 
 
 
-Koriba strangles a newborn child. He claims that the traditions of his people, the Kikuyu, say it is morally required of him to do so. Maintenance is concerned. They send Barbara Eaton to investigate. In this assignment, pretend to be Barbara Eaton and write that report. The report must explain the following: 
+## Introduction
 
-+ Conditions on the ground. What did you see? Did people seem happy, healthy, etc?
-+ How were you received? 
-+ How did Koriba explain his strangling of the child? 
-+ How did Koriba respond when you claimed it was immoral to kill the child?  
+Koriba strangles a newborn child. He claims that the traditions of his people, the Kikuyu, say it is morally required of him to do so. Maintenance is concerned. They send Barbara Eaton to investigate. 
 
+## Purpose
+The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others.
 
+1. Charitably explaining arguments about issues of public importance.
+2. Understanding that there are different cultural norm and how those norms guide different behavior. 
+2. Explaining difficult concepts in your own words.
+
+## Task
+
+In this assignment, pretend to be Barbara Eaton and write a report that does the following: 
+
+1. Describes conditions on the ground. What did you see? Did people seem happy, healthy, etc?
+2. How did people respond to you? Were they welcoming? Were they hostile? What did they say to you? 
+3. How did Koriba explain his strangling of the child? 
+4. How did Koriba respond when you claimed it was immoral to kill the child?  
 
 
 ## Word Count
 
 500-750. Essays shorter than 500 words or longer than 750 words will lose points. 
-
-
-
-
 
 ## Due Date
 Please consult the syllabus and course website for the due date.
