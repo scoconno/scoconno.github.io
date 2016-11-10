@@ -6,7 +6,9 @@ title: The Examined Life
 
 # Phil 140: The Examined Life
 
- 
+## Extra Credit
+
++ [Medical Ethics Panel](/Teaching/Panel.pdf) 
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
