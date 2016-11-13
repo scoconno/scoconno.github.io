@@ -76,4 +76,8 @@ Complete by 3pm on the first day of the week (the date in the brackets).
 
  + **Week 11 (11/14/16).**
 	+ [Gobbets](Gobbets/9), i.e., reading question 9.
-	+ [Essay 7](Essays/8)
+	+ [Essay 8](Essays/8)
+
+ + **Week 12 (11/21/16).**
+	+ [Gobbets](Gobbets/10), i.e., reading question 10.
+	+ [Essay 9](Essays/9)
