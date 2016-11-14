@@ -86,3 +86,12 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Notes 1](Ethics/Handout)
 	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
 	+ Complete [essay 6](Ethics/Essay) in Blackboard by Monday 11/14/2016 @ 12:00pm
+
++ **Week 10 (11/14/2016)**
+	+ [Notes 1](Ethics/Handout)
+	+ Complete quiz 5 in Blackboard by Monday 11/21/2016 @ 12:00pm
+
++ **Week 10 (11/21/2016)**
+	+ [Notes 1](Ethics/Handout)
+	+ [‘A Horseman in the Sky’,](Ethics/Kirinyaga.pdf) Ambrose Pierce
+	+ Complete quiz 6 in Blackboard by Monday 11/28/2016 @ 12:00pm
