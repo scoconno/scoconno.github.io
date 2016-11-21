@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Independent
+title: Project
 ---
 
-# Independent Project 
+## Final Projects
+
+### Special Submission for Final Draft
+
+The final draft of these projects must be submitted through NJCU's Tk20 site. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
 
 
 ### Final Project
@@ -14,8 +18,7 @@ Pick **one** of the follow questions:
 
 1.  Is it permissible to abort a fetus?
 
-2.  Ought a doctor help her terminally ill patient die if the patient
-    requests it?
+2.  Should a doctor help her ill patient die commit suicide?
 
 3.  Should we ever execute people for their crimes?
 
@@ -23,40 +26,33 @@ Pick **one** of the follow questions:
 
 5.  Should prostitution be legal?
 
-6.  To what extent ought we give to charity?
+6.  To what extent should we give to charity? 
 
-7.  May I pirate music?
+7.  Should it be illegal for women to drink and take drugs while pregnant? 
 
-8.  Should recreational drug use be illegal?
+8.  Should recreational drug use be legalized?
 
-9.  Is it permissible to eat meat?
+9.  Should employers be required to hire American residents and permanent residents over undocumented workers?  
 
-10. On whom are we allowed to perform medical trials?
-
-11. Should corporations be considered persons?
-
-12. Should we curb climate change for the sake of future generations?
+10. Should we curb climate change for the sake of future generations?
 
 
 ### Prompt 
 
 
-Applied Ethicists are more concerned with particular, practical cases than with more abstract theoretical questions. They want to know how, if at all, a hospital should distribute donated organs, whether it is permissible to bribe officials in foreign states to do business, etc. The questions listed above are all hot topics in the United States. Your job will be to answer your question as an Applied Ethicist. To do so, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that assignment. Your assignment comes in three parts:  
+Applied ethicists are more concerned with particular, practical cases than with more abstract theoretical questions. They want to know how, if at all, a hospital should distribute donated organs, whether it is permissible to bribe officials in foreign states to do business, etc. The questions listed above are all hot topics in the United States. Your job will be to answer your question as an Applied Ethicist. To do so, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that assignment. Your assignment comes in three parts:  
 
-2.  After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life downsides and benefits to that person, their friends, and their families. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (400–600 words)
+1.  After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life downsides and benefits to that person, their friends, and their families. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (400–600 words)
 
-1.  After researching articles at www.nj.com from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major downsides and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (400–600 words)
+2.  After researching articles at www.nj.com from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major downsides and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (400–600 words)
 
 3.  Given the information that you presented in the first two parts of your paper, state your answer to the question and explain how the information from the first two parts of the paper influenced your answer. (200–400 words)
-
-
-
 
 
 ### Grade Breakdown
 
 
-This paper is worth 20 points towards your final grade. 8 points will be awarded towards the first part of the paper, 8 parts towards the second, and 4 parts towards the third. 
+This paper is worth 25 points towards your final grade. 5 points will be awarded towards the first draft of the paper, 10 points towards the second, and 15 points towards the final draft. 
 
 
 

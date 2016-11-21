@@ -80,18 +80,23 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Notes 1](FreeWill/Handout2)
 	+ ['Please Don’t Tell Me How The Story Ends’,](http://creationdemonstration.blogspot.com/2013/03/please-dont-tell-me-how-story-ends.html) Thomas Davis
 	+ Complete [essay 5](FreeWill/Essay) in Blackboard by Monday 11/7/2016 @ 12:00pm
-
 	
 + **Week 10 (11/7/2016)**
 	+ [Notes 1](Ethics/Handout)
 	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
 	+ Complete [essay 6](Ethics/Essay) in Blackboard by Monday 11/14/2016 @ 12:00pm
 
-+ **Week 10 (11/14/2016)**
-	+ [Notes 1](Ethics/Handout)
++ **Week 11 (11/14/2016)**
+	+ [Notes 1](Ethics/Handout2)
 	+ Complete quiz 5 in Blackboard by Monday 11/21/2016 @ 12:00pm
 
-+ **Week 10 (11/21/2016)**
-	+ [Notes 1](Ethics/Handout)
-	+ [‘A Horseman in the Sky’,](Ethics/Kirinyaga.pdf) Ambrose Pierce
++ **Week 12 (11/21/2016)**
+	+ [Notes 1](Ethics/Handout3)
+	+ [‘A Horseman in the Sky’,](Ethics/Horseman.pdf) Ambrose Pierce
 	+ Complete quiz 6 in Blackboard by Monday 11/28/2016 @ 12:00pm
+
++ **Week 13 (11/28/2016)**
+	+ [Notes 1](Ethics/Handout4)
+	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
+	+ Complete quiz 7 in Blackboard by Monday 12/05/2016 @ 12:00pm
+
