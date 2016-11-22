@@ -16,8 +16,7 @@ The final draft of these projects must be submitted through NJCU's Tk20 site to 
 + 12/12/2016, Presentation day 2
 + 12/16/2016, Final Projects submitted through Tk20. Each student must submit the final project to Tk20. Failure to submit through Tk20 will result in no points for the entire project.
 
-
-### Final Project
+### Topics
 
 This course has a final project instead of a final exam. The project consists in identifying and researching some current moral controversy. 
 
