@@ -100,3 +100,5 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
 	+ Complete quiz 7 in Blackboard by Monday 12/05/2016 @ 12:00pm
 
++ **Week 14 (12/5/2016)**
+	+ Submit group project draft 1 through Blackboard by Wednesday 12/7/2016 @ 12:00pm

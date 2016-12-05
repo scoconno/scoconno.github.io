@@ -12,12 +12,13 @@ title: Instructions
 Complete these tasks in order
 
 + Read ch. 3.5--3.6
++ Read [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
 + Study the [notes](/Teaching/Examined/Ethics/Handout4).  
 
 
 
 ## Assignments
 
-+ Complete the final quiz by Monday 8/22/2016 @ 11:59pm.
++ Complete [essay 7](/Teaching/Examined/Ethics/DQ3) by Monday 12/12/2016 @ 11:59pm.
 
 
