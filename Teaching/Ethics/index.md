@@ -89,3 +89,6 @@ Complete by 3pm on the first day of the week (the date in the brackets).
  + **Week 14 (12/6/16).**
 	+ [Gobbets](Gobbets/12), i.e., reading question 12.
 	+ [Essay 11](Essays/11)
+
+ + **Week 15 (12/12/16).**
+	+ [Essay 12](Essays/12)
