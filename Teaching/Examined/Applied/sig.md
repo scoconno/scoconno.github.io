@@ -1,8 +1,6 @@
 ---
-author:
-- 'Scott O’Connor'
-title:     Signature Assignment
-    The Examined Life (PHIL 140)
+layout: 'Scott O’Connor'
+title:   Signature Assignment 
 ---
 
 Final Projects
