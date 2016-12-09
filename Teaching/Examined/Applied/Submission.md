@@ -17,7 +17,7 @@ title: Submission
 
 + Do not include your name, my name, or the course title in your signature assignment file(s) or filename(s).
 + I will be able to see who you are on Tk20 but the assessment team will not.
-+ Your response/answer should begin after the question/prompt/instructions.
++ Your response should begin after the prompt.
 
 **Step 2:** Upload and Submit Your Assignment
 
