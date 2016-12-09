@@ -2,7 +2,7 @@
 author:
 - Phil 207
 title: Overview
-...
+---
 
 ## Chronology of Major Historical Events 
 
