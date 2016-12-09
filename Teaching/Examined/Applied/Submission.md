@@ -2,6 +2,7 @@
 layout: default
 title: Submission
 ---
+
 ### SUBMITTING YOUR SIGNATURE ASSIGNMENTS
 
 **Step 1:** Create a Signature Assignment File
