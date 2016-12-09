@@ -1,3 +1,9 @@
+---
+layout: default
+title: Citation
+
+---
+
 ### In-text citation rules
 
 
