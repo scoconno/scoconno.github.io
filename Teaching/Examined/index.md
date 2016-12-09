@@ -9,7 +9,7 @@ title: The Examined Life
 ## Final project
 
 + [Final Project](/Teaching/Examined/Applied/Essay) 
-+ [Submission Instructions for Final Draft:](/Teaching/Examined/Applied/Essay/Submission) Submission to the TK20 website is required to earn a final grade in this course.
++ [Submission Instructions for Final Draft:](/Teaching/Examined/Applied/Submission) Submission to the TK20 website is required to earn a final grade in this course.
 
 ## Course Information
 + [Syllabus](Syllabus.pdf)
