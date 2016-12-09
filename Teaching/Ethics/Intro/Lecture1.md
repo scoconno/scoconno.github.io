@@ -1,7 +1,7 @@
 ---
-author:
-- Phil 207
+layout: default
 title: Overview
+
 ---
 
 ## Chronology of Major Historical Events 
