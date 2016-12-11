@@ -12,7 +12,7 @@ title: Instructions
 Complete these tasks in order
 
 + Read ch. 3.5--3.6
-+ Read [‘A Piece of Advice’,](Teaching/Examined/Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
++ Read [‘A Piece of Advice’,](/Teaching/Examined/Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
 + Study the [notes](/Teaching/Examined/Ethics/Handout4).  
 
 
