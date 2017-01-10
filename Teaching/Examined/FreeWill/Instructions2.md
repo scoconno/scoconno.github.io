@@ -17,7 +17,7 @@ Complete these tasks in order
 
 ## Assignments
 
-+ Complete [essay 5](/Teaching/Examined/FreeWill/Essay/) by Monday 11/14/2016 @ 11:59pm.
++ Complete [essay 5](/Teaching/Examined/FreeWill/Essay/) by Monday @ 11:59pm.
 
 
 

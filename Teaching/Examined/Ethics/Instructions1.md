@@ -17,4 +17,4 @@ Complete these tasks in order
 
 ## Assignments
 
-+ Complete the [essay](/Teaching/Examined/Ethics/Essay) by Monday 11/21/2016 @ 11:59pm
++ Complete the [essay](/Teaching/Examined/Ethics/Essay) by Monday @ 11:59pm

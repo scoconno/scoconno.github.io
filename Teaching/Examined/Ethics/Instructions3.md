@@ -19,4 +19,4 @@ Complete these tasks in order
 
 ## Assignments
 
-+ Complete quiz 7 by Monday 12/05/2016 @ 11:59pm.
++ Complete quiz 8 by Monday @ 11:59pm.

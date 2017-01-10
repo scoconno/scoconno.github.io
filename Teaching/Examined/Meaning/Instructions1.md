@@ -18,4 +18,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete quiz 2 on Blackboard by Monday 09/26/2016 @ 11:59pm
++ Complete quiz 2 on Blackboard by Monday @ 11:59pm

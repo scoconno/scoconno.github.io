@@ -18,4 +18,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete [essay 4](/Teaching/Examined/God/SW3) by Monday 10/31/2016 @ 11:59pm.
++ Complete [essay 4](/Teaching/Examined/God/SW3) by Monday @ 11:59pm.

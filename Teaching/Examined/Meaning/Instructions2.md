@@ -18,4 +18,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete [essay 2](/Teaching/Examined/Meaning/SW1) by Monday 10/3/2016 @ 11:59pm. You will find the paper on Blackboard in the folder for week 4.  
++ Complete [essay 2](/Teaching/Examined/Meaning/SW1) by Monday @ 11:59pm.  

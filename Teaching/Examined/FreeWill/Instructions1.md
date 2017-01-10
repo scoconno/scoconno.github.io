@@ -18,4 +18,4 @@ Complete these tasks in order:
 
 ## Assignments
 
-+ Complete Quiz 5 by Monday 11/07/2016 @ 11:59pm.
++ Complete Quiz 5 by Monday @ 11:59pm.

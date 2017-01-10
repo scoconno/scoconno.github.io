@@ -19,6 +19,6 @@ Complete these tasks in order
 
 ## Assignments
 
-+ Complete [essay 7](/Teaching/Examined/Ethics/DQ3) by Monday 12/12/2016 @ 11:59pm.
++ Complete [essay 8](/Teaching/Examined/Ethics/DQ3) by Monday @ 11:59pm.
 
 
