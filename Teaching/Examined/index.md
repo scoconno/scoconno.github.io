@@ -55,7 +55,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Optional reading](Meaning/Confession.pdf)
 	+ Complete [essay 1](Meaning/SW1) by Monday 2/13/2017 @ 12:00pm. 
 		+ You will find the essays in the essays folder in Blackboard. 
-		+ SPlease use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
+		+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
 
 + **Week 5 (2/13/2017)**
 	+ [Notes 1](God/Handout1)
@@ -102,7 +102,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + **Week 14 (4/24/2017)**
 	+ [Notes 1](Ethics/Handout3)
-	+ [Notes 1](Ethics/Handout4)
+	+ [Notes 2](Ethics/Handout4)
 	+ [‘A Horseman in the Sky’,](Ethics/Horseman.pdf) Ambrose Pierce
 	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
 	+ Complete quiz 7 in Blackboard by Monday 5/1/2017 @ 12:00pm
