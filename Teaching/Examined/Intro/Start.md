@@ -31,13 +31,13 @@ You will work through the topics by clicking on 'instructions' and then completi
 You will find a full description on the syllabus, but let me emphasize here again the assignments due for this course. You will find the assignments on Blackboard: 
 
 1. Assignments are due on Monday by 11.59pm.
-2. You must complete 5 of the 7 assigned quizzes. If you complete more than 5, the lowest grades will be dropped. 
-3. You must complete 5 of the 7 assigned essays. If you complete more than 5, the lowest grades will be dropped. 
+2. You must complete 5 of the 8 assigned quizzes. If you complete more than 5, the lowest grades will be dropped. 
+3. You must complete 5 of the 8 assigned essays. If you complete more than 5, the lowest grades will be dropped. 
 
 
-Keep in mind that we must cover 3 credits worth of material in our time together. So, expect to spend about 6--8 hours per week on the readings and assignments. If this work load is too high for you, then I urge to reconsider taking this class. There won't be any opportunities to make up missed assignments and I will not accept late work under any circumstances. 
+Keep in mind that we must cover 3 credits worth of material in our time together. So expect to spend about 6--8 hours per week on the readings and assignments. If this work load is too high for you, then I urge to reconsider taking this class. There won't be any opportunities to make up missed assignments and I will not accept late work under any circumstances. 
 
-Students do sometimes ask to submit work late or for a make-up opportunity. I always decline. I treat my students equally and don't like being asked for special privileges. Instead, I prefer to offer assign more essays and quizzes than are needed to complete the course. If you are unable to do 5 of the 7 assigned quizzes and 5 of the assigned essays due to illness, then you likely should be requesting a medical withdrawal from NJCU for the semester.  
+Students do sometimes ask to submit work late or for a make-up opportunity. I always decline. I treat my students equally and don't like being asked for special privileges. Instead, I prefer to assign more essays and quizzes than are needed to complete the course. If you are unable to do 5 of the 8 assigned quizzes and 5 of the 8 assigned essays due to illness, then you likely should be requesting a medical withdrawal from NJCU for the semester.  
 
 
 ## Technical Help
@@ -49,5 +49,5 @@ I occasionally have online students report that their computer crashes 1 minute 
 
 ## Next Steps 
 
-1. Read the syllabus carefully. Course policies vary by professors, sometimes significantly. I don't allow make-ups, other professors do. You need to understand the policies that govern this course and what is required of you.  
+1. Read the syllabus carefully. Course policies vary by professors, sometimes significantly. I don't allow make-ups, other professors do. You need to understand the policies that govern this course and understand what is required of you.  
 2. Complete Week 1. 
