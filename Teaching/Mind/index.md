@@ -23,6 +23,7 @@ title: Self-Mind
 	+ [Guide to the philosophy of mind](http://consc.net/guide.html)
 	+ [Online papers on consciousness](http://consc.net/online/)
 	+ [Web resources](http://consc.net/resources.html)
++ [Dictionary of Philosophy of Mind](http://philosophy.uwaterloo.ca/MindDict/)
 + [Mind-Body Dualism video](http://www.wi-phi.com/video/mind-body-dualism)
 + [Personal Identity video](http://www.wi-phi.com/video/personal-identity-true-self)
 
@@ -33,4 +34,6 @@ title: Self-Mind
 + [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
 + NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
+## Weeks
 
+http://bostonreview.net/archives/BR30.6/byrne.php
