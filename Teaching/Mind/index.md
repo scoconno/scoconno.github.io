@@ -24,13 +24,12 @@ title: Self-Mind
 	+ [Online papers on consciousness](http://consc.net/online/)
 	+ [Web resources](http://consc.net/resources.html)
 + [Dictionary of Philosophy of Mind](http://philosophy.uwaterloo.ca/MindDict/)
-+ [Mind-Body Dualism video](http://www.wi-phi.com/video/mind-body-dualism)
-+ [Personal Identity video](http://www.wi-phi.com/video/personal-identity-true-self)
+
 
 ## More philosophy? 
 
 + [What you can do with a philosophy major](http://whatcanidowiththismajor.com/major/philosophy/)
-+ [Mid-career median salary for philosphy majors is $81,000](http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html)
++ [Mid-career median salary for philosophy majors is $81,000](http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html)
 + [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
 + NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
