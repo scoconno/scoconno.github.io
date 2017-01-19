@@ -41,4 +41,3 @@ title: Self-Mind
 	+ [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes, optional
 	 
 
-http://bostonreview.net/archives/BR30.6/byrne.php
