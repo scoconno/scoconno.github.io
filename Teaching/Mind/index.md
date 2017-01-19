@@ -35,4 +35,10 @@ title: Self-Mind
 
 ## Weeks
 
++ Week 2 (1/23/17)
+	+ ['A Dialog on Personal Identity and Immortality', The First Night,](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
+	+ [`The Philosophy of Mind',](kim1and2.pdf) chapter 2. I include chapter 1 as well. You will need to purchase this textbook for future readings. 
+	+ [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes, optional
+	 
+
 http://bostonreview.net/archives/BR30.6/byrne.php
