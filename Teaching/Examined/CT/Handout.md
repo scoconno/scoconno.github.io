@@ -22,13 +22,14 @@ Philosophy, then, is concerned with critical thinking, which we will define as f
 
 Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you formulate new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful or psychologically comforting they might be. 
 
-Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are normally intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
+Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
 
 Second, you will be learning how to construct your own good arguments. If you want me or anyone else to accept any of your beliefs, say about taxation or religion or music, you need to provide me reasons for thinking your belief is true. You do that by providing me good arguments for that belief. 
 
-Since philosophy is concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. You will be introduced to some jargon that you need to learn. It will help you characterize argument as well as evaluate them. 
+Since philosophy is concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. You will be introduced to some jargon that you need to learn. It will help you characterize arguments as well as evaluate them. 
 
 This handout proceeds in four rough parts: 
+
 1. The elements of an argument are introduced.
 2. Arguments are distinguished from non-arguments.
 3. The difference between deductive and inductive arguments is introduced.
@@ -45,7 +46,7 @@ What is an argument? (You might find [this video helpful](http://www.wi-phi.com/
 
 : A group of statements in which some of them (**the premises**) are intended to support another of them (**the conclusion**). 
 
-Arguments are embedded in the conversation we have with one another, the various things we read, and the various papers we write. Philosophers try to extract arguments from all the noise to see exactly what is being claimed and what evidence is being provided. They will regularly present the arguments they hear or read about in bullet form: 
+Arguments are embedded in the conversations we have with one another, the various things we read, and the various papers we write. Philosophers try to extract arguments from all this noise to see exactly what is being claimed and what evidence is being provided. They will regularly present the arguments they hear or read about in bullet form: 
 
 + P1: All humans are mortal.
 + P2: Socrates is human. 
@@ -158,7 +159,7 @@ In the following passages, identify those statements which are part of the argum
 > [1] You have already said that you love me and that you can't imagine spending the rest of your life without me. [2] Once, you even tried to propose to me. [3] And now you claim that you need time to think about whether we should be married. [4] Well, everything that you've told me regarding our relationship has been a lie. [5] In some of your letters to a friend you admitted that you were misleading me. [6] You've been telling everyone that we are just friends, not lovers. [7] And worst of all, you've been secretly dating someone else. [8] Why are you doing this? [9] It's all been a farce, and I'm outta here.
 
 
-> [1] A. L. Jones used flawed reasoning in his letter yesterday praising this newspaper's decision to publish announcements of same-sex unions. [2] Mr. Jones asserts that same-sex unions are a fact of life and therefore should be acknowledged by the news media as a legitimate variation on social partner ships. [3] But the news media are not in the business of endorsing or validating lifestyles. [4] They're supposed to report on lifestyles, not bless them. [5] In addition, by validating same-sex unions or any other lifestyle, the media abandon their objectivity and become political partisans-which would destroy whatever respect people have for news outlets. [6] All of this shows that the news media-including this newspaper-should never (explicitly or implicitly) endorse lifestyles by announcing those lifestyles to the world.
+> [1] A. L. Jones used flawed reasoning in his letter yesterday praising this newspaper's decision to publish announcements of same-sex unions. [2] Mr. Jones asserts that same-sex unions are a fact of life and therefore should be acknowledged by the news media as a legitimate variation on social partner ships. [3] But the news media are not in the business of endorsing or validating lifestyles. [4] They're supposed to report on lifestyles, not bless them. [5] In addition, by validating same-sex unions or any other lifestyle, the media abandon their objectivity and become political partisans, which would destroy whatever respect people have for news outlets. [6] All of this shows that the news media, including this newspaper, should never (explicitly or implicitly) endorse lifestyles by announcing those lifestyles to the world.
 
 
 

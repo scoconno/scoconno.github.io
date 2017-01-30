@@ -26,7 +26,7 @@ title: The Examined Life
 
 ## Links for each week
 
-Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. You should consult the syllabus to identify what you must read for each week. The below does not include that information. 
+Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. Consult the syllabus for a full list of what is required for each week.
 
 
 + **Week 1 (1/16/2017)**

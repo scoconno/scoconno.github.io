@@ -33,11 +33,18 @@ title: Self-Mind
 + [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
 + NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
-## Weeks
+## Links for each week
+Please find below links to notes, assignments, readings not in the textbook, and optional videos & readings. Consult the syllabus for a full list of what is required for each week. 
 
-+ Week 2 (1/23/17)
++ **Week 2 (1/23/17)**
 	+ ['A Dialog on Personal Identity and Immortality', The First Night,](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
 	+ [`The Philosophy of Mind',](kim1and2.pdf) chapter 2. I include chapter 1 as well. You will need to purchase this textbook for future readings. 
 	+ [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes, optional
-	 +[Slides](identity.pdf)
+	+ [Slides](identity.pdf)
+	+ Complete quiz 1 in Blackboard by 1/30/17
 
++ **Week 3 (1/30/17)** 
+	+ Reading continued from week 2.
+	+ Complete quiz 2 in Blackboard by 2/6/17
+
++ **Week 4 (2/6/17)**
