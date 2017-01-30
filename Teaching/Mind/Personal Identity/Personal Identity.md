@@ -1,4 +1,4 @@
-## Personal Identity
+Personal Identity
 
 ![image](Riker.jpg)
 

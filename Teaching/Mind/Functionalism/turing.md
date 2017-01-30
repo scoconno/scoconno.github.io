@@ -1,7 +1,5 @@
 ## Turing Test
 
-Discuss:
-========
 
 Is Data sentient?
 
