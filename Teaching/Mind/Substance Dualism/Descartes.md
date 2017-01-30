@@ -1,4 +1,4 @@
-## Rene Descartes (1596-1650)
+Rene Descartes (1596-1650)
 
 
 ### Biography

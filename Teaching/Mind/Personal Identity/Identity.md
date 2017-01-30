@@ -1,4 +1,4 @@
-## Personal Identity
+Personal Identity
 Compare a picture of you taken yesterday to a picture taken of you just after birth. Are the people depicted in the photographs the same person? They certainly seem different. 
 
 - human undergo complete cellular replacement every severn years.  

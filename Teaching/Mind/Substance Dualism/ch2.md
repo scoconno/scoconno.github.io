@@ -1,4 +1,4 @@
-## Mind as Immaterial Substance 
+Mind as Immaterial Substance 
 
 What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worthwhile thinking about why in years gone past soul and mind have been so closely associated. 
 

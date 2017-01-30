@@ -1,4 +1,4 @@
-## Turing Test
+Turing Test
 
 
 Is Data sentient?
