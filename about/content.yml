@@ -80,6 +80,11 @@ invited:
 #  month: May
 #  title:  \enquote{Does Aristotle have our concept of identity?}
 #  place: Ancient Philosophy Work in Progress, NYU, NY
+
+- year: 2017
+  month: March\textdagger
+  title: \enquote{Aristotle's Objection to Pluralism in \emph{Generation and Corruption}\ I}
+  place: First Dublin Graduate Conference in Ancient Philosophy, \emph{``Physis and Psyche in Ancient Philosophy, Causes, Generation, and Change'',} TCD/UCD, Dublin, Ireland
 	
 - year: 2016
   month: May*
@@ -97,17 +102,17 @@ invited:
   place: Eastern division of the American Philosophical Association, Washington, DC
   
 - year: 2015
-  month: October
+  month: October\textdagger
   title: \enquote{The Principles and Elements of Nature in Aristotle's \emph{Physics}\ I}
   place: The Society for Ancient Greek Philosophy, Fordham University, NY
 
 - year: 2015
-  month: April
+  month: April\textdagger
   title: \enquote{The Generation and Destruction of Matter in Aristotle's \emph{Physics}\ I.9}
   place: The Ancient Philosophy Society, Lexington, KY  
 
 - year: 2015
-  month: February
+  month: February\textdagger
   title: \enquote{The Eleatic Challenge in Aristotle's \emph{Physics}\ I.8}
   place: Ancient Philosophy Workshop, UT Austin
   
@@ -117,12 +122,12 @@ invited:
   place: Ancient Philosophy Work in Progress, NYU, NY  
 
 - year: 2014
-  month: October
+  month: October\textdagger
   title: \enquote{Aristotle's Criticism of Plato's First Principles in \emph{Physics}\ I.9}
   place: The Society for Ancient Greek Philosophy, Fordham University, NY
 
 - year: 2014
-  month: June
+  month: June\textdagger
   title:  \enquote{Essence and Persistence in Aristotle}
   place: Aristotle and Aristotelianism Conference, Marquette University, WI
   
@@ -142,7 +147,7 @@ invited:
   place: The College of St. Benedict & Saint John's University, MI
 
 - year: 2011
-  month: June
+  month: June\textdagger
   title: \enquote{The Persisting Simple in Aristotle's \emph{Physics}\ I.7}
   place: Aristotle and Aristotelianism Conference, Marquette University, WI
 
@@ -158,7 +163,7 @@ invited:
   place: Pacific division meeting of the American Philosophical Association, San Francisco
   
 - year: 2010
-  month: April 
+  month: April\textdagger 
   title: \enquote{The Persisting Simple in Aristotle's \emph{Physics}\ I.7}
   place: Ancient Philosophy Graduate Conference, Princeton University, NJ
   
