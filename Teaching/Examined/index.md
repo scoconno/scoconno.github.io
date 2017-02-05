@@ -54,6 +54,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Notes 2](Meaning/Handout3)	
 	+ [Optional reading](Meaning/Confession.pdf)
 	+ Complete [essay 1](Meaning/SW1) by Monday 2/13/2017 @ 12:00pm. 
+		+ Use this [check sheet](/Teaching/Check) before submitting your paper. 
 		+ You will find the essays in the essays folder in Blackboard. 
 		+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
 

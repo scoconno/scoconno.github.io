@@ -16,10 +16,8 @@ Check these boxes before submitting your paper. This is for your benefit only. D
 | My paper has addressed all the tasks listed under 'tasks'. | |  
 | My paper uses the material from the assigned readings, notes, and lectures. | |
 | My paper defends any view that the prompt requests me to defend regardless of whether that is my view.| | 
-| My paper does not merely state my opinion on the topic.| | 
 | I have not either directly or indirectly used material from any source without adequately indicating where I am doing so and citing that source.| |
 | My paper is written in the requested style, e.g., essay, dialog, letter, etc. |  |  
 | My paper contains the required number of words.  |   |
-| I have confirmed the due date on the syllabus. |   |   
 | I have carefully proof read my paper. |  |
 | My paper is in either docx, rtf, or pdf format.|  | 

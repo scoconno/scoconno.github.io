@@ -49,4 +49,7 @@ Please find below links to notes, assignments, readings not in the textbook, and
 
 + **Week 4 (2/6/17)**
 	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The Second Night, J. Perry
-	+ Submit [essay 1](/Teaching/Mind/Personal Identity/Essay) through Blackboard by Monday at 9am. Use the [check sheet](/Teaching/Check) to before submitting the paper. 
+	+ Submit [essay 1](/Teaching/Mind/Personal/Essay) through Blackboard by 2/13/17 at 9am. 
+		+ + Use this [check sheet](/Teaching/Check) before submitting your paper. 
+		+ You will find the essays in the essays folder in Blackboard. 
+		+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
