@@ -1,4 +1,4 @@
-## Psychological Continuity
+Psychological Continuity
 
 
 

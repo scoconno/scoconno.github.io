@@ -37,7 +37,7 @@ title: Self-Mind
 Please find below links to notes, assignments, readings not in the textbook, and optional videos & readings. Consult the syllabus for a full list of what is required for each week. 
 
 + **Week 2 (1/23/17)**
-	+ ['A Dialog on Personal Identity and Immortality', The First Night,](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
+	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The First Night, J. Perry
 	+ [`The Philosophy of Mind',](kim1and2.pdf) chapter 2. I include chapter 1 as well. You will need to purchase this textbook for future readings. 
 	+ [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes, optional
 	+ [Slides](identity.pdf)
@@ -48,3 +48,5 @@ Please find below links to notes, assignments, readings not in the textbook, and
 	+ Complete quiz 2 in Blackboard by 2/6/17
 
 + **Week 4 (2/6/17)**
+	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The Second Night, J. Perry
+	+ Submit [essay 1](/Teaching/Mind/Personal Identity/Essay) through Blackboard by Monday at 9am. Use the [check sheet](/Teaching/Check) to before submitting the paper. 

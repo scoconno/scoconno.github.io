@@ -49,7 +49,7 @@ Please consult the syllabus for the due date.
 Per the policies outlined in the syllabus, late work will not be accepted. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early. 
 
 ### Format
-Please submit the file as a word file.
+Please submit the file as a docx, rtf, or pdf. 
 
 ### Grading
 Please find the rubric and explanation of it [here](/Teaching/Grading/).
@@ -58,25 +58,7 @@ Please find the rubric and explanation of it [here](/Teaching/Grading/).
 Please find links to writing resources [here](/Teaching/Resources/)
 
 
-### Check Sheet
 
-Check these boxes before submitting your paper. This is for your benefit only. You do not submit it to me. 
-
-|         | Yes/No    | 
-| ------------- |:-------------:| 
-| My paper carefully read the prompt.     |  | 
-| My paper has addressed all the tasks listed under 'tasks'. | |  
-| My paper uses the material from the assigned readings, notes, and lectures. | |
-| My paper defends any view that the prompt requests me to regardless of whether that is my view.| | 
-| My paper does not merely state my opinion on the topic.| | 
-| I have not used material from any source without adequately indicating where I am doing so and citing that source.| |
-| I am aware that directly copying material from a source without citing it is plagiarism, regardless of whether I make changes to the original content| |
-| My paper does not contain any un-cited claim that I learned only after reading someone else, even if I do not copy the way it was originally presented. | | 
-| My paper is written in the requested style, e.g., essay, dialog, letter, etc. |  |  
-| My paper contains the required number of words.  |   |
-| I have confirmed the due date on the syllabus. |   |   
-| I have carefully proof read my paper. |  |
-| My paper is in either docx, rtf, or pdf format.|  | 
 
 
 

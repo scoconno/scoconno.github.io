@@ -1,4 +1,4 @@
-## Mind as Immaterial Substance 
+Mind as Immaterial Substance 
 
 What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worthwhile thinking about why in years gone past soul and mind have been so closely associated. 
 
@@ -24,7 +24,7 @@ This allows Descartes to claim that a soul survives bodily death and decay. How 
 
 So just as these chairs could exist without one another, so too a mind and body should exist without one another. 
 
-## Descartes fundamental claims
+## Descartes' fundamental claims
 
 
 1. There are substances of two fundamentally different kinds in the world, mental substances and material substances—or minds and bodies. The essential nature of a mind is to think, be conscious, and engage in other mental activities; the essence of a body is to have spatial extensions (a bulk) and be located in space.
@@ -89,5 +89,37 @@ We are said to know something ``directly'' when the knowledge is not based on ev
 6. Hence, I am not identical with my body.”
 
 “Should the soul of a prince, carrying with it the consciousness of the prince’s past life, enter and inform the body of a cobbler, as soon as deserted by his own soul, everyone sees he would be the same person with the prince, accountable only for the prince’s action.... Had I the same consciousness “that I saw the ark and Noah’s flood, as that I saw an overflowing of the Thames last winter, or as that I write now, I could no more doubt that I who write this now, that saw the Thames overflowed last winter, that viewed the flood at the general deluge, was the same self ... than that I who write this am the same myself now whilst I write ... that I was yesterday”
+
+## Problems with Substance Dualism
+
+Princess Elisabeth of Bohemia against Descartes
+
+Descarets claimed that the mind and body causally influence one another. Our decision to throw the ball causes our limbs to move. The cat biting our finger causes our mind to feel pain. But how does this mental causation work? Think of an easy case of causation, say the movement of a pool ball as it is struck by another. One pool ball brings about an effect in another pool ball by, in part, touching it. Does all causation involve contact? Contact requires surfaces, so if causation involves contact, how could the mind, which doesn't have a surface, touch the body which does have a surface? Descarets explains in his 6th Meditation as follows: 
+
+> The mind is not immediately affected by all parts of the body, but only by the brain, or perhaps just by one small part of the brain.... Every time this part of the brain is in a given state, it presents the same signals to the mind, even though the other parts of the body maybe in a different condition at the time.... For example, when the nerves in the foot are set in motion in a violent and unusual manner, this motion, by way of the spinal cord, reaches the inner parts of the brain, and there gives the mind its signal for having a certain sensation, namely the sensation of a pain as occurring in the foot. This stimulates the mind to do its best to get rid of the cause of the pain, which it takes to be harmful to the foot.
+
+Descartes identifies the pineal gland as the seat of the soul, as that place where the soul and mind directly interact. He thinks there are bodily fluids in the nerves. He thinks that the gland causes the fluid to move in an appropriate way to transmit the required motion to the rest of the body. 
+
+Elisabeth challenged Descartes to explain
+
+> how the mind of a human being, being only a thinking substance, can determine the bodily spirits in producing bodily actions. For it appears that all determination of movement is produced by the pushing of the thing being moved, by the manner in which it is pushed by that which moves it, or else by the qualification and figure of the surface of the latter. Contact is required for the first two conditions, and extension for the third. [But] you entirely exclude the latter from the notion you have of the soul, and the former seems incompatible with an immaterial thing.
+
++ P1. For anything to cause a physical object to move, or cause any change in one, there must be a transfer of momentum from the cause to the physical object.
++ P2. If an object imparts momentum to another, it must have mass and velocity.
++ P3. An unextended mind outside physical space has neither mass nor velocity.
++ C. An unextended mind cannot cause a physical body to move. 
+
+
+
+## Varieties of Dualism
+Recall that Descartes thinks that the mind and body are discrete substances, they are each the subjects of various features and are not themselves features of anything else. On this view, we really do have minds. It is, if you like, a separate thing in itself with its own nature. 
+
+While substance dualism received little current support, a different form of dualism has received support, namely, property dualism has received support. Consider the properties of being a bachelor and being an unmarried man. These are one and the same properties. How about the property of having a shape and having a size? These are obviously distinct properties that co-occur together. Anything which has a shape has a size and vice versa. 
+
+Descartes believed that the mind is something that has properties, but many think that the mind is better characterized as properties had by some substance, in particular, properties had by the physical body we possess. Consider the mental property of 'being in a state of pain', or the activity like 'thinking about Descartes'. These are properties, understood broadly, that are instantiated some substance, e.g., the brain. Whenever these properties occur in the brain, there is some other feature/property that occurs in the brain, i.e., some c-fibre fires when you experience pain. 
+
+What is the relationship between these physical and mental properties? Are they identical just like how the properties bachelor and being a unmarried man are identical? Or are they distinct like the properties shape and size are distinct? 
+
+Many of those who deny that the mind is a real thing still argue that mental properties and physical properties are distinct, that a C-fibre firing and the feeling of pain are numerically distinct (even if they always occur together). Others deny this. They deny that there are any non-physical properties at all. This debate is the mind-body problem. 
 
 

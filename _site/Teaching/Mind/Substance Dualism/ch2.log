@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.8.20)  25 JAN 2017 09:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.8.20)  30 JAN 2017 09:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,7 +641,7 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (hyperref)                setting the option has no effect on input line 41.
 
 Package hyperref Info: Option `colorlinks' set `true' on input line 41.
-No file ch2.aux.
+(./ch2.aux)
 \openout1 = `ch2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
@@ -658,7 +658,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
-(c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 50.
@@ -721,6 +721,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 50.
 LaTeX Info: Redefining \pageref on input line 50.
 LaTeX Info: Redefining \nameref on input line 50.
+
+(./ch2.out) (./ch2.out)
 \@outlinefile=\write3
 \openout3 = `ch2.out'.
 
@@ -734,16 +736,16 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.180 ... does not. In general: To show that X ≠
+l.179 ... does not. In general: To show that X ≠
                                                    Y, all we need
 ? 
-[3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 298.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 298.
+[3] [4] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 400.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 400.
  (./ch2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 298.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 298.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 400.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 400.
 
 
 Package rerunfilecheck Warning: File `ch2.out' has changed.
@@ -751,29 +753,30 @@ Package rerunfilecheck Warning: File `ch2.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `ch2.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7A7DD3450CBBC17A8C16FBD5D83E0834;591.
+(rerunfilecheck)             Before: 9BFCDDC5A707040CE2C63D413BC947B6;219
+(rerunfilecheck)             After:  F8F8D970741258A2091CBC0959234187;762.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 298.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 400.
  ) 
 Here is how much of TeX's memory you used:
- 11159 strings out of 493108
- 158071 string characters out of 6138440
- 258404 words of memory out of 5000000
- 14471 multiletter control sequences out of 15000+600000
- 8287 words of font info for 45 fonts, out of 8000000 for 9000
+ 11187 strings out of 493108
+ 158389 string characters out of 6138440
+ 258862 words of memory out of 5000000
+ 14481 multiletter control sequences out of 15000+600000
+ 8854 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,5n,35p,228b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texl
-ive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2014/t
-exmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2014/texmf-dist/
-fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on ch2.pdf (4 pages, 63957 bytes).
+{c:/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
+live/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2014/
+texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2014/texmf-dist
+/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2014/texmf-dist/fonts/typ
+e1/public/cm-super/sfrm1000.pfb>
+Output written on ch2.pdf (6 pages, 72079 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 42 named destinations out of 1000 (max. 500000)
- 4097 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 45 named destinations out of 1000 (max. 500000)
+ 4121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
