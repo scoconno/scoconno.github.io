@@ -33,8 +33,10 @@ title: Self-Mind
 + [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
 + NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
-## Links for each week
-Please find below links to notes, assignments, readings not in the textbook, and optional videos & readings. Consult the syllabus for a full list of what is required for each week. 
+## Work for each week
+Find below links to notes, assignments, readings not in the textbook, and optional videos & readings. Consult the syllabus for a full list. 
+
+**NB:** Each 'week' outlines what you will be working on for a given week (see syllabus for the full details).  The date after 'week' is our first meeting of the week. Readings for a particular week must be completed by that first meeting. There is also an assignment that you will work on during the week. The date indicates when it is due. Quizzes are both forward and backward looking. For instance, the quiz mentioned under 'week 5' will examine some of the material discussed during week 5 as well as some of the reading for week 6. Please ask if you have any questions. 
 
 + **Week 2 (1/23/17)**
 	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The First Night, J. Perry
@@ -53,3 +55,16 @@ Please find below links to notes, assignments, readings not in the textbook, and
 		+ Use this [check sheet](/Teaching/Check) before submitting your paper. 
 		+ You will find the essays in the essays folder in Blackboard. 
 		+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
+
++ **Week 5 (2/13/17)**
+	+ Textbook, ch.3
+	+ Complete quiz 3 in Blackboard by 2/20/17. 
+		+ Quiz 3 examines ch.3 (the reading for both weeks 5 & 6)
+
++ **Week 6 (2/20/17)**
+	+ No class on Monday.
+	+ Textbook, ch.3
+	+ [Extra Credit Opportunity:](/Teaching/Drones.pdf) 3 points towards your final grade. Write a brief report about *both* talks. Submit your report through Blackboard. You will find it under assignments. 
+	+ Complete quiz 4 in Blackboard by 2/27/17. 
+		+ Quiz 4 examines ch.3 and ch.4 (the reading for both weeks 6 & 7)
+
