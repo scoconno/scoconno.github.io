@@ -58,13 +58,15 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 + **Week 5 (2/13/17)**
 	+ Textbook, ch.3
-	+ Complete quiz 3 in Blackboard by 2/20/17. 
-		+ Quiz 3 examines ch.3 (the reading for both weeks 5 & 6)
 
 + **Week 6 (2/20/17)**
 	+ No class on Monday.
 	+ Textbook, ch.3
-	+ [Extra Credit Opportunity:](/Teaching/Drones.pdf) 3 points towards your final grade. Write a brief report about *both* talks. Submit your report through Blackboard. You will find it under assignments. 
 	+ Complete quiz 4 in Blackboard by 2/27/17. 
 		+ Quiz 4 examines ch.3 and ch.4 (the reading for both weeks 6 & 7)
+	 [Extra Credit](/Teaching/Drones.pdf)
+		+ Write a brief report on both two talks. Your report must cover both talks. For each talk, write one paragraph  summarizing the main points and one short paragraph about your view of the material. 
+		+ 3 points. Credit is awarded for completing both talks.
+		+ Submit the report through Blackboard under assignments. 
+	
 

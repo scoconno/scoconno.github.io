@@ -67,6 +67,10 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + **Week 6 (2/20/2017)**
 	+ [Notes 1](God/Handout2)
 	+ Complete quiz 3 in Blackboard by Monday 2/27/2017 @ 12:00pm  
+	+ [Extra Credit](/Teaching/Drones.pdf)
+		+ Write a brief report on both two talks. Your report must cover both talks. For each talk, write one paragraph  summarizing the main points and one short paragraph about your view of the material. 
+		+ 3 points. Credit is awarded for completing both talks.
+		+ Submit the report through Blackboard under essays.  
 
 + **Week 7 (2/27/2017)**
 	+ [Notes 1](God/Handout3)
