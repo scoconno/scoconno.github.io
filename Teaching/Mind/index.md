@@ -58,6 +58,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 + **Week 5 (2/13/17)**
 	+ Textbook, ch.3
+	+ No assignment for 2/20/17
 
 + **Week 6 (2/20/17)**
 	+ No class on Monday.
