@@ -19,6 +19,12 @@ title: Self-Mind
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
+|         |  Withdrawal Dates   | 
+| :-------------: | ------------- | 
+| February 21 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
+| April 1  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
+
+
 ## Philosophy of Mind
 + [David Chalmers](http://consc.net/chalmers/) keeps an exhaustive website about online resources for the philosophical study of mind. Some salient pages from his website: 
 	+ [Guide to the philosophy of mind](http://consc.net/guide.html)
