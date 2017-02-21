@@ -1,4 +1,4 @@
-## Behaviorism
+Behaviorism
 
 Statement of the view. 
 

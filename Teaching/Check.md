@@ -12,7 +12,7 @@ Check these boxes before submitting your paper. This is for your benefit only. D
 | ------------- |:-------------:| 
 | I understand that my paper will be graded according to a [rubric](/Teaching/Grading/LongRubric.pdf), which I have read and understood.| | 
 | I am not submitting my paper late and I have read the policies about late submissions and make-ups on the syllabus. | |
-| My paper demonstrate a clear understanding of the prompt.     |  | 
+| My paper demonstrates a clear understanding of the prompt.     |  | 
 | My paper has addressed all the tasks listed under 'tasks'. | |  
 | My paper uses the material from the assigned readings, notes, and lectures. | |
 | My paper defends any view that the prompt requests me to defend regardless of whether that is my view.| | 
