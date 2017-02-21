@@ -14,6 +14,7 @@ title: Self-Mind
 + [Resources](/Teaching/Resources/)
 + [Contact information](/Contact)
 + [Office hours](/Contact/Office)
++ [Essay check list](/Teaching/Check)
 + [Blackboard](http://blackboard.njcu.edu) 
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
@@ -33,7 +34,7 @@ title: Self-Mind
 + [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
 + NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
-## Work for each week
+## What we are doing each week
 Find below links to notes, assignments, readings not in the textbook, and optional videos & readings. Consult the syllabus for a full list. 
 
 **NB:** Each 'week' outlines what you will be working on for a given week (see syllabus for the full details).  The date after 'week' is our first meeting of the week. Readings for a particular week must be completed by that first meeting. There is also an assignment that you will work on during the week. The date indicates when it is due. Quizzes are both forward and backward looking. For instance, the quiz mentioned under 'week 5' will examine some of the material discussed during week 5 as well as some of the reading for week 6. Please ask if you have any questions. 
@@ -63,11 +64,18 @@ Find below links to notes, assignments, readings not in the textbook, and option
 + **Week 6 (2/20/17)**
 	+ No class on Monday.
 	+ Textbook, ch.3
-	+ Complete quiz 4 in Blackboard by 2/27/17. 
-		+ Quiz 4 examines ch.3 and ch.4 (the reading for both weeks 6 & 7)
+	+ Complete quiz 3 in Blackboard by 2/27/17. 
+		+ Quiz 4 examines the reading for both weeks 6 & 7.
 	 [Extra Credit](/Teaching/Drones.pdf)
 		+ Write a brief report on both two talks. Your report must cover both talks. For each talk, write one paragraph  summarizing the main points and one short paragraph about your view of the material. 
 		+ 3 points. Credit is awarded for completing both talks.
 		+ Submit the report through Blackboard under assignments. 
 	
++ **Week 7 (2/27/17)**
+	+ Textbook, ch.4
+	+ ['They're Made Out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson
+	+ Complete essay 2 in Blackboard by 3/6/17
+		+ [Essay check list](/Teaching/Check)
+		
++ **Spring Break (3/6/17)** *Relax and recharge*
 

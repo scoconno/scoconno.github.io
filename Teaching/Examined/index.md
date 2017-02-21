@@ -10,6 +10,7 @@ title: The Examined Life
 ## Course Information
 + [Syllabus](Syllabus.pdf)
 + [Grading information](/Teaching/Grading/)
++ [Essay check list](/Teaching/Check)
 + [Resources](/Teaching/Resources/)
 + [Contact information](/Contact)
 + [Office hours](/Contact/Office)
