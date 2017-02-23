@@ -71,8 +71,8 @@ Find below links to notes, assignments, readings not in the textbook, and option
 	+ No class on Monday.
 	+ Textbook, ch.3
 	+ Complete quiz 3 in Blackboard by 2/27/17. 
-		+ Quiz 4 examines the reading for both weeks 6 & 7.
-	 [Extra Credit](/Teaching/Drones.pdf)
+		+ Quiz 3 examines the reading for both weeks 6 & 7.
+	+ [Extra Credit](/Teaching/Drones.pdf)
 		+ Write a brief report on both two talks. Your report must cover both talks. For each talk, write one paragraph  summarizing the main points and one short paragraph about your view of the material. 
 		+ 3 points. Credit is awarded for completing both talks.
 		+ Submit the report through Blackboard under assignments. 
@@ -80,7 +80,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 + **Week 7 (2/27/17)**
 	+ Textbook, ch.4
 	+ ['They're Made Out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson
-	+ Complete essay 2 in Blackboard by 3/6/17
+	+ Complete [essay 2](/Behaviorism/Essay in Blackboard by 3/6/17
 		+ [Essay check list](/Teaching/Check)
 		
 + **Spring Break (3/6/17)** *Relax and recharge*
