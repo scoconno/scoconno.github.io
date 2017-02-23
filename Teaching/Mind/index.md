@@ -80,7 +80,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 + **Week 7 (2/27/17)**
 	+ Textbook, ch.4
 	+ ['They're Made Out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson
-	+ Complete [essay 2](/Behaviorism/Essay in Blackboard by 3/6/17
+	+ Complete [essay 2](/Behaviorism/Essay) in Blackboard by 3/6/17
 		+ [Essay check list](/Teaching/Check)
 		
 + **Spring Break (3/6/17)** *Relax and recharge*
