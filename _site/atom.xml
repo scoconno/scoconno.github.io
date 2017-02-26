@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Scott O'Connor</title>
- <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
- <link href="http://hyde.getpoole.com/"/>
- <updated>2017-02-26T17:34:37-05:00</updated>
- <id>http://hyde.getpoole.com</id>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2017-02-26T18:05:40-05:00</updated>
+ <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
-   <email></email>
+   <email>markdotto@gmail.com</email>
  </author>
 
  
