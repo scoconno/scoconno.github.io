@@ -1,5 +1,5 @@
 ---
-layout: pagae
+layout: page
 title: NJCU Instructors
 ---
 
