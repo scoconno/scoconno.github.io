@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Student Resources
 
 ---
 
@@ -38,11 +38,11 @@ title: Resources
 
 ### Study Resources
 
-Productive study requires focus. That's not easy. If you are like me, you get distracted by email, notifications, news stories, etc. I have had success using an app called 'Freedom'. I use it to block my access to specific sites and apps, or, at times, the entire internet. I either block a period of time or set a recurring schedule. I find one hour blocks to be very effective.  
+Productive study requires focus. That's not easy. If you are like me, you get distracted by email, notifications, news stories, etc. I have had success using an app called 'Freedom'. I use it to block my access to specific sites and apps, or, at times, the entire internet.  
 
 + Try freedom [here](https://freedom.refersion.com/c/8f6a6)
 
-I also have success using the pomodoro technique. A 'pom' is 25 minutes of dedicated work. Anyone can avoid distraction for 25 minutes. If the phone rings, I ignore it. If I get thirsty, I wait until the pom finishes. A pom is followed by  a five minute break. Four poms are followed by a one hour break.  Instead of trying to complete a specific number of tasks a day, I attempt to complete a specific number of poms a day. By following this technique, I quickly came to realize how much can be done in 25 minutes. Even if you have work or personal commitments, you'll likely have time for one pom. There are plenty of free pomodoro apps that make it easy to time your work. 
+I also have success using the pomodoro technique. A 'pom' is 25 minutes of dedicated work. Anyone can avoid distraction for 25 minutes. If the phone rings, I ignore it. If I get thirsty, I wait until the pom finishes. A pom is followed by  a five minute break. Four poms are followed by a one hour break.  Instead of trying to complete a specific number of tasks a day, I attempt to complete a specific number of poms a day. There are plenty of free pomodoro apps that make it easy to time your work. 
 
 + Learn more about the pomodoro technique [here](http://en.wikipedia.org/wiki/Pomodoro_Technique) 
 

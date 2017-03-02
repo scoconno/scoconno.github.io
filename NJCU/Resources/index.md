@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Instructor Resources
+layout: pagae
+title: NJCU Instructors
 ---
 
 ## NJCU Philosophy/Religion Instructor Resources
