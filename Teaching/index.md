@@ -4,10 +4,10 @@ title: Teaching
 
 --- 
 
-### Recent & Upcoming Courses
+## Recent & Upcoming Courses
 
 
-#### Spring 2018, tentative, no times scheduled
+### Spring 2018, tentative, no times scheduled
 
 + Phil 236: Self: Mind, online
 + Phil 236: Self: Mind, in-person
@@ -15,30 +15,24 @@ title: Teaching
 + Honors: A Survey of Ancient Philosophy (with trip to Greece)
 
 
-#### Fall 2017
+### Fall 2017
 
 + Phil 205: Metaphysics, M & W @ 4:00pm
 + Phil 236: Self: Mind, M & W @ 9:55am
 + Phil 236: Self: Mind, M & W @ 12:45pm
 + Phil 140: The Examined Life, R @ 4:00pm
 
-#### Summer II 2017
+### Summer II 2017
 
 + Phil 236: Self: Mind, online
 
 
-#### Spring 2017
+### Spring 2017
 
 + Phil 236: Self: Mind, M & W @ 9:55am
 + Phil 140: The Examined Life, M & W @ 12:45pm
 + Phil 101: Persons & Problems, online
 
-
-#### Fall 2016
-
-+ Phil 207: Ethics: Friendship, Happiness, and the Good Life, M & W @ 4pm
-+ Phil 140: The Examined Life, M & W @ 12:45pm
-+ Phil 101: Persons & Problems, online
 
 
 ### Regularly Offered
