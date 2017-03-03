@@ -24,7 +24,7 @@ Causal determinism:
 
 Consider a rock falling down a side of a mountain on Mars this morning. That rock was set in motion by some preceding event, perhaps a rover hit and dislodged it. Causal determinism says that the entire state of the universe this morning, including that rock falling down the mountain, was completely determined by the state of the universe at any time before this morning plus the laws governing motion, gravity, etc. This might seem far-fetched. But that's exactly what our scientific laws are; they determine how things will be in the future given how things are in the past. Suppose, then, there was a God like scientist. By knowing the state of the universe 1000 years ago plus all the rules governing our universe, our God-like scientist would know for certain that the rock was going to fall this morning. 
 
-The problem is that Causal determinism seems to jar with a fairly ordinary sense of free-will. 
+The problem is that Causal Determinism seems to jar with a fairly ordinary sense of free-will. 
 
 Free Will:
 : An agent, S, freely chooses to do F at time *t1* if and only if it was S's power at time *t1* to bring either F or not F about. 
@@ -38,7 +38,7 @@ Suppose Mike Tyson force feeds me some cake. No-one would claim that I ate that 
 3. Therefore, if determinism is true, no one acts of her own free will. 
 
 
-The key premise is 2. Recall that Causal Determinism says that states of the universe, including what you are doing at any particular time, are completely determined by how the universe was in the past, even the far far past, plus the laws of nature. If that's true, then my eating the cake was causally determined, it is already set in stone. In that case, I had no power to not eat the cake. Causal Determinism constrains my actions as much as Mike Tyson can constrain my actions. 
+The key premise is 2. Recall that Causal Determinism says that states of the universe, including what you are doing at any particular time, are completely determined by how the universe was in the past, even the far far past, plus the laws of nature. If that's true, then my eating the cake was causally determined, it is already set in stone. In that case, I had no power to not eat the cake. Causal Determinism constrains my actions as much as Mike Tyson constrains my cake-eating. 
 
 Philosophers have been concerned with determining, first, whether Causal Determinism is really true, and, second, with determining whether free-will really is incompatible with Causal Determinism. There are four main positions: 
 
@@ -50,41 +50,7 @@ Philosophers have been concerned with determining, first, whether Causal Determi
 
 
 
-## Libertarianism
 
-Libertarians try rescue free will by rejecting Causal Determinism. They are committed to the following 4 claims: 
-
-1.  Free Will & Causal Determinism are incompatible. 
-2.  Free Will requires that we have the power to *choose* between alternative possibilities...(emphasis on freedom of will and not merely of action)
-3.  Causal Determinism is false.
-4.  We sometimes act freely. 
-
-The key claim is, of course, 3. Libertarians have argued for it in two very different ways. The first argues that humans are not purely physical creatures and that Causal Determinism applies only to purely physical creature. The second argues that proper attention to physics shows that Causal Determinism is false. 
-
-
-### Option 1-Dualism
-
-1. The mind/soul/will is not reducible to anything physical.
-2. The mind/soul/will is at least partially the cause of some of our actions. 
-3. Thus, some of our actions have non-physical causes. 
-4. Thus, some of our actions are not causally determined. 
-
-**Problem with 1:** How could a non-physical being be the cause of something physical? 
-
-For a detailed discussion of dualism, see ch.4 on the relationship between mind and body.  
-
-
-### Option 2-Physicalism
-
-+ Proper attention to physics shows that Causal Determinism is false. 
-
-Classical Physics: exact, simultaneous values can be assigned to all physical quantities, e.g., the position and momentum of a particle. 
-
-Quantum Physics: no exact, simultaneous values can be assigned to all physical quantities, e.g., no exact value can be assigned to both the position and momentum of each particle: the more precisely the position (momentum) of a particle is given, the less precisely can one say what its momentum (position) is. 
-
-Causal Determinism seems to require Classical Physics, which says that  the state of the universe is determined by the fixed state of the universe at some previous time plus the law of nature. But Quantum Physics tells us that the state of universe at each time is not totally fixed!!! 
-
-**Problem:** We are not sub-atomic particles. How does the failure of Causal Determinism at the microscopic level, show that Causal Determinism is false at the macroscopic level?
 
 
 
