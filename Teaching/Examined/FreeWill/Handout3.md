@@ -50,43 +50,6 @@ The compatibilist is committed to the claim that we have character traits that a
 
 
 
-## Objections
-
-Here are two puzzling features of the compatibilist's view. I'll raise a stronger objection below. 
-
-1. Note the distinction between freely *acting* a certain way and freely *choosing* to act a certain way. Compatibilists are claiming you act freely when your actions arise from your character. You do not freely choose to act that way. But can your actions be free if you do not freely choose them? 
-
-2. Since the compatibilist accepts causal determinism, they accept that your character is determined by the past. Your character was shaped by preceding causes. This character causes you to behave in certain way. If your character is determined by circumstances outside your control, are the actions that arise from your character free? 
-
-## Situationism
-
-The compatibilist is committed to the claim that we have character traits that are robust, stable, and integrated with one another. But there is strong evidence that there are no such traits at all. 
-
-Psychologists have been concerned to decide when the features of the situation we are in rather than our character traits cause our behavior. Some have argued that all our behavior is caused by external factors. On this view, there are no character traits whatsoever: 
-
-
-> "... modern experimental psychology has discovered that circumstance has surprisingly more to do with how people behave than traditional images of character and virtue allow (John Doris 2002, ix)."
-
-Gilbert Harman expresses this idea as follows:
-
-> In trying to characterize and explain a distinctive action, ordinary thinking tends to hypothesize a corresponding distinctive characteristic of the agent and tends to overlook the relevant details of the agent's perceived situation.... Ordinary attributions of character traits to people are often deeply misguided and it may even be the case that there... [are] no ordinary traits of the sort people think there are (Harman 1999, 315f).
-
-
-The strongest version of the view is called Situationism, which makes three central claims:
-
-1. Non-robustness claim: character traits are not robust. They are not consistent across a wide spectrum of trait-relevant situations. 
-2. Consistency claim: while a person's behavior may be stable over time, this is due to the consistency of situation specific traits rather than robust traits, e.g., students might tell the truth to friends, but not teacher. 
-3. Fragmentation claim: a person's character traits do not have the evaluative integrity suggested by the integrity claim. There may be considerable disunity in a person's character among her situation-specific character traits.
-
-
-There is empirical evidence, the situationist claims, for each of their claims: 
-
-+ The By-stander effect shows many traits are not stable. Find a short video about that effect [here](https://www.youtube.com/watch?v=OSsPfbup0ac&spfreload=1)
-+ The famous experiments by Stanley Milgram showed that terrible behavior seems caused by circumstance rather than terrible characters. Find a short video about one such experiment [here.](https://www.youtube.com/watch?v=y6GxIuljT3w)
-+ Hugh Hartshorne and M. A. May's study of the trait of honesty among school children found no cross-situational correlation. A child may be consistently honest with his friends, but not with his parents or teachers. From this and other studies, Hartshorne and May concluded that character traits are not robust but rather "specific functions of life situations" (Hartshorne and May 1928, 379f). 
-
-
-Other studies further question the integrity claim. In one experiment persons who found a dime in a phone booth were more likely to help someone who dropped some papers than were those who did not find a dime. Another experiment involved seminary students who agreed to give a talk on the importance of helping those in need. On the way to the building where their talks were to be given, they encountered a confederate slumped over and groaning. Those who were told they were already late were much less likely to help than those who were told they had time to spare. These experiments are taken to show that minor factors without moral significance (finding a dime, being in a hurry) are strongly correlated with people's helping behavior.
 
 
 
