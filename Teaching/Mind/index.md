@@ -45,43 +45,93 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 **NB:** Each 'week' outlines what you will be working on for a given week (see syllabus for the full details).  The date after 'week' is our first meeting of the week. Readings for a particular week must be completed by that first meeting. There is also an assignment that you will work on during the week. The date indicates when it is due. Quizzes are both forward and backward looking. For instance, the quiz mentioned under 'week 5' will examine some of the material discussed during week 5 as well as some of the reading for week 6. Please ask if you have any questions. 
 
-+ **Week 2 (1/23/17)**
+###Week 2 (1/23/17)###
+
++ Reading
 	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The First Night, J. Perry
 	+ [`The Philosophy of Mind',](kim1and2.pdf) chapter 2. I include chapter 1 as well. You will need to purchase this textbook for future readings. 
 	+ [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes, optional
++ Handouts
 	+ [Slides](identity.pdf)
++ Videos	
+	+ [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
++ Assignments
 	+ Complete quiz 1 in Blackboard by 1/30/17
 
-+ **Week 3 (1/30/17)** 
+***
+
+###Week 3 (1/30/17)###
+
++ Reading
 	+ Reading continued from week 2.
++ Assignments
 	+ Complete quiz 2 in Blackboard by 2/6/17
 
-+ **Week 4 (2/6/17)**
+***
+
+###Week 4 (2/6/17)###
+
++ Reading
 	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The Second Night, J. Perry
++ Assignments
 	+ Submit [essay 1](/Teaching/Mind/Personal/Essay) through Blackboard by 2/13/17 at 9am. 
 		+ Use this [check sheet](/Teaching/Check) before submitting your paper. 
-		+ You will find the essays in the essays folder in Blackboard. 
 		+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
 
-+ **Week 5 (2/13/17)**
+***
+
+###Week 5 (2/13/17)###
++ Reading
 	+ Textbook, ch.3
++ Videos
+	+ [The Hard Problem of Consciousness,](http://serious-science.org/the-hard-problem-of-consciousness-6131) David Chalmers
++ Assignments
 	+ No assignment for 2/20/17
 
-+ **Week 6 (2/20/17)**
-	+ No class on Monday.
+***
+
+
+###Week 6 (2/20/17)###
+
++ No class on Monday.
++ Reading
 	+ Textbook, ch.3
-	+ Complete quiz 3 in Blackboard by 2/27/17. 
-		+ Quiz 3 examines the reading for both weeks 6 & 7.
-	+ [Extra Credit](/Teaching/Drones.pdf)
-		+ Write a brief report on both two talks. Your report must cover both talks. For each talk, write one paragraph  summarizing the main points and one short paragraph about your view of the material. 
++ Assignments	
+	+ Complete quiz 3 in Blackboard by 2/27/17. Quiz 3 examines the reading for both weeks 6 & 7.
+	+ [Extra Credit:](/Teaching/Drones.pdf) Write a brief report on **both** talks. For each talk, write one paragraph  summarizing the main points and one short paragraph about your view of the material. 
 		+ 3 points. Credit is awarded for completing both talks.
 		+ Submit the report through Blackboard under assignments. 
+
+***
 	
-+ **Week 7 (2/27/17)**
+###Week 7 (2/27/17)###
+
++ Reading	
 	+ Textbook, ch.4
 	+ ['They're Made Out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson
++ Assignments
 	+ Complete [essay 2](Behaviorism/Essay) in Blackboard by 3/6/17
 		+ [Essay check list](/Teaching/Check)
+***
 		
-+ **Spring Break (3/6/17)** *Relax and recharge*
+###Spring Break (3/6/17)###
+*Relax and recharge*
 
+***
+
+###Week 8 (3/13/17)###
+
++ Reading
+	+ Textbook, ch.5
+	+ ['Computing Machinery and Intelligence',](Functionalism/turing.pdf) A.M.Turing
++ Videos	 
+	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
+	+ [The Imitation Game,](http://theimitationgamemovie.com) optional movie about Turing. Available online on Amazon and elsewhere. 
+
+***
+
+Week TBD
+
++ [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
++ [Block on consciousness](https://www.youtube.com/watch?v=HzdrmvaipZ4)
+	+ [Block on the mind-body problem](https://www.youtube.com/watch?v=351RiTHFQtQ)

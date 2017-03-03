@@ -45,6 +45,11 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + **Week 2 (1/23/2017)**
 	+ [Notes](CT/Handout)
 	+ [Answer key](CT/Answers) 
+	+ Videos
+		+ [Truth & Validity](http://www.wi-phi.com/video/truth-and-validity)
+		+ [Deductive Argument](http://www.wi-phi.com/video/deductive-arguments)
+		+ [Validity](http://www.wi-phi.com/video/validity)
+		+ [Soundness](http://www.wi-phi.com/video/soundness)
 	+ [Optional videos](http://www.wi-phi.com/videos/Critical-Thinking?page=1)
 	+ Complete quiz 1 in Blackboard by Monday 1/30/2017 @ 12:00pm. 
 		+ You will find the quizzes in the quizzes folder on Blackboard.
@@ -55,6 +60,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Notes](Meaning/Handout)
 	+ [Optional reading](Meaning/Confession.pdf)
 	+ Complete quiz 2 in Blackboard by Monday 2/6/2017 @ 12:00pm. 
+	+ [Meaning of Life Video](https://www.youtube.com/watch?v=Ebt0X5ybm9Y&list=PLHSC9mjpRe4rGkvRaVAfkZ-rIrkHtfGVP)
+	+ [Susan Wolf on the Meaning of Life](https://www.youtube.com/watch?v=8CfvMaaTp6I), from approx. 1:33
 	
 + **Week 4 (2/6/2017)**
 	+ [Notes 1](Meaning/Handout2)
@@ -86,6 +93,10 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + **Week 8 (3/13/2017)**
 	+ [Notes 1](FreeWill/Handout1)
+	+ [Free-will video](http://www.wi-phi.com/video/problem-free-will)
+	+ [Strawson on the mysteries of free-will](https://www.youtube.com/watch?v=KV5_bHwaUBM&index=8&list=PLMDgR9XqmpVQleFnGdgRZf6RMdqoFrBEu)
+	+ [The Libet Experiments](https://www.youtube.com/watch?v=OjCt-L0Ph5o)
+	+ [Free-will & Neuroscience](https://www.youtube.com/watch?v=rCM5BFU01YU)
 	+ Complete quiz 4 in Blackboard by Monday 3/20/2017 @ 12:00pm
 	
 + **Week 9 (3/20/2017)**
