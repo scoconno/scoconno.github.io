@@ -170,7 +170,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 	+ Textbook, ch.7
 	+ ['Mental Causation',](Yablo.pdf) Sections 1-4,7-8, S.Yablo
 + Assignments
-	+ Complete [essay 3](Functionalism/Essay) and submit through Blackboard by 4/10/17
+	+ Complete [essay 4](Functionalism/Essay) and submit through Blackboard by 4/10/17
 		+ [Essay check list](/Teaching/Check)
 
 ***
