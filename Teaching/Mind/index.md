@@ -45,7 +45,10 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 **NB:** Each 'week' outlines what you will be working on for a given week (see syllabus for the full details).  The date after 'week' is our first meeting of the week. Readings for a particular week must be completed by that first meeting. There is also an assignment that you will work on during the week. The date indicates when it is due. Quizzes are both forward and backward looking. For instance, the quiz mentioned under 'week 5' will examine some of the material discussed during week 5 as well as some of the reading for week 6. Please ask if you have any questions. 
 
-**Week 2 (1/23/17)**
+
+
+
+**Week 2 (1/23/17):** *Personal Identity*
 
 + Reading
 	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The First Night, J. Perry
@@ -60,7 +63,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 
-**Week 3 (1/30/17)**
+**Week 3 (1/30/17):** *Dualism*
 
 + Reading
 	+ Reading continued from week 2.
@@ -69,7 +72,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 
-**Week 4 (2/6/17)**
+**Week 4 (2/6/17):** *Psychological Continuity*
 
 + Reading
 	+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) The Second Night, J. Perry
@@ -80,7 +83,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 
-**Week 5 (2/13/17)**
+**Week 5 (2/13/17):** *Behaviorism*
 + Reading
 	+ Textbook, ch.3
 + Videos
@@ -91,7 +94,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 ***
 
 
-**Week 6 (2/20/17)**
+**Week 6 (2/20/17)** *Continued*
 
 + No class on Monday.
 + Reading
@@ -104,7 +107,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 	
-**Week 7 (2/27/17)**
+**Week 7 (2/27/17)** *Mind-Brain Identity Theory*
 
 + Reading	
 	+ Textbook, ch.4
@@ -119,14 +122,40 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 
-**Week 8 (3/13/17)**
+**Week 8 (3/13/17)** *Functionalism & AI*
 
 + Reading
 	+ Textbook, ch.5
 	+ ['Computing Machinery and Intelligence',](Functionalism/turing.pdf) A.M.Turing
 + Videos	 
-	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
 	+ [The Imitation Game,](http://theimitationgamemovie.com) optional movie about Turing. Available online on Amazon and elsewhere. 
+	+ [Star Trek: The Measure of a Man](http://www.imdb.com/title/tt0708807/) 
++ Assignments
+	+ Complete quiz 4 in Blackboard by 3/20/17
+***
+
+**Week 9 (3/20/17):** *Problems with Functionalism*
+
++ Reading
+	+ Textbook, ch.5
+	+ ['Minds, Brains, and Programs',](Searle) J. Searle	+ ['Troubles with Functionalism',](Block) N.Block (optional)
+	+ ['Is the Brain's Mind a Computer Program',](SearleBrain.pdf) J. Searle
++ Videos
+	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
+
+
+***
+
+**Week 10 (3/27/17)** *Mental Causation*
+
++ Reading
+	+ Textbook, ch.7
+
+***
+
+**Week 11 (4/3/17):** Continued 
+
+**No class on Monday**
 
 ***
 
