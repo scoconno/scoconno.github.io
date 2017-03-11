@@ -143,6 +143,10 @@ Find below links to notes, assignments, readings not in the textbook, and option
 	+ ['Is the Brain's Mind a Computer Program',](SearleBrain.pdf) J. Searle
 + Videos
 	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
++ Assignments
+	+ Complete [essay 3](Functionalism/Essay) and submit it through Blackboard by 3/27/17
+		+ [Essay check list](/Teaching/Check)
+
 
 
 ***
@@ -151,12 +155,23 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 + Reading
 	+ Textbook, ch.7
+	+ ['Mental Causation',](Yablo.pdf) Sections 1-4,7-8, S.Yablo
++ Assignments
+	+ Complete quiz 5 in Blackboard by 4/3/17
+
 
 ***
 
 **Week 11 (4/3/17):** Continued 
 
 **No class on Monday**
+
++ Reading
+	+ Textbook, ch.7
+	+ ['Mental Causation',](Yablo.pdf) Sections 1-4,7-8, S.Yablo
++ Assignments
+	+ Complete [essay 3](Functionalism/Essay) and submit through Blackboard by 4/10/17
+		+ [Essay check list](/Teaching/Check)
 
 ***
 
