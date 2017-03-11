@@ -94,7 +94,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 ***
 
 
-**Week 6 (2/20/17)** *Continued*
+**Week 6 (2/20/17):** *Continued*
 
 + No class on Monday.
 + Reading
@@ -107,7 +107,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 	
-**Week 7 (2/27/17)** *Mind-Brain Identity Theory*
+**Week 7 (2/27/17):** *Mind-Brain Identity Theory*
 
 + Reading	
 	+ Textbook, ch.4
@@ -122,7 +122,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 ***
 
-**Week 8 (3/13/17)** *Functionalism & AI*
+**Week 8 (3/13/17):** *Functionalism & AI*
 
 + Reading
 	+ Textbook, ch.5
@@ -132,6 +132,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 	+ [Star Trek: The Measure of a Man](http://www.imdb.com/title/tt0708807/) 
 + Assignments
 	+ Complete quiz 4 in Blackboard by 3/20/17
+
 ***
 
 **Week 9 (3/20/17):** *Problems with Functionalism*
