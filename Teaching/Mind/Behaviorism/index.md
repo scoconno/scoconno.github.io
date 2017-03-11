@@ -1,4 +1,10 @@
-Behaviorism
+---
+layout: default
+title: Behaviorism
+
+---
+
+### Behaviorism
 
 Statement of the view. 
 
