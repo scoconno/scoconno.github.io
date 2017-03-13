@@ -93,11 +93,13 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + **Week 8 (3/13/2017)**
 	+ [Notes 1](FreeWill/Handout1)
-	+ [Free-will video](http://www.wi-phi.com/video/problem-free-will)
-	+ [Strawson on the mysteries of free-will](https://www.youtube.com/watch?v=KV5_bHwaUBM&index=8&list=PLMDgR9XqmpVQleFnGdgRZf6RMdqoFrBEu)
-	+ [The Libet Experiments](https://www.youtube.com/watch?v=OjCt-L0Ph5o)
-	+ [Free-will & Neuroscience](https://www.youtube.com/watch?v=rCM5BFU01YU)
 	+ Complete quiz 4 in Blackboard by Monday 3/20/2017 @ 12:00pm
+	+ Extra Resources: 
+		+ [Free-will video](http://www.wi-phi.com/video/problem-free-will)
+		+ [Strawson on the mysteries of free-will](https://www.youtube.com/watch?v=KV5_bHwaUBM&index=8&list=PLMDgR9XqmpVQleFnGdgRZf6RMdqoFrBEu)
+		+ [The Libet Experiments](https://www.youtube.com/watch?v=OjCt-L0Ph5o)
+		+ [Free-will & Neuroscience](https://www.youtube.com/watch?v=rCM5BFU01YU)
+		+ [The Determinism and Freedom Philosophy Website](http://global.oup.com/us/companion.websites/9780190207038/stu_res/ch5/links/)
 	
 + **Week 9 (3/20/2017)**
 	+ [Notes 1](FreeWill/Handout2)
