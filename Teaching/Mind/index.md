@@ -115,6 +115,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 + Assignments
 	+ Complete [essay 2](Behaviorism/Essay) in Blackboard by 3/6/17
 		+ [Essay check list](/Teaching/Check)
+
 ***
 		
 **Spring Break (3/6/17)**
