@@ -127,7 +127,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 + Reading
 	+ Textbook, ch.5
-	+ ['Computing Machinery and Intelligence',](Functionalism/turing.pdf) A.M.Turing
+	+ ['Computing Machinery and Intelligence',](/Functionalism/turing.pdf) A.M.Turing
 + Videos	 
 	+ [The Imitation Game,](http://theimitationgamemovie.com) optional movie about Turing. Available online on Amazon and elsewhere. 
 	+ [Star Trek: The Measure of a Man](http://www.imdb.com/title/tt0708807/) 
@@ -140,8 +140,8 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 + Reading
 	+ Textbook, ch.5
-	+ ['Minds, Brains, and Programs',](Searle) J. Searle	+ ['Troubles with Functionalism',](Block) N.Block (optional)
-	+ ['Is the Brain's Mind a Computer Program',](SearleBrain.pdf) J. Searle
+	+ ['Is the Brain's Mind a Computer Program?',](/Functionalism/SearleBrain.pdf) J. Searle
+	+ ['Troubles with Functionalism',](/Functionalism/Block.pdf) N. Block (optional)	
 + Videos
 	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
 + Assignments
