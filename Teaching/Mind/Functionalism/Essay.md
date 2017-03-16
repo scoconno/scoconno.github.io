@@ -5,7 +5,7 @@ title: Essay
 ---
 ### Introduction
 
-? What should I do...something about functionalism and the Turing Test. 
+TBD
 
 
 ### Purpose 
@@ -14,19 +14,11 @@ The purpose of this assignment is to help you practice the following skills that
 
 1. 	Charitably explaining arguments for views that are not your own.  
 1.  Explaining difficult concepts in your own words. 
-2.  Applying a theory to test a controversial case. 
  
 
 ### Task
 
-Write the **legal brief** to the court. You can find a sample legal brief [here](http://www.law.cuny.edu/legal-writing/students/memorandum/memorandum-3.html). Include all four sections and include the titles of these sections (you can make up the laws for this essay) 
-
-1. Question: what is the case about? One sentence. 
-2. Short Answer: A one sentence summary of your case. 
-3. Facts: A detailed list of *some* of Koko's most human like behaviors. Again, watch some of this documentary [here](https://www.youtube.com/watch?v=8oh1uhrdc6w) 
-1. Discussion: this should have two parts:
-	1. An explanation of logical behaviorism and the argument for it.   
-	2. An application of this theory to Koko and her behavior (which you outlined in the 'facts' section.)
+TBD
 	   
 
 **NB:** Failure to include any of these elements in your dialog will result in a loss of points. 
