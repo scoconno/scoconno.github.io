@@ -129,8 +129,9 @@ Find below links to notes, assignments, readings not in the textbook, and option
 	+ Textbook, ch.5
 	+ ['Computing Machinery and Intelligence',](/Teaching/Mind/Functionalism/turing.pdf) A.M.Turing
 + Videos	 
+	+ [Necessary and Sufficient Conditions](https://www.youtube.com/watch?v=pCGnyaa5E5g)
 	+ [The Imitation Game,](http://theimitationgamemovie.com) optional movie about Turing. Available online on Amazon and elsewhere. 
-	+ [Star Trek: The Measure of a Man](http://www.imdb.com/title/tt0708807/) 
+	+ [Star Trek: The Measure of a Man](http://www.imdb.com/title/tt0708807/) optional TV episode that touches on the issues for this week.  
 + Assignments
 	+ Complete quiz 4 in Blackboard by 3/20/17
 
