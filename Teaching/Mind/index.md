@@ -46,7 +46,7 @@ Find below links to notes, assignments, readings not in the textbook, and option
 **NB:** Each 'week' outlines what you will be working on for a given week (see syllabus for the full details).  The date after 'week' is our first meeting of the week. Readings for a particular week must be completed by that first meeting. There is also an assignment that you will work on during the week. The date indicates when it is due. Quizzes are both forward and backward looking. For instance, the quiz mentioned under 'week 5' will examine some of the material discussed during week 5 as well as some of the reading for week 6. Please ask if you have any questions. 
 
 
-
+***
 
 **Week 2 (1/23/17):** *Personal Identity*
 
@@ -125,9 +125,12 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 **Week 8 (3/13/17):** *Functionalism & AI*
 
+You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/body.pdf) 
+
 + Reading
-	+ Textbook, ch.5
+	+ Textbook, ch.5, pp. 129--138, 156--159
 	+ ['Computing Machinery and Intelligence',](/Teaching/Mind/Functionalism/turing.pdf) A.M.Turing
+	+ [Philosophy and the creation of computers,](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) optional fun read. 
 + Videos	 
 	+ [Necessary and Sufficient Conditions](https://www.youtube.com/watch?v=pCGnyaa5E5g)
 	+ [The Imitation Game,](http://theimitationgamemovie.com) optional movie about Turing. Available online on Amazon and elsewhere. 
@@ -139,11 +142,14 @@ Find below links to notes, assignments, readings not in the textbook, and option
 
 **Week 9 (3/20/17):** *Problems with Functionalism*
 
+You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/body.pdf) 
+
 + Reading
-	+ Textbook, ch.5
+	+ Textbook, ch.5, pp. 156--165
 	+ ['Is the Brain's Mind a Computer Program?',](/Teaching/Mind/Functionalism/SearleBrain.pdf) J. Searle
 	+ ['Troubles with Functionalism',](/Teaching/Mind/Functionalism/Block.pdf) N. Block (optional)	
 + Videos
+	+ [A reconstruction of the Chinese Room Thought Experiment](https://www.youtube.com/watch?v=D0MD4sRHj1M)
 	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
 + Assignments
 	+ Complete [essay 3](/Teaching/Mind/Functionalism/Essay) and submit it through Blackboard by 3/27/17
@@ -182,3 +188,4 @@ Week TBD
 + [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
 + [Block on consciousness](https://www.youtube.com/watch?v=HzdrmvaipZ4)
 	+ [Block on the mind-body problem](https://www.youtube.com/watch?v=351RiTHFQtQ)
++ https://www.closertotruth.com/episodes/consciousness-illusion

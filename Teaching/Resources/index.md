@@ -15,6 +15,9 @@ title: Student Resources
 + Garth Kemerling's [Philosophy Pages](http://www.philosophypages.com/index.htm)
 + [PhilPapers](http://philpapers.org)
 + [WIPHI Philosophy Videos](http://www.wi-phi.com/)
++ [HI-PHI Nation](https://hiphination.org)
++ [Philosophy Talk](https://www.philosophytalk.org)
++ [Philosophy around the Web](http://users.ox.ac.uk/~worc0337/phil_index.html)
 
 
 ### Reading & Writing Philosophy
