@@ -108,7 +108,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + **Week 10 (3/27/2017)**
 	+ [Notes 1](Mind/Handout1)
-	+ ‘Life after Life’, Tomas Davis
+	+ [‘Life after Life’,](Mind/Lifeafterlife.pdf) Thomas Davis
 	+ Complete quiz 5 in Blackboard by Monday 4/3/2017 @ 12:00pm
 
 + **Week 11 (4/3/2017)**
