@@ -132,7 +132,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 	+ ['Computing Machinery and Intelligence',](/Teaching/Mind/Functionalism/turing.pdf) A.M.Turing
 	+ [Philosophy and the creation of computers,](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) optional fun read. 
 + Videos	 
-	+ [Necessary and Sufficient Conditions](https://www.youtube.com/watch?v=pCGnyaa5E5g)
+	+ [Necessary and Sufficient Conditions](https://www.youtube.com/watch?v=5LqNm9d2__I)
 	+ [The Imitation Game,](http://theimitationgamemovie.com) optional movie about Turing. Available online on Amazon and elsewhere. 
 	+ [Star Trek: The Measure of a Man](http://www.imdb.com/title/tt0708807/) optional TV episode that touches on the issues for this week.  
 + Assignments

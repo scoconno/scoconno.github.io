@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Free will
+title: Mind
 ---
 
-## Free will
+## Mind
 
 
 + [Notes 1](Handout1)

@@ -1,16 +1,37 @@
-Mind as Immaterial Substance 
+## Mind as Immaterial Substance 
 
 What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worthwhile thinking about why in years gone past soul and mind have been so closely associated. 
 
-The 17th century philosopher, Descartes, is the one most closely associated with the view. You can read a little about Descartes and his project [here](Descartes). You can listen to some podcasts about him here. 
+The 17th century philosopher, Descartes (1596-1650), is the one most closely associated with the view.  Here are a few interesting biographical facts about Descartes: 
 
-Reality comprises different kinds of entities. There are chairs, trees, atoms, and molecules. Many think that whatever exists is similar in one important respect: they are all physical. Philosophers use the word 'substance' to categorize such a general kind of thing, e.g., clouds and molecules are physical substances. 'Substance' is an interesting word that has a variety of uses in English. Compare 'the substance of the argument' vs. 'the substance in this bucket'. For our and Descartes' purposes, 'substance' is closely connected with one of its Greek origins, 'upokeimenon', which means roughly `what underlies', or 'subject'.  
++   Born in La Haye in the Touraine region of France.
++   In 1606 or 1607, he entered the newly founded Jesuit College of La Fleche, where he remained until 1614 or 1615.
+    -   He spent five to six years studying classical Latin, Greek, the major poets and orators (e.g., Cicero).
+    -   He then spent three years of philosophical training based on the philosophy of Aristotle, where he studied logic, morals, physics, and metaphysics.
+    -   He spent significant time on mathematics.
++  He studied to be a lawyer, but then joined the army after getting his degree.
++  He settled in the Netherlands in 1629, where he had one daughter by a  servant (Helene), named Francine, who died young.
++  He moved to Sweden in 1649 to instruct Queen Christina in philosophy. They met at five in the morning, for five hours, three days a week.
++  He died of respiratory infection on Feb. 11th, 1650.
+
+Descartes is the founder of modern philosophy. His intellectual character is well illustrated by his deep skepticism about the received knowledge of the time: 
+> From my childhood they fed me books, and because people convinced me that these could give me clear and certain knowledge of everything useful in life, I was extremely eager to learn them. But no sooner had I completed the whole course of study that normally takes one straight into the ranks of the ‘learned’ than I completely changed my mind about what this education could do for me. For I found myself tangled in so many doubts and errors that I came to think that my attempts to become educated had done me no good except to give me a steadily widening view of my ignorance!(Discourse, I.2)
+
+Descartes' skepticism motivated him to reexamined many central tenants in mathematics, optics, and physics. Not only did he identify mistakes in these areas, he radically changed our understanding of them. One commentator writes: 
+
+> Descartes went far beyond the Copernican hypothesis that our Sun lies at the center of the universe with the Earth moving about it. He contended that the Earth is one among many planets, revolving around many different suns distributed throughout the cosmos. He further proposed that the whole universe is made of one kind of matter, which follows one set of laws. He invented the concept of a single universe, filled with matter having a few describable properties and governed by a few laws of motion. While others, including ancient atomists and Stoics, had sketched part of this new picture, Descartes’ vision of a unified physics governed by a few laws of motion was far richer and more detailed. Its combination of breadth and unity was unprecedented in his earlier work with Beeckman, or in the works of Copernicus, Galileo, or Kepler. This unified vision set the framework for Newton’s subsequent unification of mechanics and astronomy.” (Hatfield (2003), 18)
+
+
+## Substance
+Reality comprises different kinds of entities. There are chairs, trees, atoms, and molecules. Many think that whatever exists is similar in one important respect: they are all physical. Philosophers use the word 'substance' to categorize such a general kind of thing, e.g., clouds and molecules are physical substances. 'Substance' is an interesting word that has a variety of uses in English. Compare 'the substance of the argument' vs. 'the substance in this bucket'. For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly `what underlies', or 'subject'.  
 
 Here's the idea: reality is fundamentally divided between entities which are the bearers of qualities, quantities, relations, and activities and these various qualities, quantities, relations, and activities they bear. There is an important difference the height, weight, and swimming of the dolphin Flipper and Flipper himself. Flipper is a substance, in the sense that Flipper is a subject in which other things inhere, e.g., the swimming belongs to Flipper, the shine and weight inhere in Flipper, etc. Flipper, though, does not inhere in anything else. He is not a property of any other substance. 
 
 This contrast between substances and what inhere in them obviously mirrors a linguistic contrast between grammatical subjects, on the one hand, and predicates on the other, between 'Flipper' and 'swims'. But the contrast is more fundamental than the linguistic one; 'blue' can be used as the subject of a predicate, e.g. 'blue is nice'. Substances can never inhere in anything else. 
 
 Many think that the world contains only physical substances. This means that they only things which exist in which properties inhere are physical things. We will never find, on this view, an existing substance that does not have physical attributes. 
+
+## Mental Substances
 
 This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them, and, according to Descartes have interesting relations to one another. 
 
@@ -91,6 +112,19 @@ We are said to know something ``directly'' when the knowledge is not based on ev
 “Should the soul of a prince, carrying with it the consciousness of the prince’s past life, enter and inform the body of a cobbler, as soon as deserted by his own soul, everyone sees he would be the same person with the prince, accountable only for the prince’s action.... Had I the same consciousness “that I saw the ark and Noah’s flood, as that I saw an overflowing of the Thames last winter, or as that I write now, I could no more doubt that I who write this now, that saw the Thames overflowed last winter, that viewed the flood at the general deluge, was the same self ... than that I who write this am the same myself now whilst I write ... that I was yesterday”
 
 ## Problems with Substance Dualism
+
+### Problems with the Cogito
+
+There are several problems with the Cogito. The most famous is that it seems to assume what it seeks to prove. Descartes argues, ‘I am thinking, therefore I exist’. This argument has as a premise, `I am thinking' and this premise presupposes that the subject of the thought exists. Since the subject of the thought is `I', the premise assumes the conclusion, i.e., it assumes that I exist. An argument that assumes what it is trying to prove is obviously circular. And recall that Descartes is supposed to be testing whether he can doubt his own existence. He is begging the question if he argues, ‘I exist, therefore I cannot doubt that I exist.’
+
+We might try save Descartes by reformulating the argument in a non-question begging way:
+
+1.  There is a thought
+2.  Therefore I exist
+
+The Evil Demon certainly cannot deceive us into thinking that there is no thought occurring. This argument also avoids begging the question in the way the argument above does. However, the argument is invalid. We  cannot infer from the fact that there is someone doing P, that we are that person  doing P. Thus, even if we can infer from the fact that a thought  exists that *someone* is thinking, we cannot infer that we are the ones thinking that thought.
+
+### Problems with Causal Interaction
 
 Princess Elisabeth of Bohemia against Descartes
 

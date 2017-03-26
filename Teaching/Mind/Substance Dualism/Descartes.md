@@ -63,9 +63,7 @@ Some candidate challenges can be ruled out. Skepticism about vision only allows 
 5.  I don’t know that O.
 
 This argument is valid, but Descartes thinks there is
-a problem with premise 2. While 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests 
-only some beliefs, he searches for a stronger skeptical
-argument.
+a problem with premise 2. While 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests only some beliefs, he searches for a stronger skeptical argument.
 
 ####Argument 2
 
