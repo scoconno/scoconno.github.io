@@ -162,7 +162,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 **Week 10 (3/27/17)** *Mental Causation*
 
 + Reading
-	+ Textbook, ch.7
+	+ Textbook, ch.7, pp.193--209; 214--217
 	+ ['Mental Causation',](Causation/Yablo.pdf) Sections 1-4,7-8, S.Yablo
 + Assignments
 	+ Complete quiz 5 in Blackboard by 4/3/17
@@ -175,7 +175,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 **No class on Monday**
 
 + Reading
-	+ Textbook, ch.7
+	+ Textbook, ch.7, pp.193--209; 214--217
 	+ ['Mental Causation',](Causation/Yablo.pdf) Sections 1-4,7-8, S.Yablo
 + Assignments
 	+ Complete [essay 4](Teaching/Mind/Functionalism/Essay) and submit through Blackboard by 4/10/17
