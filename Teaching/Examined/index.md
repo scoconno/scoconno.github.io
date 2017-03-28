@@ -120,7 +120,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 **Extra Resources while I am away on Monday**
 
-This week we are considering the view that what it is to have a mind is to be able to perform sufficiently complex computations. On this view, minds are merely very complex computers. I include extra readings and videos, but I don't expect you to go through  it all. If you were to read one thing, please read the first article by Turing (as well as the textbook). You might then watch the first four very short videos. Please also try holding a 5 minute conversation with this [program](http://www.cleverbot.com).
+This week we are considering the view that what it is to have a mind is to be able to perform sufficiently complex computations. On this view, minds are merely very complex computers. I include extra readings and videos, but I don't expect you to go through  it all. If you were to read one thing, please read the first article by Turing (as well as the textbook). You might then watch the first four very short videos. Please also try holding a 5 minute conversation with this [program](http://www.cleverbot.com). You might also try the recent winner of the Loebner prize [here](http://www.mitsuku.com). 
 
 
 *Reading*
