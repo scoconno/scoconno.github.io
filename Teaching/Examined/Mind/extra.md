@@ -10,13 +10,13 @@ This week we are considering the view that what it is to have a mind is to be ab
 *Reading*
 
 + ['Computing Machinery and Intelligence',](/Teaching/Mind/Functionalism/turing.pdf) A.M.Turing
-+ [Philosophy and the creation of computers,](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
++ [Philosophy and the creation of computers](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
 + ['Is the Brain's Mind a Computer Program?',](/Teaching/Mind/Functionalism/SearleBrain.pdf) J. Searle
-+ ['Troubles with Functionalism',](/Teaching/Mind/Functionalism/Block.pdf) N. Block (optional)
++ ['Troubles with Functionalism',](/Teaching/Mind/Functionalism/Block.pdf) N. Block 
 
 *Videos* 
 
-+ [One explanation of the Turing Test)(https://www.youtube.com/watch?v=1uDa7jkIztw)
++ [One explanation of the Turing Test](https://www.youtube.com/watch?v=1uDa7jkIztw)
 + [Another explanation of the Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
 + [Necessary and Sufficient Conditions:](https://www.youtube.com/watch?v=5LqNm9d2__I) Turing claims that passing the Turing Test is necessary and sufficient for intelligence. This video explains what necessary and sufficient conditions are.  
 + [A reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M) This experiment challenges Turing's claim that passing the Turing Test is sufficient for intelligence. 
