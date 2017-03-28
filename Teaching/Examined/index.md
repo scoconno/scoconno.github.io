@@ -114,7 +114,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ Optional Video: [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
 
 + **Week 11 (4/3/2017)**
-	+ [Notes 2](Mind/Handout2)
+	+ [Notes 2](/Teaching/Mind/Dualism/)
 	+ `They're Made out of Meat', Terry Bisson, pp.225--227
 	+ Complete [essay 5](Mind/Essay) in Blackboard by Monday 4/10/2017 @ 12:00pm
 
