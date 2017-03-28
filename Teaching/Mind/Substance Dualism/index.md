@@ -21,6 +21,16 @@ Descartes' skepticism motivated him to reexamined many central tenants in mathem
 
 > Descartes went far beyond the Copernican hypothesis that our Sun lies at the center of the universe with the Earth moving about it. He contended that the Earth is one among many planets, revolving around many different suns distributed throughout the cosmos. He further proposed that the whole universe is made of one kind of matter, which follows one set of laws. He invented the concept of a single universe, filled with matter having a few describable properties and governed by a few laws of motion. While others, including ancient atomists and Stoics, had sketched part of this new picture, Descartes’ vision of a unified physics governed by a few laws of motion was far richer and more detailed. Its combination of breadth and unity was unprecedented in his earlier work with Beeckman, or in the works of Copernicus, Galileo, or Kepler. This unified vision set the framework for Newton’s subsequent unification of mechanics and astronomy.” (Hatfield (2003), 18)
 
+## Descartes' fundamental claims
+
+
+1. There are substances of two fundamentally different kinds in the world, mental substances and material substances—or minds and bodies. The essential nature of a mind is to think, be conscious, and engage in other mental activities; the essence of a body is to have spatial extensions (a bulk) and be located in space.
+2. A human person is a composite being (a “union,” as Descartes called it) of a mind and a body.
+3. Minds are diverse from bodies; no mind is identical with a body.
+4. Minds and bodies causally influence each other. Some mental phenomena are causes of physical phenomena and vice versa.
+
+The fourth claim is important. Descartes thinks that there is causal interaction between mind and body. Mind causes the body to move. The body can cause the mind to have various features. Here are some examples. We'll ultimately worry whether 1 and 3 are compatible with 4, but let's review why Descartes believes in substance dualism.  
+
 
 ## Substance
 Reality comprises different kinds of entities. There are chairs, trees, atoms, and molecules. Many think that whatever exists is similar in one important respect: they are all physical. Philosophers use the word 'substance' to categorize such a general kind of thing, e.g., clouds and molecules are physical substances. 'Substance' is an interesting word that has a variety of uses in English. Compare 'the substance of the argument' vs. 'the substance in this bucket'. For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly `what underlies', or 'subject'.  
@@ -31,7 +41,6 @@ This contrast between substances and what inhere in them obviously mirrors a lin
 
 Many think that the world contains only physical substances. This means that they only things which exist in which properties inhere are physical things. We will never find, on this view, an existing substance that does not have physical attributes. 
 
-## Mental Substances
 
 This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them, and, according to Descartes have interesting relations to one another. 
 
@@ -45,15 +54,92 @@ This allows Descartes to claim that a soul survives bodily death and decay. How 
 
 So just as these chairs could exist without one another, so too a mind and body should exist without one another. 
 
-## Descartes' fundamental claims
 
 
-1. There are substances of two fundamentally different kinds in the world, mental substances and material substances—or minds and bodies. The essential nature of a mind is to think, be conscious, and engage in other mental activities; the essence of a body is to have spatial extensions (a bulk) and be located in space.
-2. A human person is a composite being (a “union,” as Descartes called it) of a mind and a body.
-3. Minds are diverse from bodies; no mind is identical with a body.
-4. Minds and bodies causally influence each other. Some mental phenomena are causes of physical phenomena and vice versa.
 
-The fourth claim is important. Descartes thinks that there is causal interaction between mind and body. Mind causes the body to move. The body can cause the mind to have various features. Here are some examples. We'll ultimately worry whether 1 and 3 are compatible with 4, but let's review why Descartes believes in substance dualism.  
+
+### Argument for Substance Dualism
+
+Descartes worried about the prevailing sciences of the time. This was a time when scientists still sought to explain the motion of bodies by the so-called inherent tendencies of earth to move downward, air to rise upward, etc. Doctors still explained disease by appeal to various humors in the body. Descartes worried as to whether the various sciences of the day were making fundamental errors and suggested that we need to take stock: which of our sciences could really be trusted?  
+
+He undertook this project in several works, most importantly `The Meditations.' He describes the project in this work to a friend as follows: 
+
+> I will say to you, just between us, that these six Meditations contain all the foundations of my Physics. But, please, you must not say so; for those who favor Aristotle would perhaps have more difficulty in approving them; and I hope that those who will read them will unwittingly become accustomed to my principles, and will recognize the truth, before they notice that my principles destroy those of Aristotle. (Descartes, letter to Marsenne)
+
+Descartes subsequently identified four Rules for acquiring Knowledge
+
+1.  Accept as true only that for which one has proper evidence, which he calls clear and distinct perception.
+
+2.  Resolve problems into their simplest parts.
+
+3.  Move from the simple and known to the complex.
+
+4.  Thoroughly review and check one’s work to be sure it is  comprehensive and complete.
+
+The first meditation begins by asking what can be clearly and distinctly perceived? Descartes wants to find some means/tool that would allow him test all of his beliefs. He suggests skepticism and proceeds to identify which of his beliefs, if any, were immune from doubted given the strongest skeptical challenge.
+
+His first tries to identify a skeptical challenge that is sufficiently strong for this purpose, i.e., a challenge that will pertain to as many of his beliefs as possible. Some candidate challenges can be ruled out. Skepticism about vision only allows us test our beliefs about perceptible things. Descartes finally settles on the strongest skeptical challenge and then proceeds to reject whatever is open to the slightest doubt. He continues until he has found something certain that can withstand the skeptical challenge.
+
+### Skeptical Arguments Rejected
+
+#### Argument 1
+
+1.  If I am occasionally mistaken in my perceptual beliefs, then it is possible that I am totally mistaken in my perceptual beliefs.
+2.  I am occasionally mistaken in my perceptual beliefs.
+3.  Thus it is possible that I am totally mistaken in my perceptual beliefs.
+4.  If I don’t know that I am totally mistaken in my perceptual beliefs, then I don’t know that O (where O is a proposition about perceptual objects).
+5.  I don’t know that O.
+
+This argument is valid, but Descartes thinks there is a problem with premise 2. While 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests only some beliefs, he searches for a stronger skeptical argument.
+
+####Argument 2
+
+1.  If I don’t know that I’m not dreaming, then I don’t know that I have hands.
+2.  I don’t know that I’m not dreaming.
+3.  I don’t know that I have hands.
+
+Descartes thinks that the argument does not generalize to every belief he holds. For instance, it does not generalize to his belief in the existence of space, time, magnitude, simple qualities, and so on. So, Descartes searches for an even stronger argument.
+
+#### Evil Demon Argument Argument
+
+1.  If I don’t know that I’m not being deceived by an Evil Demon, then I don’t know that p.
+2.  I don’t know that I’m not being deceived by an Evil Demon.
+3.  I don’t know that p.
+
+This is a suitably strong enough challenge to test all Descartes' beliefs, including his beliefs about space, time, etc. Remember, his goal is to throw out all his beliefs and only let back in those that he knows to be true. He will now proceed to search for those beliefs that he would know to be true even if this skeptical scenario obtained.
+
+## I am thinking, therefore I exist
+
+Descartes writes the following in the second Meditation: 
+
+> I have convinced myself that there is absolutely nothing in the world, no sky, no earth, no minds, no bodies. Does it now follow that I too do not exist? No: if I convinced myself of something then I certainly existed. But there is a deceiver of supreme power and cunning who is deliberately and constantly deceiving me. In that case I too undoubtedly exist, if he is deceiving me; and let him deceive me as much as he can, he will never bring it about that I am nothing so long as I think that I am something. So after considering everything very thoroughly, I must finally conclude that this proposition, I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind.
+
+Descartes first claims, ‘I exist’. There is nothing the Evil Demon could do to deceive him about this belief, i.e., the very fact that the Evil Demon would be deceiving him, proves that he, himself, would exist. Knowing that he exists is a good beginning, but we believe we know more than that. In particular, we believe we know what kind of things we are. Descartes agrees. He reviews his former beliefs about what kind of thing he is with the hope of identifying which of these beliefs can also withstand the skeptical challenge.  
+
+Beliefs about his body
+:   He has a body, arms, face, and so on.
+
+Beliefs about his functions:
+:   He takes nourishment, moves, senses, and thinks.
+
+Many of these beliefs can be doubted. An evil demon could trick him into thinking he has a body. An evil demon could trick him into thinking that he really moves. But Descartes thinks that some cannot be doubted. 
+
+**Cogito Ergo Sum**
+
+He cannot doubt that he is a being that thinks, i.e., the Evil Demon  could never deceive one into thinking that one doesn’t think, or into thinking that one thinks when one doesn’t, in fact, think. But what is thinking? 
+
+Descartes claims that thinking involves doubting, understanding, affirming, refusing to affirm, desiring, having mental images, being aware of what comes from senses (even if the senses are being deceived). Thus, Descartes claims that he know that he exists, he thinks, and that he affirms, desires, and so on.
+
+### Problems with the Cogito
+
+There are several problems with the Cogito. The most famous is that it seems to assume what it seeks to prove. Descartes argues, ‘I am thinking, therefore I exist’. This argument has as a premise, `I am thinking' and this premise presupposes that the subject of the thought exists. Since the subject of the thought is `I', the premise assumes the conclusion, i.e., it assumes that I exist. An argument that assumes what it is trying to prove is obviously circular. And recall that Descartes is supposed to be testing whether he can doubt his own existence. He is begging the question if he argues, ‘I exist, therefore I cannot doubt that I exist.’
+
+We might try save Descartes by reformulating the argument in a non-question begging way:
+
+1.  There is a thought
+2.  Therefore I exist
+
+The Evil Demon certainly cannot deceive us into thinking that there is no thought occurring. This argument also avoids begging the question in the way the argument above does. However, the argument is invalid. We  cannot infer from the fact that there is someone doing P, that we are that person  doing P. Thus, even if we can infer from the fact that a thought  exists that *someone* is thinking, we cannot infer that we are the ones thinking that thought.
 
 
 ## Arguments for Substance Dualism

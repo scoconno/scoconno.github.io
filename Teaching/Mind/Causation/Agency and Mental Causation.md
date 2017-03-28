@@ -1,29 +1,79 @@
-Mental to mental causation.
++ Mental to mental causation, e.g., beliefs lead to another belief
 
-Physical to mental causation.
++ Physical to mental causation, e.g., perception causes a perceptual experience
 
-Mental to physical causation
++ Mental to physical causation, e.g., beliefs and desires cause actions
 
-Physical to physical causation
++ Physical to physical causation, e.g., heating causes water to boil
 
-## Agency and Mental Causation
+Q: Through what mechanism or process does a mental event manage to initiate, or insert itself into, a causal chain of physical events?
 
-1. physical-to-mental causation (e.g. sensation)2. *mental-to-physical causation (e.g. beliefs and desires cause actions) 3. mental-to-mental causation (e.g. beliefs lead to another belief)Q: Through what mechanism or process does a mental event manage to initiate, or insert itself into, a causal chain of physical events?
-
-+ We perform actions for reasons. 
-+ Actions involve bodily movements. 
-
-Beliefs and desires guide actions and by citing appropriate beliefs and desires
-
-If agent S desires something and believes that doing A is an optimal way of securing it, S will do A>
-
-I think we need to just prove that agency requires mental causation. Beliefs and intentions are meant to be the cause of bodily movements. 
 
 ## Epiphenomenalism
 
-Causality stuff. 
+**Epiphenomenalism:** mental events are caused by physical events, but they cannot cause anything else.
 
-___ 1. If mental events have no causal powers, then they are in total causal isolation from the rest of the world -- their existence would be inexplicable since they have no causes; they would make no difference to anything else since they have no effects.___ 2. If anything is both causeless and effectless, then it cannot really exist.[Alexander's Dictum]___ 3. According to epiphenomenalism, mental events have no causal powers whatsoever.___ 4. Therefore, under epiphenomenalism, mental events are not real. ⇒ [Mental Irrealism]
+
+## Evidence for epiphenomenalism
+
+1. Brain damage
+2. Animal behavior
+
+## Problem 1
+
+1. If mental events have no causal powers, then they are in total causal isolation from the rest of the world -- their existence would be inexplicable since they have no causes; they would make no difference to anything else since they have no effects.2. If anything is both causeless and effectless, then it cannot really exist.[Alexander's Dictum]3. According to epiphenomenalism, mental events have no causal powers whatsoever.4. Therefore, under epiphenomenalism, mental events are not real. ⇒ [Mental Irrealism]
+
+
+## Problem 2: Agency
+
+1. We perform actions for reasons. 
+2. The reasons for which we perform an action are the cause of that action.
+3. Actions involve bodily movements. 
+3. Therefore, reasons are the cause of bodily movement. 
+4. Therefore, mental events cause bodily events. 
+5. If epiphenomenalism is true, mental events cannot cause bodily events.
+6. If epiphenomenalism is true, we do not perform actions for reasons. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If agent S desires something and believes that doing A is an optimal way of securing it, S will do A>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Problem 1
