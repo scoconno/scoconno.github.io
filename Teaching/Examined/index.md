@@ -107,14 +107,14 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ Complete [essay 4](FreeWill/Essay) in Blackboard by Monday 3/27/2017 @ 12:00pm
 
 + **Week 10 (3/27/2017)**
-	+ [Notes 1](Mind/Handout1)
+	+ [Notes 1](/Teaching/Mind/Dualism/)
 	+ [‘Life after Life’,](Mind/Life.pdf) Thomas Davis
 	+ Complete quiz 5 in Blackboard by Monday 4/3/2017 @ 12:00pm
 	+ Optional Reading: [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes
 	+ Optional Video: [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
 
 + **Week 11 (4/3/2017)**
-	+ [Notes 2](/Teaching/Mind/Dualism/)
+	+ [Notes 2]--I will post by the end of the week
 	+ `They're Made out of Meat', Terry Bisson, pp.225--227
 	+ Complete [essay 5](Mind/Essay) in Blackboard by Monday 4/10/2017 @ 12:00pm
 
