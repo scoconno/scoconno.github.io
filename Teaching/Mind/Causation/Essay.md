@@ -1,37 +1,25 @@
 ---
 layout: default
 title: Essay
-
 ---
-### Introduction
-
-We have practiced writing about the mind in less formal formats. This paper will be our first standard writing assignment. In it you will be discussing the Turing Test. Turing believed that the ability to pass the Turing Test was both necessary and sufficient for mentality. You will be challenging both these claims (see below). While this is our first formal writing assignment, I do not want you to read anything other than the textbook and the materials I have included on the website. Do watch the videos I included there too. Include citations and reference, but feel free to pick your citation format.  
+  
 
 ### Task
 
-Your paper should have 4 distinct parts. Each part should receive at least one good paragraph: 
+Formulate Kim’s “Causal Exclusion” problem for mental-to-physical causation as clearly as possible. Your paper must have these following parts:    
 
-1. State what it would be for the Turing Test to provide a necessary condition for mentality. 
-2. Set out a reason to believe that the Turing Test does not provides a necessary condition for mentality.
-3. State what it would be for the Turing Test to provide a sufficient condition for mentality. 
-4. Set out a reason to believe that the Turing Test does not provide a sufficient condition for mentality. 
+1. State and explain the conclusion of the argument in your own words.
+2. Identity and state each of the principles that serves as premises in this argument. Explain these principles in your own words
+3. Explain why these group of principles cannot all be true together---at least one of them must be false if the others are true.
+4. Conclude by saying which principle you would reject and give a reason for rejecting that principle.
 	   
 
-**NB:** Failure to include any of these elements in your dialog will result in a loss of points. 
+**NB:** Failure to include any of these parts in your paper will result in a loss of points. 
 
-
-### Purpose 
-
-The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
-
-1. 	Charitably explaining arguments for views that are not your own.  
-1.  Explaining difficult concepts in your own words. 
 
 ### Word Count
 
 Your essay must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
-
-
 
 ### Plagiarism
 
