@@ -178,7 +178,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 	+ Textbook, ch.7, pp.193--209; 214--217
 	+ ['Mental Causation',](Causation/Yablo.pdf) Sections 1-4,7-8, S.Yablo
 + Assignments
-	+ Complete [essay 4](Teaching/Mind/Functionalism/Essay) and submit through Blackboard by 4/10/17
+	+ Complete [essay 4](/Teaching/Mind/Causation/Essay) and submit through Blackboard by 4/10/17
 		+ [Essay check list](/Teaching/Check)
 
 ***
