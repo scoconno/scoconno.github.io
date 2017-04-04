@@ -6,12 +6,12 @@ title: Project
 ## Signature Assignment (Final Project)
 
 ### Special Submission Instruction
-
-The final draft of these projects must be submitted through NJCU's Tk20 site to earn a final grade. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
++ Presentation slides must be submitted through **Blackboard**.
++ The full paper must be submitted through NJCU's Tk20 site to earn a final grade. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
 
 ### Introduction 
 
-Our course began by investigating the meaning of life. We asked whether our lives have any external value given our mortality. Not only are we mortal, but our friends, family, and loved ones are too. Tolstoy was initially depressed at the apparent futility of our lives and considered suicide. The meaning of life then is intimately connected to questions about mortality and death. In this final part of the course, you will be investigating one of the following ethical questions about death (your choice!)
+Our course began by investigating the meaning of life. We asked whether our lives have any external value that is not robbed by our inevitable death. Not only are we mortal, but our friends, family, and loved ones are too. Tolstoy was initially depressed at the apparent futility of our lives and considered suicide. The meaning of life then is intimately connected to questions about mortality and death. In this final part of the course, you will be investigating one of the following ethical questions about death (your choice!)
 
 1.  Is suicide immoral? 
 
@@ -27,19 +27,30 @@ Our course began by investigating the meaning of life. We asked whether our live
 
 7.  Should it be illegal for pregnant women to engage in activities that risk the life of their fetus, e.g., drinking and taking drugs while pregnant? 
 
-8. Should people have children if they learn that the Earth will be unable to support life in the very near future, e.g., either due to a changing climate, or a meteor, etc? 
+8. Should people have children if they learn that the Earth will be unable to support life in the very near future, either due to a changing climate, or a meteor, etc? 
 
 9. Alternative student question approved by the instructor over Blackboard by April 24th.  
 
 ### Task 
 The questions listed above are all hot topics in the United States. To answer your question, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that society. To complete the assignment, you will do the following three things: 
 
-1.  After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life costs and benefits to that person, their friends, and their families. What would the benefits and costs have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (600–800 words)
+Task 1:  
+: After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life costs and benefits to that person, their friends, and their families. What would the benefits and costs have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (600–800 words)
 
-2.  After researching articles at www.nj.com from the last 5 years, outline the major costs and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major costs and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (600–800 words)
+Task 2:
+: After researching articles at www.nj.com from the last 5 years, outline the major costs and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major costs and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (600–800 words)
 
-3.  Given the information that you presented in the first two parts of your paper, state your answer to your chosen question and explain how the information from the first two parts of the paper influenced your answer. (400–600 words)
+Task 3:
+: Given the information that you presented in the first two parts of your paper, state your answer to your chosen question and explain how the information from the first two parts of the paper influenced your answer. (400–600 words)
 
+### Presentation
+Each of you will give an in class presentation on your chosen topic before the final submission of the paper. Each presentation must include four slides as follows: 
++ Slide 1: introduce your question. Define any relevant terms in the question and say a little about why it is interest. 
++ Slide 2: summary of task 1. 
++ Slide 3: summary of task 2. 
++ Slide 4: summary of task 4. 
+
+**NB:** Don't fill your slides with text. Pictures, graphs, a few bullet points are much easier to follow. The slides will then be used to structure your presentation. 
 
 ### Grade Breakdown
 

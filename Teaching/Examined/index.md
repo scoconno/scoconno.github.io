@@ -123,6 +123,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Notes](Ethics/Handout)
 	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
 	+ Complete [essay 6](Ethics/Essay) in Blackboard by Monday 4/17/2017 @ 12:00pm
+	+ Begin to think about the [signature assignment/final project](Applied/Essay) due at the end of the semester. 
 
 + **Week 13 (4/17/2017)**
 	+ [Notes 1](Ethics/Handout2)
@@ -136,9 +137,11 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ Complete quiz 7 in Blackboard by Monday 5/1/2017 @ 12:00pm
 
 + **Week 15 (5/1/2017)**
-	+ Presentations. Submit your slides through blackboard by 5/8/2017.
+	+ Presentations. 
+	+ Submit your slides through blackboard by 5/9/2017.
 
 + **Week 16 (5/8/2017)** 
-	+ Presentations on Monday. No class on Wednesday. 
+	+ Presentations on Monday. Submit your slides through blackboard by 5/9/2017.
+	+ No class on Wednesday. 
 	+ Submit [signature assignment/final project](Applied/Essay) through **TK20** by 5/12/2017 @ 11:00am
 	+ [Submission Instructions:](Applied/Submission) Submission to the TK20 website is required to earn a final grade in this course.
