@@ -136,13 +136,9 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ Complete quiz 7 in Blackboard by Monday 5/1/2017 @ 12:00pm
 
 + **Week 15 (5/1/2017)**
-	+ Presentations
+	+ Presentations. Submit 
 
-+ **Week 16 (5/8/2017)**
-	+ Submit signatuare assignment through Blackboard by 5/12/2017 @ 11:00am
-
-
-## Final project
-
-+ [Final Project](Teaching/Examined/Applied/Essay) 
-+ [Submission Instructions for Final Draft:](Teaching/Examined/Applied/Submission) Submission to the TK20 website is required to earn a final grade in this course.
++ **Week 16 (5/8/2017)** 
+	+ Presentations on Monday. No class on Wednesday. 
+	+ Submit [signature assignment/final project](Applied/Essay) through **TK20** by 5/12/2017 @ 11:00am
+	+ [Submission Instructions:](Applied/Submission) Submission to the TK20 website is required to earn a final grade in this course.

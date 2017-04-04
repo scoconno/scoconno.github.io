@@ -3,62 +3,48 @@ layout: default
 title: Project
 ---
 
-## Final Projects
+## Signature Assignment (Final Project)
 
-### Special Submission for Final Draft
+### Special Submission Instruction
 
-The final draft of these projects must be submitted through NJCU's Tk20 site to earn a final grade. Each member of the group must upload the final draft individually. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
+The final draft of these projects must be submitted through NJCU's Tk20 site to earn a final grade. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
 
-### Due Dates
+### Introduction 
 
-+ 12/07/2016, 12:00pm, first draft submitted through Blackboard
-+ 12/07/2016, Presentation day 1
-+ 12/12/2016, Presentation day 2
-+ 12/16/2016, Final Projects submitted through Tk20. Each student must submit the final project to Tk20. Failure to submit through Tk20 will result in no points for the entire project.
+Our course began by investigating the meaning of life. We asked whether our lives have any external value given our mortality. Not only are we mortal, but our friends, family, and loved ones are too. Tolstoy was initially depressed at the apparent futility of our lives and considered suicide. The meaning of life then is intimately connected to questions about mortality and death. In this final part of the course, you will be investigating one of the following ethical questions about death (your choice!)
 
-### Topics
-
-This course has a final project instead of a final exam. The project consists in identifying and researching some current moral controversy. 
-
-Pick **one** of the follow questions:  
-
-1.  Is it permissible to abort a fetus?
+1.  Is suicide immoral? 
 
 2.  Should a doctor help her ill patient commit suicide?
 
 3.  Should we ever execute people for their crimes?
 
-4.  Should we allow people to reproduce by cloning?
+4.  Should we allow coma patients to remain on life support indefinitely? 
 
-5.  Should prostitution be legal?
+5.  Should it be illegal for a person to risk their life by engaging in dangerous activities, e.g., hard drug use, extreme sports, etc? 
 
-6.  To what extent should we give to charity? 
+6.  Should people with serious heritable diseases be allowed to have children?
 
-7.  Should it be illegal for women to drink and take drugs while pregnant? 
+7.  Should it be illegal for pregnant women to engage in activities that risk the life of their fetus, e.g., drinking and taking drugs while pregnant? 
 
-8.  Should recreational drug use be legalized?
+8. Should people have children if they learn that the Earth will be unable to support life in the very near future, e.g., either due to a changing climate, or a meteor, etc? 
 
-9.  Should employers be required to hire American residents and permanent residents over undocumented workers?  
+9. Alternative student question approved by the instructor over Blackboard by April 24th.  
 
-10. Should we curb climate change for the sake of future generations?
+### Task 
+The questions listed above are all hot topics in the United States. To answer your question, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that society. To complete the assignment, you will do the following three things: 
 
+1.  After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life costs and benefits to that person, their friends, and their families. What would the benefits and costs have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (600–800 words)
 
-### Prompt 
+2.  After researching articles at www.nj.com from the last 5 years, outline the major costs and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major costs and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (600–800 words)
 
-
-Applied ethicists are more concerned with particular, practical cases than with more abstract theoretical questions. They want to know how, if at all, a hospital should distribute donated organs, whether it is permissible to bribe officials in foreign states to do business, etc. The questions listed above are all hot topics in the United States. Your job will be to answer your question as an applied ethicist. To do so, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that assignment. Your assignment comes in three parts:  
-
-1.  After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life downsides and benefits to that person, their friends, and their families. What would the benefits and downsides have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (600–800 words)
-
-2.  After researching articles at www.nj.com from the last 5 years, outline the major downsides and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major downsides and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (600–800 words)
-
-3.  Given the information that you presented in the first two parts of your paper, state your answer to the question and explain how the information from the first two parts of the paper influenced your answer. (400–600 words)
+3.  Given the information that you presented in the first two parts of your paper, state your answer to your chosen question and explain how the information from the first two parts of the paper influenced your answer. (400–600 words)
 
 
 ### Grade Breakdown
 
 
-This paper is worth 25 points towards your final grade. 5 points will be awarded towards the first draft of the paper, 5 points towards the presentation, 5 points towards peer evaluation, and 10 points towards the final draft. 
+This paper is worth 20 points towards your final grade. 5 points will be awarded towards the presentation and 15 points towards towards the final draft. 
 
 
 
