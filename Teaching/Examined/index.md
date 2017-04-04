@@ -136,7 +136,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ Complete quiz 7 in Blackboard by Monday 5/1/2017 @ 12:00pm
 
 + **Week 15 (5/1/2017)**
-	+ Presentations. Submit 
+	+ Presentations. Submit your slides through blackboard by 5/8/2017.
 
 + **Week 16 (5/8/2017)** 
 	+ Presentations on Monday. No class on Wednesday. 
