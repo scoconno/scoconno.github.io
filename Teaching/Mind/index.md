@@ -154,6 +154,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Assignments
 	+ Complete [essay 3](/Teaching/Mind/Functionalism/Essay) and submit it through Blackboard by 3/27/17
 		+ [Essay check list](/Teaching/Check)
+		+ [Sample A Paper Response](Functionalism/TuringSample.pdf)
 
 ***
 
