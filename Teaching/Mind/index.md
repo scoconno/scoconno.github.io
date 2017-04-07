@@ -155,8 +155,6 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 	+ Complete [essay 3](/Teaching/Mind/Functionalism/Essay) and submit it through Blackboard by 3/27/17
 		+ [Essay check list](/Teaching/Check)
 
-
-
 ***
 
 **Week 10 (3/27/17)** *Mental Causation*
@@ -183,9 +181,59 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 
 ***
 
-Week TBD
+**Week 12 (4/10/17):** Varieties of Consciousness
 
-+ [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
++ Reading
+	+ Textbook, ch.9
+	+ ['What is it like to be a bat?'](Consciousness/Nagel.pdf), T. Nagel
++ Assignments 
+	+ Complete quiz 6 in Blackboard by 4/17/17
+
+***
+
+**Week 13 (4/17/17):** Consciousness: Higher Order Theories
+
++ Reading
+	+ Textbook, ch.9
+	+ 'Knowing Our Minds', A. Byrne
++ Assignments
+	+ Complete essay 5
+
+***
+
+**Week 14 (4/24/17):** Consciousness: Representationalism
+
++ Reading
+	+ Textbook, ch.9
+	+ ‘How Do You Know You Are Not A Zombie', F. Dretske
++ Assignments
+	+ Complete quiz 7
+
+***
+
+**Week 15 (5/1/17):** Consciousness and Science
+
++ Reading
+	+ Textbook, ch.10
+	+ ‘Epiphenomenal Qualia', F. Jackson
++ Assignments
+	+ Complete quiz 8
++ Videos
+	+ [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
+
+***
+
+**Week 16 (5/8/17):** Continued
+
++ Reading
+	+ Textbook, ch.10
+	+ ‘Epiphenomenal Qualia', F. Jackson
++ Assignments
+	+ Complete signature assignment
+
+***
+
+Sundry
 + [Block on consciousness](https://www.youtube.com/watch?v=HzdrmvaipZ4)
-	+ [Block on the mind-body problem](https://www.youtube.com/watch?v=351RiTHFQtQ)
++ [Block on the mind-body problem](https://www.youtube.com/watch?v=351RiTHFQtQ)
 + https://www.closertotruth.com/episodes/consciousness-illusion
