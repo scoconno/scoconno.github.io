@@ -185,27 +185,29 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 **Week 12 (4/10/17):** Varieties of Consciousness
 
 + Reading
-	+ Textbook, ch.9
+	+ Textbook, ch.9, 263--280
 	+ ['What is it like to be a bat?'](Consciousness/Nagel.pdf), T. Nagel
 + Assignments 
 	+ Complete quiz 6 in Blackboard by 4/17/17
++ Videos
+	+ [How do you explain consciousness?,](https://www.youtube.com/watch?v=uhRhtFFhNzQ) David Chalmers
 
 ***
 
-**Week 13 (4/17/17):** Consciousness: Higher Order Theories
-
+**Week 13 (4/17/17):** Self Consciousness: Introspection
 + Reading
-	+ Textbook, ch.9
-	+ 'Knowing Our Minds', A. Byrne
+	+ Textbook, ch.9, pp.280--289
+	+ ['Knowing Our Minds',](Consciousness/Byrne.pdf) A. Byrne
+	+ ['Consciousness as Internal Monitoring',](Consciousness/Internal.pdf) William G. Lycan
 + Assignments
 	+ Complete essay 5
 
 ***
 
-**Week 14 (4/24/17):** Consciousness: Representationalism
+**Week 14 (4/24/17):** Self Consciousness: Representationalism
 
 + Reading
-	+ Textbook, ch.9
+	+ Textbook, ch.9, pp.289*ff*
 	+ ‘How Do You Know You Are Not A Zombie', F. Dretske
 + Assignments
 	+ Complete quiz 7
@@ -217,11 +219,13 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Reading
 	+ Textbook, ch.10
 	+ ‘Epiphenomenal Qualia', F. Jackson
+	+ ['Qualia: The Knowledge Argument',] Martine Nida-Rümelin 
 + Assignments
 	+ Complete quiz 8
 + Videos
 	+ [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
-
++ Podcasts
+	+ [Frank Jackson on What Mary Knew,](http://hwcdn.libsyn.com/p/4/4/6/446346944c84176f/Frank_Jackson_on_What_Mary_Knew.mp3?c_id=3656392&expiration=1491757499&hwt=660df0718abf741846fb4ed0de27c37d)
 ***
 
 **Week 16 (5/8/17):** Continued
