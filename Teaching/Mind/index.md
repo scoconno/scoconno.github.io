@@ -219,7 +219,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Reading
 	+ Textbook, ch.10
 	+ ‘Epiphenomenal Qualia', F. Jackson
-	+ ['Qualia: The Knowledge Argument',] Martine Nida-Rümelin 
+	+ 'Qualia: The Knowledge Argument', Martine Nida-Rümelin 
 + Assignments
 	+ Complete quiz 8
 + Videos
