@@ -186,7 +186,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 
 + Reading
 	+ Textbook, ch.9, 263--280
-	+ ['What is it like to be a bat?'](Consciousness/Nagel.pdf), T. Nagel
+	+ ['What is it like to be a bat?'](Consciousness/Nagel.pdf), pp.435--442, T. Nagel
 + Assignments 
 	+ Complete quiz 6 in Blackboard by 4/17/17
 + Videos
@@ -208,7 +208,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 
 + Reading
 	+ Textbook, ch.9, pp.289*ff*
-	+ ‘How Do You Know You Are Not A Zombie', F. Dretske
+	+ ‘How do you know you are not a Zombie', F. Dretske
 + Assignments
 	+ Complete quiz 7
 
