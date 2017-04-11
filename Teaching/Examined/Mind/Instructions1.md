@@ -11,7 +11,7 @@ title: Instructions
 
 Complete these tasks in order:
 
-+ Read [‘Life after Life’,](/Teaching/Mind/Life.pdf) Thomas Davis
++ Read [‘Life after Life’,](/Teaching/Examined/Mind/Life.pdf) Thomas Davis
 + Read Chapter 4.1--4.2
 + Study [the notes](/Teaching/Mind/Dualism) 
 
