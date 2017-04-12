@@ -1,5 +1,8 @@
 ## Introduction
 
+(Don't cover immediately after functionalism next time)
+(Consider covering mental content after functionalism and then consciousness)
+
 Mental causation is common place. Every time we act on a choice, intentionally move our body,  a mental state is causing a physical reaction. Mental causation is important to our concepts of agency, to our idea of performing actions intentionally. An action is not a mere bodily motion like involuntarily blinking your eye. It is something you do intentionally. We can only distinguish mere bodily movement from an action if there exists mental causation, i.e., if there are intentions, mental states, that cause physical reactions. There are strictly four type of phenomena that might constitute an instance of mental causation: 
 
 
