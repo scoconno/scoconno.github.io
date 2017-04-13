@@ -1,4 +1,4 @@
-# CV Boilerplate
+CV Boilerplate
 
 A boilerplate to ease the pain of building and maintaining a CV or résumé using
  [pandoc](http://pandoc.org).
