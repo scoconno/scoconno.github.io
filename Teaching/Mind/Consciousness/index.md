@@ -1,3 +1,10 @@
+---
+layout: default
+title: Consciousness 1
+
+---
+
+
 ## Consciousness
 
 Two problems: 
