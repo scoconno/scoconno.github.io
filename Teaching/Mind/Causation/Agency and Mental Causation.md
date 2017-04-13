@@ -1,3 +1,9 @@
+---
+layout: default
+title: Mental Causation
+
+---
+
 ## Introduction
 
 (Don't cover immediately after functionalism next time)
@@ -71,7 +77,11 @@ Epiphenomenalism:
 
 ## Problem 1
 
-1. If mental events have no causal powers, then they are in total causal isolation from the rest of the world -- their existence would be inexplicable since they have no causes; they would make no difference to anything else since they have no effects.2. If anything is both causeless and effectless, then it cannot really exist.[Alexander's Dictum]3. According to epiphenomenalism, mental events have no causal powers whatsoever.4. Therefore, under epiphenomenalism, mental events are not real. ⇒ [Mental Irrealism]
+1. If mental events have no causal powers, then they are in total causal isolation from the rest of the world -- their existence would be inexplicable since they have no causes; they would make no difference to anything else since they have no effects.
+2. If anything is both causeless and effectless, then it cannot really exist.
+[Alexander's Dictum]
+3. According to epiphenomenalism, mental events have no causal powers whatsoever.
+4. Therefore, under epiphenomenalism, mental events are not real. ⇒ [Mental Irrealism]
 
 
 ## Problem 2: Agency
