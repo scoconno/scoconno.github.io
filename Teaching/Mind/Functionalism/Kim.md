@@ -1,4 +1,4 @@
-## Functionalism
+Functionalism
 
 - Hilary Putnam killed it in the 1960s. Multiple realizability is the key issues. 
 - Physical systems exhibit mentality. 
