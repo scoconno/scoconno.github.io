@@ -1,4 +1,4 @@
-## Functionalism
+Functionalism
 
 ### Alan Turing 
 
