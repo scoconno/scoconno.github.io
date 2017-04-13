@@ -12,7 +12,7 @@ title: Contact
 
 If you are enrolled in a course, please use the Blackboard messaging app. That app allows me keep track of all messages for a particular course and is far easier to use than email. It also allows me to easily comply with Federal Law concerning the privacy of education records (FERPA).
 
-If you are not currently enrolled in my course,  email is the only way to contact me. Do not telephone the office. They will not give you my private number and I am unlikely able to take your call in my office. I will not reply to voice mails. 
+If you are not currently enrolled in my course,  email is the only way to contact me. Do not telephone the office. They will not give you my private number and I am unlikely able to take your call in my office. I will not reply to voicemails. 
 
 Please check the syllabus before contacting me. If it is covered in the syllabus, I likely won’t respond. If you would like a response, please adhere to these basic etiquette guidelines:
 
