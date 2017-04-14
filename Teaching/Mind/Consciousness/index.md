@@ -10,7 +10,7 @@ title: Consciousness 1
 Two problems: 
 
 1. What is consciousness? What are its features? How best can they be described?
-2. How does the consciousness come to exist? If from the brain, how so?
+2. How does consciousness come to exist? If from the brain, how so?
 
 > But what consciousness is, we know not; and how it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue, is just as unaccountable as the appearance of the Djin when Aladdin rubbed his lamp in the story, or as any other ultimate fact of nature (Huxley). 
 
@@ -51,17 +51,47 @@ Nagel uses the examples of bats to argue for the 'what it's like' quality of con
 > The problem is not confined to exotic cases, however, for it exists between one person and another. The subjective character of the experience of a person deaf and blind from birth is not accessible to me, for example, nor presumably is mine to him. This does not prevent us each from believing that the other's experience has such a subjective character.(440)
 
 
+## Qualia
+
 “What it is like” refers to the specific qualitative character of experiences, e.g., the redness of a visual percept, the hurtfulness of a pain, the smell of fresh newsprint, the tactile feel of a cool marble surface, etc. These qualitative aspects of experiences are now called “qualia” (“quale” for the singular).
+
+An itch feels different from a tickle. A sharp pain feels different from a burning one. Thirst feels different from hunger. Seeing something that looks green is different from seeing something that looks blue. Imagine a chili on your tongue. Now imagine a chocolate on your tongue. Not only can you tell the difference between the chocolate and the chili, the chocolate and chili cause  different conscience feelings in you. It feels a certain way when you taste chocolate, and it feels a certain way when you taste a chili, and those two feelings are different. Philosophers use the word 'qualia' to explain these different feature, though the following are also used: 
+
+1. Phenomenal properties
+2. Phenomenological properties
+3. Raw feels
+4. What it's like
+
+These terms are ways of getting you to identify something you are already familiar with it. They aren't meant to introduce you to something new. If you are not already familiar from your own mental life that mental states have a dis­tinctive feel, these words will mean nothing to you. 
+
+There is plenty of evidence for qualia. Consider first your experience of color:  
+
+![Colors](figure1.gif)
+
+It is tempting to think that your experience of color is to be explained fully in terms of the properties and features of what you see. The content of your experience just is the external object and its features. But there seems to be something more to our expierences than the objects we experience and their properties. Imagine that a person, Ted, suffers an unusual brain injury. The parts of their brain responsible for vision inverts the colors of the objects they had experienced in the past: 
+
+![Inverted](inverted.jpg)
+
+Before Ted's accident, he placed a strawberry in his fridge. That strawberry appeared red to him. After the injury, he returns to the fridge and takes out from the fridge the strawberry. But it now looks green to him! He is very unsettled by this. The reason is that green looks so different than red. Obviously, there is more to Ted's experience of the strawberry than just the external object. His perceptual experience of the strawberry has properties, perceptual properties, or qualia, that are different from the properties of the strawberry. These properties changed after the brain injury. 
+
+We don't need such a bizarre example to be convinced that there are qualia. Consider that sensational dress that caused such an internet outcry. What color is it? 
+
+![What color is the dress?](dress.jpg)
+
+Some were adamant that the dress was white and gold. Others were adamant that it was blue and black. Neither group would budge. Both groups saw the same dress, but the qualia of their relevant perceptions of the dress was different. 
+
+Bodily sensations and perceptual experiences clearly have qualia. Cognitive states likes beliefs, hopes, and emotions don't clearly have such qualia, or, at least, they are not individuated by the qualia they have. So, for instance, anger and pride may have certain feelings associated with them, but they aren't merely certain feelings. Pride and anger also have different propositional contents associated with them, e.g., pride has some belief about merit attached. 
+
 
 ## Types of consciousness
 
+The notion of qualia, or "what it's like" allows us draw some interesting distinctions about consciousness. Conisder this claim by Nage: 
+
 > fundamentally an organism has **conscious mental states** if and only if there is **something that it is like to *be* that organism**-something it is like *for* the organism (436)
 
-Awareness:
-: attending to something, e.g., I am conscious of the time. (Not our primary interest). 
+Nagel in fact is really pointing to two phenomena. 1) What it is like to be a creature of a certain sort, and 2) what it's like to have a mental state of a certain sort. 
 
-State Consciousness (two ideas): 
-: a mental state is a conscious state just in case the subject whose state it is is conscious of it.
+State Consciousness: 
 : a state of a creature is conscious if there is something it is like to be in that state.
 
 Some conscious states
@@ -78,47 +108,15 @@ Creature (subject) Consciousness:
 
 
 
-
-
-
-
 + According to Nagel, “our own mental activity is the only unquestionable fact of our experience”, meaning that each individual only knows what it is like to be them (Subjectivism). 
 + Objectivity, requires an unbiased, non-subjective state of perception. For Nagel, the objective perspective is not feasible, because humans are limited to subjective experience.
 + The reason is that every subjective phenomenon is essentially connected with a single point of view, and it seems inevitable that an objective, physical theory will abandon that point of view.
 
 
-## Qualia
-
-An itch feels different from a tickle. A sharp pain feels different from a burning one. Thirst feels different from hunger. Seeing something that looks green is different from seeing something that looks blue. Imagine a chili on your tongue. Now imagine a chocolate on your tongue. Not only can you tell the difference between the chocolate and the chili, the chocolate and chili cause  different conscience feelings in you. It feels a certain way when you taste chocolate, and it feels a certain way when you taste a chili, and those two feelings are different. Philosophers use the word `qualia' to explain these different feature, though the following are also used: 
-
-1. Phenomenal properties
-2. Phenomenological properties
-3. Raw feels
-4. What it's like
-
-These terms are ways of getting you to identify something you are already familiar with it. They aren't meant to introduce you to something new. If you are not already familiar from your own mental life that mental states have a dis­tinctive feel, these words will mean nothing to you. 
-
-There is plenty of evidence for qualia. Consider first your experience of color:  
-
-![Colors](figure1.gif)
-
-It is tempting to think that your experience of color is to be explained fully in terms of the properties and features of what you see. The content of your experience just is the external object and its features. But there seems to be something more to our expierences than the objects we experience and their properties. Imagine that a person, Ted, suffers an unusual brain injury. The parts of their brain responsible for vision inverts the colors of the objects they had experienced in the past: 
-
-![Inverted](Inverted.jpg)
-
-Before Ted's accident, he placed a strawberry in his fridge. That strawberry appeared red to him. After the injury, he returns to the fridge and takes out from the fridge the strawberry. But it now looks green to him! He is very unsettled by this. The reason is that green looks so different than red. Obviously, there is more to Ted's experience of the strawberry than just the external object. His perceptual experience of the strawberry has properties, perceptual properties, or qualia, that are different from the properties of the strawberry. These properties changed after the brain injury. 
-
-We don't need such a bizarre example to be convinced that there are qualia. Consider that sensational dress that caused such an internet outcry. What color is it? 
-
-![What color is the dress?](dress.jpg)
-
-Some were adamant that the dress was white and gold. Others were adamant that it was blue and black. Neither group would budge. Both groups saw the same dress, but the qualia of their relevant perceptions of the dress was different. 
-
-Bodily sensations and perceptual experiences clearly have qualia. Cognitive states likes beliefs, hopes, and emotions don't clearly have such qualia, or, at least, they are not individuated by the qualia they have. So, for instance, anger and pride may have certain feelings associated with them, but they aren't merely certain feelings. Pride and anger also have different propositional contents associated with them, e.g., pride has some belief about merit attached. 
 
 ## Phenomenal and Access Consciousness
 
-Noticing that there are cases of qualia allows us to frame interesting questions about consciousness and ask some pressing questions. Consider these two cases: 
+Noticing that there are qualia allows us to raise interesting questions about consciousness and ask some pressing questions. Consider these two cases: 
 
 **Blindsight**
 
@@ -153,20 +151,25 @@ There are three ways of relating access consciousness (a-consciousness) and phen
 
 ## Blindsight
 
-Return now to our problematic cases. Blindsight is a case where you have a-consciousness without p-consciousness. Of course, you might claim that these people don't have a-consciousness of the stimuli in their blind region. Blindsight patients must be prompted by an experimenter before they will `take a guess'. But Block asks us to imagine a super-blindsighter who had acquired the ability to guess when to guess about the content of her blind field. Even though she doesn't see the objects in her blind field, she can spontaneously offer verbal reports about those objects. Information about her blind field just spring into her thoughts. A super-blindsighter would be a-conscious but not p-conscious.
-
-## P-consciousness without A-consciousness
-
-**Case 1: Damage**
-
-The human visual system is divided into two separate subsystems - the ventral and dorsal subsystems. 
+Return now to our problematic cases. Blindsight is a case where you have a-consciousness without p-consciousness. How might this happen? The human visual system is divided into two separate subsystems - the ventral and dorsal subsystems. 
 
 ![Ventral and dorsal subsystems](dorsal.jpg)
 
 
 The ventral system is responsible for object recognition and classification. It is responsible for recognizing that an object is a chair as opposed to a dolphin, a tree as opposed to a building, etc. The dorsal system is is responsible for recognizing spatial features such as location and motion, e.g., for recognizing that the dog is moving and that the dog is closer to us than the cat. Block associates P-consciousness with the ventral system. It's noticeable that in blindsight there seems to be damage to the ventral system.
 
-Suppose the damage occurred the other way. That there was damage to the dorsal system, but not the ventral system. Block believes that in such cases we would have f P-Consciousness without A-Consciousness. Unlike the blindsight case, though, note that the person with p but not a conscious would not be able to report to us what they are p-conscious about. Lacking A-Consciousness implies that the content of the p-conscious state is not available for rational manipulation, including reporting things like "I see a blue goose". 
+Of course, you might claim that these people don't have a-consciousness of the stimuli in their blind region. Blindsight patients must be prompted by an experimenter before they will 'take a guess'. But Block asks us to imagine a super-blindsighter who had acquired the ability to guess when to guess about the content of her blind field. Even though she doesn't see the objects in her blind field, she can spontaneously offer verbal reports about those objects. Information about her blind field just spring into her thoughts. A super-blindsighter would be a-conscious but not p-conscious.
+
+
+
+
+## P-consciousness without A-consciousness
+
+**Case 1: Damage**
+
+
+
+Suppose the damage occurred the other way. That there was damage to the dorsal system, but not the ventral system. Block believes that in such cases we would have f P-Consciousness without A-Consciousness. Unlike the blindsight case, though, note that the person with p but not a conscious would not be able to report to us what they are p-conscious about. Lacking a-Consciousness implies that the content of the p-conscious state is not available for rational manipulation, including reporting things like "I see a blue goose". 
 
 **Case 2: subconscious thoughts**
 
