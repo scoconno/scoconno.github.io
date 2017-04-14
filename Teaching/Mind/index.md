@@ -198,9 +198,9 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Reading
 	+ Textbook, ch.9, pp.280--289
 	+ ['Knowing Our Minds',](Consciousness/Byrne.pdf) A. Byrne
-	+ ['Consciousness as Internal Monitoring',](Consciousness/Internal.pdf) William G. Lycan
+	+ ['Consciousness as Internal Monitoring',](Consciousness/Internal.pdf) William G. Lycan (optional)
 + Assignments
-	+ Complete essay 5
+	+ Complete essay 5 by 4/24/17
 
 ***
 
@@ -209,8 +209,9 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Reading
 	+ Textbook, ch.9, pp.289*ff*
 	+ ‘How do you know you are not a Zombie', F. Dretske
+	+ 'The Mind's Awareness of Itself', F. Dretske (optional)
 + Assignments
-	+ Complete quiz 7
+	+ Complete quiz 7 bt 5/1/17
 
 ***
 
@@ -219,13 +220,14 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Reading
 	+ Textbook, ch.10
 	+ ‘Epiphenomenal Qualia', F. Jackson
-	+ 'Qualia: The Knowledge Argument', Martine Nida-Rümelin 
+	+ 'Qualia: The Knowledge Argument', Martine Nida-Rümelin (optional)
 + Assignments
-	+ Complete quiz 8
+	+ Complete quiz 8 by 5/8/17
 + Videos
 	+ [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
 + Podcasts
 	+ [Frank Jackson on What Mary Knew,](http://hwcdn.libsyn.com/p/4/4/6/446346944c84176f/Frank_Jackson_on_What_Mary_Knew.mp3?c_id=3656392&expiration=1491757499&hwt=660df0718abf741846fb4ed0de27c37d)
+
 ***
 
 **Week 16 (5/8/17):** Continued
