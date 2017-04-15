@@ -200,7 +200,8 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 	+ ['Knowing Our Minds',](Consciousness/Byrne.pdf) A. Byrne
 	+ ['Consciousness as Internal Monitoring',](Consciousness/Internal.pdf) William G. Lycan (optional)
 + Assignments
-	+ Complete essay 5 by 4/24/17
+	+ Complete [essay 5](/Teaching/Mind/Consciousness/Essay) by 4/24/17
+	+ [Sample response from essay 4.](/Teaching/Mind/Causation/sample.pdf) This paper earned an A-. It would have received an A, if it had included more examples and a few more sentences about why the four claims are contradictory. 
 
 ***
 
