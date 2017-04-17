@@ -179,3 +179,110 @@ https://www.youtube.com/watch?v=UYSKW3IvZlQ
  
 
 Do animals have phenomenal consciousness without access consciousness? 
+
+
+## Access consciousness
+
+![First vs. Second](dog.jpg)
+
+
+![First vs. Second](second.jpg)
+
+First order mental states: 
+: States that are not about the mind, including states are about the external world, e.g., seeing a tree, hearing music, etc. 
+
+Second order mental states: 
+: States that are about first order mental states, e.g., our awareness of our sight of the tree. 
+
+
+We have special access to our mental states. Remember that Descartes claimed that we were immediately aware of our conscious mental states. 
+
+1. We have special authority over our mental states. Your belief that you are in a certain mental state has more epistemic weight than any third person judgement about your states. 
+2. There is an asymmetry between first person and third person knowledge. 
+3. Such knowledge is not based on or inferred from evidence about other things. You know what mental states you have and what they are like by in some special way having those states. 
+
+Claim 1: 
+: Access consciousness involves an awareness of one's own mental states--the difference between a conscious and unconscious first order mental state is that we have awareness of the former, but not the latter. 
+
+*Example 1:* You see the road and hear the traffic, but you are not aware of what you see and what you hear when you are talking to your friend. You become aware of what you see and what you hear by becoming aware of your awareness of the car and the traffic. 
+
+*Example 2:* The person in an agitated state does not notice the pain in their side when shot or injured during battle. When they become aware of their pain, they have a second order mental state about their first order mental state. 
+
+Claim 2: 
+: A creature is conscious just in case it is capable of being aware of its own first order mental states. 
+
+
+**How do we become aware of our first-order mental states?**
+
+
+### Higher Order Perception 
+
+![Internal Perceptions](third.jpg)
+
+HOP: A mental state is a conscious state just in case there is a higher order perception of it--or perception of being in that state. 
+
+**In favor of HOP:** 
+
++ Sense modalities respond differentially to a range of stimuli as being conscious might respond to a range of mental states. The pain imposes itself more immediately than the feel of the fabric.
++ Sense modalities respond directly and consciousness is supposed to be immediate. Flash a bright light in someone's eyes and there is an immediate perception. Similarly, there is nothing intermediate needed to cause you to notice a mental state. 
+
+Against HOP:
+
++ Mental states do not exemplify a single range of stimuli as sensory modalities do. Hearing is of sound. Vision is of color and shape. Smell is of odors. If we are aware of our mental states by strictly perceiving them, then it seems there should be some specific range of stimuli that this inner perception detects. But it detects a wide range of very disparate mental states, so it doesn't seem like perception at all.  
+
+![What difference?](dog.jpg)
+
++ Since each perceptual experience has unique content, we expect our higher oder perception to have some unique content, content that distinguishes it from first order mental states, in particular, first order perceptual states. But what is this content? 
+
+![What does the perceiving?](organ.jpg)
+
++ Each sense modality has its own organ. So, higher order perception require its own organ. But there is no such organ. 
+
+
+
+
+
+
+
+
+
+
+
+## Higher Order Thought
+
+A mental state's being conscious consists in one's having a thought that one is in that very mental state. 
+
+Both claim there is a metapsychological state
+
+
+Our perception or thought about a state makes the content of that state accessible to other cognitive activities. 
+
+
+Issue will be with phenomenal consciousness. 
+
+
+
+
+
+
+For HOT
++  Thinking is not limited to a single range of stimuli. 
++  Thinking is just as unmediate. 
++  Thinking does not have characteristic qualities. 
++  Simple concepts are all that is needed for HOT. The more complex the concepts, the more complicated the HOTs. But complex HOTs are not needed to have HOT, e.g., I don't need to be able to think that wine is produced from grapes for me to have some kind of simple thought about the taste of wine. 
+
+Against HOT
++ Too many thoughts needed to account for all conscious states. 
+
+
+
+What about introspect? 
++ Is this a third order reflection on the second order state? 
++ In general, we seem aware of the fact that we have awareness of our mental states. But what does this consist of? 
++ Think of mental scanning. You first ask them to attend to their first order mental states. You do this by having a second order mental state. I suppose you also ask to attend to emotions which are first order. But you then ask them to attend to their thoughts. You ask them to suspect their judgement about their thoughts, e.g., "this pain is terrible" might involve a second order reflection on the first order pain. But then you practice--suspend your judgement about this thought. This seems to involve awareness of the fact you have a second order thought. How is this possible? 
++ Suffering is pain plus judgement. 
+
+
+
+
+
