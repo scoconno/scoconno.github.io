@@ -221,12 +221,22 @@ Claim 2:
 
 HOP: A mental state is a conscious state just in case there is a higher order perception of it--or perception of being in that state. 
 
-**In favor of HOP:** 
+Our first theory states that higher order states are very much like perceptual states. To be in these higher order states is akin to seeing, or smelling, or hearing, etc. Just as we see the color,  so too we have an inner perception of our mental states. Such a view is often called an inner sense theory of consciousness as defenders of this view believe that we become aware of our mental states by sensing them, e.g., just as you can look around the room, so too you can 'look' around your mind. 
+
+**In favor of HOP** 
+
+One way of defending HOP is to argue that the awareness of our mental states has the same features as our perceptions of the external world. Analogously, a person might try argue that some music belongs to a particular genre by arguing that the music appropriately resembles that genre. For instance, one might that argue Joy Division's music belongs to the genre of post-punk as follows: post-punk music is experimental and anti-corporatist. Joy Divisions's music was experimental and anti-corporatist. Therefore, Joy Division's music was post-punk. 
+
+The argument for HOP has a similar strategy: 1) perception has some features, x, y, z. 2) Awareness of our own mind has features x, y, z. 3) Thus we are aware of our own minds by perceiving them. Here are two similarities:  
 
 + Sense modalities respond differentially to a range of stimuli as being conscious might respond to a range of mental states. The pain imposes itself more immediately than the feel of the fabric.
 + Sense modalities respond directly and consciousness is supposed to be immediate. Flash a bright light in someone's eyes and there is an immediate perception. Similarly, there is nothing intermediate needed to cause you to notice a mental state. 
 
-Against HOP:
+**Against HOP**
+
+I argued that Joy Division's music was post-punk by claiming that their music has some features of post-punk music. One way of blocking this argument is to find some other important feature of post-punk that is not shared by Joy Division's music, e.g., post-punk is not melodic, but Joy Division's music was. 
+
+A similar strategy is used to show that we are not aware of our mental states by perceiving them, i.e., a strategy that identifies important differences between our awareness of our minds and our perception of the external world:   
 
 + Mental states do not exemplify a single range of stimuli as sensory modalities do. Hearing is of sound. Vision is of color and shape. Smell is of odors. If we are aware of our mental states by strictly perceiving them, then it seems there should be some specific range of stimuli that this inner perception detects. But it detects a wide range of very disparate mental states, so it doesn't seem like perception at all.  
 
@@ -239,48 +249,63 @@ Against HOP:
 + Each sense modality has its own organ. So, higher order perception require its own organ. But there is no such organ. 
 
 
-
-
-
-
-
-
-
++ Ordinary perceptions sometimes malfunction. If we are aware of our mental states by perceiving them, then this perception should also be capable of malfunction. But it seems incoherent that someone could have an accurate first-order perception while having a false higher-order perception.
 
 
 ## Higher Order Thought
 
+![Inner Thoughts](date.jpg)
+
+1. The awareness of our mental states is conceptual (not perceptual). It is by coming to believe that I am undergoing an experience of red that the experience becomes phenomenally conscious, e.g., I say to myself 'I am experiencing something' and saying this to myself is what explain why I aware of the red experience. 2. Some believe that the higher-order thought accompanies the experience itself — it is actually occurring at the same time. Others believe that it does not need to actually occur at the same time, but believe that the first order mental states must be immediately available for us to think about (even if we aren't actually thinking about them). This distinction isn't that important for our purposes. 
+
+
+## What are thoughts? 
+
+Concept 
+> A semantically evaluable, redeployable constituent of thought, invoked to explain properties of intentional phenomena such as productivity and systematicity. Applied to an assortment of phenomena including mental representations, images, words, stereotypes, senses, properties, reasoning abilities, mathematical functions, etc. (Dictionary of Philosophy of Mind)
+
+Nonconceptual content
+
+> A content, possibly of a non- or sub- doxastic state, whose canonical specification employs concepts which the subject need not possess in order to entertain the content, but rather might, for instance, be canonically specified in terms of abilities and skills the subject possesses, or in terms of significant though nonconceptualized experience
+
+
+A content of a state that can be specified without words and concepts available to the bearer of that state. 
+
+Conceptual vs. non-conceptual content. 
+
+Experience: something it’s like for you to be in e.g., feeling pain or dizziness. 
+
+Intentionality: has to do with the directedness, aboutness, or reference of mental states—the fact that, for example, you think of or about something.
+
+
+Thoughts are propositional attitudes. They have conceptual content. The content is specified in terms of a 'that' clause. Different languages can express the very same content. These content expressed has truth conditions. There are different attitudes, e.g., hoping, believing, etc. 
+
+The content of these states must be specified in terms of concepts possessed by the actual thinker. For our purposes, we will just say that concepts are the referents of words. 
+
+Mental states have conceptual content if that content 
+
 A mental state's being conscious consists in one's having a thought that one is in that very mental state. 
 
-Both claim there is a metapsychological state
-
-
-Our perception or thought about a state makes the content of that state accessible to other cognitive activities. 
-
-
-Issue will be with phenomenal consciousness. 
 
 
 
 
 
-
-For HOT
-+  Thinking is not limited to a single range of stimuli. 
-+  Thinking is just as unmediate. 
-+  Thinking does not have characteristic qualities. 
-+  Simple concepts are all that is needed for HOT. The more complex the concepts, the more complicated the HOTs. But complex HOTs are not needed to have HOT, e.g., I don't need to be able to think that wine is produced from grapes for me to have some kind of simple thought about the taste of wine. 
-
-Against HOT
-+ Too many thoughts needed to account for all conscious states. 
+Having a propositional attitude involves standing in a certain relation to a conten
 
 
+In favor of HOT over HOP: 
++ Thinking is not limited to a single range of stimuli in the way perception is limited. 
++ Thinking is just as immediate as perception. 
++ Thinking does not require an internal sense organ.  
+ 
 
-What about introspect? 
-+ Is this a third order reflection on the second order state? 
-+ In general, we seem aware of the fact that we have awareness of our mental states. But what does this consist of? 
-+ Think of mental scanning. You first ask them to attend to their first order mental states. You do this by having a second order mental state. I suppose you also ask to attend to emotions which are first order. But you then ask them to attend to their thoughts. You ask them to suspect their judgement about their thoughts, e.g., "this pain is terrible" might involve a second order reflection on the first order pain. But then you practice--suspend your judgement about this thought. This seems to involve awareness of the fact you have a second order thought. How is this possible? 
-+ Suffering is pain plus judgement. 
+Against HOT: 
++ I am aware of things that I don't have any concepts for, and thus cannot have any thoughts about: 
+
+![Colors](green.png)
+
++ I am aware of my thoughts, e.g., I say to myself 'stop thinking about whether to eat the chocolate you smell and think instead about class tomorrow'. Here I have a second oder thought about chocolate, or rather, I am aware of the sight of chocolate. But I also have a higher order thought about that second order thought, namely, I should stop having that second order thought. Is this a third order thought? 
 
 
 
