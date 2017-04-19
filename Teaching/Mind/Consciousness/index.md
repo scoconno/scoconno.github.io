@@ -189,7 +189,7 @@ Do animals have phenomenal consciousness without access consciousness?
 ![First vs. Second](second.jpg)
 
 First order mental states: 
-: States that are not about the mind, including states are about the external world, e.g., seeing a tree, hearing music, etc. 
+: States that are not about the mind, including states that are about the external world, e.g., seeing a tree, hearing music, etc. 
 
 Second order mental states: 
 : States that are about first order mental states, e.g., our awareness of our sight of the tree. 
@@ -197,8 +197,8 @@ Second order mental states:
 
 We have special access to our mental states. Remember that Descartes claimed that we were immediately aware of our conscious mental states. 
 
-1. We have special authority over our mental states. Your belief that you are in a certain mental state has more epistemic weight than any third person judgement about your states. 
-2. There is an asymmetry between first person and third person knowledge. 
+1. Privilege: We have special authority over our mental states. Your belief that you are in a certain mental state has more epistemic weight than any third person judgement about your states. 
+2. Peculiarity: There is an asymmetry between first person and third person knowledge. 
 3. Such knowledge is not based on or inferred from evidence about other things. You know what mental states you have and what they are like by in some special way having those states. 
 
 Claim 1: 
@@ -256,56 +256,40 @@ A similar strategy is used to show that we are not aware of our mental states by
 
 ![Inner Thoughts](date.jpg)
 
-1. The awareness of our mental states is conceptual (not perceptual). It is by coming to believe that I am undergoing an experience of red that the experience becomes phenomenally conscious, e.g., I say to myself 'I am experiencing something' and saying this to myself is what explain why I aware of the red experience. 2. Some believe that the higher-order thought accompanies the experience itself — it is actually occurring at the same time. Others believe that it does not need to actually occur at the same time, but believe that the first order mental states must be immediately available for us to think about (even if we aren't actually thinking about them). This distinction isn't that important for our purposes. 
+1. The awareness of our mental states is conceptual (not perceptual). It is by coming to believe that I am undergoing an experience of red that the experience becomes phenomenally conscious, e.g., I say to myself 'I am experiencing something red' and saying this to myself is what explains why I aware of the red experience. 
+2. Some believe that the higher-order thought accompanies the experience itself — it is actually occurring at the same time. Others believe that it does not need to actually occur at the same time, but believe that the first order mental states must be immediately available for us to think about (even if we aren't actually thinking about them). This distinction isn't that important for our purposes. 
 
 
 ## What are thoughts? 
 
-Concept 
+Thoughts are mental states with conceptual content. But what does that mean? 
+
+Conceptual content: 
 > A semantically evaluable, redeployable constituent of thought, invoked to explain properties of intentional phenomena such as productivity and systematicity. Applied to an assortment of phenomena including mental representations, images, words, stereotypes, senses, properties, reasoning abilities, mathematical functions, etc. (Dictionary of Philosophy of Mind)
 
-Nonconceptual content
-
-> A content, possibly of a non- or sub- doxastic state, whose canonical specification employs concepts which the subject need not possess in order to entertain the content, but rather might, for instance, be canonically specified in terms of abilities and skills the subject possesses, or in terms of significant though nonconceptualized experience
-
-
-A content of a state that can be specified without words and concepts available to the bearer of that state. 
-
-Conceptual vs. non-conceptual content. 
-
-Experience: something it’s like for you to be in e.g., feeling pain or dizziness. 
-
-Intentionality: has to do with the directedness, aboutness, or reference of mental states—the fact that, for example, you think of or about something.
+Nonconceptual content:
+> A content, possibly of a non- or sub- doxastic state, whose canonical specification employs concepts which the subject need not possess in order to entertain the content, but rather might, for instance, be canonically specified in terms of abilities and skills the subject possesses, or in terms of significant though nonconceptualized experience. (Dictionary of Philosophy of Mind)
 
 
-Thoughts are propositional attitudes. They have conceptual content. The content is specified in terms of a 'that' clause. Different languages can express the very same content. These content expressed has truth conditions. There are different attitudes, e.g., hoping, believing, etc. 
+Yikes! These definitions are hard, but the simple idea is that nonconceptual content is content that can be specified without words and concepts available to whoever or whatever is in that state. If insencts have mental states, the content of those states might very well be nonconceptual as they may have no concepts they can use to describe that content. Conceptual content, on the other hand, is content of a state that is characterized by the words and concepts available to whoever is in that state. 
 
-The content of these states must be specified in terms of concepts possessed by the actual thinker. For our purposes, we will just say that concepts are the referents of words. 
+Conceptual content is often characterized as propositional and thought characterized as a propositional attitude. A proposition is whatever comes after a 'that' clause, e.g., in the sentence "Socrates said that Meno was at the part last night", the proposition *Meno was at the party last night* is one that Socrates apparently reported. Every proposition is either true or false. The sentence "Yeah for chocolate" is neither true nor false. It's not important what language we use to express a proposition, different languages can express the very same content. There are also different attitudes we can take towards propositions, e.g., hoping that the cat is on the mat, believing that the cat is on the mat, etc. 
 
-Mental states have conceptual content if that content 
-
-A mental state's being conscious consists in one's having a thought that one is in that very mental state. 
+The claim that a thought as a mental state with conceptual content is best understood then as the claim that thoughts are propositional attitudes where the content can be characterized with words that whoever is in that state possesses. The HOT theory say that our awareness of our first mental states---those mental states are consscious as opposed to unconscious---just  consists in one's having a thought that one is in that very mental state, e.g., my awareness of my red experience just consists in my having the thought "I am having a reading experience", or perhaps "there is a red experience is occurring."
 
 
-
-
-
-
-Having a propositional attitude involves standing in a certain relation to a conten
-
-
-In favor of HOT over HOP: 
-+ Thinking is not limited to a single range of stimuli in the way perception is limited. 
-+ Thinking is just as immediate as perception. 
-+ Thinking does not require an internal sense organ.  
+**In favor of HOT over HOP** 
+1. Thinking is not limited to a single range of stimuli in the way perception is limited. 
+2. Thinking is just as immediate as perception. 
+3. Thinking does not require an internal sense organ.  
  
 
-Against HOT: 
-+ I am aware of things that I don't have any concepts for, and thus cannot have any thoughts about: 
+**Against HOT** 
+1. I am aware of things that I don't have any concepts for, and thus cannot have any thoughts about. 
 
 ![Colors](green.png)
 
-+ I am aware of my thoughts, e.g., I say to myself 'stop thinking about whether to eat the chocolate you smell and think instead about class tomorrow'. Here I have a second oder thought about chocolate, or rather, I am aware of the sight of chocolate. But I also have a higher order thought about that second order thought, namely, I should stop having that second order thought. Is this a third order thought? 
+2. I am aware of my thoughts, e.g., I say to myself 'stop thinking about whether to eat the chocolate you smell and think instead about class tomorrow'. Here I have a second oder thought about chocolate, or rather, I am aware of the sight of chocolate. But I also have a higher order thought about that second order thought, namely, I should stop having that second order thought. Is this a third order thought? 
 
 
 
