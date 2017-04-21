@@ -8,7 +8,7 @@ title: Instructions
 
 ## Study
 
-Complete these tasks in order"
+Complete these tasks in order:
 
 + Read 'The Ones Who Walk Away from Omelas’, Ursula Le Guin, pp.191–194 
 + Read chapter 3.3
