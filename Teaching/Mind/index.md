@@ -202,6 +202,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 + Assignments
 	+ Complete [essay 5](/Teaching/Mind/Consciousness/Essay) by 4/24/17
 	+ [Sample response from essay 4.](/Teaching/Mind/Causation/sample.pdf) This paper earned an A-. It would have received an A, if it had included more examples and a few more sentences about why the four claims are contradictory. 
++ [Notes:](/Teaching/Mind/Consciousness) these are from the last two weeks. 
 
 ***
 
