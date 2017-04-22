@@ -6,14 +6,14 @@ title: Wednesday
 
 ## Presentations
 
-There is no in-person meeting on Wednesday, April 26th. Instead, you will be working on your presentations that begin the following week. You can find the schedule of presentations [here](https://docs.google.com/spreadsheets/d/11tGob1eYD6Qxo6XNt3-c1bVhFzmWxWTVWkMccWhEMTI/edit?usp=sharing). Those of you who have yet to schedule your presentations, should contact me. You can find full details of the signature assignment [here.](Teaching/Examined/Applied/Essay) Each presentation must include four slides as follows: 
+There is no in-person meeting on Wednesday, April 26th. Instead, you will be working on your presentations that begin the following week. You can find the schedule of presentations [here](https://docs.google.com/spreadsheets/d/11tGob1eYD6Qxo6XNt3-c1bVhFzmWxWTVWkMccWhEMTI/edit?usp=sharing). Those of you who have yet to schedule your presentations, should contact me. You can find full details of the signature assignment [here.](/Teaching/Examined/Applied/Essay) Each presentation must include four slides as follows: 
 
 + Slide 1: introduce your question. Define any relevant terms in the question and say a little about why it is interest. 
 + Slide 2: summary of task 1. 
 + Slide 3: summary of task 2. 
 + Slide 4: summary of task 3. 
 
-## Slide Constructino 
+## Slide Construction 
 
 Instead of the slides containing all the information you will present, use the slides as visual cues to structure your discussion. Here are a few main points to remember: 
 
