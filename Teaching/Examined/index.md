@@ -130,11 +130,14 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ Complete quiz 6 in Blackboard by Monday 4/24/2017 @ 12:00pm
 
 + **Week 14 (4/24/2017)**
+	+ **No in person class on Wednesday, April 26th. Click [here](Applied/extra) for substitute work.** 
 	+ [Notes 1](Ethics/Handout3)
-	+ [Notes 2](Ethics/Handout4)
 	+ [‘A Horseman in the Sky’,](Ethics/Horseman.pdf) Ambrose Pierce
-	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer
+	+ [Kant's Ethics Video 1](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
+	+ [Kant's Ethics Video 2](https://www.youtube.com/watch?v=8bIys6JoEDw)
 	+ Complete quiz 7 in Blackboard by Monday 5/1/2017 @ 12:00pm
+	+ [Virtue Ethics:](Ethics/Handout4) optional survey of a third ethical theory. 
+	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer, optional short story about virtue ethics.  
 
 + **Week 15 (5/1/2017)**
 	+ Presentations. 

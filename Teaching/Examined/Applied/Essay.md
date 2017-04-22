@@ -48,7 +48,7 @@ Each of you will give an in class presentation on your chosen topic before the f
 + Slide 1: introduce your question. Define any relevant terms in the question and say a little about why it is interest. 
 + Slide 2: summary of task 1. 
 + Slide 3: summary of task 2. 
-+ Slide 4: summary of task 4. 
++ Slide 4: summary of task 3. 
 
 **NB:** Don't fill your slides with text. Pictures, graphs, a few bullet points are much easier to follow. The slides will then be used to structure your presentation. 
 
