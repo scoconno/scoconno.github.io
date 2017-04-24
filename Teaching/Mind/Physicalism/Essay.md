@@ -24,13 +24,13 @@ Physicalism is the belief that mental events and their properties are entirely p
 
 This assignment involves three distinct tasks, each with its own sub-tasks.  
 
-**Task 1: Formulate Jackson's Knowledge Argument:** To do this, you must do the following: 
+**Task 1: Formulate Jackson's Knowledge Argument:** To do this, you do the following: 
 
 1. Identify the premises of the Knowledge Argument. 
 2. Explain each premise carefully in your words. Use your own examples. 
 3. Explain why the conclusion of the argument shows physicalism to be false. 
 
-**Task 2: Explain one of the four objections to Jackson's Knowledge Argument---your choice!** To do this:
+**Task 2: Explain one of the four objections to Jackson's Knowledge Argument---your choice!** To do this, do the following: 
 
 1. Read the entry on the Knowledge Argument in the Stanford Encyclopedia [here](https://plato.stanford.edu/entries/qualia-knowledge) or a different encyclopedia entry [here](http://www.iep.utm.edu/know-arg/). You can also read the relevant entry in the textbook.
 2. Pick **one** academic source that argues for your chosen objection. 
@@ -38,7 +38,7 @@ This assignment involves three distinct tasks, each with its own sub-tasks.
 4. If a premise, identify which premise and explain how the article objects to that premise in your own words. Use your own examples.
 5. If the reasoning, identify how the article shows it to be problematic in your own words. Use your own examples.  
 
-**Task 3: Criticize the objection.** To do this: 
+**Task 3: Criticize the objection.** To do this, do the following: 
 
 1. Identify the weakest claim made by the objection. 
 2. Explain why that claim is weak in your own words. Use your own examples. 
