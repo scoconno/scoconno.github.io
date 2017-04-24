@@ -11,7 +11,7 @@ title: Project
 
 ### Introduction 
 
-Our course began by investigating the meaning of life. We asked whether our lives have any external value that is not robbed by our inevitable death. Not only are we mortal, but our friends, family, and loved ones are too. Tolstoy was initially depressed at the apparent futility of our lives and considered suicide. The meaning of life then is intimately connected to questions about mortality and death. In this final part of the course, you will be investigating one of the following ethical questions about death (your choice!)
+Our course began by investigating the meaning of life. We asked whether our lives have any external value that is not robbed by our inevitable death. Tolstoy was initially depressed at the apparent futility of our lives and considered suicide. The meaning of life then is intimately connected to questions about mortality and death. In this final part of the course, you will be investigating one of the following ethical questions about death (your choice!)
 
 1.  Is suicide immoral? 
 
@@ -55,7 +55,7 @@ Each of you will give an in class presentation on your chosen topic before the f
 ### Grade Breakdown
 
 
-This paper is worth 20 points towards your final grade. 5 points will be awarded towards the presentation and 15 points towards towards the final draft. 
+This paper is worth 20 points towards your final grade. 5 points will be awarded towards the presentation and 15 points toward the final draft. 
 
 
 

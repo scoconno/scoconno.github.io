@@ -1,5 +1,10 @@
 \documentclass[]{article}
-%\usepackage{lmodern}
+
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+\rhead{\textsc{Scott O`Connor}}
+
+\usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
@@ -30,6 +35,7 @@
 \else
   \usepackage[unicode=true]{hyperref}
 \fi
+\usepackage[usenames,dvipsnames]{color}
 \hypersetup{breaklinks=true,
             bookmarks=true,
             pdfauthor={},
@@ -43,113 +49,134 @@
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
 \setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{0}
 
 \title{Project}
-\date{}
+\author{Scott O’Connor}
+
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
 
 \begin{document}
-\maketitle
 
-\subsection{Final Projects}\label{final-projects}
+\subsection{Signature Assignment (Final
+Project)}\label{signature-assignment-final-project}
 
-\subsubsection{Special Submission for Final
-Draft}\label{special-submission-for-final-draft}
-
-The final draft of these projects must be submitted through NJCU's Tk20
-site to earn a final grade. Each member of the group must upload the
-final draft individually. Details are here:
-\url{http://www.njcu.edu/general-education/signature-assignment-information-students}
-
-\subsubsection{Due Dates}\label{due-dates}
+\subsubsection{Special Submission
+Instruction}\label{special-submission-instruction}
 
 \begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
+\tightlist
 \item
-  12/07/2016, 12:00pm, first draft submitted through Blackboard
+  Presentation slides must be submitted through \textbf{Blackboard}.
 \item
-  12/07/2016, Presentation day 1
-\item
-  12/12/2016, Presentation day 2
-\item
-  12/16/2016, Final Projects submitted through Tk20. Each student must
-  submit the final project to Tk20. Failure to submit through Tk20 will
-  result in no points for the entire project.
+  The full paper must be submitted through NJCU's Tk20 site to earn a
+  final grade. Details are here:
+  \url{http://www.njcu.edu/general-education/signature-assignment-information-students}
 \end{itemize}
 
-\subsubsection{Final Project}\label{final-project}
+\subsubsection{Introduction}\label{introduction}
 
-This course has a final project instead of a final exam. The project
-consists in identifying and researching some current moral controversy.
-
-Pick \textbf{one} of the follow questions:
+Our course began by investigating the meaning of life. We asked whether
+our lives have any external value that is not robbed by our inevitable
+death. Tolstoy was initially depressed at the apparent futility of our
+lives and considered suicide. The meaning of life then is intimately
+connected to questions about mortality and death. In this final part of
+the course, you will be investigating one of the following ethical
+questions about death (your choice!)
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Is it permissible to abort a fetus?
+  Is suicide immoral?
 \item
-  Should a doctor help her ill patient die commit suicide?
+  Should a doctor help her ill patient commit suicide?
 \item
   Should we ever execute people for their crimes?
 \item
-  Should we allow people to reproduce by cloning?
+  Should we allow coma patients to remain on life support indefinitely?
 \item
-  Should prostitution be legal?
+  Should it be illegal for a person to risk their life by engaging in
+  dangerous activities, e.g., hard drug use, extreme sports, etc?
 \item
-  To what extent should we give to charity?
+  Should people with serious heritable diseases be allowed to have
+  children?
 \item
-  Should it be illegal for women to drink and take drugs while pregnant?
+  Should it be illegal for pregnant women to engage in activities that
+  risk the life of their fetus, e.g., drinking and taking drugs while
+  pregnant?
 \item
-  Should recreational drug use be legalized?
+  Should people have children if they learn that the Earth will be
+  unable to support life in the very near future, either due to a
+  changing climate, or a meteor, etc?
 \item
-  Should employers be required to hire American residents and permanent
-  residents over undocumented workers?
-\item
-  Should we curb climate change for the sake of future generations?
+  Alternative student question approved by the instructor over
+  Blackboard by April 24th.
 \end{enumerate}
 
-\subsubsection{Prompt}\label{prompt}
+\subsubsection{Task}\label{task}
 
-Applied ethicists are more concerned with particular, practical cases
-than with more abstract theoretical questions. They want to know how, if
-at all, a hospital should distribute donated organs, whether it is
-permissible to bribe officials in foreign states to do business, etc.
-The questions listed above are all hot topics in the United States. Your
-job will be to answer your question as an applied ethicist. To do so,
-you need to think both about the effects your issue has on society as a
-whole as well as the effect it has on individuals within that
-assignment. Your assignment comes in three parts:
+The questions listed above are all hot topics in the United States. To
+answer your question, you need to think both about the effects your
+issue has on society as a whole as well as the effect it has on
+individuals within that society. To complete the assignment, you will do
+the following three things:
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\item
-  After researching articles at www.nj.com, identify some specific
-  individual who has been affected by your chosen issue. Detail the real
-  life downsides and benefits to that person, their friends, and their
-  families. What would the benefits and downsides have been if the event
-  had not occurred? Back up your answer with evidence from the newspaper
-  articles. (400--600 words)
-\item
-  After researching articles at www.nj.com from the last 5 years,
-  outline the major downsides and benefits of the current policy
-  governing your chosen issue for society as a whole. What are the
-  likely major downsides and benefits for society as a whole if the
-  policy is changed? Provide full citations to the newspaper articles.
-  (400--600 words)
-\item
-  Given the information that you presented in the first two parts of
-  your paper, state your answer to the question and explain how the
-  information from the first two parts of the paper influenced your
-  answer. (200--400 words)
-\end{enumerate}
+\begin{description}
+\tightlist
+\item[Task 1:]
+After researching articles at www.nj.com, identify some specific
+individual who has been affected by your chosen issue. Detail the real
+life costs and benefits to that person, their friends, and their
+families. What would the benefits and costs have been if the event had
+not occurred? Back up your answer with evidence from the newspaper
+articles. (600--800 words)
+\item[Task 2:]
+After researching articles at www.nj.com from the last 5 years, outline
+the major costs and benefits of the current policy governing your chosen
+issue for society as a whole. What are the likely major costs and
+benefits for society as a whole if the policy is changed? Provide full
+citations to the newspaper articles. (600--800 words)
+\item[Task 3:]
+Given the information that you presented in the first two parts of your
+paper, state your answer to your chosen question and explain how the
+information from the first two parts of the paper influenced your
+answer. (400--600 words)
+\end{description}
+
+\subsubsection{Presentation}\label{presentation}
+
+Each of you will give an in class presentation on your chosen topic
+before the final submission of the paper. Each presentation must include
+four slides as follows: 
+
+\begin{description} 
+\item[Slide 1:] introduce your question. Define any
+relevant terms in the question and say a little about why it is
+interest.
+\item[Slide 2:] summary of task 1. 
+\item[Slide 3:] summary of task 2. 
+\item[Slide 4:] summary of task 3.
+\end{description}
+
+\textbf{NB:} Don't fill your slides with text. Pictures, graphs, a few
+bullet points are much easier to follow. The slides will then be used to
+structure your presentation.
 
 \subsubsection{Grade Breakdown}\label{grade-breakdown}
 
-This paper is worth 25 points towards your final grade. 5 points will be
-awarded towards the first draft of the paper, 5 points towards the
-presentation, 5 points towards peer evaluation, and 10 points towards
-the final draft.
+This paper is worth 20 points towards your final grade. 5 points will be
+awarded towards the presentation and 15 points toward the final draft.
 
 \subsubsection{Plagiarism}\label{plagiarism}
 
