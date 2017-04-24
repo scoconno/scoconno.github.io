@@ -214,6 +214,7 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 	+ Complete quiz 7 by 5/1/17
 + Other
 	+ Begin thinking about the [signature assignment/final project.](/Teaching/Mind/Physicalism/Essay)
+
 ***
 
 **Week 15 (5/1/17):** Consciousness and Science
