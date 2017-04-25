@@ -221,8 +221,8 @@ You can find the slides for weeks 8 & 9 [here.](/Teaching/Mind/Functionalism/bod
 
 + Reading
 	+ Textbook, ch.10
-	+ ['Epiphenomenal Qualia'](Qualia.pdf), F. Jackson
-	+ ['What Mary Didn't Know',](/Teaching/Physicalism/Jackson.pdf) F. Jackson (optional)
+	+ ['Epiphenomenal Qualia'](/Teaching/Mind/Physicalism/Qualia.pdf), F. Jackson
+	+ ['What Mary Didn't Know',](/Teaching/Mind/Physicalism/Jackson.pdf) F. Jackson (optional)
 + Assignments
 	+ Complete quiz 8 by 5/8/17
 + Videos
