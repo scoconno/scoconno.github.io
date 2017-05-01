@@ -76,7 +76,7 @@ The knowledge argument aims to establish that conscious experience involves non-
 + She knows that there is an optic nerve. 
 + She knows how the optic nerve transmits information about the wavelengths detected in the retina to the central nervous system. 
 
-![](neuron1.jpg)
+![](nueron1.jpg)
 
 ![](neuron2.jpg)
 
