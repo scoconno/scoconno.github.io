@@ -1,6 +1,4 @@
-**Physicalism**
-
-Physicalism: 
+**Physicalism:** 
 : Thesis that everything is physical or that everything supervenes on the physical.
 
 Here is one way to understand 'supervenience': 
@@ -58,7 +56,7 @@ The knowledge argument aims to establish that conscious experience involves non-
 
 ![](Mary1.jpg)
 
-##What does Mary know? 
+## What does Mary know? 
 
 
 ![](Reflect.jpg)
@@ -85,7 +83,7 @@ The knowledge argument aims to establish that conscious experience involves non-
 + She knows which neurons are activated by each wavelength. 
 + She knows how the neurons are activated. 
 
-## The Billion Dollar Question##
+## The Billion Dollar Question ##
 
 Does Mary learn anything new about the experience of red when she leaves the room? Here's an oddly creepy video that explains the [two answers.](https://www.youtube.com/watch?v=gZy3Ky9y_fg)
 
@@ -106,7 +104,7 @@ Jackson thinks that Mary clearly does learn something new. Let's say that Mary w
 + **Conclusion 3:** Physicalism is false. 
 
 
-##A different version of the argument##
+## A different version of the argument ##
 
 ![](Fred.jpg)
 
@@ -117,7 +115,7 @@ In both of the examples cited by Jackson, an epistemic subject A appears to have
 
 Ted-Ed version of the argument: https://www.youtube.com/watch?v=mGYmiQkah4o
 
-##Responses
+## Responses
 
 
 Because the internet is incredible. This video imagines a response to David Lewis' know how response. 
