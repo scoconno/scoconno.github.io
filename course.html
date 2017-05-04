@@ -22,8 +22,8 @@ changefreq: weekly
 <ol>
   {% for week in site.data.week %}
     <li>
-      <a href="{{site.baseurl}}/mind/{{mind.folder}}/">{{mind.title}}</a>
-      {{mind.content | markdownify}}
+      <a href="{{site.baseurl}}/Mind/{{Mind.folder}}/">{{Mind.title}}</a>
+      {{Mind.content | markdownify}}
     </li>
   {% endfor %}
 </ol>
