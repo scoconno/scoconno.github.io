@@ -1,11 +1,11 @@
-- title: Dwarf
-  folder: dwarf
+- title: Introduction
+  folder: introduction
   content: "A **dwarf planet** is a planetary-mass object that is neither a planet nor a satellite."
 
-- title: Terrestrial
-  folder: terrestrial
+- title: Behaviorism
+  folder: behaviorism
   content: "A **terrestrial planet**, **telluric planet** or **rocky planet** is a planet that is composed primarily of silicate rocks or metals."
 
-- title: Gas Giant
-  folder: gas-giant
+- title: Functionalism
+  folder: functionalism
   content: "A **gas giant** is a large planet that is not primarily composed of rock or other solid matter."
