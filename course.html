@@ -15,3 +15,15 @@ changefreq: weekly
     </li>
   {% endfor %}
 </ul>
+
+
+<h2>Types of Planets</h2>
+
+<ol>
+  {% for planet in site.data.planet-types %}
+    <li>
+      <a href="{{site.baseurl}}/planets/{{planet.folder}}/">{{planet.title}}</a>
+      {{planet.content | markdownify}}
+    </li>
+  {% endfor %}
+</ol>
