@@ -17,13 +17,13 @@ changefreq: weekly
 </ul>
 
 
-<h2>Types of Planets</h2>
+<h2>Weekly Work</h2>
 
 <ol>
-  {% for planet in site.data.planet-types %}
+  {% for week in site.data.week %}
     <li>
-      <a href="{{site.baseurl}}/planets/{{planet.folder}}/">{{planet.title}}</a>
-      {{planet.content | markdownify}}
+      <a href="{{site.baseurl}}/mind/{{mind.folder}}/">{{planet.title}}</a>
+      {{mind.content | markdownify}}
     </li>
   {% endfor %}
 </ol>
