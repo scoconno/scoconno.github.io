@@ -10,7 +10,7 @@ title: Behaviorism
 + Quiz 3
 
 ### Notes
-+ [Notes](/notes)
++ [Notes](notes)
 
 ### Videos
 + Some video
