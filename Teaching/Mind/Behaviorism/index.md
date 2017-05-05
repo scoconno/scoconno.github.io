@@ -3,17 +3,17 @@ layout: weekly
 title: Behaviorism
 ---
 
-#### Reading
+### Reading
 + Textbook, ch.3
 
-#### Assignments
+### Assignments
 + Quiz 3
 
-#### Notes
+### Notes
 + [Notes](/notes)
 
-#### Videos
+### Videos
 + Some video
 
-#### Extra Literature
+### Extra Literature
 + Pop literature
