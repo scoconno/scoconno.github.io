@@ -13,12 +13,12 @@ Dictionary of Philosophy of Mind
 
 <h1>Weekly Work</h1>
 
-<ol>
+<ul>
   {% for page in site.data.mind-week %}
     <li>
      <a href="{{site.baseurl}}/Teaching/Mind/{{page.folder}}/">{{page.title}}</a>
       {{page.content | markdownify}}
     </li>
   {% endfor %}
-</ol>
+</ul>
 
