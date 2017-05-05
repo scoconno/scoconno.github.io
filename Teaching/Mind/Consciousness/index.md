@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Consciousness 1
+layout: weekly
+title: Consciousness 
 
 ---
 
