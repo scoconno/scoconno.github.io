@@ -1,5 +1,11 @@
+---
+layout: weekly
+title: Physicalism
+---
+
+
 **Physicalism:** 
-: Thesis that everything is physical or that everything supervenes on the physical.
+: everything is physical or that everything supervenes on the physical.
 
 Here is one way to understand 'supervenience': 
 > A dot-matrix picture has global properties — it is symmetrical, it is cluttered, and whatnot — and yet all there is to the picture is dots and non-dots at each point of the matrix. The global properties are nothing but patterns in the dots. They supervene: no two pictures could differ in their global properties without differing, somewhere, in whether there is or there isn't a dot (Lewis, 1986, p. 14).
