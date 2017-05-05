@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: weekly
 title: Substance Dualism
 ---
 
