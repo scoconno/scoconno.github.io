@@ -1,11 +1,27 @@
-- title: Introduction
-  folder: Introduction
-  content: "Welcome to the course and some info"
+- title: Week 1. Personal Identity
+  folder: Personal
+  content: "Week 3"
 
-- title: Behaviorism
+- title: Week 2. Substance Dualism
+  folder: Dualism
+  content: "A **gas giant** is a large planet that is not primarily composed of rock or other solid matter."
+
+- title: Week 3. Behaviorism
   folder: Behaviorism
   content: "Week 3"
 
-- title: Functionalism
+- title: Week 4. Psycho-neural Identity Theory
+  folder: Identity
+  content: "A **gas giant** is a large planet that is not primarily composed of rock or other solid matter."
+  
+- title: Week 5. Functionalism
   folder: Functionalism
+  content: "A **gas giant** is a large planet that is not primarily composed of rock or other solid matter."
+  
+- title: Week 6. Consciousness
+  folder: Consciousness
+  content: "A **gas giant** is a large planet that is not primarily composed of rock or other solid matter."
+  
+- title: Week 7. Physicalism
+  folder: Physicalism
   content: "A **gas giant** is a large planet that is not primarily composed of rock or other solid matter."
