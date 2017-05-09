@@ -6,7 +6,7 @@ title: Project
 ## Signature Assignment (Final Project)
 
 ### Special Submission Instruction
-+ This paper must be submitted through NJCU's Tk20 site to earn a final grade. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
++ Please ignore previous information about TK20 and submit this assignment through Blackboard.  
 
 ### Introduction 
 
