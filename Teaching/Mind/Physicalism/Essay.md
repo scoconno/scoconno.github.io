@@ -56,7 +56,6 @@ Your essay must be 1000-1500 words long. Essays shorter than 1000 words or longe
 ### Important Dates
 
 + Monday, May 8th: final class. 
-+ Wednesday, May 10th, 8:30am--10:30am: optional in-class review and draft feedback. Bring questions about your notes or copies of your drafts. Please note that I won't use the time to introduce and teach the objections.  
 + Monday, May 15th: final paper due through **TK20** by midnight. 
 + Monday, May 15th: deadline to complete the course evaluation for extra credit. NJCU closes these evaluations at 11:59pm. Instructors have no control over this. To earn the extra credit, you must send me a screen shot of the page confirming submission.  
 
