@@ -11,7 +11,7 @@ title: Behaviorism
 + [Essay](Essay)
 
 ### Notes
-+ [Notes](notes)
++ [Notes](Notes)
 
 ### Videos
 + Some video

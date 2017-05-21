@@ -1,5 +1,5 @@
 ---
-layout: weekly
+layout: mindweekly
 title: Mind-Brain Identity Theory
 
 ---

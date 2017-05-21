@@ -1,4 +1,10 @@
-Personal Identity
+---
+layout: mindweekly
+title: Personal Identity
+---
+
+
+
 
 ![image](Riker.jpg)
 
