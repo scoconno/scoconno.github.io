@@ -11,12 +11,12 @@ Compare and contrast the Higher Order Perception and Higher Order Thought theori
 Your paper must include the following parts:     
 
 1. Explain the Higher Order Perception theory of consciousness in your own words. Use simple examples. 
-1. Explain the Higher Order Though theory of consciousness in your own words. Use simple examples. 
+2. Explain the Higher Order Thought theory of consciousness in your own words. Use simple examples. 
 3. Identify and explain the central difference between these two theories. 
 4. Conclude by stating which theory seems most plausible. Do this by raising some problem for one of these theories that is not a problem for the other.
 	   
 
-**NB:** Failure to include any of these parts in your paper will result in a loss of points. 
+**NB:** Failure to include any of these parts will result in a loss of points. 
 
 
 ### Word Count
@@ -38,10 +38,10 @@ Per the policies outlined in the syllabus, late work will not be accepted. Any r
 Please submit the file as a docx, rtf, or pdf. 
 
 ### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
+Please find the rubric and explanation of it [here](/Grading).
 
 ### Resources
-Please find links to writing resources [here](/Teaching/Resources/).
+Please find links to writing resources [here](/Resources).
 
 
 
