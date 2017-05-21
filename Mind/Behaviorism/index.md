@@ -1,5 +1,5 @@
 ---
-layout: weekly
+layout: mindweekly
 title: Behaviorism
 ---
 
@@ -8,6 +8,7 @@ title: Behaviorism
 
 ### Assignments
 + Quiz 3
++ [Essay](essay)
 
 ### Notes
 + [Notes](notes)
