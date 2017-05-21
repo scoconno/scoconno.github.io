@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: weekly
 title: Behaviorism
-meta: This is all a test
 ---
 
 ### Behaviorism
