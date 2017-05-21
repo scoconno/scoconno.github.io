@@ -1,6 +1,6 @@
 ---
-layout: weekly
-title: Consciousness 
+layout: mindweekly
+title: Notes
 
 ---
 

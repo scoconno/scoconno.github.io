@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: Physicalism
+title: Mind Brain Identity Theory
 ---
 
 ### Reading

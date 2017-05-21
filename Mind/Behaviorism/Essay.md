@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: essay
+title: Essay
 
 ---
 ### Introduction

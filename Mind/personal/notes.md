@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: Personal Identity
+title: Notes
 ---
 
 
