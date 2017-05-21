@@ -7,26 +7,30 @@ title: Notes
 
 ## Consciousness
 
-Two problems: 
+Turing thought it obvious that the capacity to imitate a human was sufficient for a machine to enjoy mentality. It certainly is sufficient if mentality consists entirely in the abilty to ask questions, give answers, joke, tease, lament and symphatesize. In other words, if all there is to having a mind is the ability to hold a conversation, then machines could one day enjoy mentality (if they don't already). But Searle's thought experiment seems to show that there is something more to the mind than just the ability to have conversations; something that the machine is cruciall lacking. At this point, it should seem no surprise to learn that many think that this missing ingredient is consciousenss. And consciousness, whatever it is, is not something enjoyed by a machine regardless of how loquacious it may be. 
+
+But why think that consciousness is not enjoyed by a machine? Isn't the machine aware of the people it is talking to? Isn't a robotic car aware of the obstacles it successfully navigates on the road? If being aware is sufficient for being conscious, then robotic cars are clearly conscious. In this section and the next, we will try get clearer on this question by asking about the nature of consciousness, what exactly is it that we take humans to possess and machines to lack? There are two distinct questions we will focus on, one in the each week: 
 
 1. What is consciousness? What are its features? How best can they be described?
 2. How does consciousness come to exist? If from the brain, how so?
 
+Our first question asks us to identify the defining features of consciousness. Should it be characterized as mere awareness of the external world? If not, what else is it? Is there just one phenomeneon of consciousness or might there be several different phenomena that we use the same word to describe? If so, what are these different phenomena? 
+
+Our second question asks how consciousness exists. The 19th century biologist puts the question as follows: 
+
+
 > But what consciousness is, we know not; and how it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue, is just as unaccountable as the appearance of the Djin when Aladdin rubbed his lamp in the story, or as any other ultimate fact of nature (Huxley). 
 
-Our focus is on the first problem for the next few weeks. 
+Humans are consciouss and our consciousness has something to do with our brains. But what is that 'something'? Just how could a brain produce consciousness in the first place? This second question is, of course, related to the first. If we learn that there are, in fact, two types of consciousness, then we will need to determine how the brain gives rise to each type. We will focus on the second question next week. 
+
 
 ## “What Is It Like to Be a Bat?”
 
-- Thomas Nagel, 1974 paper. 
-- Restored consciousness as a central problem in philosophy and neuroscience. 
+Our entry point for our discussion of conscioussness if Thomas Nagel's seminal 1974 paper "What is it like to be a bat?". The paper restored consciousness as a central problem in philosophy and neuroscience, for, as Nagel convinced us:
+
   > The most important and characteristic feature of conscious mental phenomena is very poorly understood (436).
-- Argues for the subjective character of consciousness. 
 
-
-## What is Consciousness? 
-
-Conscious Creatures: 
+Nagel begins Conscious Creatures: 
 
 ![Animal Consciousness](animals.jpg)
 
