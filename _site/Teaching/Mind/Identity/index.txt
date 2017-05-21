@@ -1,61 +1,0 @@
-J. J. C. Smart is one of the best-known 20th Century identity theorists.
-
-Brain States•  States of the brain and/or central nervous system.•  What is “going on” in your brain – Nerve cells firing.– Brain activity–  A physiological event or condition in your body, usually affecting your brain and/or your central nervous system.– An event or condition in a material substance.
-
-“Mental States?”•  This term sometimes confuses some students.•  A “mental state” is just a “state” or condition some “mind” might be in, like “seeing,” or “thinking,” “being in pain,” etc.–  So, thoughts, pains, desires, beliefs, etc., are all “mental states.”•  We will use this term in a “neutral” way, that is, without presupposing either dualism or materialism.–  We need to have some way of talking about these things that doesn’t “takes sides” in the dispute.
-
-Type of mental state = type of brain state.
-
-Tokens of a type are specific instances: things that have those properties.
-Type identity theory claims that mental properties (mental states) are identical to properties of brains (brain states).The property of being water = the property of being H2O.The property of being a mental state = the property of being (certain) brain states
-
-•  Mental states (thoughts, sensations, etc.), are identical to states of the brain and/or central nervous system:
-
- In the way in which water is identical to H2O, or lightning is identical to discharges of electricity in the atmosphere.
- 
- The Identity Theory•  The Identity Theory rejects Dualism, and is a form of Materialism.•  It claims that everything that exists is, ultimately, material.•  The identity theory accepts that mental states are, in some sense, “real.”•  But it claims that what they really are are states of brain and/or central nervous system
-
-
-
-An Argument for the Identity Theory1)  Some conscious states (i.e., mental states)are the causes of some physical events. For example, my desire causes me to move.2)  But (according to science) the only things that cause physical events are other physical events.3)  So, at least some mental states and events must be identical with some physical states and events.
-
-
-The Argument•  1) At least some mental events (like choosing to do something) cause physical events.•  2) But only physical events can cause physical events.•  3) So, at least some mental events must be physical events.– i.e., at least some mental states are identical to brain states.
-
-
-If it succeed, say all 
-
-According to the Identity Theorist, the fact that mental states are caused by states of the world is the same fact as the fact that brain states are caused by states of the world.
-
-For the Identity Theorist, this is the same as the claim that certain brain states cause actions. Again, the evidence for this is very strong.
-
-https://www.youtube.com/watch?v=9oka8hqsOzg
-
-
-
-Leibniz’ Lawn  If A and B are identical, then whatever properties one has the other must have too.–  That is, if A and B are the very same thing, then “they” must have exactly the same properties.n  So if A and B have different properties, they cannot be identical.n  So, if mental states and physical states have different properties, they cannot be identical.
-
-If X = Y, then X and Y have all the same properties.[Converse] If X and Y don’t have all the same properties, then X ≠ Y.
-Property: drives a motorcycleSally = the tallest person in the room.Sally drives a motorcycle.Therefore, the tallest person in the room drives a motorcycle.
-
-Property: being redMy car is red (has the property of being red.That car is not red (does not have the property).Since my car and that car don’t have all the same properties, that car is not my car.
-
-Property: boils at 100 degrees Celsius.Water = H2O.Water boils at 100 degrees Celsius.Therefore, H2O boils at 100 degrees Celsius.Property: boils at 100 degrees Celsius.Water = H2O.Water boils at 100 degrees Celsius.Therefore, H2O boils at 100 degrees Celsius.
-My pain [a mental state] is in my foot.No brain state is in my foot.Therefore, my pain is not any brain state.
-
-
-The Argument from Certainty•  1. I can be certain of my mental states (e.g., pain).•  2. I cannot be certain of my brain states.•  3. So, mental states have properties (of being such that I can be certain of them) that brain states lack.•  4. So, mental states cannot be identical to brain states.
-
-•  If A and B are the very same thing, then A and B must have the same intrinsic properties.– i.e., not merely involving beliefs about it.•  But being “believed by me to like gardening” and being “something I can have certainty about” are not intrinsic properties.•  So, the fact that I know or believe different things about mental states and physical states doesn’t prove they aren’t identical.
-
-
-
-The Argument from Color•  1. I am experiencing a green after-image.•  2. No brain states are green.•  3. So (by Leibniz’ Law) my after-image is not identical with any brain state because one is green (the after image) and the other (the brain state) isn’t.
-
-
-But, Carruthers argues, it is simply false that after images are (literally) green.
-
-
-If souls, squid, aliens, and robots can all feel pain, then pain can’t be a brain state, because these things don’t have brains.Maybe all human pains are brain states, but being a mental state type is not the same thing as being a brain state type. Money is multiply reliasible. 
- 
- The Identity Theory says that mental states and certain brain states are type-identical.The theory is consistent with physics and explains the causal interactions between mind and world (maybe not rationality).A principal objection to the theory is the apparent multiple realizability of mental states.

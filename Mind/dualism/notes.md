@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: Substance Dualism
+title: Notes
 ---
 
 

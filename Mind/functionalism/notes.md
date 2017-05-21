@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: Mind-Brain Identity Theory
+title: Notes
 
 ---
 
