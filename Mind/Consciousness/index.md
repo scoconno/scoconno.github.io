@@ -8,6 +8,7 @@ title: Consciousness
 
 ### Assignments
 + Quiz 3
++ [Essay](essay)
 
 ### Notes
 + [Notes](notes)
