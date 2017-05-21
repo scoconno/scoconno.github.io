@@ -1,0 +1,32 @@
+#branding {
+	background: url(../../img/branding/5.gif) top left no-repeat;
+}
+
+#search input {
+	color: #666;
+	border: 1px solid #CCC;
+	background: #FFF;
+	padding: 4px;
+	width: 150px;
+	font: normal 12px/14px Helvetica, Arial, Verdana, sans-serif;
+	letter-spacing: 0em;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+#search input:hover, #search input:focus {
+	border-color: #888;
+}
+
+#search input[type="submit"] {
+	color: #FFF;
+	background: #000;
+	border-color: #000 !important;
+	padding: 3px;
+	cursor: pointer;
+	width: auto;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
