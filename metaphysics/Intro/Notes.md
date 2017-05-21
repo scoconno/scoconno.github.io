@@ -1,9 +1,9 @@
----
+
 
 title: What is Metaphysics?
----
 
-# What is Metaphysics?
+
+ What is Metaphysics?
 
 
 

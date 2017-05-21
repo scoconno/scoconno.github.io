@@ -1,5 +1,5 @@
 
-## The Arrows of Time ##
+The Arrows of Time
 
 Could time run backwards? 
 Is there not some hidden constraint, some underlying directedness, within time itself, that makes processes within time go one way rather than another? 

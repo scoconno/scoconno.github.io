@@ -1,11 +1,11 @@
----
+
 author:
 - 'Scott O’Connor'
 date:  
 title: Zeno 2
-...
 
-### Motion does not exist
+
+Motion does not exist
 
 1.  Space is infinitely divisible or not infinitely divisible.
 
