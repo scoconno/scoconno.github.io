@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: Behaviorism
+title: Substance Dualism
 ---
 
 ### Reading
