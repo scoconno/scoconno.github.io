@@ -8,7 +8,7 @@ title: Behaviorism
 
 ### Assignments
 + Quiz 3
-+ [Essay](essay)
++ [Essay](Essay)
 
 ### Notes
 + [Notes](notes)
