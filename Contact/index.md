@@ -10,7 +10,8 @@ title: Contact
 + E-mail: <soconnor@njcu.edu>
 + Response Time: I answer messages on weekdays within 48 hours of receiving them. If you do not receive a response within that time frame, please send the message again. 
 
-If you are enrolled in a course, please use the Blackboard messaging app. That app allows me keep track of all messages for a particular course and is far easier to use than email. It also allows me to easily comply with Federal Law concerning the privacy of education records (FERPA).
+## For Students 
+If you are enrolled in a course, please use the Blackboard messaging app. That app allows me keep track of all messages for a particular course and is easier to use than email. It also allows me to easily comply with the Federal Law concerning the privacy of student education records (FERPA).
 
 If you are not currently enrolled in my course,  email is the only way to contact me. Do not telephone the office. They will not give you my private number and I am unlikely able to take your call in my office. I will not reply to voicemails. 
 
