@@ -1,3 +1,9 @@
+---
+layout: mindweekly
+title: Notes
+---
+
+
 Personal Identity
 Compare a picture of you taken yesterday to a picture taken of you just after birth. Are the people depicted in the photographs the same person? They certainly seem different. 
 
@@ -16,114 +22,48 @@ Humans obviously change their qualities over time. You and the baby you grew fro
 
 It is important that you and that baby are numerically identical. Numerical identity undergirds many of our moral and social institutions. The social security number assigned to that baby belongs to whoever is numerically identical to her. Being only qualitatively similar does not suffice. That would mean a twin could get that baby's social security. The prison sentence delivered to a defendant should only be served by prisoners identical to that defendant. Suppose a prisoner is in the 10th year of a prison sentence for a crime committed by a person that they are only qualitatively similar to. What an injustice that would be! They would be serving a sentence for a crime that they did not commit. 
 
-- alss important for answering questions of survival after death. 
-
 Nevertheless that prisoner might be very different from the defendant. They may have had a religious conversion, changed their body shape, etc. Allow 'P' stand for a person existing now. And 'Q' stand for the person depicted the baby. You can use your own variable is you like. P is numerically identical to Q. 
 
+It is also important for answering questions of survival after death. In the dialog assigned for this week, there are three participants, Gretchen Weirob, a philosophy professor,  Sam Miller, a chaplain and longtime friend of Gretchen’s, and Dave Cohen, a former student of Gretchen’s. Gretchen, who is dying in the hospital, challenges Sam, a chaplain and religious believer, to prove to her that survival after the death of the body is possible. If Sam can do that, Gretchen says that she will be comforted. Sam and Dave consider various arguments for thinking that persons can survive the death of the body, but Gretchen remains unconvinced.
+
+Don't get distracted by the word 'possible' in our question, is survival possible? We are not asking whether such survival is likely. We are not even asking whether such survival is compatible with the laws of physics. We are asking whether surviving without a body is compatible with the nature of personhood. For instance, if we are essentially enmattered creatures, then we obviously could never survive without our bodies; the reason we cannot lies then in what it is to be a person. 
 
 
-What is Numerical Identity?
-===========================
+## What is Numerical Identity?
 
--   It is a relation that is reflexive, symmetrical, and transitive.
+In order to answer our question about what personal identity consists in, we need to discuss in more detail what numerical identity is. What are its features? What evidence is there that an identity holds? What evidence is there that an identity does not hold? 
 
--   It is a relation that everything bears to itself and nothing else.
+Numerical identity is a relation everything bears to itself and nothing else. It has three important features. It is reflexive, symmetrical, and transitive. I will speak of each in turn: 
 
-    -   A relation R is reflexive iff everything bears R to itself.
++ A relation R is **reflexive** if and only if everything bears R to itself.
+	+ Example 1: everything is the same height as itself. The same height is a reflexive relation.
+	+ Example 2: *being shorter than* is not a reflexive relation. Ted cannot be shorter than himself. 
 
-        Example: everything is *the same height* as itself. ‘The same
-        height’ is a reflexive relation.
++ A relation R is **symmetric** if and only if, if x is related by R to y, then y is related by R to x.
+	+ Example 1: if Susan is a sibling of Sarah, then Sarah is *a sibling of* Susan. *Being a sibling of* is a symmetrical relation.
 
-    -   A relation R is symmetric iff, if x is related by R to y, then y
-        is related by R to x.
+ + A relation R is **transitive** if and only if, if x is related by R to y, and y is related by R to z, then x is related by R to z.
+	+ Example 1: if Susan is shorter than Sarah, and Sarah is shorter than Hannah, then Susan is shorter than Hannah. **Shorter than** is a transitive relation.
 
-        -   Example: if Susan is *a sibling of* Sarah, then Sarah is *a
-            sibling of* Susan. ‘Being a sibling of’ is a symmetrical
-            relation.
+Knowing these three features of numerical identity allows us to characterize more clearly why personal identity is so puzzling.  Allow ‘=’ for ‘numerically identical to’
 
-    -   A relation R is transitive iff, if x is related by R to y, and y
-        is related by R to z, then x is related by R to z.
+**Example 1**
 
-        -   Example: if Susan is *shorter than* Sarah, and Sarah is
-            *shorter than* Hannah, then Susan is *shorter than* Hannah.
-            ‘Short than’ is a transitive relation.
+1. Riker = Thomas.
+2. Riker = William.
+3. Thomas = William...(by transitivity of identity)
 
+Each of 1-3 seems plausible. If we ignore William for a moment, none of us would doubt 1, that Thomas is identical to Riker, to the man who beamed down to the plant several years ago. If we ignore Thomas for a moment, none of us would doubt 2, that William is identical to Riker. But given the transitive of identity, if 1 and 2 are true, then 3 too must be true. Thomas and William must also be identical to one another. This is clearly false, as is easy to demonstrate with the following simple example. In the episode, Councilor Troy kissed Thomas on the holodeck. If Thomas = William, then Troy also kissed William on the holodeck. But William was in a different part of the ship altogether when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas. We can add to these many more examples. Suppose that William committs a crime, suppose he steals a ship. Well, if William is identical to Thomas, Thomas too stole the ship. Thomas then is liable for the theft as William; but this is clearly absurd. The two men can be in different places at the same time, they can perform different actions at the same time, they could even get into a fight at the same time. They are not numerically identical. 
 
-Arguing About Identity
-======================
-
-Allow ‘=’ for ‘numerically identical to’
-
--   Riker = Thomas.
-
--   Riker = William.
-
--   Thomas = William.
-
--   Identity is reflexive, symmetrical, and transitive!\
-     \
-
--   Thomas = William.
-
--   Councilor Troy kissed Thomas on the holodeck.
-
--   Councilor Troy kissed William on the holodeck.
-
--   If Riker $\neq$ either Thomas or William, then Riker’s father lost
-    his son and should mourn him.
-
--   Riker $\neq$ either Thomas or William.
-
--   Riker’s father lost his son and should mourn him.
-
--   If Riker committed a crime, he should be punished.
-
--   Riker = either Thomas or William, but not both.
-
--   If Riker = Thomas, then Thomas but not William should be punished
-    for Riker’s crimes.
-
--   If Riker = William, then William but not Thomas should be punished
-    for Riker’s crimes.
+Consider now the question whether we survive our bodily death. Gretchen, G, our sick philosopher, survives if and only if there is some person F at a time after her body has died such that G is identical to F. F can't be merely similar to G. F cannot be a mere semblance of G, e.g., living on in the hearts and minds of her friends is no way for Gretchen to survive her bodily death. That is not the same as there being a person after the demise of her body who is she numerically identical to.
 
 
-
-
-
-
-
-
-Survival
-========
-
-Two Considerations
-------------------
-
--   G survives iff there is a person P at a time after her body has died
-    such that G is identical to P.
-
--   Survival must offer comfort of anticipation, e.g., it must make
-    sense for G to look forward to P’s pleasures and to fear P’s pains.
-
-Conceiving Survival
-
--   Persons must be such that we can *coherently* conceive a possible
-    situation in which some person P exists yet 1) P does not have G’s
-    body, and 2) G = P
-
--   What are we conceiving persons to be in such a situation?
 
 Remember! Qualitative similarity *vs.* numerical identity.
 
--   Two ginger bread men made by the same cookie cutter are
-    qualitatively similar in several respects, e.g., they have the same
-    shape, the same weight, the same colour, smell, and so on. But these
-    are *two* numerically distinct entities.
++ Two ginger bread men made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same colour, smell, and so on. But these are *two* numerically distinct entities.
 
--   Superman and Clark Kent are numerically identical, i.e., they are
-    one and the same entity. If you want to count the number of entities
-    in the room, you should only count Superman and Clark Kent once:
-    Louis Lane makes a mistake when she counts them as two.
++ Superman and Clark Kent are numerically identical, i.e., they are one and the same entity. If you want to count the number of entities in the room, you should only count Superman and Clark Kent once: Louis Lane makes a mistake when she counts them as two.
 
 
 ## What does personal identity consist in?
@@ -132,9 +72,22 @@ Despite their qualitative differences, what is it about P that makes her the ver
 
 Our first view, the sameness of body view, says the following: 
 
+![image](body.jpg)
+
+![image](rikerb.jpg)
+
 + A person A at one time is identical to a person B at a later time if and only if the body of A is identical to the body of B.
 
+One clear upshot of this view is that we cannot survive our bodily death. We survive our bodily death only if there exists a person some time after the body has died who has the body. But this is impossible if the body died. 
+
 An obvious virtue of this view is that it explain how we are able to keep track and re-identify humans over time. We can perceive bodies. So, by perceiving bodies we should be able to keep track of them over time. 
+
+## Objections
+
+
+-   Body swaps!
+
+![image](freaky.jpg)
 
 But the problems are dramatic. On the one hand, it requires that the body of A is identical to the body of B. This then pushes the question back a step further. Despite the qualitative differences between these bodies what is it that ensures their numerical identity? No cell survives. Appearances change. DNA can be shared. 
 
@@ -142,9 +95,41 @@ Perhaps a deeper problem lies in the fact that our concept of personal identity 
 
 
 ### Sameness of Soul
+
+![image](soul.jpg)
+
+
 Our second theory may seem familiar. It states the following: 
 
 + A person A at one time is identical to a person B at a later time iff the soul of A is identical to the soul of B.
+
+
+![image](rikersoul.jpg)
+
+What is the soul?
+
+Immaterial
+
+-   Bodies are extended in 3-dimensions.
+
+-   Souls have no extension.
+
+-   There are simple bodies—the basic bits of matter—and complex bodies
+    composed of matter.
+
+-   Souls are neither simple or complex bodies.
+
+Seat of consciousness
+
+-   For any thought and experience, there must be some entity which does
+    the thinking and experiencing.
+
+-   Souls and not bodies are what think and experience.
+
+![image](cube.jpg)
+
+The Seat of Consciousness ![image](seat.jpg)
+
 
 Belief in the existence of souls is commonplace in different religions both today and in history. There are, of course, different views about what souls are. Here I will outline a view of what souls that would allow them play a role in explaining personal identity. 
 
@@ -154,7 +139,7 @@ Souls are viewed as the seat of consciousness. For any thought and experience, t
 
 
 
-Problems
+## Objections
 
 -   A person A at one time is identical to a person B at a later time   iff the soul of A is identical to the soul of B.
 
@@ -178,18 +163,17 @@ Indirect Experience 1 Claim
 
 Problems
 
--   If we can know that B is true, then B can be known either *a posteriori* or *a priori*
+1. If we can know that B is true, then B can be known either *a posteriori* or *a priori*
 
--   B cannot be known *a posteriori*.
+2. B cannot be known *a posteriori*.
 
--   B cannot be known *a priori*.
+3. B cannot be known *a priori*.
 
--   Therefore, we cannot know that B is true.
+4. Therefore, we cannot know that B is true.
 
 Discussion of P2 ![image](apost.jpg)
 
-With the chocolate, I can test. My test involves me perceiving both the chocolate and the inside. We keep checking and we come to know that certain wrapper is associated with certain filling. But we can’t check
-whether souls are associated with bodies.
+With the chocolate, I can test. My test involves me perceiving both the chocolate and the inside. We keep checking and we come to know that certain wrapper is associated with certain filling. But we can’t check whether souls are associated with bodies.
 
 Discussion of P3
 
@@ -205,22 +189,17 @@ Indirect Experience 2 Claim
 
 Problems
 
--   If same psychology entailed same soul, then exemplification of
-    psychological traits would be infallible evidence for sameness of
-    soul.
-
--   Exemplification of psychological traits are not infallible evidence
-    for sameness of soul.
-
--   Same psychology does not entail same soul.
+1. If same psychology entailed same soul, then exemplification of psychological traits would be infallible evidence for sameness of soul.
+2. Exemplification of psychological traits are not infallible evidence for sameness of soul.
+3. Same psychology does not entail same soul.
 
 Fallible vs. Infallible Evidence for Personal Identity
 
 ![image](twins.jpg)
 
-Consider a scenario in which 1) a series of souls flow
-into and out of the same body, and 2) that same body exhibits the same psychological traits. If personal identity consists in sameness of soul, then there is a numerically distinct person every time a soul is
-exchanged. However, with every soul exchange there is no corresponding change in psychological traits. Thus, same psychology does not entail same soul.
+Consider a scenario in which 1) a series of souls flow into and out of the same body, and 2) that same body exhibits the same psychological traits. If personal identity consists in sameness of soul, then there is a numerically distinct person every time a soul is exchanged. However, with every soul exchange there is no corresponding change in psychological traits. Thus, same psychology does not entail same soul.
+
+![image](seeds.jpg)
 
 ### Psychological Continuity
 
