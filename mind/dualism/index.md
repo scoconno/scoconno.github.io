@@ -1,0 +1,20 @@
+---
+layout: mindweekly
+title: Substance Dualism
+---
+
+### Reading
++ Textbook, ch.3
+
+### Assignments
++ Quiz 3
++ [Essay](Essay)
+
+### Notes
++ [Notes](Notes)
+
+### Videos
++ Some video
+
+### Extra Literature
++ Pop literature

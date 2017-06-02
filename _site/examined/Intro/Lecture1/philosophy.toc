@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.34pt}
+\beamer@sectionintoc {1}{Philosophy Pays}{2}{0}{1}
+\beamer@sectionintoc {2}{Philosophy Makes You Smart}{9}{0}{2}
+\beamer@sectionintoc {3}{How Philosophy Helps}{13}{0}{3}

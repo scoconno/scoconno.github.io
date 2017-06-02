@@ -1,0 +1,25 @@
+---
+layout: course
+title: Mind
+---
+
+<h1> Philosophy of Mind</h1>
+David Chalmers keeps an exhaustive website about online resources for the philosophical study of mind. Some salient pages from his website:
+<ul>
+<li> Guide to the philosophy of mind  </li>
+<li> Online papers on consciousness  </li>
+<li> Web resources  </li>
+<li> Dictionary of Philosophy of Mind  </li>
+</ul>
+
+<h1>Weekly Work</h1>
+
+<ul>
+  {% for page in site.data.mind-week %}
+    <li>
+     <a href="{{site.baseurl}}/Mind/{{page.folder}}/">{{page.title}}</a>
+      {{page.content | markdownify}}
+    </li>
+  {% endfor %}
+</ul>
+
