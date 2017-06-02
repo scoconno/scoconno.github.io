@@ -56,20 +56,21 @@ Factual memories, memories that many can share, differ from *personal memories*.
 
 ![image](leo.jpg)
 
-So consider the imagine of Leonardo Di Caprio
+So consider the imagine of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he had personal memories of what that boy experienced. If, for instance, the younger spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing that event. 
 
-## Objections to the Simple View
+### Objections to Version 1
 
--   Allow ‘Rike’ to be the 7 year old who will grow up to be Riker.
+While version 1 seems plausible, it is not adequate as an explanation of personal identity. Allow ‘Leonardo’ to be the 12 year old who will grow up to be the adult actor we all know. We will use the name 'Leo' to refer to the adult.
 
-    -   Riker = Rike only if Riker remembers everything that Rike
-        experenced.
+1. Leo = Leonardo if and only if Leo remembers everything that Leonardo experenced.
+2. Leo does not remember what Leonardo ate for breakfast on the second day after his 12th birthday, though Leonardo certainly had the experience of eating something
+3. Riker $\neq$ Rike
 
-    -   Riker does not remember what Rike ate for breakfast on the
-        second day after his 7th birthday, though Rike certainly had the
-        experience of eating something
+Our first premise is an application of the first version of our third theory, which states that a person existing at one time is identical to existing at some earlier time just if the later person remembers all the earlier person's experiences. So, if the younger person ate a cake, the older person is identical to them only if they remember the experience of eating that cake. 
 
-    -   Riker $\neq$ Rike
+Our second premise is trivial. Can you remember every experience you ever had? I cannot! I remember important life events, some embarrasing ones, special moments with friends and family, etc. But I certainly do not remember what I ate for lunch, on say, June 11th, 1995. No idea! 
+
+3 states our conclusion. Since Leo does not remember Leonardo's experience of eatng that birthday cake, Leo is not ientical to Leonardo. It should be fairly obvious to you why this simple version of our third theory fails. It is far too demanding. It requires you to have complete and perfect memory, and while a few lucky individual might have such a facility, the majaority of us do not. And even though you may have forgotten what you ate on your 12th birthday, surely you are still identical to your 12 year old self. 
 
 ## Psychological Continuity Version 2
 
