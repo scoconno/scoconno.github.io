@@ -72,28 +72,29 @@ Our second premise is trivial. Can you remember every experience you ever had? I
 
 3 states our conclusion. Since Leo does not remember Leonardo's experience of eatng that birthday cake, Leo is not ientical to Leonardo. It should be fairly obvious to you why this simple version of our third theory fails. It is far too demanding. It requires you to have complete and perfect memory, and while a few lucky individual might have such a facility, the majaority of us do not. And even though you may have forgotten what you ate on your 12th birthday, surely you are still identical to your 12 year old self. 
 
-## Psychological Continuity Version 2
+## Version 2
+
+While our first version was implausible, it can be fixed. A more sophisticated version of our third theory states the following: 
 
 + A person A at one time is identical to a person B at a later time if and only if B is psychologically continuous with A.
 
-Psychological Continuity: There is a chain of person-stages connected by episodic memory.
+By 'psychological continuity', we mean that there is a chain of person-stages connected by episodic memory. What does this mean? The idea is that it is not required for you to remember what you ate on your 12th birthday to be identical to your earlier self, all that is required is that you remember some earlier self, say, your 15 your old self, and that 15 year old self remembers eating the cake on your 12th birthday. Consider again our picture depicting personal identity and allow us give letters to each of the personal stages. 
 
 ![image](letters.jpg)
 
--   F remembers what E experienced.
+F, our oldest stage, remembers what the slightly younger stage, E, experienced. Now, F does not remember what an even younger stage, D, experienced, but E does remember D's experiences. So, on our sophisticated version of the theory, F is identical to D, not by remember D's experiences, but by remembering E's experiences who in turn remembers D's experiences. The chain can continue backward as follows:  
 
--   E remembers what D experienced.
++ F remembers what E experienced.
++ E remembers what D experienced.
++ D remembers what C experienced.
++ C remembers what B experienced.
++ B remembers what A experienced.
++ Thus, A, B, C, D, E, and F are psychologically continuous with each other.
 
--   D remembers what C experienced.
+So, F may not remember what A experienced, but F is connected to A via a chain of person stages that remembers what the immediately preceding stages experience. Hence, F is identical to A. 
 
--   C remembers what B experienced.
+Version 2 obviously is immune to our objection to Version 1. That objection attacked the claim that later stages must remember every experience of every early stage all those stages to compose one and the same person. That was unrealistic. But version 2 does not require that the older stages remember every experience of every earlier stage. It requires only that there me an appropriate chain as described above. 
 
--   B remembers what A experienced.
-
--   Thus, A, B, C, D, E, and F are psychologically continuous with each
-    other.
-
--   Hence, they are all stages of the one very same person.
 
 ## Objections to Version 2
 
