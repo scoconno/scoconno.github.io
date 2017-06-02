@@ -8,10 +8,10 @@ title: Behaviorism
 
 ### Assignments
 + Quiz 3
-+ [Essay](Essay)
++ [Essay](essay)
 
 ### Notes
-+ [Notes](Notes)
++ [Notes](notes)
 
 ### Videos
 + Some video
