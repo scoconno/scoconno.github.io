@@ -19,7 +19,6 @@ Wireless Philosophy
 + [Locke on personal identity](https://www.youtube.com/playlist?list=PLtKNX4SfKpzW7-RzDGW1pCDR_JTZhVAbj)
 
 Problems for memory
-+ [Problems for memory 1](https://youtu.be/4TQETLZZmcM?list=PLJicmE8fK0Ei7nZRhCz2zjNgt-NYPUk1a)
 + [Problems for memroy 2](https://www.youtube.com/watch?v=PB2OegI6wvI) 
 
 Optional
