@@ -23,9 +23,9 @@ d. Paul’s blood pressure, digestive processes, the speed of his reactions, sho
 e. Such and such processes occur in Paul’s central nervous system.”
 
 
-## Argument for Behaviorism
+### Argument for Behaviorism
 
-+ Wittgenstein's beetle in the box. Here is an example. Gaviga. Have every student use it in the group. We want to call things Gaviga. It must be about something on campus.  Have them use it in sentences saying how high and short it looks like. Then ask them whether we are talking about the same thing. We can check whether the word is referring to the same thing. 
+Wittgenstein's beetle in the box. Here is an example. Gaviga. Have every student use it in the group. We want to call things Gaviga. It must be about something on campus.  Have them use it in sentences saying how high and short it looks like. Then ask them whether we are talking about the same thing. We can check whether the word is referring to the same thing. 
 
 + The argument is from a theory of meaning. Here is something general about meaning. Words have meaning by reference. Sentences have meaning by composition of words. 
 
@@ -69,17 +69,7 @@ Logical empiricism
 
 
 
-
-
-
-
-
-
-
-
- 
-
-**Objections to Behaviorism**
+## Objections to Behaviorism
 
 + Knowledge of our own minds: The behaviorist explains our knowledge of other people's mental states, but tells the wrong sort of story about how we know about our own mental states. We seem to have direct access to our own minds. We don't need to observe our behavior to know how we're feeling, especially qualitative states like pain and sensory experiences. Whether I'm in pain, or having the "reddish" kind of visual experience I normally have when I look at a ripe tomato, seems to a matter of what's going on in me right now, which I can be directly aware of. It doesn't seem to be a matter of how I would act in certain hypothetical situations. 
 
