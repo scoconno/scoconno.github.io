@@ -6,19 +6,12 @@ title: Notes
 
 ### Mind as Immaterial Substance 
 
-What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worthwhile thinking about why in years gone past soul and mind have been so closely associated. 
+What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worth thinking about why our predecessors associated soul and mind. We'll do that by focusing on the 17th century philosopher Descartes (1596-1650), who is associated closely associated with the view. 
 
-The 17th century philosopher, Descartes (1596-1650), is the one most closely associated with the view.  Here are a few interesting biographical facts about Descartes: 
+(IMAGE OF DESCARTES)
 
-+   Born in La Haye in the Touraine region of France.
-+   In 1606 or 1607, he entered the newly founded Jesuit College of La Fleche, where he remained until 1614 or 1615.
-    -   He spent five to six years studying classical Latin, Greek, the major poets and orators (e.g., Cicero).
-    -   He then spent three years of philosophical training based on the philosophy of Aristotle, where he studied logic, morals, physics, and metaphysics.
-    -   He spent significant time on mathematics.
-+  He studied to be a lawyer, but then joined the army after getting his degree.
-+  He settled in the Netherlands in 1629, where he had one daughter by a  servant (Helene), named Francine, who died young.
-+  He moved to Sweden in 1649 to instruct Queen Christina in philosophy. They met at five in the morning, for five hours, three days a week.
-+  He died of respiratory infection on Feb. 11th, 1650.
+
+Descare was born in La Haye in the Touraine region of France. In 1606 or 1607, he entered the newly founded Jesuit College of La Fleche, where he remained until 1614 or 1615. He spent five to six years studying classical Latin, Greek, the major poets and orators (e.g., Cicero) followed by three years of philosophical training based on the philosophy of Aristotle, where he studied logic, morals, physics, and metaphysics. He also spent significant time on mathematics. Before joining the army, he also studied to be a lawyer. In 1629, he settled in the Netherlands in 1629  where he had one daughter (Francine) by a  servant (Helene). In 1649, he moved to Sweden to instruct Queen Christina in philosophy. They met at five in the morning, for five hours, three days a week. He died of respiratory infection on Feb. 11th, 1650.
 
 Descartes is the founder of modern philosophy. His intellectual character is well illustrated by his deep skepticism about the received knowledge of the time: 
 > From my childhood they fed me books, and because people convinced me that these could give me clear and certain knowledge of everything useful in life, I was extremely eager to learn them. But no sooner had I completed the whole course of study that normally takes one straight into the ranks of the ‘learned’ than I completely changed my mind about what this education could do for me. For I found myself tangled in so many doubts and errors that I came to think that my attempts to become educated had done me no good except to give me a steadily widening view of my ignorance!(Discourse, I.2)
@@ -29,41 +22,40 @@ Descartes' skepticism motivated him to reexamine many central tenants in mathema
 
 ### Descartes' fundamental claims
 
-Our interest is Descartes' contributions to the philosophy of mind. He makes the following four fundamental claims:  
+Our interest is Descartes' contributions to the philosophy of mind, which can be summarized with the following four claims:  
 
 1. There are substances of two fundamentally different kinds in the world, mental substances and material substances—or minds and bodies. The essential nature of a mind is to think, be conscious, and engage in other mental activities; the essence of a body is to have spatial extensions (a bulk) and be located in space.
 2. A human person is a composite being of a mind and a body.
 3. No mind is identical to a body.
 4. Minds and bodies causally influence each other. Some mental phenomena are causes of physical phenomena and vice versa.
 
-The fourth claim is important. Descartes thinks that there is causal interaction between mind and body. Mind causes the body to move. We'll ultimately worry whether 1 and 3 are compatible with 4, but let's first review what these claims mean and why Descartes accepts them.  
+The fourth claim is important. Descartes thinks that there is causal interaction between mind and body. We'll ultimately worry whether 1 and 3 are compatible with 4, but let's first review what these claims mean and why Descartes accepts them.  
 
 
 ### Substance
-What does Descartes mean by 'substance'? A few words on this word is needed to properly appreciate his view. 
+What does Descartes mean by 'substance'? Reality comprises different kinds of entities. There are chairs, trees, atoms, and molecules. Many think that whatever exists is similar in one important respect: they are all physical. Philosophers use the word 'substance' to categorize such a general kind of thing, e.g., clouds and molecules are physical substances. But even if the only substances are physical ones, it seems that something other than the substances must exist, namely, the qualities, quantities, relations, and activities that *inhere* in these substances (P inheres in S if S somehow possesses or has P). For instance, the weight of the stone is different from the stone itself. The motion of the molecule is different from the molecule itself. Motion and weight belong to these physical substances but they are not themselves physical substances. 
 
-Reality comprises different kinds of entities. There are chairs, trees, atoms, and molecules. Many think that whatever exists is similar in one important respect: they are all physical. Philosophers use the word 'substance' to categorize such a general kind of thing, e.g., clouds and molecules are physical substances. But even if the only substances are physical ones, it seems that something other than the substances must exist, namely, the qualities, quantities, relations, and activities that *inhere* in these substances (P inheres in S if S somehow possesses or has P). For instance, the weight of the stone is different from the stone itself. The motion of the molecule is different from the molecule itself. Motion and weight belong to these physical substances but they are not themselves physical substances. 
-
-For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly `what underlies', or 'subject'.  It is that which posesses qualities, quantities, relations, and activities, but it is not itself possessed by anything else.  There is an important difference between the height, weight, and swimming of Flipper the dolphin and Flipper himself. Flipper is a substance, in the sense that Flipper is a subject in which other things inhere, e.g., the swimming belongs to Flipper, the shine and weight inhere in Flipper, etc. Flipper, though, does not inhere in anything else. He is not a property of any other substance. 
+For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly 'what underlies', or 'subject'.  It is that which posesses qualities, quantities, relations, and activities, but it is not itself possessed by anything else.  There is an important difference between the height, weight, and swimming of Flipper the dolphin and Flipper himself. Flipper is a substance, in the sense that Flipper is a subject in which other things inhere, e.g., the swimming belongs to Flipper, the shine and weight inhere in Flipper, etc. Flipper, though, does not inhere in anything else. He is not a property of any other substance. 
 
 This contrast between substances and what inhere in them obviously mirrors a linguistic contrast between grammatical subjects and predicates, between 'Flipper' and 'swimming' in the sentence 'Flipper is swimming'. But the contrast is more fundamental than the linguistic one; 'blue' can be used as the subject of a predicate, e.g., 'blue is nice'. Substances can never inhere in anything else. 
 
-Many think that the world contains only physical substances. This means that they only things which exist in which properties inhere are physical things. We will never find, on this view, an existing substance that does not have physical attributes. 
+Many think that the world contains only physical substances. This means that they only subjects of properties are physical substances. We will never find, on this view, an existing substance that does not have physical attributes. 
 
-This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them. Minds are subjects of their own special properties like thinking, sensing, judging, and willing. These properties inhere in mind. They do not inhere in bodies. Bodies, on the other hand, are extended in space, have weight, undergo nourishment, etc. These are not properties that inhere in mind. Mind does not move or weight anything.
+This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them. Minds are subjects of their own special properties like thinking, sensing, judging, and willing. These properties inhere in mind. They do not inhere in bodies. Bodies, on the other hand, are extended in space, have weight, undergo nourishment, etc. These are not properties that inhere in mind. Mind does not move or weigh anything.
 
-It is important to recognize just how different these two types of substances are. A soul is simple, divine, and immutable. Our bodies are composite and perishable. One upshot of this view is that a soul seems something that can survive bodily death and decay. How could a soul decay if it is not made of matter? In part, this upshot also comes from the notion of a substance. That which inheres in a substance cannot exist without substances. Color cannot exist without some object that has color. Substance, on the other hand, does not depend for its existence on anything its inheres in. Socrates does not need to inhere in anything for him to exist.Descartes himself wrote: 
+It is important to recognize just how different these two types of substances are. A soul is simple, divine, and immutable. Our bodies are composite and perishable. A soul also seems something that can survive bodily death and decay. A body cannot survive its decay. This shouldn't be that surprising. That which inheres in a substance cannot exist without substances. Color cannot exist without some object that has color. Substance, on the other hand, does not depend for its existence on anything it inheres in. Socrates does not need to inhere in anything for him to exist. Descartes himself wrote: 
 
 > The notion of a substance is just this—that it can exist by itself, that is without the aid of any other substance.
 
-So just as some chairs could exist without one another, so too a mind and body should exist without one another. 
+So just as some chairs could exist without one another, so too a mind and body coud exist without one another. 
+
+If Descartes is right, you are composed of two different substances, a physical one and a mental one. Your mind, which Descartes calls the soul, plays one role. Your body plays another. It is your mind that does your thinking, dreaming, fearing, and wanting. It is your body that does your walking, sitting, and eating, etc. 
 
 
 ### Argument for Substance Dualism
+Substance dualism, then, is just the view that there exists both physical and mental substances; that you are composed of these two substances. But why accept dualism? Understanding Descartes' argument requires that we understand some of his larger theoretical concerns and how he argued for them. 
 
-Why accept substance dualism? Understanding Descartes' argument requires that we understand some of his larger theoretical concerns and how he argued for them. 
-
-First, Descartes was worried about the prevailing sciences of the time. This was a time when scientists still sought to explain the motion of bodies by the so-called inherent tendencies of earth to move downward, air to rise upward, etc. Doctors still explained disease by appeal to various humors in the body. Descartes worried as to whether the various sciences of the day were making fundamental errors and suggested that we need to take stock: which of our sciences could really be trusted?  He undertook this project in several works, most importantly `The Meditations.' He describes the project in this work to a friend as follows: 
+First, Descartes was worried about the prevailing sciences of the time. This was a time when scientists still sought to explain the motion of bodies by the so-called inherent tendencies of earth to move downward, air to rise upward, etc. Doctors still explained disease by appeal to various humors in the body. Descartes worried as to whether the various sciences of the day were making fundamental errors and suggested that we need to take stock: which of our sciences could really be trusted?  He undertook this project in several works, most importantly 'The Meditations.' He describes the project in this work to a friend as follows: 
 
 > I will say to you, just between us, that these six Meditations contain all the foundations of my Physics. But, please, you must not say so; for those who favor Aristotle would perhaps have more difficulty in approving them; and I hope that those who will read them will unwittingly become accustomed to my principles, and will recognize the truth, before they notice that my principles destroy those of Aristotle. (Descartes, letter to Marsenne)
 
