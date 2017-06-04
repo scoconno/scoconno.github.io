@@ -7,13 +7,7 @@ title: Notes
 
 ## Introduction
 
-Allow the following names for our various characters:
 
--   “Riker” is the person who beams onto the planet 8 years ago.
--   “William” is the person who materialized on Potemkin after Riker was de-materialized on the planet.
--   “Thomas” is the person who materialized on the planet after Riker was de-materialized.
-
-Who is Riker? William is. Thomas is.  Both are. Neither are.
 
 ![image](Slide1.jpg)
 
@@ -53,18 +47,16 @@ Our Question Clarified
 
 
 Personal Identity
-Compare a picture of you taken yesterday to a picture taken of you just after birth. Are the people depicted in the photographs the same person? They certainly seem different. 
-
-- human undergo complete cellular replacement every severn years.  
-- you could put the life after death thing here. Questions about reincarnation. A person claims to have memories of incidents long time ago. Are they the same person as that from years ago? 
+Compare a picture of you taken yesterday to a picture taken of you just after birth. Are the people depicted in the photographs the same person? They certainly seem different. Humans undergo complete cellular replacement every severn years.  
+So the cells that compose that baby are not the same as the cells that composed the person from yesterday. The appearances are also very different. One is small baby, just a few pounts. The person from yesterday is heavier, taller, can think, read, and, well, do all the things that adults can do but babies cannot. 
 
 ## Understanding the Question
 
-English can mislead us when trying to answer these questions. The words `identity', `identical', `similar', and 'same' are ambiguous; they can be used to describe different relations. And whenever a word can be used in several ways, we need to disambiguate those uses to answer questions that contain them. If a person told you they left their car near the bank, they could mean they left it near the money bank or the river bank. It's obviously important to identify which one they mean. 
+English can mislead us when trying to answer these questions. The words 'identity', 'identical', 'similar', and 'same' are ambiguous; they can be used to describe different relations. And whenever a word can be used in several ways, we need to disambiguate those uses to answer questions that contain them. If a person told you they left their car near the bank, they could mean they left it near the money bank or the river bank. It's obviously important to identify which one they mean. 
 
-`Same' (and our other words) can also be used in different ways. On the one hand, it can be used to speak about qualitative similarity. Qualitative similarity is something that numerically distinct objects enjoy by sharing similar features. Two chairs are qualitatively similar in virtue of having similar shapes, sizes, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. 
+'Same' (and our other words) can also be used in different ways. On the one hand, it can be used to speak about qualitative similarity. Qualitative similarity is something that numerically distinct objects enjoy by sharing similar features. Two chairs are qualitatively similar in virtue of having similar shapes, sizes, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. 
 
-We can also use these words to talk about what is called numerical identity, the relation that each thing holds to itself and nothing else. Clark Kent and Superman are numerically identical. `Numerical identity' is used when we want to say that there is just one entity to be counted. Suppose you know that Superman and Clark Kent were in the room. You would make a mistake if you counted them as two people; there is just one person there. 
+We can also use these words to talk about what is called *numerical identity*, the relation that each thing holds to itself and nothing else. Clark Kent and Superman are numerically identical. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Suppose you know that Superman and Clark Kent were in the room. You would make a mistake if you counted them as two people; there is just one person there. 
 
 Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weight, made of different cells, different hair lengths, different tastes and dispositions. Nevertheless, you and that baby are numerically identical. 
 
@@ -74,7 +66,7 @@ Nevertheless that prisoner might be very different from the defendant. They may 
 
 It is also important for answering questions of survival after death. In the dialog assigned for this week, there are three participants, Gretchen Weirob, a philosophy professor,  Sam Miller, a chaplain and longtime friend of Gretchen’s, and Dave Cohen, a former student of Gretchen’s. Gretchen, who is dying in the hospital, challenges Sam, a chaplain and religious believer, to prove to her that survival after the death of the body is possible. If Sam can do that, Gretchen says that she will be comforted. Sam and Dave consider various arguments for thinking that persons can survive the death of the body, but Gretchen remains unconvinced.
 
-Don't get distracted by the word 'possible' in our question, is survival possible? We are not asking whether such survival is likely. We are not even asking whether such survival is compatible with the laws of physics. We are asking whether surviving without a body is compatible with the nature of personhood. For instance, if we are essentially enmattered creatures, then we obviously could never survive without our bodies; the reason we cannot lies then in what it is to be a person. 
+Don't get distracted by the word 'possible' in our question, is survival possible? We are not asking whether such survival is likely. We are not even asking whether such survival is compatible with the laws of physics. We are asking whether surviving without a body is compatible with the nature of personhood. For instance, if we are essentially enmattered creatures, then we obviously could never survive without our bodies; the reason we cannot liess in what it is to be a person. 
 
 
 ## What is Numerical Identity?
@@ -93,15 +85,19 @@ Numerical identity is a relation everything bears to itself and nothing else. It
  + A relation R is **transitive** if and only if, if x is related by R to y, and y is related by R to z, then x is related by R to z.
 	+ Example 1: if Susan is shorter than Sarah, and Sarah is shorter than Hannah, then Susan is shorter than Hannah. **Shorter than** is a transitive relation.
 
-Knowing these three features of numerical identity allows us to characterize more clearly why personal identity is so puzzling.  Allow ‘=’ for ‘numerically identical to’
+Knowing these three features of numerical identity allows us to characterize more clearly why personal identity is so puzzling.  Allow ‘=’ for ‘numerically identical to’. (Make sure to watch the Star Trek episode linked to). In the Star Trek episode, a terrible accident occurred. Allow the following names for our various characters:
++ “Riker” is the person who beams onto the planet 8 years ago.
++ “William” is the person who materialized on Potemkin after Riker was de-materialized on the planet.
++ “Thomas” is the person who materialized on the planet after Riker was de-materialized.
 
-**Example 1**
+What happened to Riker after the accident? Did he continue to exist as Thomas, or as William, or as both? 
+Now that we know a little about numerical identity we can see why the last answer, that Riker is both Thomas and William cannot be correct:
 
 1. Riker = Thomas.
 2. Riker = William.
 3. Thomas = William...(by transitivity of identity)
 
-Each of 1-3 seems plausible. If we ignore William for a moment, none of us would doubt 1, that Thomas is identical to Riker, to the man who beamed down to the plant several years ago. If we ignore Thomas for a moment, none of us would doubt 2, that William is identical to Riker. But given the transitive of identity, if 1 and 2 are true, then 3 too must be true. Thomas and William must also be identical to one another. This is clearly false, as is easy to demonstrate with the following simple example. In the episode, Councilor Troy kissed Thomas on the holodeck. If Thomas = William, then Troy also kissed William on the holodeck. But William was in a different part of the ship altogether when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas. We can add to these many more examples. Suppose that William committs a crime, suppose he steals a ship. Well, if William is identical to Thomas, Thomas too stole the ship. Thomas then is liable for the theft as William; but this is clearly absurd. The two men can be in different places at the same time, they can perform different actions at the same time, they could even get into a fight at the same time. They are not numerically identical. 
+Each of 1-3 seems plausible. If we ignore William for a moment, none of us would doubt 1, that Thomas is identical to Riker, to the man who beamed down to the plant several years ago. If we ignore Thomas for a moment, none of us would doubt 2, that William is identical to Riker. But given the transitive of identity, if 1 and 2 are true, then 3 too must be true. Thomas and William must also be identical to one another. This is clearly false, as is easy to demonstrate with the following simple example. In the episode, Councilor Troy kissed Thomas on the holodeck. If Thomas = William, then Troy also kissed William on the holodeck. But William was in a different part of the ship altogether when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas. We can add to these many more examples. Suppose that William committs a crime. Suppose he steals a ship. Well, if William is identical to Thomas, Thomas too stole the ship. Thomas then is as liable for the theft as William. But this is clearly absurd. The two men can be in different places at the same time, they can perform different actions at the same time, they could even get into a fight at the same time. They are not numerically identical. So, since 3 is false, we know that both our premises, 1 and 2, cannot both be true together.
 
 Consider now the question whether we survive our bodily death. Gretchen, G, our sick philosopher, survives if and only if there is some person F at a time after her body has died such that G is identical to F. F can't be merely similar to G. F cannot be a mere semblance of G, e.g., living on in the hearts and minds of her friends is no way for Gretchen to survive her bodily death. That is not the same as there being a person after the demise of her body who is she numerically identical to.
 
