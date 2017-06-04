@@ -11,8 +11,30 @@ title: Personal Identity
 + [Notes](notes)
 
 ### Videos
+There is lots of good treatments of the topic. 
 
+Assigned: 
+
+Wireless Philosophy
 + [Locke on personal identity](https://www.youtube.com/playlist?list=PLtKNX4SfKpzW7-RzDGW1pCDR_JTZhVAbj)
+
+Problems for memory
++ [Problems for memory 1](https://youtu.be/4TQETLZZmcM?list=PLJicmE8fK0Ei7nZRhCz2zjNgt-NYPUk1a)
++ [Problems for memroy 2](https://www.youtube.com/watch?v=PB2OegI6wvI) 
+
+Optional
+
+
+Crash Course Philosophy
++ [Identity](https://www.youtube.com/watch?v=-TFCMK4i2lo)
++ [Personal Identity](https://www.youtube.com/watch?v=trqDnLNRuSc)
++ [Objections to Personal Identity](https://www.youtube.com/watch?v=17WiQ_tNld4)
+
+The School of Life
++ [What am I?](https://www.youtube.com/watch?v=oocunV4JX4w)
+
+Others
++ [Ted thing on personal identity](https://www.youtube.com/watch?v=UHwVyplU3Pg)
 
 This is about true self I think
 + [Some empirical research on ordinary contemporary views](https://www.youtube.com/watch?v=b5kDRza-Xqs&list=PLtKNX4SfKpzWONjJBMV9qFvSN8zfFtraA) Essential moral self
