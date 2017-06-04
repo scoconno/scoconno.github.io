@@ -9,7 +9,6 @@ title: Personal Identity
 ### Notes
 + [Star Trek, Second Chances](http://www.dailymotion.com/video/x53w3ti), the notes refer to the case described in this episode. 
 + [Notes](notes)
-+ [Notes2](notes)
 
 ### Videos
 
