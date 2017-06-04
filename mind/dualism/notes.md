@@ -85,7 +85,7 @@ His first tries to identify a skeptical challenge that is sufficiently strong fo
 
 This argument is valid, but Descartes thinks there is a problem with premise 2. While 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests only some beliefs, he searches for a stronger skeptical argument.
 
-####Argument 2
+#### Argument 2
 
 1.  If I don’t know that I’m not dreaming, then I don’t know that I have hands.
 2.  I don’t know that I’m not dreaming.
@@ -93,7 +93,7 @@ This argument is valid, but Descartes thinks there is a problem with premise 2. 
 
 This argument is valid, but Descartes thinks that the argument does not generalize to every belief he holds. For instance, it does not generalize to his belief in the existence of space, time, magnitude, simple qualities, and so on. So, Descartes searches for an even stronger argument.
 
-## Evil Demon Argument Argument
+### Evil Demon Argument Argument
 
 1.  If I don’t know that I’m not being deceived by an Evil Demon, then I don’t know that p.
 2.  I don’t know that I’m not being deceived by an Evil Demon.
@@ -101,7 +101,7 @@ This argument is valid, but Descartes thinks that the argument does not generali
 
 This is a suitably strong enough challenge to test all Descartes' beliefs, including his beliefs about space, time, etc. Remember, his goal is to throw out all his beliefs and only let back in those that he knows to be true. He will now proceed to search for those beliefs that he would know to be true even if this skeptical scenario obtained.
 
-## I am thinking, therefore I exist
+### I am thinking, therefore I exist
 
 Descartes writes the following in the second Meditation: 
 
@@ -143,7 +143,7 @@ Descartes' “cogito” argument, “I think, therefore I exist”, convinces hi
 2. No material body has a specially privileged knower—knowledge of material things is in principle public and intersubjective.
 3. Therefore, minds are not identical with material bodies.
 
-We are said to know something ``directly'' when the knowledge is not based on evidence, or inferred from other things we know. When knowledge is direct, like my knowledge of my toothache, it makes no sense to ask, “How do you know?”
+We are said to know something ''directly'' when the knowledge is not based on evidence, or inferred from other things we know. When knowledge is direct, like my knowledge of my toothache, it makes no sense to ask, “How do you know?”
 
 
 
@@ -181,7 +181,7 @@ There are several problems with the Cogito, Descartes' main argument that shows 
 1. I am thinking. 
 2. Therefore, I exist.
 
-The premise, `I am thinking' seems to presupposes that the subject of the thought exists. Since the subject of the thought is `I', the premise then assumes the conclusion, i.e., it assumes that I exist. An argument that assumes what it is trying to prove is obviously circular. And recall that Descartes is supposed to be testing whether he can doubt his own existence. He is begging the question if he argues, ‘I exist, therefore I cannot doubt that I exist.’
+The premise, 'I am thinking' seems to presupposes that the subject of the thought exists. Since the subject of the thought is 'I', the premise then assumes the conclusion, i.e., it assumes that I exist. An argument that assumes what it is trying to prove is obviously circular. And recall that Descartes is supposed to be testing whether he can doubt his own existence. He is begging the question if he argues, ‘I exist, therefore I cannot doubt that I exist.’
 
 We might try save Descartes by reformulating the argument in a non-question begging way:
 
@@ -213,7 +213,6 @@ Here is the argument presented more formally:
 + P2. If an object imparts momentum to another, it must have mass and velocity.
 + P3. An unextended mind outside physical space has neither mass nor velocity.
 + C. Therefore, an unextended mind cannot cause a physical body to move. 
-
 
 
 ## Varieties of Dualism
