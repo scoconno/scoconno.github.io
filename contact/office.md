@@ -10,4 +10,4 @@ title: Office Hours
 #  Office Hours
 + Office: Karnoutsos Hall 606
 + **NB:** Please send a brief message if you intend to drop by.
-+ [E-mail details](/Contact)
++ [E-mail details](/contact)
