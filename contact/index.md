@@ -6,7 +6,7 @@ title: Contact
 
 + Dr. Scott O'Connor 
 + Office: Karnoutsos Hall 606
-+ [Office hours](Office/)
++ [Office hours](office/)
 + E-mail: <soconnor@njcu.edu>
 + Response Time: I answer messages on weekdays within 48 hours of receiving them. If you do not receive a response within that time frame, please send the message again. 
 
