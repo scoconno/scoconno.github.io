@@ -3,54 +3,10 @@ layout: mindweekly
 title: Notes
 ---
 
-![image](Riker.jpg)
-
 ## Introduction
 
-
-
-![image](Slide1.jpg)
-
-
-
--   Is the identity of Riker the same as the identity of Thomas and/or William?
-
--   Is Riker qualitatively similar to Thomas and/or William?
-
--   Is Riker numerically identical to Thomas and/or William?
-
-Do they have the same identity?
-===============================
-
-![image](identity.jpg)
-
-Are they similar?
-=================
-
-![image](similar.jpg)
-
-Are they numerically identical?
-===============================
-
-![image](Superman.jpg)
-
-
-
-Our Question Clarified
-======================
-
-![image](Slide1.jpg)
-
-
-
-
-
-
-Personal Identity
 Compare a picture of you taken yesterday to a picture taken of you just after birth. Are the people depicted in the photographs the same person? They certainly seem different. Humans undergo complete cellular replacement every severn years.  
 So the cells that compose that baby are not the same as the cells that composed the person from yesterday. The appearances are also very different. One is small baby, just a few pounts. The person from yesterday is heavier, taller, can think, read, and, well, do all the things that adults can do but babies cannot. 
-
-## Understanding the Question
 
 English can mislead us when trying to answer these questions. The words 'identity', 'identical', 'similar', and 'same' are ambiguous; they can be used to describe different relations. And whenever a word can be used in several ways, we need to disambiguate those uses to answer questions that contain them. If a person told you they left their car near the bank, they could mean they left it near the money bank or the river bank. It's obviously important to identify which one they mean. 
 
