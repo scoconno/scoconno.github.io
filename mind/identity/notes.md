@@ -10,68 +10,23 @@ https://www.youtube.com/watch?v=GTiNHeqlfqc
 
 
 ## Introduction
-- Mind is identical to the brain. Explain identity. 
-- For a creature to have a mentality is to have a brain with appropriate structure and capacities. 
-- Where are mind and thoughts located--the head!
+We have seen that the behaviorist defines a mental state in terms of physiological responses and bodily movements. Pain, on this view, just was a characteristic set of such responses and movements. A radically different view claims that mental states should be defined in terms of brain states. A brain state is what is *going on* in your brain, i.e., nerve cells firing. A mental state is a state or condition some mind might be in, like seeing, or thinking, being in pain, etc. So, thoughts, pains, desires, beliefs, etc., are all mental states. The mind-brain identit theory claims that each mental state is identical to some brain state, e.g., pain is identical to some nerves, in particular C-fibres, firing. 
 
-We have seen that the behaviorist defines a mental state in terms of physiological responses and bodily movements. They think that such a correlation hold. Others point to a different correlation. There are correlation between mental phenomena and neural states of the brain. Examples include injuries, drugs, food. Hit the brain, change the mind. When we engage in various mental activities, parts of the brain light up. 
+How should we udnerstand this claim? There is clearly a correlation between mental states and brain states. Examples include injuries, drugs, food. Hit the brain, change the mind. When we engage in various mental activities, parts of the brain light up. See, for instance, this video about the technology that is being developed to read someone's thougts from their brain activities. The scientists have discovered that when you think of, say, the letter 'A', a particular neuron fires. Since they can detect that neuron, they can infer that when that neuron fires, you must be thinking about 'A'. Eventually, these machines will be able to read all of our thoughts by detecing the relevant brain activity associated with those thoughts. 
 
-J. J. C. Smart is one of the best-known 20th Century identity theorists.
-+ Type of mental state = type of brain state (properties of the mind are identical to properties of the brain)
-	+  A brain state is what is “going on” in your brain, i.e., nerve cells firing
-	+  A “mental state” is just a “state” or condition some “mind” might be in, like “seeing,” or “thinking,” “being in pain,” etc. So, thoughts, pains, desires, beliefs, etc., are all “mental states.”
-
-Brain States
-•  States of the brain and/or central nervous system.
-•  What is “going on” in your brain – Nerve cells firing.
-– Brain activity
-–  A physiological event or condition in your body, usually affecting your brain and/or your central nervous system.
-– An event or condition in a material substance.
-
-“Mental States?”
-•  This term sometimes confuses some students.
-•  A “mental state” is just a “state” or condition some “mind” might be in, like “seeing,” or “thinking,” “being in pain,” etc.
-–  So, thoughts, pains, desires, beliefs, etc., are all “mental states.”
-•  We will use this term in a “neutral” way, that is, without presupposing either dualism or materialism.
-–  We need to have some way of talking about these things that doesn’t “takes sides” in the dispute.
-
-Type of mental state = type of brain state.
-
-Tokens of a type are specific instances: things that have those properties.
-
-Type identity theory claims that mental properties (mental states) are identical to properties of brains (brain states).
-
-The property of being water = the property of being H2O.
-The property of being a mental state = the property of being (certain) brain states
-
-•  Mental states (thoughts, sensations, etc.), are identical to states of the brain and/or central nervous system:
-
- In the way in which water is identical to H2O, or lightning is identical to discharges of electricity in the atmosphere.
- 
- The Identity Theory
-•  The Identity Theory rejects Dualism, and is a form of Materialism.
-•  It claims that everything that exists is, ultimately, material.
-•  The identity theory accepts that mental states are, in some sense, “real.”
-•  But it claims that what they really are are states of brain and/or central nervous system
-
-
-Compare: The property of being water = the property of being H2O.
-
-+ I should show a video of people with locked in syndrom. or perhaps videos of how we can read minds from reading brains. 
-+ I need to say something about neural features.  Various nerve signals cause central neural processes that underlie conscious experiences. 
++ I need to say something about neural features.  Various nerve signals cause central neural processes that underlie conscious experiences
 
 Mind-Brain Correlation Thesis. For each type M of mental event that occurs to an organism o, there exists a brain state of kind B (M’s “neural correlate” or “substrate”) such that M occurs to o at time t if and only if B occurs to o at t.
 
-This states a strict correlation between brain states and mental states. Whenever you have a certain type of mental state, you should have a certain type of brain state. Whenever you have a certain kind of brain state, you should have the same kind of mental state. 
+This states a strict correlation between brain states and mental states. Whenever you have a certain type of mental state, you should have a certain type of brain state. Whenever you have a certain kind of brain state, you should have the same kind of mental state. This is correlation has law like regularity. It  means that no change in the mind can occur unless there is a change in the brain
 
-This is meant to be a law like regularity. It also means that no change in the mind can occur unless there is a change in the brain. Mind supervenes on the brain. This can be discovered empirically. We can discover whenever pain occurs, certain neural fibers fire. Likewise, when you think of a pink giraffe, different neural fibers. fire. 
+Different explanations could be offered for this correlation and we will see that mind-identity theory offers one such explanation. Let's think of some simple correlations.  + Superman and Clark Kent in the same place. 
 
 
-## Making sense of Mind-Brain Correlations ##
 
-We need to explain property correlations. Let's think of some simple correlations. Some are explained by F causing G. Others are explained by F and G having a common cause, two aspects of the same process. Kim goes through a-f types of correlation and asks how mind and brain are correlated. 
 
-+ Superman and Clark Kent in the same place. 
+Some are explained by F causing G. Others are explained by F and G having a common cause, two aspects of the same process. Kim goes through a-f types of correlation and asks how mind and brain are correlated. 
+
 +   *Causal Interactionism:* Descartes
 +   *Presestablished Harmony:* Kind of like clocks with a common historic cause. 
 +  *Occasionalism:* A constant intervener. 
@@ -80,7 +35,7 @@ We need to explain property correlations. Let's think of some simple correlation
 +  *Emergentism* No explanation for the phenomena. The correlations are brute facts. 
 + *Psychoneural (or Psychophysical, Mind-Body) Identity Theory: mental states are identical to physical processes in the brain 
 
-+ Three arguments for mind-brain identity. Simplicity argument. Causal argument. Explanatory argument. 
+The mind-brain identity theory understands this correlation in a very special away. They claim that the best way to explain the correlation is not to try identify some cause for how two distinct things might always co-occur, they think that there is just one thing in the first place. If mental properties (mental states) are identical to properties of brains (brain states), then this would easily and neatly explain mind brain correlation.  Consider, for instance, the property of being water and the property of being H20. Whenver something has the property of being water it also has the property of being H20. This correlation, the fact that both properties always co-occur, is explained just by the fact that these are not two properties at all. The property of being water and the property of being H2O are one and the same property. Likewise, the mind-brain identity theory claims that property of being in a certain mental state is identical to the property of being in a certain brain state. There is no surprise that both properties co-occur because they are one and the same property. e.
 
 
 ## Arguments for Mind-Brain Identity Theory
