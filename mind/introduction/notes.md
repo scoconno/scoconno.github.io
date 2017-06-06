@@ -1,3 +1,9 @@
+---
+layout: mindweekly
+title: Introduction
+---
+
+
 ## Introduction
 
 Minds are special sorts 
