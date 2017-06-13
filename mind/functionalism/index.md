@@ -7,8 +7,8 @@ title: Functionalism
 + Textbook, ch.3
 
 ### Assignments
-+ Quiz 3
-+ [Essay](Essay)
++ Quiz 5
++ [Essay 5](essay)
 
 ### Notes
 + [Notes](notes)
