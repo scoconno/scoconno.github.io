@@ -4,7 +4,14 @@ title: Consciousness
 ---
 
 ### Reading
-+ Textbook, ch.3
+
++ Required
+  + Textbook, ch.9, pp.263--289
+  + 'What is it like to be a bat?', pp.435--442, T. Nagel
+  + 'Knowing Our Minds', A. Byrne
+
++ Optional
+- 'Consciousness as Internal Monitoring', William G. Lycan (optional)
 
 ### Assignments
 + Quiz 3
