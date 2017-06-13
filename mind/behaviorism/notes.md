@@ -5,15 +5,41 @@ title: Notes
 
 ### Behaviorism
 
-Statement of the view. 
+https://www.youtube.com/watch?v=FR2odu9jbHs
 
-Importance of behavior to mind. 
+https://www.youtube.com/watch?v=gEVQQp3gwX0
 
-Examples of animal psychology.
 
-There are two types of behavior: physiological response and bodily movements. 
+The ones closest to us are often the ones we can read the best. I easily can judge when my wife's thoughts are elsewhere, or my brother is troubling over his mortgage. I seem to know their minds. And they seem to know mine. If Descarte were right, then my loved ones minds are identical to their souls, immaterial and invisible entities. How then could I have knowledge of their minds? I can't see their souls. But I often know what they are thinking and feeling without them telling me. How is this possible?  
+
+The answer, of course, is that mental state correlate with behavior and behavior is something that we can see. For our purposes, there are two types of behavior, physiological responses and bodily movements. Physiological responses are those automatic reactions to a stimulus, e.g., pupil dilation, sweating, etc. We are often unaware of many of these instinctive responses, e.g., flaring our nostrils, or grinding our teeth, etc. Sometimes we are aware of them and sometimes we can stop, but the point is tha we all experience various automatic physical changes to stimuli.
+
+A bodily movement, on the other hand, is an observable motion of some or all parts of the body. These include extending and retracting your limbs. Turning your head from left to right, etc. The below picture depicts the range of bodily movements that are characteristic of our our species. 
+
+IMAGEE (in your email)
+
+Our mental states seem correlated with our behaviors. Attending to behaviors seems to be how we judget what mental states others are in. A person in pain tends to wince and groan. A person that is excited tends to speak in a higher pitch and have dilated pupils. These correlations between mental states and behaviors, both physiological responses and bodily movements, are the basis of some signiificant discoveries and positions in modern psychology and philosophy of mind.  
+
+It was Skinner who was important in psychology. It has been essential to studies of animals and clinical stuff. And all the rest. Importance of behavior to mind. Examples of animal psychology. Therapists might ask about which stimuls triggered the behavior and therapy involves avodiing said triggers. 
+
 
 Example of pain. Pain is not the cause of groans and winces. Pain is, in fact, identical to the pain and grimaces. There is not, on this view, anything else beside the physiological responses and bodily movements. 
+
+We can think of three different views that fall under the 'behaviorism' banner:
+
+Psychological Behaviorism: 
+: Psychology is the science of behavior. Psychology is not the science of mind--as something other or different from behavior. Proponents of this view say that psychologists should only focus on behaviors.
+
+2. 
+
+Behavior can be described and explained without making ultimate reference to mental events or to internal psychological processes. The sources of behavior are external (in the environment), not internal (in the mind, in the head).
+
+
+Logical (ontological?) Behaviorism:
+: If mental terms or concepts are deployed in describing or explaining behavior, then either (a) these terms or concepts should be eliminated and replaced by behavioral terms or (b) they can and should be translated or paraphrased into behavioral concepts.
+
+
+
 
 “Paul has a toothache” in behavioral terms. His translation consists of the following five clauses:11
 a. Paul weeps and makes gestures of such and such kinds.
@@ -102,7 +128,7 @@ Hence, the behaviorist faces a dilemma. Either he says:
 + Alternatively, the behaviorist can say creatures with mental state M are disposed to engage in such-and-such mentalistic behavior. But if the behaviorist says this, then he hasn't succeeded in reducing mental facts to purely physical facts.
 
 
-### Three Types of Behaviorism
+### Three Types of Behaviorism again
 
 
 1. Psychology is the science of behavior. Psychology is not the science of mind--as something other or different from behavior.
