@@ -18,26 +18,29 @@ A bodily movement, on the other hand, is an observable motion of some or all par
 
 IMAGEE (in your email)
 
-Our mental states seem correlated with our behaviors. Attending to behaviors seems to be how we judget what mental states others are in. A person in pain tends to wince and groan. A person that is excited tends to speak in a higher pitch and have dilated pupils. These correlations between mental states and behaviors, both physiological responses and bodily movements, are the basis of some signiificant discoveries and positions in modern psychology and philosophy of mind.  
+Our mental states seem correlated with our behaviors. Attending to behaviors seems to be how we judget what mental states others are in. A person in pain tends to wince and groan. A person that is excited tends to speak in a higher pitch and have dilated pupils. These correlations between mental states and behaviors, both physiological responses and bodily movements, are the basis of some signiificant discoveries and positions in modern psychology and philosophy of mind. The focus of this section is on one such position, namely, *behaviorism*. 
 
-It was Skinner who was important in psychology. It has been essential to studies of animals and clinical stuff. And all the rest. Importance of behavior to mind. Examples of animal psychology. Therapists might ask about which stimuls triggered the behavior and therapy involves avodiing said triggers. 
+The word *behaviorism* connotes a number of things and it will be important in what follows for us to isolate the philosophical position that goes by that name. But, setting aside the many intricacies and differences, behaviorists of all types approach the study of the mind via the study of behavior. For instance, a therapist who calls themselves a behaviorist will not plum the depths of their patient's dreams and childhood memories. They are more likely to focus on problematic behaviors and their triggers. Therapy may consist in avoding the triggers or being densensitized to them, e.g., treating a phobia by densitizing the patient to whatever they fear. In both cases, the goal is really focused on changing the behavior. Likewise, animal psychologists who call themselves behaviorists study the minds of their favored animals via their behaviors. They learn how, say, a lion (my favorite), behaves when encountering a new situation. And, they assume that the relevant reaction is all we need focus on to learn about the mental states of that lion. 
 
+There are, though, different types of behaviorists, with some thinking that behaviors give clues to the mind while others thinking that behavior is all there is to the mind. Distinguish three versions of the view as follows:
 
-Example of pain. Pain is not the cause of groans and winces. Pain is, in fact, identical to the pain and grimaces. There is not, on this view, anything else beside the physiological responses and bodily movements. 
-
-We can think of three different views that fall under the 'behaviorism' banner:
+Methodological Behaviorism: 
+: Psychology is the science of behavior and of nothing other than behavior. This is a claim about about how to practice psychology. It says that (1) the job of the psychologists is to explain why organisms' behave they way they do, and (2) the only legitimate explanations a psychologist can offer are observable stimuli. The idea is that if psychology is to be a science then it cannot concern itself with anything as murky as the inner working of the mind. A hypothesis that, for instance, a person feels pain when they stub their toe must be testable if the hypothesis is a scientific one. And it is testable says that methodological behaviorist only if the inputs and outputs are observable by many, i.e., only if the hypothesis is about observable behaviours and stimuli. An animal psychologist, on this view, cannot talk about what a lion feels or thinks. Feelings and thoughts are not observable, so they should be no concern of the scientist.
 
 Psychological Behaviorism: 
-: Psychology is the science of behavior. Psychology is not the science of mind--as something other or different from behavior. Proponents of this view say that psychologists should only focus on behaviors.
+: Psychology is a rich discipline that must explain many things and one of these things is behavior. Even if the methodological behaviorist is wrong, there will still questions to ask about why humans and animals behave as they do. Psychological behaviorists say that the sources of behavior are exteranal and not internal, that is the causes of our behavior are always environemntla causes and never internal, mental causess. 
 
-2. 
+Philosophical, Ontological, Logical, Analytical, Radical Behaviorism:
+: Mental statues just are behavioral dispositions. This is the view that concerns us and it is unfortunate that is goes by so many names. The first two behaviorisms were not theories about mental states. The first was a theory about a legitimate psychological explanation. The second was a theory about the explanation the behaviro. Both of these theories can be agnostic about mental states, about whether they exist and what they are. Our third theory is not like this. It is a theory about the nature and existence of the mind. Namely, it claims that mental states are identical to sets of behaviors or behavior dispositions. Such an identity may seem surprising. Just as Louise Lane was surprised to learn that Clark Kent and Superman were one and the same person, it would be surpising to learn that pain, for instance, just is identical to some grimaces and moans. But that's what philosophical behaviorists believe. They do not think ther are any mental states inside that skull of yours---your mental states juat are all those external, observable behavior. This means that beliefs are not some internal states of your mind. To say that a person has a belief that, say, it will rain later, just means that the person is likely to behave a certain way, e.g., carry an umbrella, say aloud the words 'it will rain', etc. The belief is not something residing internall in their mind at all. 
 
-Behavior can be described and explained without making ultimate reference to mental events or to internal psychological processes. The sources of behavior are external (in the environment), not internal (in the mind, in the head).
 
 
-Logical (ontological?) Behaviorism:
-: If mental terms or concepts are deployed in describing or explaining behavior, then either (a) these terms or concepts should be eliminated and replaced by behavioral terms or (b) they can and should be translated or paraphrased into behavioral concepts.
+If mental terms or concepts are deployed in describing or explaining behavior, then either (a) these terms or concepts should be eliminated and replaced by behavioral terms or (b) they can and should be translated or paraphrased into behavioral concepts.
 
+
+Methodological and psychological behaviorism do not deny that we have mental states. They are perhaps agnostic. The 
+
+Example of pain. Pain is not the cause of groans and winces. Pain is, in fact, identical to the pain and grimaces. There is not, on this view, anything else beside the physiological responses and bodily movements. 
 
 
 
