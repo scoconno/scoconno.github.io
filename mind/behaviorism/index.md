@@ -14,7 +14,8 @@ title: Behaviorism
 + [Notes](notes)
 
 ### Videos
-+ Some video
++ https://www.youtube.com/watch?v=FR2odu9jbHs
++ https://www.youtube.com/watch?v=gEVQQp3gwX0
 
 ### Extra Literature
 + Pop literature
