@@ -52,6 +52,13 @@ articles:
 # title: Please
 # journal: Somewhere
 # issue:
+
+- year: 2017 
+  title: "The Eleatic Challenge in Aristotle's *Physics* I.8"
+  journal: Rhizomata,  A Journal for Ancient Philosophy and Science
+  issue: vol. 5 (1), pp 25–50
+
+
 - year: 2015
   title: "The Subjects of Natural Generations in Aristotle's *Physics* I.7"
   journal: Apeiron, A Journal for Ancient Philosophy and Science
@@ -70,9 +77,7 @@ articles:
 #  journal: \emph{Journal of the History of Philosophy}, 
 #  issue: (revised and resubmitted)
 
-#-  title: \enquote{The Eleatic Challenge in Aristotle's \emph{Physics}~I.8}
-#  journal: \emph{Archiv f{\"u}r Geschichte der Philosophie}, 
-# issue: (under review)
+
 
 invited:
 

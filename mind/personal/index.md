@@ -6,23 +6,16 @@ title: Personal Identity
 ### Reading
 + ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
 
-### Notes
-+ [Star Trek, Second Chances](http://www.dailymotion.com/video/x53w3ti), the notes refer to the case described in this episode. 
+### Notes 
++ [Star Trek, Second Chances](http://www.dailymotion.com/video/x53w3ti), the notes refer to the case described in this episode.
 + [Notes](notes)
 
 ### Videos
-There is lots of good treatments of the topic. 
++ Required
+	+ [Locke on personal identity](https://www.youtube.com/playlist?list=PLtKNX4SfKpzW7-RzDGW1pCDR_JTZhVAbj)
+	+ [Memory problems](https://www.youtube.com/watch?v=PB2OegI6wvI) 
 
-Assigned: 
-
-Wireless Philosophy
-+ [Locke on personal identity](https://www.youtube.com/playlist?list=PLtKNX4SfKpzW7-RzDGW1pCDR_JTZhVAbj)
-
-Problems for memory
-+ [Problems for memroy 2](https://www.youtube.com/watch?v=PB2OegI6wvI) 
-
-Optional
-
++ Optional
 
 Crash Course Philosophy
 + [Identity](https://www.youtube.com/watch?v=-TFCMK4i2lo)
@@ -41,8 +34,6 @@ This is about true self I think
 + [Narrative Self](https://www.youtube.com/watch?v=lcIqoN9oRgo&index=3&list=PLtKNX4SfKpzWONjJBMV9qFvSN8zfFtraA)
 
 
-### Extra Literature
-+ Pop literature
 
 ### Assignments
 + Complete quiz 1 in Blackboard by 1/30/17
