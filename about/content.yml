@@ -223,8 +223,8 @@ teaching2:
   title: Time
 
 service:
-- year: Referee Work
-  post: Epoché, A Journal for the History of Philosophy
+# - year: Referee Work
+#  post: Epoché, A Journal for the History of Philosophy
 - year: 2016-present
   post: SGO Global Citizens Scholarship Application Review Committee, NJCU
 - year: 2016-present

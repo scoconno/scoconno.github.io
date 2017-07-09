@@ -20,7 +20,7 @@ Numerical identity is a relation that has three important features. It is *refle
 	+ Example 2: *being shorter than* is not a reflexive relation. Ted cannot be shorter than himself. 
 
 + A relation R is **symmetric** if and only if, if x is related by R to y, then y is related by R to x.
-	+ Example 1: if Susan is a sibling of Sarah, then Sarah is *a sibling of* Susan. *Being a sibling of* is a symmetrical relation.
+	+ Example 1: if Susan is a sibling of Sarah, then Sarah is a sibling of Susan. *Being a sibling of* is a symmetrical relation.
 	+ Example 2: if Susan is a parent of Ted, it does not follow that Ted is a parent of Susan. *Being a parent of* is not a symmetrical relation.
 
  + A relation R is **transitive** if and only if, if x is related by R to y, and y is related by R to z, then x is related by R to z.
@@ -28,18 +28,17 @@ Numerical identity is a relation that has three important features. It is *refle
 	+ Example 2: if John loves Mary and Mary loves Susan, it does not follow that John loves Susan. *Loving someone* is not a transitive relation. 
 
 
-
-Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weight, made of different cells, different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you, and if that baby is identical to some teenager then you too are identical to that teenager. 
+Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weights, made of different cells, different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you; and if that baby is identical to some teenager, then you too are identical to that teenager. 
 
 It is important that you and that baby are numerically identical. Numerical identity undergirds many of our moral and social institutions. The social security number assigned to that baby belongs to whoever is numerically identical to her. Being only qualitatively similar does not suffice. That would mean a twin could get that baby's social security. The prison sentence delivered to a defendant should only be served by prisoners identical to that defendant. Suppose a prisoner is in the tenth year of a prison sentence for a crime committed by a person that they are only qualitatively similar to. What an injustice that would be! They would be serving a sentence for a crime that they did not commit. 
 
-Numerical identity is also important for questions about survival after death. In the dialog assigned for this week, there are three participants, Gretchen Weirob, a philosophy professor,  Sam Miller, a chaplain and longtime friend of Gretchen’s, and Dave Cohen, a former student of Gretchen’s. Gretchen, who is dying in the hospital, challenges Sam, a chaplain and religious believer, to prove to her that survival after the death of her body is possible. If Sam can do that, Gretchen says that she will be comforted. Sam and Dave consider various arguments for thinking that persons can survive the death of the body, but Gretchen remains unconvinced. 
+Numerical identity is also important for questions about survival after death. In the dialog assigned for this week, there are three participants, Gretchen Weirob, a philosophy professor;  Sam Miller, a chaplain and longtime friend of Gretchen’s; and Dave Cohen, a former student of Gretchen’s. Gretchen, who is dying in the hospital, challenges Sam to prove to her that survival after the death of her body is possible. If Sam can do that, Gretchen says that she will be comforted. Sam and Dave consider various arguments for the claim that persons can survive the death of thir body, but Gretchen remains unconvinced. 
 
-In order to convince her, they need to prove that there will exist a person after her bodily death that is numerically identical to the sick woman conversing in her hospital bed. In other words, Gretchen, G, our sick philosopher, survives if and only if there is some person F at a time after her body has died such that G is identical to F. F can't be merely similar to G. Living on in the hearts and minds of her friends is no way for Gretchen to survive her bodily death. G survives only if F is numerically identical to G. 
+In order to convince her, they need to prove that there will exist a person after her bodily death that is numerically identical to the sick woman conversing in her hospital bed. In other words, Gretchen, G, our sick philosopher, survives if and only if there is some person F at a time after her body has died such that G is identical to F. F can't be merely similar to G. G survives only if F is numerically identical to G. 
 
 ## Puzzling about Identity 
 
-It seems obvious that you are numerically identical to that baby despite the many qualitative differences between you. Why should there a problem?  In the Star Trek episode assigned this week (see the main page), there is a terrible accident with some futuristic equipment, a transporter device. A transporter works by scanning and dematerializing your body in one spot before re-materializing you at some different spot. But in our episode the transporter malfunctions. After de-materializing one person, it subsequently re-materializes what appear to be two versions of that person. While a piece of fiction, this example helps illustrate something philosophical interesting (philosophers often use thought experiment to test and refine their theories, raise questions, etc.). Allow ‘=’ for ‘numerically identical to’ and allow the following names for our various characters in the episode:
+It seems obvious that you are numerically identical to that baby despite the many qualitative differences between you. Why is this puzzling?   In the Star Trek episode assigned this week (see the main page), there is a terrible accident with some futuristic equipment, a transporter device. A transporter works by scanning and de-materializing your body in one spot before re-materializing you at some different spot. But in our episode, the transporter malfunctions. After de-materializing one person, it subsequently re-materializes what appears to be two versions of that person. While a piece of fiction, this example helps illustrate something philosophically interesting (philosophers often use thought experiment to test and refine their theories, raise questions, etc.). Allow ‘=’ for ‘numerically identical to’ and allow the following names for our various characters in the episode:
 + “Riker” is the person who beams onto the planet 8 years ago.
 + “William” is the person who materialized on Potemkin ship after Riker was de-materialized.
 + “Thomas” is the person who materialized on the planet after Riker was de-materialized.
@@ -49,12 +48,11 @@ What happened to Riker after the accident?  Did he continue to exist as Thomas, 
 1. Riker = Thomas 
 2. Riker = William 
 
-
-1-2 seem plausible. If we ignore William for a moment, none of us would doubt 1, that Thomas is identical to Riker, to the man who beamed down to the plant several years ago. If we ignore Thomas for a moment, none of us would doubt 2, that William is identical to Riker. But given the transitivity of identity, if 1 and 2 are true, then the following must also be true: 
+If we ignore William for a moment, none of us would doubt 1, that Thomas is identical to Riker, to the man who beamed down to the plant several years ago. If we ignore Thomas for a moment, none of us would doubt 2, that William is identical to Riker. But given the transitivity of identity, if 1 and 2 are true, then the following must also be true: 
 
 3. Thomas = William
 
-3 says that Thomas and William are numerically identical to one another. Again, if Riker is identical to Thomas and Riker is identical to William, then Thomas and William are identical to one another. But this is clearly false, as is easy to demonstrate with the following simple example: In the episode, Councilor Troy kissed Thomas. If 3 is true, if Thomas is identical to William, then Troy also kissed William. But William was in a different part of the ship altogether when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas.
+3 says that Thomas and William are numerically identical to one another. Again, if Riker is identical to Thomas and Riker is identical to William, then Thomas and William are identical to one another. But this is clearly false as is easy to demonstrate with the following simple example: In the episode, Councilor Troy kissed Thomas. If 3 is true, if Thomas is identical to William, then Troy also kissed William. But William was in a different part of the ship altogether when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas.
 
 We can add to these many more examples. Suppose that William commits a crime. Suppose he steals a ship. Well, if William is identical to Thomas, Thomas too steals the ship. Thomas then is as liable for the theft as William. But this is clearly absurd. The two men can be in different places at the same time, they can perform different actions at the same time, they could even get into a fight at the same time. They are not numerically identical, i.e., 3 is false.  Since 3 is false, we know that our premises, 1 and 2, cannot both be true together. Why? Consider this simple example: 
 
@@ -62,13 +60,13 @@ We can add to these many more examples. Suppose that William commits a crime. Su
 + P2. Socrates is human
 + C. Socrates is from Mars. 
 
-'P' is used to label a premise of an argument. 'C' is used to label the argument's conclusion. P1 and P2 entail C. But since we know that C is false, we also know that one of P1 and P2 must be false too. In this case, the culprit is P1. 
+'P' is used to label a premise of an argument. 'C' is used to label the argument's conclusion. P1 and P2 entail C. But since we know that C is false, we also know that one of P1 and P2 must be false too. In this case, the culprit is P1. Likewise, since we know that 3 is false, and since 3 is entailed by the conjunction of 1 and 2, we know that at least one of 1 and 2 is false.
 
 ## What does personal identity consist in?
 
 To decide who Riker continues as we need to know what personal identity consists in, i.e., despite their qualitative differences, what is it about a person existing at one time that makes them identical to a person existing at a different time? Despite the qualitative differences between the baby picture and the adult picture, what makes the persons depicted in both numerically identical to one another. 
 
-Three answers have been defended to this question. The first claim that personal identity consists in sameness of body. The second says that it consists in sameness of soul, and the third says that it consists in psychological continuity. While each view has some virtues, they are all problematic and constitute a live research project; many have staked their career on finding the answer.  I will explain each of the views and raise some objections. 
+Three answers have been defended to this question. The first claims that personal identity consists in sameness of body. The second says that it consists in sameness of soul, and the third says that it consists in psychological continuity. While each view has some virtues, they are all problematic and constitute a live research project; many have staked their career on finding the answer.  I will explain each of the views and raise some objections. 
 
 ## Same Body
 
@@ -80,7 +78,7 @@ Our first view, the sameness of body view, says the following:
 
 ![image](rikerb.jpg)
 
-The view is straightforward. For instance, it states that Riker is identical to whoever has a body numerically identical to his. The view is also made plausible by reflecting on how we normally judge personal identity; I believe that the baby in my apartment is identical to the baby my wife gave birth to beceause I see that they have the same bodies. 
+The view is straightforward. For instance, it states that Riker is identical to whoever has a body numerically identical to his. The view is also made plausible by reflecting on how we normally judge personal identity; I believe that the baby in my apartment is identical to the baby my wife gave birth to because I see that they have the same bodies. 
 
 This view also has clear upshots for questions about immortality: we cannot survive our bodily death. It states that we survive our bodily death only if there exists a person some time after who has a body numerically identical to our own. But, obviously, if our body dies then there cannot be someone in the future whose body is numerically identical to our own. 
 
@@ -88,15 +86,15 @@ This view also has clear upshots for questions about immortality: we cannot surv
 ## Objections
 
 ### Objection 1
-But the problems for the same body view are dramatic. On the one hand, it seems to answer our question by raising a further question that is as difficult to answer. If G is identical to F only if the body of G is identical to the body of F, then we would like to know what makes their bodies identical. Bodies do change their qualities over time. They grow ligther and heavier, taller, darker, paler, etc. And, so our question about personal identity gives way to this question: despite their qualitative differences, in virtue of what is a body existing at one time numerically identical to a body existing at a different time? This is a legitimate question that defenders of the same body view owe an answer to. But it is a question that is as difficult as the original question about personal identity. 
-
+The problems for the same body view are dramatic. On the one hand, it seems to answer our question by raising a further question that is as difficult to answer. If G is identical to F only if the body of G is identical to the body of F, then we would like to know what makes their bodies identical. Bodies do change their qualities over time. They grow lighter and heavier, taller, darker, paler, etc. And, so our question about personal identity gives way to this question: despite their qualitative differences, in virtue of what is a body existing at one time numerically identical to a body existing at a different time? This is a legitimate question that defenders of the same body view owe an answer to. But it is a question that is as difficult as the original question about personal identity. 
 
 ### Objection 2
+
 ![image](freaky.jpg)
 
-Perhaps a deeper problem for the same body view lies in the fact that our concept of personal identity allows for the admittedly bizarre examples of bodily swaps as described in movies like 'Freaky Friday'. In the movie, a young daughter and her mother change bodies. We'll never live to see such a strange case. But what is important about the example is that we have no conceptual difficulty in allowing that persons to swap bodies; our concept of personal identity allows for such body swaps. If the same body view were correct, then personal identity would be essential tied to bodily identity. There could not then be a swap in bodies. 
+Perhaps a deeper problem for the same body view lies in the fact that our concept of personal identity allows for the admittedly bizarre examples of bodily swaps described in movies like 'Freaky Friday'. In the movie, a young daughter and her mother change bodies. We'll never live to see such a strange case. But the example indicates that we have no conceptual difficulty in allowing persons to swap bodies; our concept of personal identity allows for such body swaps. If the same body view were correct, then personal identity would be essentially tied to bodily identity. There could not then be a swap in bodies. 
 
-The objection can be illustrated without appeal to science fiction: each of us could remain numerically one and the same as our bodies underwent significant transformations. Some lose limbs. Some lose organs. Some have artificial replacements. Some augment their appearance with plastic surgery. Some ink their skin. Some transition from one gender to another. In all of these case, the bodily changes do not hinder a person surviving from one time to another.  
+The objection can be illustrated without appeal to science fiction: each of us could remain numerically one and the same as our bodies underwent significant transformations. Some lose limbs. Some lose organs. Some have artificial replacements. Some augment their appearance with plastic surgery. Some ink their skin. Some transition from one gender to another. In all of these cases, the bodily changes do not hinder a person surviving from one time to another.  
 
 ## Sameness of Soul
 
@@ -111,7 +109,7 @@ So, according to this theory, William is identical to whoever has a soul identic
 
 ![image](rikersoul.jpg)
 
-The success of this view requires, of course, that there exists souls. Later in the semester, we will discuss a view that the mind is identical to the soul and talk in detail about what souls are meant to be then. For now, let us note the following few details about them.  
+The success of this view requires that there exist souls. Later in the course, we will discuss a view that the mind is identical to the soul and talk in detail about what souls are meant to be then. For now, let us note the following few details about them.  
 
 ![image](cube.jpg)
 
@@ -119,52 +117,23 @@ First, souls are supposedly *immaterial*. What does this mean? Bodies are extend
 
 The Seat of Consciousness ![image](seat.jpg)
 
-Second, souls are supposedly the *seat of consciousness*. What does this mean? For any thought and experience, there is some entity that does the thinking and experiencing. For instance, if a wish for ice-cream occurs on Monday at noon, there must be some entity which is doing the wishing. If souls are the seat of consciousness, then it is souls and not the body that is doing that wishing. The same goes for perceiving, remembering, fearing, etc. The soul is what is properly in each of these states.  
+Second, souls are supposedly the *seat of consciousness*. What does this mean? For any thought and experience, there is some entity that does the thinking and experiencing. For instance, if a wish for ice-cream occurs on Monday at noon, there must be some entity that is doing the wishing. If souls are the seat of consciousness, then it is souls and not the body that is doing that wishing. The same goes for perceiving, remembering, fearing, etc. The soul is what is properly doing each of these things. 
 
-The same soul view does seem plausible. Our bodies undergo many changes, but our soul does not. It is more like a passenger in an ever changing vessel. Since the soul is not changing--it cannot get larger, for instance--it seems plausible that the soul is what personal identity consists in, it seems plausible that you are identical to the baby you came from because you and that baby have identical souls. 
+The same soul view does seem plausible. Our bodies undergo many changes, but our soul does not. It is more like a passenger in an ever changing vessel. Since the soul is not changing--it cannot get larger, for instance--it seems plausible that sameness of soul is what personal identity consists in. It seems plausible that you are identical to the baby you came from because you and that baby have identical souls. 
 
 The same soul view also allows for the possibility of survival after our bodily death. What is required for such survival is the persistence of our souls, which seems possible given that souls are not themselves material.
 
 ## Objections
-We will discuss the soul in more detail later in the course and consider arguments for and against their existence. For now, I want to raise some problems for the claim that personal identity consists in sameness of soul; regardless of whether souls exists, there are problems with the claim that our identity is secured by the persistence of our souls. 
+We will discuss the souls in more detail later in the course and consider arguments for and against their existence. For now, I want to raise some problems for the claim that personal identity consists in sameness of soul; regardless of whether souls exists, there are problems with the claim that our identity is secured by the persistence of our souls. 
 
-Consider again what the same soul view claims and let's use SSV for short: 
+Consider again what the same soul view claims and let's use SSV for short to refer to the view: 
 : A person A at one time is identical to a person B at a later time   if and only if the soul of A is identical to the soul of B.
 
-Is SSV true? Our business is not merely throwing claims around. We are interested in the truth, in finding out which claims are true and which are false. In order to do that, we need evidence, or arguments, to establish the claims we are considering. So, what evidence is there for SSV? 
+Is SSV true? We are interested in the truth, in finding out which claims are true and which are false. In order to do that, we need evidence, or arguments, to establish the claims we are considering. So, what evidence is there for SSV? 
 
+Suppose that we know that person A and person B are identical. To test SSV, we could investigate whether the souls of A and B are identical; this would at least provide some evidence for SSV. But how could we ever know that two souls are identical? We cannot use our perception. We cannot see, hear, touch, taste, or smell souls. So, it's impossible to use these capacities to determine if the souls of A and B are identical to one another. 
 
--   How could we know that the soul of A is identical to the soul of B?
-
-    1.  Direct experience?
-
-    2.  Indirect experience: Same Body
-
-    3.  Indirect experience: Same Psychology
-
-Indirect Experience 1 Claim
-
--   Same body entails same soul.
-
--   We directly perceive bodies.
-
--   We indirectly perceive souls.
-
-Problems
-
-1. If we can know that B is true, then B can be known either *a posteriori* or *a priori*
-
-2. B cannot be known *a posteriori*.
-
-3. B cannot be known *a priori*.
-
-4. Therefore, we cannot know that B is true.
-
-Discussion of P2 ![image](apost.jpg)
-
-With the chocolate, I can test. My test involves me perceiving both the chocolate and the inside. We keep checking and we come to know that certain wrapper is associated with certain filling. But we can’t check whether souls are associated with bodies.
-
-Discussion of P3
+Perhaps the evidence thatasdf
 
 ![image](apr.jpg)
 
