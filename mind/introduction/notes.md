@@ -4,49 +4,53 @@ title: Introduction
 ---
 
 
+# Course Instructions
+
 ## Introduction
 
-Minds are special sorts 
+Welcome! I'm Dr. Scott O'Connor and I'll be your instructor for this course. Originally from Dublin, I joined the Philosophy Department at NJCU in Fall 2014. Before my arrival, I received a masters degree in philosophy from Oxford University and a doctoral degree in philosophy from Cornell University. My areas of specialization are ancient philosophy and metaphysics, though I have broad, general interests in philosophy too. If you want to know a bit more about me, then you can learn about my research on this website. 
+
+While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](/contact) for further information.
 
 
-We divide the world into those that live and those don't. We divide those that live into those that have a mind and those that don't. There are creatures that are conscious and can experience things like pain and pleasure. 
-+ Consider the controversies over animals, whether they should be eaten and whether they should be tested upon. 
-.+ Cats and dogs experience sensation, perceive their surroundings, remember things, learn from their experiences, seem to have emotions. What about more complex emotions? 
-+ What about when we move down the animal chain to oysters and insects? They seem to perceive their environment, but do they have a mind? 
-+ What about machines? 
+## Mechanics
+
+There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. One exception is the final week, which will become live on a Friday.  Each week will include: 
+
+1. Instructions.
+2. Notes that partially review the assigned readings.  
+3. Assignments.
+4. Optional Readings.
+5. Media, e.g., video clips, blogs, etc.
+
+You will work through the topics by clicking on 'materials'. 
+
+## Assignments
+There are two assignments per week, one essay and quiz. Both are found on Blackboard. You will find a full description on the syllabus, but let me emphasize here again the following: 
+
+1. Assignments are normally due on a Monday by 11:59pm. During the last week, the assignments are due on the Thursday at 11:59pm. Note, though, that the final week's module will become live earlier than previous week.
+2. You must complete 5 of the 7 assigned quizzes. If you complete more than 5, the lowest grades will be dropped. 
+3. You must complete 5 of the 7 assigned essays. If you complete more than 5, the lowest grades will be dropped. 
 
 
-We can only answer these questions if know what it is to have a mind. 
+Keep in mind that we must cover 3 credits worth of material in our time together. So expect to spend about about 12 hours per week on the readings and assignments. If this work load is too high for you, then I urge to reconsider taking this class. There won't be any opportunities to make up missed assignments, and I will not accept late work under any circumstances. 
+
+Students do sometimes ask to submit work late or for a make-up opportunity. I always decline. I treat my students equally and don't like being asked for special privileges. Instead, I prefer to assign more essays and quizzes than are needed to complete the course. If you are unable to do 5 of the 8 assigned quizzes and 5 of the 8 assigned essays due to illness, then you likely should be requesting a medical withdrawal from NJCU for the semester.  
 
 
-## What is philosophy of mind? 
+## Technical Help
 
-The mind is studied by disciplines ranging from psychology, to cognitive science, to neuroscience. What does philosophy have to offer in addition to these disciplines? If you wanted to learn about cells, you would ask the cell biologist and be surprised if the philosopher had anything to add in addition to the biologist. 
+All Blackboard activity is recorded. I see when you log on, what you click, and how long you stay on the pages you click. Blackboard outages are rare and are automatically reported to me. If you encounter technical difficulties, the most likely source will be a difficulty with your browser or computer. By taking this course, you are indicating that you have sufficient computer literacy. If at any point, you are uncertain how to use Blackboard or have some technical difficulty, then you should consult NJCU's online learning resources here: [http://newlearning.njcu.edu/dl/enrolled.htm](http://newlearning.njcu.edu/dl/enrolled.htm)
 
-One think philosophers do is identify and clarify which questions must be answered if we are to fully understand the nature of mind. A biological cell is a target that we can all identify. The questions we must ask about this target are relevantly clear. Not so with the mind. Disciplines do not yet even agree on which questions are the relevant questions. Should we be focused merely on the way brain processes information? Must we also understand how a person represent their environment to themselves? What exactly are those questions that must be asked about the mind? 
-
-A philosopher here responds that before we can answer whether something has a mind, we need to identify the marks of mentality. Before we can know, for instance, whether a scientist has offered a full and exhaustive account of consciousness, we need to identify the marks of consciousness, something we will focus on at the end of this semester.
-
-A good place to start is by noticing the vast variety of mental phenomena, or 'mental state'. We will often talk about mental states in this class. They are roughly states of the mind as opposed to states of the body, e.g., the thought of ice-cream on a hot day is a mental state, a state you are in when thinking about ice-cream. The acid in your stomach digesting that stomach is a state of your body and not your mind. 
-
-First, there are a large group of mental states that we might call phenomenal or qualitative states. Amongst these are included  1) sensations like pains, itches, tickles, etc. 2) Perceptions, mental states we are in when we have an experience, or apparent experience, of the external world whether it be a sight, sound, smell, taste, or touch. So, for instance, when you see the ice-cream cone, the seeing is one mental state, when you taste the ice-cream, the tasting is a different mental state, when you feel the ice-cream running down your fingers, the feeling is yet another mental state, etc. And when dog licks your hand, the tickle the dog causes is yet another mental state. Some of these mental states, especially perceptions, seem primarily to give us information about the world, something other than your body. Others, the sensations, seem primarily to give us informaiton about our body. Despite all these differences, though, all these mental states seem similar in one important respect, each has its own distinctive feel that is essential to it. There is a feel to pain that makes pain the mental state it is. There is a different feel to seeing green that make  it the particular mental state it is. It will be one of our main tasks in this course to get clearer on what these 'feels' are and to understand how exactly we have access to them. 
-
-A second group of mental states are called 'propositional attitudes'. This is a technical phrase and we'll be learning many in this course, though I will use as few as possible. Propositional attitutes correspond roughly to the different types of thoughts that we can have. Contemplating the nature of ice-cream and hoping for ice-cream are different types of thoughts and both are very different from tasting or seeing the ice-cream. 'Propositional attitudes' or different attitudes, or mental states, we can be in towards a proposition, where a proposition is just any that-clauses. For example, in teh sentence 'President Barack Obama hopes that Congress will retain the Affordable Care Act', *Congress will retain the Affordable Care Act* is a proposition that the Obama has an attitude towards, i.e., he hopes that it turns out true. But we could have other attituese towards the same proposition, e.g., we could believe that the proposition is true, we could fear the proposition is true, etc. The idea, then, is that whenever we have a thought, there is some proposition we are entertaininng and some attitude we have towards that proposition. The propositions, in other words, are the content of the thoughts. These states are also called “intentional", which means that they are about or directed upon objects that may or may not exist. 
-
-Thoughts and feelings are obviously very different. Thinking about the number 2 is different from feeling itchy during a geometry class. Itches don't seem to be attitudes towards propositions; no proposition is the content of the itch. Thinking about the number seems to have no raw feel to it whatsoever. But a third group of mental states seem to have both content and feels to them, i.e., emotions. They include anger, joy, sadness, depression, elation, pride, embarrassment, remorse, regret, shame, ect. Emotions are often attributed to persons with a that-clause, e.g., 'President Obama is depressed that Congress is trying to repeal the Affordable Care Act', 'Paul Ryan is proud that Congress is trying to repeal the Affordable Care Act', etc.  But emotions are more than mere thoughts. There are also various feelings we associate with many emotions. Being depressed and proud could have the same content, but they feel very different. 
-
-I have here listed three different types of mental states. But in virtue of what common property are should all these common states be called "mental"? Why should a thought and an ithch be called mental but your glucose and cholestoral levels be called physical? We might, for instance, think that intentionality is the mark of the mental, that all mental states represent or are directed to things in the world. If that's true, then are sensations also intention? If so, what do they represent? If not, then there must be some other featre of all these states that make them mental as opposed to non-mental. And it is to this question that philosophers have much to say. 
+I occasionally have online students report that their computer crashes 1 minute before a test is due. My response is always the same: it is your responsibility to ensure you are using a reliable computer on a stable internet connection. If your computer crashed one minute before it was due, I encourage you to reflect on whether leaving the assignment to the last minute was a responsible strategy. It is never grounds for me to change my policies on late submissions. 
 
 
+## Next Steps 
 
-## Our Topics
-We will focus on three topics: 
+1. Read the syllabus carefully. Course policies vary by professors, sometimes significantly. I don't allow make-ups, but other professors do. You need to understand the policies that govern this course and understand what is required of you.  
+2. Complete Week 1. 
 
-Personal-Identity
+## Broken links
 
-
-
-Mind-body problem: the mind and brain are intimately connected. Every mental change correlates with some physical change in the brain. Or, as philosophers like to say, mental states supervene on brain states, where this just means that whenever our mental states change, so too do our brain states. But how can explain this correlation? Our brains state are neural states, states in which various neurons are firing. Neurons, in tunr, are ultiamtely composed of the most fundamental bits of matter. So, when we enjoy listening to a piece of music, this enjoyment correlates with some sequence of neural firing. The enjoyment and nueral firing seem very different; enjoyments don't seem to be made up of bits of matter, for instance. So, how can they be so intimately connected? This is called the mind-body problem and is the problem that has received most attention, both historically and in comtemporary investigations of the mind in psycholgoy, neuroscience, cognitive science, etc. 
-
-Consciousnesss 
+If a link is broken, please contact me and I will fix it promptly. 
 
