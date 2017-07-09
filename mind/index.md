@@ -14,8 +14,8 @@ title: Self-Mind
 
 |         |     | 
 | :-------------: | ------------- | 
-| February 21 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
-| April 1  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
+| July 13-26 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
+| July 27-August 7  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
 
 ## Weekly schedule
 
