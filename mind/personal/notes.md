@@ -241,76 +241,38 @@ Unfortunately, memory is horribly unreliable and contemporary researchers have s
 
 In a nutshell, the problem is that there are fake personal memories. I thought I had a personal memory of attending a Michael Jackson concert as a 5 year old, but I discovered from my parents that this was a false memory; I loved Michael Jackson as a child and watched a recorded concert of him over and over. At some stage, I must have convinced myself that I had attended that concern in person and had a long time thought that I had genuine memories of being at that concern. But, I was wrong! 
 
-Fake personal memories pose a threat to the psychological continuity view. If F is identical to E because F remembers what E experienced, then F should have genuine and not fake memories of E's experiences. Suppose a fake memory was implanted in F of E's experiences (researchers already know how to do this). F and E are not identical even though F thinks he remembers E's experiences.
+Fake personal memories pose a threat to the psychological continuity view. If F is identical to E because F remembers what E experienced, then F should have genuine and not fake memories of E's experiences. Suppose a fake memory was implanted in F of E's experiences (researchers already know how to do this). F remembers E's experiences, but F is not identical to E.
 
-So, the second version of the psychological continuity theory requires that the memories that explain personal identity are genuine and not mere fake memories. But distinguishing fake from real memories is incredibly difficult. 
+So, the second version of the psychological continuity theory requires that the memories that explain personal identity are genuine and not mere fake memories. But distinguishing fake from genuine memories is incredibly difficult. We cannot distinguish them via some internal difference. A fake and genuine memory may be exactly the same from the *inside*. If you inspect their contents, nothing will indicate to you which is real. 
 
-River Objection ![image](river.jpg)
+It might be tempting to distinguish genuine from fake memories by appeal to the people who have the memories in the following way:  
 
-Problem: Apparent vs Real Memory ![image](fake.jpg)
++ If two persons A and B both have an experience as though
+they remember the experiences of some person C, then the memory of A (or B) is genuine and not fake only if A (or B) is identical to P.
 
-I really remember X iff
+On this view, what makes a memory a genuine as opposed to a fake memory is that the person who has the memory is identical to the person who had the relevant experience in the past, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who had the experience of eating the salad. 
 
--   I have an experience as though I remember experiencing X.
+But if we try distinguish genuine from fake memories in this way *and* use memory to explain personal identity, then we commit a simple logical mistake, namely it is circular to make both of these claims:
 
--   I did experience X.
+1.  A = C only if A really remembers what C experiences.
 
-I apparently remember X iff
+2.  A really remembers what C experiences only if A = C.
 
--   I have an experience as though I remember experiencing X.
-
--   I did not experience X.
-
-Distinguishing Real vs. Apparent Memories: Attempt 1
-
-![image](seat.jpg)
-
-Internal Differences
-
--   If I could perceive a qualitative difference between a real and an
-    apparent memory of X, then this qualitative difference would
-    distinguish the real and apparent memory of X.
-
--   I can perceive no qualitative difference between a real and an
-    apparent memory of X.
-
--   No qualitative difference distinguishes real and apparent memories
-    of X.
-
-Distinguishing Real vs. Apparent Memories: Attempt 2
-
-Suggestion: If two persons A and B both have an experience as though
-they remember the experiences of some person P, then the memory of A (or
-B) is real and not apparent only if A (or B) is identical to P.
-
-The problems is that it is circular to make both claims:
-
-1.  A = P only if A really remembers what P experiences.
-
-2.  A really remembers what P experiences only if A = P.
-
-Circular Reasoning
+Claim 1 explain personal identity in terms of genuine memories. But claim 2 explains genuine memory in terms of personal identity. This is an instance of what is called circular reasoning. You can see a famous example of this type of mistake illustrated in this diagram: 
 
 ![image](circularity.jpg)
 
-Distinguishing Real vs. Apparent Memories: Attempt 3
+The Bible may very well contains truths about God's existence. But, you cannot prove that the Bible contains such truths by claiming that you know the Bible is the word of God because the Bible says so. 
 
-Suggestion
+Finally, the psychological continuity view perhaps most obviously fails if we return to the case of Riker again: 
 
--   A real memory is one that was caused in the right way.
+![image](Slide1.jpg)
 
--   An apparent memory is one that was not caused in the right way, e.g.
-    hypnosis, implantation, etc.
+Both Thomas and William seem to have genuine memories of Riker's experiences. Both remember what it was like to step on to that malfunctioning transporter 8 years previously. Both have the same personal memories of Riker's childhood. If the psychological continuity view is correct, then at least least one of Thomas or William's memories must be, in fact, fake (since it cannot be the case that both Thomas and William are identical to Riker). But we have no good reason to think that both men's memories are fake. Each were caused in the right way and each seems to have as much claim on Riker's previous life as the other. 
 
-Problem-Duplicates!
 
--   Two persons A and B both have memories of what P experienced that
-    were caused in the right way.
+## Conclusion
+Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the presocratics over two millenia ago.  
 
--   A $\neq$ B.
 
--   Having memories caused in the right way is not sufficient for
-    personal identity.
-
-Riker Objection ![image](Slide1.jpg)
 
