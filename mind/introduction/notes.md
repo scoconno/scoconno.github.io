@@ -23,6 +23,9 @@ There is a dedicated module for each week. You will find these under 'weeks' in 
 4. Optional Readings.
 5. Media, e.g., video clips, blogs, etc.
 
+## Textbook
+Please find details about the textbook on the syllabus. I will photocopy some readings for weeks 1 and 2, but you will need the textbook from week 3 onwards. The book is available online and in the campus bookstore. 
+
 ## Assignments
 There are two assignments per week, one essay and one quiz. Both are found on Blackboard. You will find a full description on the syllabus, but let me emphasize here again the following: 
 
