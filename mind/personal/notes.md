@@ -115,7 +115,7 @@ So, according to this theory, William is identical to whoever has a soul identic
 
 The success of this view requires that there exist souls. Later in the course, we will discuss a view that the mind is identical to the soul and talk in detail about what souls are meant to be. For now, let us note the following few details about them.  
 
-First, souls are supposedly *immaterial*. What does this mean? Bodies are extended in three dimensions. They have height, width, etc. In contrast, souls have no extension. Souls have no height or weight. Bodies are also basic bits of matter or composed of basic bits of matter, where bits of matter are governed by all the various laws that we study in physics. In contrast, souls are neither basic bits of matter or composed of basic bits of matter. Thus, they are immune from all those laws that we study in physics. 
+First, souls are supposedly *immaterial*. What does this mean? Bodies are extended in three dimensions. They have height, width, etc. In contrast, souls have no extension. Souls have no height or weight. Bodies are also basic bits of matter or composed of basic bits of matter, where bits of matter are governed by all the various laws that we study in physics. In contrast, souls are neither basic bits of matter nor composed of basic bits of matter. Thus, they are immune from all those laws that we study in physics. 
 
 ![image](Slide1.jpg)
 
@@ -125,7 +125,7 @@ The same soul view does seem plausible. Our bodies undergo many changes, but our
 
 The same soul view also allows for the possibility of survival after our bodily death. What is required for such survival is the persistence of our souls, which seems possible given that souls are not themselves material.
 
-## Objections
+## Objections to the Same Soul View
 We will discuss souls in more detail later in the course and consider arguments for and against their existence. For now, I want to raise some problems for the claim that personal identity consists in sameness of soul; regardless of whether souls exists, there are problems with the claim that our identity is secured by the persistence of our souls. 
 
 Consider again what the same soul view claims and let's use SSV for short to refer to the view: 
@@ -135,9 +135,7 @@ We are interested in the truth, in finding out which claims are true and which a
 
 Suppose that we know that person A and person B are identical. To test SSV, we could investigate whether the souls of A and B are identical; this would at least provide some evidence for SSV. But how could we ever know that two souls are identical? We cannot use our perceptive capacities. We cannot see, hear, touch, taste, or smell souls. So, it's impossible to use these capacities to determine if the souls of A and B are identical to one another.
 
-Is there any other way to determine if the souls of A and B are identical? Some believe that there is indirect evidence for the view that sameness of soul correlates with sameness of person. 
-
-Each of us has different sets of personality traits and characteristics. I laugh at puns. You may not. I avoid the sun. You may seek it out. All of our various personal traits, the quirks and characteristics, may correlate with sameness of soul; perhaps we know that soul A is identical to soul B because A and B have the same personality traits. If this were the case, we could test the claim that personal identity consists in sameness of soul. If A and B have the same personality traits, they have the same soul. If we know that A and B are identical, then we are good grounds for believing that their identity is explained by the identity of their souls. Laid out as an argument, the view says the following: 
+Is there any other way to determine if the souls of A and B are identical? Some believe that there is indirect evidence for the view that sameness of soul correlates with sameness of person. Each of us has different sets of personality traits and characteristics. I laugh at puns. You may not. I avoid the sun. You may seek it out. All of our various personal traits, the quirks and characteristics, may correlate with sameness of soul; perhaps we know that soul A is identical to soul B because A and B have the same personality traits. If this were the case, we could test the claim that personal identity consists in sameness of soul. If we know that A and B, persons existing the same personality, are identical, then we are on good grounds for believing that their identity is explained by the identity of their souls. Laid out as an argument, the view says the following: 
 
 -   P1. Same psychology entails same soul.
 
@@ -170,19 +168,18 @@ Our first two theories stated that there will be some thing, either a soul or bo
 
 ![image](train.jpg)
 
-Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you attend to when watching the engine is identical to the owner of the train you are attending to when you watching the final carriage. Suppose, now, we ask in virtue of what is the engine and final carriage numerically identical trains? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train car are one and the same train by virtue of the fact that they are connected to one another---just notice the locks where each car connects with one another. 
+Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you attend to when watching the engine is identical to the owner of the train you are attending to when watching the final carriage. Suppose, now, we ask in virtue of what are these trains identical to one another? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train car are one and the same train by virtue of the fact that they are connected to one another---just notice the locks where each car connects with one another. 
 
-When I claim that the cars are the same by virtue of being appropriately connected, I have subtly changed the focus of our initial investigation. The individual *train cars* are not numerically identical to one another; the engine is not identical to the coal car. And if by 'same train', I mean 'train car', the various trains cars are not numerically identical to one another. But I don't mean this when asking whether the cars are identical. What I mean to ask is whether the train that the engine is part of is numerically identical to the train that the final carriage is part of. Likewise, I can ask whether the body that has my left hand as a part is numerically identical to the body that has my right as a part. So, I am not ask whether my left and right hands are identical to one another. I am asking whether they are parts of bodies that are numerically identical to one another. 
+When I claim that the cars are the same by virtue of being appropriately connected, I have subtly changed the focus of our initial investigation. The individual *train cars* are not numerically identical to one another; the engine is not identical to the coal car. And if by 'same train', I mean 'train car', the various trains cars are not numerically identical to one another. But I don't mean this when asking whether the cars are identical. What I mean to ask is whether the train that the engine is part of is numerically identical to the train that the final carriage is part of. Likewise, I can ask whether the body that has my left hand as a part is numerically identical to the body that has my right as a part. When I ask this, I am not asking whether my left and right hands are identical to one another. I am asking whether they are parts of bodies that are numerically identical to one another. 
 
 Asked in this way, what we would like to know is whether the train cars compose one and the same train, are they parts of the same train. To answer this question, we must decide whether the carriages are appropriately related to one another so as to compose a whole train. Likewise, instead of asking in virtue of what the various stages of person's life are identical to one another, we can ask in virtue of what all these stages compose one and the same person. On this view, the baby and adult are numerically distinct person stages, but they  are stages of one and the same person as it weaves its way through time. 
 
 ## Psychological Continuity--Version 1
-
-In his 'Essay on Human Understanding' John Locke articulated our third theory of personal identity and perhaps was the first person to do so: 
+Just as some connection between the train cars explained why they compose some one train, so too there must be some connection between person stages if they are to compose some one person. In his 'Essay on Human Understanding' John Locke articulated one famous answer: 
 
 > “For as far as any intelligent being can repeat the idea of any past action with the same consciousness it had of it at first, and with the same consciousness it has of any present action; so far it is the same personal self.” John Locke (§10)
 
-Locke believes that you are identical to your earlier self by you and that earlier self composing one and the same person. Just as some connection between the train cars explained why they compose some one train, so too there must be some connection between person stages if they are to compose some one person. According to Locke, that connection was memory. A simple version of his proposal is as follows: 
+According to Locke, the appropriate connection between your later and earlier selves is memory. A simple version of his proposal is as follows: 
 
 Memory Continuity:
 : A person A at one time is identical to a person B at a later time if and only if B *remembers* the *experiences* that A has.
@@ -193,13 +190,13 @@ Factual memories, memories that many can share, differ from *personal memories*.
 
 ![image](leo.jpg)
 
-So consider the image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he had personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
+So consider the image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he has personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view, then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
 
-### Objections to Version 1
+## Objections to Version 1
 
 While version 1 of the psychological continuity theory seems plausible, it is not adequate as an explanation of personal identity. Allow ‘Leonardo’ to be the 12 year old who will grow up to be the adult actor we all know. We will use the name 'Leo' to refer to that adult actor. Here is our problem: 
 
-1. Leo = Leonardo if and only if Leo remembers everything that Leonardo experenced.
+1. Leo = Leonardo if and only if Leo remembers everything that Leonardo experienced.
 2. Leo does not remember what Leonardo ate for breakfast on the second day after his 12th birthday, though Leonardo certainly had the experience of eating something
 3. Leo $\neq$ Leonardo
 
@@ -207,9 +204,9 @@ Our first premise is an application of the first version of our third theory, wh
 
 Our second premise is trivial. Can you remember every experience you ever had? I cannot! I remember important life events, special moments with friends and family, etc. But I certainly do not remember what I ate for lunch, on say, June 11th, 1995. No idea! 
 
-3 states our conclusion. Since Leo does not remember Leonardo's experience of eating that birthday cake, Leo is not identical to Leonardo. It should be fairly obvious to you why this simple version of our third theory fails. It is far too demanding. It requires you to have complete and perfect memory, and while a few lucky individuals have such a facility, the majority of us do not. But, even though you may have forgotten what you ate the day after your 12th birthday, you are still numerically identical to your 12 year old self. 
+3 states our conclusion: Leo is not identical to Leonardo. This is clearly false, so there must be a problem with our first two premises. It should be fairly obvious to you why this simple version of our third theory fails. It is far too demanding. It requires you to have complete and perfect memory, and while a few lucky individuals have such a facility, the majority of us do not. And even though you may have forgotten what you ate the day after your 12th birthday, you are still numerically identical to your 12 year old self. 
 
-## Version 2
+## Psychological Continuity Theory-Version 2
 
 While our first version was implausible, it can be fixed. A more sophisticated version of our third theory states the following: 
 
@@ -239,7 +236,7 @@ While our second version is more plausible than our first, it faces its own diff
 
 Unfortunately, memory is horribly unreliable and contemporary researchers have shown the degrees to which personal memories can be modified and hacked. See the main page for this week for videos on the topic. 
 
-In a nutshell, the problem is that there are fake personal memories. I thought I had a personal memory of attending a Michael Jackson concert as a 5 year old, but I discovered from my parents that this was a false memory; I loved Michael Jackson as a child and watched a recorded concert of him over and over. At some stage, I must have convinced myself that I had attended that concern in person and had a long time thought that I had genuine memories of being at that concern. But, I was wrong! 
+In a nutshell, the problem is that there are fake personal memories. I thought I had a personal memory of attending a Michael Jackson concert as a 5 year old, but I discovered from my parents that this was a false memory; I loved Michael Jackson as a child and watched a recorded concert of him over and over. At some stage, I must have convinced myself that I had attended that concert in person and a fake memory was created. But, it was fake! 
 
 Fake personal memories pose a threat to the psychological continuity view. If F is identical to E because F remembers what E experienced, then F should have genuine and not fake memories of E's experiences. Suppose a fake memory was implanted in F of E's experiences (researchers already know how to do this). F remembers E's experiences, but F is not identical to E.
 
@@ -248,9 +245,9 @@ So, the second version of the psychological continuity theory requires that the 
 It might be tempting to distinguish genuine from fake memories by appeal to the people who have the memories in the following way:  
 
 + If two persons A and B both have an experience as though
-they remember the experiences of some person C, then the memory of A (or B) is genuine and not fake only if A (or B) is identical to P.
+they remember the experiences of some person C, then the memory of A (or B) is genuine and not fake only if A (or B) is identical to C.
 
-On this view, what makes a memory a genuine as opposed to a fake memory is that the person who has the memory is identical to the person who had the relevant experience in the past, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who had the experience of eating the salad. 
+On this view, what makes a memory genuine is that the person who has the memory is identical to the person who had the relevant experience, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who had the experience of eating the salad. 
 
 But if we try distinguish genuine from fake memories in this way *and* use memory to explain personal identity, then we commit a simple logical mistake, namely it is circular to make both of these claims:
 
@@ -268,11 +265,11 @@ Finally, the psychological continuity view perhaps most obviously fails if we re
 
 ![image](Rikerquest.jpg)
 
-Both Thomas and William seem to have genuine memories of Riker's experiences. Both remember what it was like to step on to that malfunctioning transporter 8 years previously. Both have the same personal memories of Riker's childhood. If the psychological continuity view is correct, then at least least one of Thomas or William's memories must be, in fact, fake (since it cannot be the case that both Thomas and William are identical to Riker). But we have no good reason to think that both men's memories are fake. Each were caused in the right way and each seems to have as much claim on Riker's previous life as the other. 
+Both Thomas and William seem to have genuine memories of Riker's experiences. Both remember what it was like to step on to that malfunctioning transporter 8 years previously. Both have the same personal memories of Riker's childhood. If the psychological continuity view is correct, then at least one of Thomas or William's memories must be, in fact, fake (since it cannot be the case that both Thomas and William are identical to Riker). But we have no good reason to think that both men's memories are fake. Each were caused in the right way and each seems to have as much claim on Riker's previous life as the other. 
 
 
 ## Conclusion
-Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the Presocratics over two millennia ago. Some questions take many lifetimes to to answer. Questions about what persons are and what our identity consists in could easily be one of those.  
+Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the Presocratics over two millennia ago. Some questions just take many lifetimes to to answer. Questions about what persons are and what our identity consists in could easily be one of those.  
 
 
 
