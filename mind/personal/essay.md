@@ -53,7 +53,7 @@ Please submit the file as a docx, rtf, or pdf.
 Please find the rubric and explanation of it [here](/resources/grading/).
 
 ### Resources
-Please find links to writing resources [here](/Teaching/Resources/).
+Please find links to writing resources [here](/resources/).
 
 
 
