@@ -115,8 +115,6 @@ So, according to this theory, William is identical to whoever has a soul identic
 
 The success of this view requires that there exist souls. Later in the course, we will discuss a view that the mind is identical to the soul and talk in detail about what souls are meant to be. For now, let us note the following few details about them.  
 
-![image](cube.jpg)
-
 First, souls are supposedly *immaterial*. What does this mean? Bodies are extended in three dimensions. They have height, width, etc. In contrast, souls have no extension. Souls have no height or weight. Bodies are also basic bits of matter or composed of basic bits of matter, where bits of matter are governed by all the various laws that we study in physics. In contrast, souls are neither basic bits of matter or composed of basic bits of matter. Thus, they are immune from all those laws that we study in physics. 
 
 ![image](Slide1.jpg)
