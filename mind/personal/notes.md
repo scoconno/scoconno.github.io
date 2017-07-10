@@ -272,7 +272,7 @@ Both Thomas and William seem to have genuine memories of Riker's experiences. Bo
 
 
 ## Conclusion
-Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the presocratics over two millenia ago.  
+Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the Presocratics over two millennia ago. Some questions take many lifetimes to to answer. Questions about what persons are and what our identity consists in could easily be one of those.  
 
 
 
