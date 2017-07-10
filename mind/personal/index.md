@@ -26,4 +26,4 @@ title: Personal Identity
 + Quiz 1
 + [Essay 1](essay)
 	+ Use this [check sheet](/resources/check) before submitting your paper. 
-	+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](screenshot.png)
+	+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](/resources/screenshot.png)
