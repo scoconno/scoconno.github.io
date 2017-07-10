@@ -11,6 +11,7 @@ English can mislead us when trying to answer questions about identity. The words
 
 'Same' (and our other words) can also be used in different ways. On the one hand, it can be used to speak about *qualitative similarity*. Qualitative similarity is something that distinct objects enjoy by sharing similar features. For instance, two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger bread men made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But these are *two* cookies. You eat two cookies if you eat both of them.
 
+
 We can also use these words to talk about what is called *numerical identity*, the relation that each thing holds to itself and nothing else. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Suppose you know that Superman and Clark Kent were in the room. You would make a mistake if you counted them as two people; there is just one person there. Similarly, if the ginger bread man is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both. 
 
 Numerical identity is a relation that has three important features. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
@@ -43,6 +44,9 @@ It seems obvious that you are numerically identical to that baby despite the man
 + “William” is the person who materialized on Potemkin ship after Riker was de-materialized.
 + “Thomas” is the person who materialized on the planet after Riker was de-materialized.
 
+![image](Rikerquest.jpg)
+
+
 What happened to Riker after the accident?  Did he continue to exist as Thomas, or as William, or as both? Both of the following seem plausible:
 
 1. Riker = Thomas 
@@ -74,7 +78,7 @@ Our first view, the sameness of body view, says the following:
 
 + A person A at one time is identical to a person B at a later time if and only if the body of A is identical to the body of B.
 
-![image](body.jpg)
+![image](Slide4.jpg)
 
 ![image](rikerb.jpg)
 
@@ -115,7 +119,7 @@ The success of this view requires that there exist souls. Later in the course, w
 
 First, souls are supposedly *immaterial*. What does this mean? Bodies are extended in three dimensions. They have height, width, etc. In contrast, souls have no extension. Souls have no height or weight. Bodies are also basic bits of matter or composed of basic bits of matter, where bits of matter are governed by all the various laws that we study in physics. In contrast, souls are neither basic bits of matter or composed of basic bits of matter. Thus, they are immune from all those laws that we study in physics. 
 
-The Seat of Consciousness ![image](seat.jpg)
+![image](Slide1.jpg)
 
 Second, souls are supposedly the *seat of consciousness*. What does this mean? For any thought and experience, there is some entity that does the thinking and experiencing. For instance, if a wish for ice-cream occurs on Monday at noon, there must be some entity that is doing the wishing. If souls are the seat of consciousness, then it is souls and not the body that is doing that wishing. The same goes for perceiving, remembering, fearing, etc. The soul is what is properly doing each of these things. 
 
@@ -135,9 +139,7 @@ Suppose that we know that person A and person B are identical. To test SSV, we c
 
 Is there any other way to determine if the souls of A and B are identical? Some believe that there is indirect evidence for the view that sameness of soul correlates with sameness of person. 
 
-![image](apr.jpg)
-
-Each of us different sets of personality traits and characteristics. I laugh at puns. You may not. I avoid the sun. You may seek it out. All of our various personal traits, the quirks and characteristics, may correlate with sameness of soul; perhaps we know that soul A is identical to soul B because A and B have the same personality traits. If this were the case, we could test the claim that personal identity consists in sameness of soul. If A and B have the same personality traits, they have the same soul. If we know that A and B are identical, then we are good grounds for believing that their identity is explained by the identity of their souls. Laid out as an argument, the view says the following: 
+Each of us has different sets of personality traits and characteristics. I laugh at puns. You may not. I avoid the sun. You may seek it out. All of our various personal traits, the quirks and characteristics, may correlate with sameness of soul; perhaps we know that soul A is identical to soul B because A and B have the same personality traits. If this were the case, we could test the claim that personal identity consists in sameness of soul. If A and B have the same personality traits, they have the same soul. If we know that A and B are identical, then we are good grounds for believing that their identity is explained by the identity of their souls. Laid out as an argument, the view says the following: 
 
 -   P1. Same psychology entails same soul.
 
@@ -168,7 +170,7 @@ In order to introduce our new theory, we need to think again about the question 
 
 Our first two theories stated that there will be some thing, either a soul or body, that is shared by each stage. This common thing shared will exist fully at each moment that the person exists. If, for instance, personal identity consists in sameness of soul, then the one same soul will exist fully at each moment that the person exists. Our third theory advises against looking for one same thing that exists fully at each moment that the person exists. Rather, it claims that we should look at the relationship between all the stages of the person. Consider the following image of a train:  
 
-Appropriate Connection: Example ![image](train.jpg)
+![image](train.jpg)
 
 Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you attend to when watching the engine is identical to the owner of the train you are attending to when you watching the final carriage. Suppose, now, we ask in virtue of what is the engine and final carriage numerically identical trains? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train car are one and the same train by virtue of the fact that they are connected to one another---just notice the locks where each car connects with one another. 
 
@@ -266,7 +268,7 @@ The Bible may very well contains truths about God's existence. But, you cannot p
 
 Finally, the psychological continuity view perhaps most obviously fails if we return to the case of Riker again: 
 
-![image](Slide1.jpg)
+![image](Rikerquest.jpg)
 
 Both Thomas and William seem to have genuine memories of Riker's experiences. Both remember what it was like to step on to that malfunctioning transporter 8 years previously. Both have the same personal memories of Riker's childhood. If the psychological continuity view is correct, then at least least one of Thomas or William's memories must be, in fact, fake (since it cannot be the case that both Thomas and William are identical to Riker). But we have no good reason to think that both men's memories are fake. Each were caused in the right way and each seems to have as much claim on Riker's previous life as the other. 
 
