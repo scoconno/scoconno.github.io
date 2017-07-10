@@ -8,7 +8,7 @@ title: Introduction
 
 ## Introduction
 
-Welcome! I'm Dr. Scott O'Connor and I'll be your instructor for this course. Originally from Dublin, I joined the Philosophy Department at NJCU in Fall 2014. Before my arrival, I received a masters degree in philosophy from Oxford University and a doctoral degree in philosophy from Cornell University. My areas of specialization are ancient philosophy and metaphysics, though I have broad, general interests in philosophy too. If you want to know a bit more about me, then you can learn about my research on this website. 
+Welcome! I'm Dr. Scott O'Connor, and I'll be your instructor for this course. Originally from Dublin, I joined the Philosophy Department at NJCU in Fall 2014. Before my arrival, I received a masters degree in philosophy from Oxford University and a doctoral degree in philosophy from Cornell University. My areas of specialization are ancient philosophy and metaphysics, though I have broad, general interests in philosophy too. If you want to know a bit more about me, then you can learn about my research on this website. 
 
 While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](/contact) for further information.
 
