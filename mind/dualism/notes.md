@@ -75,33 +75,27 @@ Here are two examples of skeptical arguments that threaten some of our beliefs:
 
 The first premise states that if my perceptual capacities trick me on some occassions, then it is possible that they are always tricking me. If, for instance, a person see a green colored chair as in fact a red colored chair, then it is possible that their eyes always report the wrong colors. This happens, for instance, with certain types of color blindness. Premise 2 is clearly true. Consider driving on a long and empty road on a very hot day. There might appear to you water in the distance, but this is an illusion; your eyes are tricking you. There are many other examples. When you are sick, food may taste sweet that is not sweet. If you have been to a loud concert, you may hear a ringing sound the next morning that is not, in fact, occurring. Premises 1 and 2 entail premise 3: it is possible that each of my perceptual beliefs is false. 
 
-Premise 4 says that you can only know, say, that the chair is purple if you can rule out the possibility that your eyes are not deceiving you. 
+Premise 4 says that you can only know, say, that the chair is purple if you can rule out the possibility that your eyes are not deceiving you. Think again of a jury: they can only confidently judge that the defendant is guilty if they can rule out the possibility that the defendant is being framed. Similarly, I can only trust what my eyes are telling me if I can rule out the possibility that they are malfunctioning. 
 
-This argument is valid, but Descartes thinks there is a problem with premise 2. While 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests only some beliefs, he searches for a stronger skeptical argument.
+Now while 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests only some beliefs, he searches for a stronger skeptical argument and ultimately proposes the following: 
 
-#### Argument 2
+1.  If I don’t know that I’m not being deceived by an evil demon, then I don’t know that P.
+2.  I don’t know that I’m not being deceived by an evil demon.
+3.  Thus, I don’t know that P.
 
-1.  If I don’t know that I’m not dreaming, then I don’t know that I have hands.
-2.  I don’t know that I’m not dreaming.
-3.  I don’t know that I have hands.
+By 'evil demon', Descartes has in mind a creature that is as powerful as God, but something that has evil intent. In particular, the demon wants you to have only false beliefs; it is determined to conceal the truth from you. Instead of an evil demon, contemporary philosophers use the example of a brilliant, but evil scientist. The scientist can manipulate a brain via a series of electrodes attached to a computer into creating false beliefs and experiences; a person connected to that computer could be tricked into believing they were on a beach sipping a cocktail. 
 
-This argument is valid, but Descartes thinks that the argument does not generalize to every belief he holds. For instance, it does not generalize to his belief in the existence of space, time, magnitude, simple qualities, and so on. So, Descartes searches for an even stronger argument.
+'P' is any proposition whatsoever; it is any possible object of belief. Premise 1 says that if you cannot rule out the possibility that you are being deceived, then you do not know P. For instance, can you rule out the possibility that right now you are really in a laboratory and that your experiences of sitting at a computer screen is in fact a false one, an experience created by some evil scientist manipulating your brain? Premise 1 says that if you cannot rule out this possiblity, then you cannot know that you are sitting in front of a computer screen. Of course, you very well may be sitting in front of a computer screen. The point is about whether you can be certain that your belief is true. Unless you can rule out the possibility that you are being deceived, then you cannot know for sure that you are sitting in front of the computer screen (even if you are, in fact, sitting in front of that screen). 
 
-### Evil Demon Argument Argument
+This is a suitably strong challenge to test all Descartes' beliefs, including his beliefs about space, time, etc. He will now proceed to search for those beliefs that he would know to be true even if this skeptical scenario obtained, i.e., he asks whether there might still be things he can be certain of even if he cannot rule out the possibility that there is an evil demon trying to deceive him about everything. 
 
-1.  If I don’t know that I’m not being deceived by an Evil Demon, then I don’t know that p.
-2.  I don’t know that I’m not being deceived by an Evil Demon.
-3.  I don’t know that p.
-
-This is a suitably strong enough challenge to test all Descartes' beliefs, including his beliefs about space, time, etc. Remember, his goal is to throw out all his beliefs and only let back in those that he knows to be true. He will now proceed to search for those beliefs that he would know to be true even if this skeptical scenario obtained.
-
-### I am thinking, therefore I exist
+## I am thinking, therefore I exist
 
 Descartes writes the following in the second Meditation: 
 
 > I have convinced myself that there is absolutely nothing in the world, no sky, no earth, no minds, no bodies. Does it now follow that I too do not exist? No: if I convinced myself of something then I certainly existed. But there is a deceiver of supreme power and cunning who is deliberately and constantly deceiving me. In that case I too undoubtedly exist, if he is deceiving me; and let him deceive me as much as he can, he will never bring it about that I am nothing so long as I think that I am something. So after considering everything very thoroughly, I must finally conclude that this proposition, I am, I exist, is necessarily true whenever it is put forward by me or conceived in my mind.
 
-Descartes first claims, ‘I exist’. There is nothing the Evil Demon could do to deceive him about this belief, i.e., the very fact that the Evil Demon would be deceiving him, proves that he, himself, would exist. Knowing that he exists is a good beginning, but we believe we know more than that. In particular, we believe we know what kind of things we are. Descartes agrees. He reviews his former beliefs about what kind of thing he is with the hope of identifying which of these beliefs can also withstand the skeptical challenge.  
+Descartes first claims, ‘I exist’. There is nothing the evil demon could do to deceive him about this belief, i.e., the very fact that the demon would be deceiving him, proves that he, himself, would exist. Knowing that he exists is a good beginning, but we believe we know more than that. In particular, we believe we know what kind of things we are. Descartes agrees. He reviews his former beliefs about what kind of thing he is with the hope of identifying which of these beliefs can also withstand the skeptical challenge:  
 
 Beliefs about his body
 :   He has a body, arms, face, and so on.
@@ -109,13 +103,13 @@ Beliefs about his body
 Beliefs about his functions:
 :   He takes nourishment, moves, senses, and thinks.
 
-Many of these beliefs can be doubted. An evil demon could trick him into thinking he has a body when in fact he does not. An evil demon could trick him into thinking that he really moves when in fact he does not. But Descartes thinks that some beliefs cannot be doubted. Namely, he cannot doubt that he is a being that thinks, i.e., the Evil Demon  could never deceive one into thinking that one doesn’t think, or into thinking that one thinks when one doesn’t, in fact, think. But what is thinking? 
+Many of these beliefs can be doubted. An evil demon could trick him into thinking he has a body when in fact he does not. An evil demon could trick him into thinking that he really moves when in fact he does not. But Descartes thinks that some beliefs cannot be doubted. Namely, he cannot doubt that he is a being that thinks, i.e., the evil demon  could never deceive one into thinking that one doesn’t think, or into thinking that one thinks when one doesn’t, in fact, think. 
 
-Descartes claims that thinking involves doubting, understanding, affirming, refusing to affirm, desiring, having mental images, being aware of what comes from senses (even if the senses are being deceived). Thus, Descartes claims that he knows that he exists, he thinks, and that he affirms, desires, and so on.
+Since we can be certain that we think, we might also be certain about some facts about thinking. For instance, Descartes claims that thinking involves doubting, understanding, affirming, refusing to affirm, desiring, having mental images, being aware of what comes from senses (even if the senses are being deceived). If we are certain that we think, then we can be certain that we do all the things that are involved in thinking. Thus, Descartes claims that he knows that he exists, he thinks, and that he affirms, desires, and so on.
 
 ## Substance Dualism Again
 
-Descartes' “cogito” argument, “I think, therefore I exist”, convinces him that he can be absolutely certain that he exists and that he is “A thinking thing”, “a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions.” Since he knows he is a thinking being, he now asks whether this thinking being could be identical to a body, i.e., is it his body that is thinking or is his mind a separate substance from his body. He will argue that a thinking thing cannot be identical to a body and so will conclude that that the body and mind are distinct from one another. All of his arguments turn on identifying some feature that the mind has but the body does not. In general: To show that X ≠ Y, all we need do is find a single property P such that X has P but Y lacks it, or Y has P but X lacks it. Such a property P can be called a differential property for X and Y. 
+Descartes' “cogito” argument, “I think, therefore I exist”, convinces him that he can be absolutely certain that he exists and that he is “A thinking thing”, “a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions.” Since he knows he is a thinking being, he now asks whether this thinking being could be identical to a body, i.e., is it his body that is thinking or is his mind a separate substance from his body? He will argue that a thinking thing cannot be identical to a body and so will conclude that that the body and mind are distinct from one another. All of his arguments turn on identifying some feature that the mind has but the body does not. In general: To show that X ≠ Y, all we need do is find a single property P such that X has P but Y lacks it, or Y has P but X lacks it. Such a property P can be called a differential property for X and Y. Refer to the textbook for a full discussion of the argument below. 
 
 #### Argument 1
 
@@ -170,7 +164,7 @@ We are said to know something ''directly'' when the knowledge is not based on ev
 
 ### Problems with the Cogito
 
-There are several problems with the Cogito, Descartes' main argument that shows he exists and is a thinking being. The most pressing is a concern about whether the argument assumes what it seeks to prove. Recall that Descartes argues, ‘I am thinking, therefore I exist’. 
+There are several problems with the Cogito, Descartes' main argument that he exists and is a thinking being. The most pressing is a concern about whether the argument assumes what it seeks to prove. Recall that Descartes argues as follows: 
 
 1. I am thinking. 
 2. Therefore, I exist.
@@ -182,22 +176,24 @@ We might try save Descartes by reformulating the argument in a non-question begg
 1.  There is a thought
 2.  Therefore,  I exist
 
-The Evil Demon certainly cannot deceive us about whether there is thought. This argument also avoids begging the question in the way the argument above does. However, the argument is invalid. We  cannot infer from the fact that there is someone doing P, that we are that person  doing P. Compare: 
+The evil demon certainly cannot deceive us about whether there is thought, so we can be certain about the first premise. This argument also avoids begging the question in the way the argument above does not. However, the argument is invalid. We  cannot infer from the fact that there is someone doing P, that we are that person  doing P. Compare: 
 
 1. There is swimming. 
 2. Therefore, I am swimming.
 
-We can infer that someone is *swimming* from the first premise, but we cannot infer that we are the person doing the swimming. Similarly, even if we can infer from the fact that a thought  exists that *someone* is thinking, we cannot infer that we are the ones thinking that thought.
+We can infer that someone is *swimming* from the first premise, but we cannot infer that we are the person doing the swimming. Similarly, even if we can infer from the fact that a thought  exists that *someone* is thinking, we cannot infer that we are the ones thinking that thought. 
+
+So, the main problem for Descartes is that his argument at most proves that someone exsts, but it does not prove that he is that existing person. 
 
 ### Problems with Causal Interaction
 
-Descartes claimed that the mind and body causally influence one another. Our decision to throw the ball causes our limbs to move. The cat biting our finger causes our mind to feel pain. But how does this mental causation work? Think of an easy case of causation, say the movement of a pool ball as it is struck by another. One pool ball brings about an effect in another pool ball by, in part, touching it. Does all causation involve contact? Contact requires surfaces, so if causation involves contact, how could the mind, which doesn't have a surface, touch the body which does have a surface? Descartes explains in his 6th Meditation as follows: 
+While the above objection focused on Descartes' method in arguing for substance dualism, there are independent reasons for thinking that substance dualism is problematic. Consider how the mind and body causally influence one another. Our decision to throw the ball causes our limbs to move. The cat biting our finger causes our mind to feel pain. But how does this mental causation work? Think of an easy case of causation, say the movement of a pool ball as it is struck by another. One pool ball brings about an effect in another pool ball by, in part, touching it. Does all causation involve contact? Contact requires surfaces, so if causation involves contact, how could the mind, which doesn't have a surface according to Descartes, touch the body that does have a surface? Descartes answers in his sixth Meditation as follows: 
 
 > The mind is not immediately affected by all parts of the body, but only by the brain, or perhaps just by one small part of the brain.... Every time this part of the brain is in a given state, it presents the same signals to the mind, even though the other parts of the body maybe in a different condition at the time.... For example, when the nerves in the foot are set in motion in a violent and unusual manner, this motion, by way of the spinal cord, reaches the inner parts of the brain, and there gives the mind its signal for having a certain sensation, namely the sensation of a pain as occurring in the foot. This stimulates the mind to do its best to get rid of the cause of the pain, which it takes to be harmful to the foot.
 
-Descartes identifies the pineal gland as the seat of the soul, as that place where the soul and mind directly interact. He thinks there are bodily fluids in the nerves. He thinks that the gland causes the fluid to move in an appropriate way to transmit the required motion to the rest of the body. 
+So, Descartes identifies the pineal gland as the seat of the soul, as that place where the soul and mind directly interact. The soul causes the pineal gland to move some bodily fluids in the nerves; the various motions of this fluid apparently cause the bodily parts to then move. So, the soul does not direclty cause the hand to move. The sould interacts with the pineal gland and it is the pineal gland that directly causes the hand to move. 
 
-But Princess Elisabeth of Bohemia challenged Descartes to explain:
+Princess Elisabeth of Bohemia challenged Descartes to explain:
 
 > how the mind of a human being, being only a thinking substance, can determine the bodily spirits in producing bodily actions. For it appears that all determination of movement is produced by the pushing of the thing being moved, by the manner in which it is pushed by that which moves it, or else by the qualification and figure of the surface of the latter. Contact is required for the first two conditions, and extension for the third. [But] you entirely exclude the latter from the notion you have of the soul, and the former seems incompatible with an immaterial thing.
 
@@ -208,15 +204,16 @@ Here is the argument presented more formally:
 + P3. An unextended mind outside physical space has neither mass nor velocity.
 + C. Therefore, an unextended mind cannot cause a physical body to move. 
 
+The problem is an acute one. Descrartes recognized that the soul cannot directly moved the body. So, he argued that the sould effects the pineal gland, which in turn moves the body. But that begs the question: how does the soul interact with the pineal gland? If the soul causes the pineal gland to do something, the sould must transfer momentum to the pineal gland. And it is as difficult to explain how the soul does that to the pineal gland as it is to explain how it might directly effect the rest of the body, i.e., if it cannot effect the body, then it should not be able to effect the pineal gland. 
 
 ## Varieties of Dualism
 Recall that Descartes thinks that the mind and body are discrete substances, they are each the subjects of various features and are not themselves features of anything else. On this view, we really do have minds. It is, if you like, a separate thing in itself with its own nature. 
 
-While substance dualism receives little current support, a different form of dualism has, namely, property dualism. Consider the properties of being a bachelor and being an unmarried man. These are one and the same property. How about the property of having a shape and having a size? These are obviously distinct properties that co-occur together. Anything which has a shape has a size and vice versa. 
+While substance dualism receives little current support, a different form of dualism does have contemporary defenders. This different form of dualism is called property dualism. It denies that there are physical and mental substances; all substances on this view have physical properties. But it claims that there are, nevertheless, mental properties of physical substances. What does this mean? 
 
-Descartes believed that the mind is something that has properties, but many today think that the mind is better characterized as properties had by some substance, in particular, properties had by the physical body we possess. Consider the mental property of 'being in a state of pain', or the activity like 'thinking about Descartes'. These are properties, understood broadly, that are instantiated some substance, e.g., the brain. Whenever these properties occur in the brain, there is some other feature/property that occurs in the brain, i.e., some c-fibre fires when you experience pain. 
+Consider the properties of being a bachelor and being an unmarried man. These are one and the same property. How about the property of having a shape and having a size? These are obviously distinct properties that co-occur together. Anything which has a shape has a size and vice versa. But they are not identical properties. Many today think that the mind is better characterized as properties had by some substance, in particular, properties had by the physical body we possess. Consider the mental property of 'being in a state of pain', or the activity like 'thinking about Descartes'. These are properties, understood broadly, that inhere in some substance, e.g., the brain. Whenever these properties occur in the brain, there is some other feature/property that occurs in the brain, i.e., some c-fibre fires when you experience pain. 
 
-What is the relationship between these physical and mental properties? Are they identical just like how the properties bachelor and being a nunmarried man are identical? Or are they distinct like the properties shape and size are distinct? 
+What is the relationship between these physical and mental properties? Are they identical just as the properties of being a bachelor and being a unmarried man are identical? Or are they distinct like the shape and size are distinct? 
 
-Many of those who deny that the mind is a real thing still argue that mental properties and physical properties are distinct, that a C-fibre firing and the feeling of pain are numerically distinct (even if they always occur together). Others deny this. They deny that there are any non-physical properties at all. So even if thought substance dualism is no longer in favor, the question about whether the mind and body are still somehow distinct is very much a live one.
+While many deny that the mind is a non-physical substance, there are still those who argue that mental properties and physical properties are distinct, that a C-fibre firing and the feeling of pain are numerically distinct (even if they always occur together). So even if substance dualism is no longer in favor, the question about whether the mind and body are still somehow distinct is very much a live one. That question has become this: are mental properties identical to physical properties? Or are there only physical properties? 
 
