@@ -13,9 +13,7 @@ title: Substance Dualism
 ### Videos
  + [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
 
-### Extra Literature
-+ Pop literature
 
 ### Assignments
-+ Quiz 3
-+ [Essay](Essay)
++ Quiz 2
++ [Essay](essay)
