@@ -4,84 +4,78 @@ title: Notes
 ---
 
 
-### Mind as Immaterial Substance 
+## Mind as Immaterial Substance 
 
-What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worth thinking about why our predecessors associated soul and mind. We'll do that by focusing on the 17th century philosopher Descartes (1596-1650), who is associated closely associated with the view. 
+What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worth thinking about why our predecessors associated soul and mind. We'll do that by focusing on the 17th century philosopher Descartes (1596-1650), who is associated closely associated with the view. Descartes is such a central figure in the history of philosophy, mathematics, and physics that it is worth sharing a few bigoraphical details with you. Here is a picture: 
 
-(IMAGE OF DESCARTES)
+![imagine](Descartes.jpg)
 
 
-Descare was born in La Haye in the Touraine region of France. In 1606 or 1607, he entered the newly founded Jesuit College of La Fleche, where he remained until 1614 or 1615. He spent five to six years studying classical Latin, Greek, the major poets and orators (e.g., Cicero) followed by three years of philosophical training based on the philosophy of Aristotle, where he studied logic, morals, physics, and metaphysics. He also spent significant time on mathematics. Before joining the army, he also studied to be a lawyer. In 1629, he settled in the Netherlands in 1629  where he had one daughter (Francine) by a  servant (Helene). In 1649, he moved to Sweden to instruct Queen Christina in philosophy. They met at five in the morning, for five hours, three days a week. He died of respiratory infection on Feb. 11th, 1650.
+He was born in La Haye in the Touraine region of France. In 1606 or 1607, he entered the Jesuit College of La Fleche, where he remained until 1614 or 1615. He spent five to six years studying classical Latin, Greek, the major poets and orators (e.g., Cicero). This was followed by three years of philosophical training based on the philosophy of Aristotle, where he studied logic, morals, physics, and metaphysics. He also spent significant time on mathematics. Before joining the army, he also studied to be a lawyer. In 1629, he settled in the Netherlands in 1629  where he had one daughter (Francine) by a  servant (Helene). In 1649, he moved to Sweden to instruct Queen Christina in philosophy. They met at five in the morning, for five hours, three days a week. He died of respiratory infection on Feb. 11th, 1650.
 
 Descartes is the founder of modern philosophy. His intellectual character is well illustrated by his deep skepticism about the received knowledge of the time: 
-> From my childhood they fed me books, and because people convinced me that these could give me clear and certain knowledge of everything useful in life, I was extremely eager to learn them. But no sooner had I completed the whole course of study that normally takes one straight into the ranks of the ‘learned’ than I completely changed my mind about what this education could do for me. For I found myself tangled in so many doubts and errors that I came to think that my attempts to become educated had done me no good except to give me a steadily widening view of my ignorance!(Discourse, I.2)
+> From my childhood they fed me books, and because people convinced me that these could give me clear and certain knowledge of everything useful in life, I was extremely eager to learn them. But no sooner had I completed the whole course of study that normally takes one straight into the ranks of the ‘learned’ than I completely changed my mind about what this education could do for me. For I found myself tangled in so many doubts and errors that I came to think that my attempts to become educated had done me no good except to give me a steadily widening view of my ignorance! (Discourse, I.2)
 
 Descartes' skepticism motivated him to reexamine many central tenants in mathematics, optics, and physics. Not only did he identify mistakes in these areas, he radically changed our understanding of them. One commentator writes: 
 
 > Descartes went far beyond the Copernican hypothesis that our Sun lies at the center of the universe with the Earth moving about it. He contended that the Earth is one among many planets, revolving around many different suns distributed throughout the cosmos. He further proposed that the whole universe is made of one kind of matter, which follows one set of laws. He invented the concept of a single universe, filled with matter having a few describable properties and governed by a few laws of motion. While others, including ancient atomists and Stoics, had sketched part of this new picture, Descartes’ vision of a unified physics governed by a few laws of motion was far richer and more detailed. Its combination of breadth and unity was unprecedented in his earlier work with Beeckman, or in the works of Copernicus, Galileo, or Kepler. This unified vision set the framework for Newton’s subsequent unification of mechanics and astronomy.” (Hatfield (2003), 18)
 
-### Descartes' fundamental claims
+## Descartes' fundamental claims
 
 Our interest is Descartes' contributions to the philosophy of mind, which can be summarized with the following four claims:  
 
 1. There are substances of two fundamentally different kinds in the world, mental substances and material substances—or minds and bodies. The essential nature of a mind is to think, be conscious, and engage in other mental activities; the essence of a body is to have spatial extensions (a bulk) and be located in space.
 2. A human person is a composite being of a mind and a body.
 3. No mind is identical to a body.
-4. Minds and bodies causally influence each other. Some mental phenomena are causes of physical phenomena and vice versa.
+4. Minds and bodies causally influence each other. Some mental phenomena are causes of physical phenomena and vice versa. (see Kim, p.34)
 
 The fourth claim is important. Descartes thinks that there is causal interaction between mind and body. We'll ultimately worry whether 1 and 3 are compatible with 4, but let's first review what these claims mean and why Descartes accepts them.  
 
 
-### Substance
-What does Descartes mean by 'substance'? Reality comprises different kinds of entities. There are chairs, trees, atoms, and molecules. Many think that whatever exists is similar in one important respect: they are all physical. Philosophers use the word 'substance' to categorize such a general kind of thing, e.g., clouds and molecules are physical substances. But even if the only substances are physical ones, it seems that something other than the substances must exist, namely, the qualities, quantities, relations, and activities that *inhere* in these substances (P inheres in S if S somehow possesses or has P). For instance, the weight of the stone is different from the stone itself. The motion of the molecule is different from the molecule itself. Motion and weight belong to these physical substances but they are not themselves physical substances. 
+## Substance
+Descartes believes that there are two kinds of substances, mental and physical ones. But what does Descartes mean by 'substance'? For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly 'what underlies'.  It is used to describe that which posesses qualities, quantities, relations, and activities, but it is not itself possessed by anything else.  We will say that qualities, quantities, relations, and activities *inhere* in substances where P inheres in S if S somehow possesses or has P. 
 
-For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly 'what underlies', or 'subject'.  It is that which posesses qualities, quantities, relations, and activities, but it is not itself possessed by anything else.  There is an important difference between the height, weight, and swimming of Flipper the dolphin and Flipper himself. Flipper is a substance, in the sense that Flipper is a subject in which other things inhere, e.g., the swimming belongs to Flipper, the shine and weight inhere in Flipper, etc. Flipper, though, does not inhere in anything else. He is not a property of any other substance. 
+Substances are different from what inherese in them. For instance, the weight of the stone is different from the stone itself. The motion of the molecule is different from the molecule itself. Motion and weight belong to these substances but they are not themselves substances. In contrast, the molecule and the stone are substances because they are subjects in which other things inhere but do not themselves inhere in anything else, e.g., the stone is not a property of anything else. 
 
-This contrast between substances and what inhere in them obviously mirrors a linguistic contrast between grammatical subjects and predicates, between 'Flipper' and 'swimming' in the sentence 'Flipper is swimming'. But the contrast is more fundamental than the linguistic one; 'blue' can be used as the subject of a predicate, e.g., 'blue is nice'. Substances can never inhere in anything else. 
+This contrast between substances and what inhere in them obviously resembles a linguistic contrast between grammatical subjects and predicates, between 'Flipper' and 'swimming' in the sentence 'Flipper is swimming'. But the contrast is more fundamental than the linguistic one. The word 'swimming' could also serve as a grammatical subject, e.g., 'swimming is a pleasant activity'. The word 'Flipper' could also serve as a predicate, e.g., 'the toy belongs to Flipper'. But substances can never inhere in anything else, they can never be possessed by anything else. They are the fundamental bedrock for evertyhing that inheres in them.
 
-Many think that the world contains only physical substances. This means that they only subjects of properties are physical substances. We will never find, on this view, an existing substance that does not have physical attributes. 
+Now that we have clarified what the word 'substance' means, let us discuss the phrase 'kind of substance'. Reality comprises dolphins, chairs, trees, atoms, molecules, and many more things beside these. By 'kind of substance', philosophers want to say that apparently disparate substances share some fundamental feature. For instance, many think that all substances are physics substances. By this, they mean that all substances possess physical properties. If this were right, then trees, clouds, dolphin, and molecules are substances that share one important feature---they are all physical substances, where being physical means that they all possess physical properties like having a weight, a location, etc. If there were only physical substances, then every substance--every subject in which properties inhere--would be a substance that possess physical properties. We could never find, on this view, a substance without have physical properties. 
 
-This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them. Minds are subjects of their own special properties like thinking, sensing, judging, and willing. These properties inhere in mind. They do not inhere in bodies. Bodies, on the other hand, are extended in space, have weight, undergo nourishment, etc. These are not properties that inhere in mind. Mind does not move or weigh anything.
+This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them. Souls, which for Descartes are just minds, are subjects not of physical properties, but of non-physical properties like thinking, sensing, judging, and willing. He believes that these properties inhere in mind, but do not inhere in bodies. Bodies, on the other hand, are extended in space, have weight, undergo nourishment, etc. But, according to Descarets, these properties do not inhere in the mind. Hence, there are two types of substances, bodies and minds. Each type of substance is a subject in which properties inhere, but the properties that inhere in them are radically different. 
 
 It is important to recognize just how different these two types of substances are. A soul is simple, divine, and immutable. Our bodies are composite and perishable. A soul also seems something that can survive bodily death and decay. A body cannot survive its decay. This shouldn't be that surprising. That which inheres in a substance cannot exist without substances. Color cannot exist without some object that has color. Substance, on the other hand, does not depend for its existence on anything it inheres in. Socrates does not need to inhere in anything for him to exist. Descartes himself wrote: 
 
 > The notion of a substance is just this—that it can exist by itself, that is without the aid of any other substance.
 
-So just as some chairs could exist without one another, so too a mind and body coud exist without one another. 
+So, just as some chairs could exist without one another, so too a mind and body coud exist without one another. 
 
-If Descartes is right, you are composed of two different substances, a physical one and a mental one. Your mind, which Descartes calls the soul, plays one role. Your body plays another. It is your mind that does your thinking, dreaming, fearing, and wanting. It is your body that does your walking, sitting, and eating, etc. 
+
 
 
 ### Argument for Substance Dualism
-Substance dualism, then, is just the view that there exists both physical and mental substances; that you are composed of these two substances. But why accept dualism? Understanding Descartes' argument requires that we understand some of his larger theoretical concerns and how he argued for them. 
+If Descartes is right, you are composed of two different substances, a physical one and a mental one. Your mind, which Descartes calls the soul, plays one role. Your body plays another. It is your mind that does your thinking, dreaming, fearing, and wanting. It is your body that does your walking, sitting, and eating, etc. Substance dualism, then, is just the view that there exists both physical and mental substances; that you are composed of these two substances. But why accept dualism? What is Descartes' argument for his radical claim that reality comprises two very different kinds of substances? Understanding the argument requires that we understand some of his larger theoretical concerns and how he argued for them. I will discuss these first before outlining his argument for dualism. 
 
 First, Descartes was worried about the prevailing sciences of the time. This was a time when scientists still sought to explain the motion of bodies by the so-called inherent tendencies of earth to move downward, air to rise upward, etc. Doctors still explained disease by appeal to various humors in the body. Descartes worried as to whether the various sciences of the day were making fundamental errors and suggested that we need to take stock: which of our sciences could really be trusted?  He undertook this project in several works, most importantly 'The Meditations.' He describes the project in this work to a friend as follows: 
 
 > I will say to you, just between us, that these six Meditations contain all the foundations of my Physics. But, please, you must not say so; for those who favor Aristotle would perhaps have more difficulty in approving them; and I hope that those who will read them will unwittingly become accustomed to my principles, and will recognize the truth, before they notice that my principles destroy those of Aristotle. (Descartes, letter to Marsenne)
 
-Descartes subsequently identified four Rules for acquiring Knowledge
+The first meditation begins by asking what can be clearly and distinctly perceived. By 'clear and distinctly perceive', Descartes means something like infallible certainty. The thought is that if a proposition is true and we know that it is true, then we will clearly and distinctly perceive its truth. Whether humans have such a facility for identifying truths is an interesting question that we will need to set aside. Note here that Descrates thinks that humans do have this ability and uses that ability in his argument that we will discuss below. 
 
-1.  Accept as true only that for which one has proper evidence, which he calls clear and distinct perception.
+Descartes' next step is to identify some means/tool that would allow him test all of his beliefs. He suggests skepticism and proceeds to identify which of his beliefs, if any, are immune from doubt given the strongest skeptical challenge. His basic idea is that if he can remain certain in a belief even when it is attacked from many directions, then that belief is a true one. It is akin to how a jury must be confident of the defendant's guilt despite all the arguments of the defense if they are to return a guilty verdict. If the defense makes them even slightly unsure of the defendant's guilt, they are required to return an acquittal. 
 
-2.  Resolve problems into their simplest parts.
+Descartes' first tries to identify a skeptical challenge that is sufficiently strong for this purpose, i.e., a challenge that will pertain to as many of his beliefs as possible. Some candidate challenges can be ruled out. For instance, skepticism about vision only allows us to test our beliefs about perceptible things. Descartes finally settles on the strongest skeptical challenge and then proceeds to reject whatever is open to the slightest doubt. He continues until he has found something certain that can withstand the skeptical challenge.
 
-3.  Move from the simple and known to the complex.
-
-4.  Thoroughly review and check one’s work to be sure it is  comprehensive and complete.
-
-The first meditation begins by asking what can be clearly and distinctly perceived? Descartes wants to find some means/tool that would allow him test all of his beliefs. He suggests skepticism and proceeds to identify which of his beliefs, if any, are immune from doubt given the strongest skeptical challenge.
-
-His first tries to identify a skeptical challenge that is sufficiently strong for this purpose, i.e., a challenge that will pertain to as many of his beliefs as possible. Some candidate challenges can be ruled out. Skepticism about vision only allows us test our beliefs about perceptible things. Descartes finally settles on the strongest skeptical challenge and then proceeds to reject whatever is open to the slightest doubt. He continues until he has found something certain that can withstand the skeptical challenge.
-
-### Skeptical Arguments Rejected
-
-#### Argument 1
+Here are two examples of skeptical arguments that threaten some of our beliefs: 
 
 1.  If I am occasionally mistaken in my perceptual beliefs, then it is possible that I am totally mistaken in my perceptual beliefs.
 2.  I am occasionally mistaken in my perceptual beliefs.
-3.  Thus it is possible that I am totally mistaken in my perceptual beliefs.
+3.  Thus, it is possible that I am totally mistaken in my perceptual beliefs.
 4.  If I don’t know that I am totally mistaken in my perceptual beliefs, then I don’t know that O (where O is a proposition about perceptual objects).
 5.  I don’t know that O.
+
+The first premise states that if my perceptual capacities trick me on some occassions, then it is possible that they are always tricking me. If, for instance, a person see a green colored chair as in fact a red colored chair, then it is possible that their eyes always report the wrong colors. This happens, for instance, with certain types of color blindness. Premise 2 is clearly true. Consider driving on a long and empty road on a very hot day. There might appear to you water in the distance, but this is an illusion; your eyes are tricking you. There are many other examples. When you are sick, food may taste sweet that is not sweet. If you have been to a loud concert, you may hear a ringing sound the next morning that is not, in fact, occurring. Premises 1 and 2 entail premise 3: it is possible that each of my perceptual beliefs is false. 
+
+Premise 4 says that you can only know, say, that the chair is purple if you can rule out the possibility that your eyes are not deceiving you. 
 
 This argument is valid, but Descartes thinks there is a problem with premise 2. While 2 is true about some beliefs, it is not true about all. I occasionally make mistakes about small and distant objects, but I’m never mistaken about medium sized objects in front of me in good lighting. Since Descartes is looking for an argument that could test all his beliefs, and this argument tests only some beliefs, he searches for a stronger skeptical argument.
 
