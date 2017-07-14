@@ -11,7 +11,10 @@ title: Substance Dualism
 + [Notes](notes)
 
 ### Videos
- + [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
+
++ [Where does our mind reside?](https://www.youtube.com/watch?v=3SJROTXnmus)
++ [Descartes' Cogito Argument](https://www.youtube.com/watch?v=7iGjiSbEp9c)
++ [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
 
 
 ### Assignments
