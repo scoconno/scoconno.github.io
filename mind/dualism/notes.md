@@ -8,7 +8,7 @@ title: Notes
 
 What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worth thinking about why our predecessors associated soul and mind. We'll do that by focusing on the 17th century philosopher Descartes (1596-1650), who is associated closely associated with the view. Descartes is such a central figure in the history of philosophy, mathematics, and physics that it is worth sharing a few bigoraphical details with you. Here is a picture: 
 
-![imagine](Descartes.jpg)
+![image](Descartes.jpg)
 
 
 He was born in La Haye in the Touraine region of France. In 1606 or 1607, he entered the Jesuit College of La Fleche, where he remained until 1614 or 1615. He spent five to six years studying classical Latin, Greek, the major poets and orators (e.g., Cicero). This was followed by three years of philosophical training based on the philosophy of Aristotle, where he studied logic, morals, physics, and metaphysics. He also spent significant time on mathematics. Before joining the army, he also studied to be a lawyer. In 1629, he settled in the Netherlands in 1629  where he had one daughter (Francine) by a  servant (Helene). In 1649, he moved to Sweden to instruct Queen Christina in philosophy. They met at five in the morning, for five hours, three days a week. He died of respiratory infection on Feb. 11th, 1650.

@@ -26,7 +26,7 @@ Write an email to Sam. In your email, do the following:
 2. Solve this puzzle by using the psychological continuity theory. 
 	+ **NB:** This assignment is not asking you to discuss each possible response to the puzzle. Only discuss the psychological continuity theory. Failure to ignore this instruction will result in a loss of points.     
 
-**NB:** Failure to include either of these elements in your dialog will result in a loss of points. 
+**NB:** Failure to include either of these elements in your email will result in a loss of points. 
 
 
 ### Word Count
