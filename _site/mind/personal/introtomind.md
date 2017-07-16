@@ -1,3 +1,14 @@
+Videos for personal identity
+
+This is about true self I think
++ [Some empirical research on ordinary contemporary views](https://www.youtube.com/watch?v=b5kDRza-Xqs&list=PLtKNX4SfKpzWONjJBMV9qFvSN8zfFtraA) Essential moral self
++ [More on true self and morality](https://www.youtube.com/watch?v=rMYdKz4xxMc&index=2&list=PLtKNX4SfKpzWONjJBMV9qFvSN8zfFtraA)
++ [Narrative Self](https://www.youtube.com/watch?v=lcIqoN9oRgo&index=3&list=PLtKNX4SfKpzWONjJBMV9qFvSN8zfFtraA)
+
++ [TedEd Talk](https://www.youtube.com/watch?v=UHwVyplU3Pg)
+
+
+
 Minds are special sorts 
 
 
