@@ -64,46 +64,34 @@ While each of you use the word 'baviga', how do you know that you are each using
 You likely will agree that 'baviga' is a silly word that is useless for communication. If we can't check that we are using it to mean the same thing, then it cannot be used for communication. What about all those words that seem to refer to mental states, words like, 'pain', 'belief', 'pleasure', 'itch', 'taste', etc? Do you think that we can use these words to communicate with each other? If you do, then those words better not be like 'baviga'. If we all use the word 'pain' to communicate, then the word should have the same meaning; it should refer to the same thing. But how do we know that when you say, 'I am in pain' and I say, 'I am in pain' that the word 'pain' in both sentences refers to the same thing? How do we know, in other words, that the thing I experience and call pain is anything like the thing you experience and call pain? If mental states are truly internal and private states, then we can never know this. We could be using the word to describe very different things altogether. 
 
 ## Verificationism
-In the previous section, I showed that mental terms cannot have private meanings. In this section, discuss verificationism and how they may have other meanings. 
+If mental terms cannot have private meanings, what do they mean? If the word 'pain' does not refer to some internal mental state, what does the word refer to? We all use the word 'pain' and many other mental terms beside these. We use them in our conversations with one another and do so successfully. So, we must all agree on the meaning of 'pain' even if the behaviorist is right and the meaning is not some private mental state. If the word means the same for everyone, if it is a constant, this means it derives its meaning solely from its use in some public context and not from any relevance to the private sensation of pain, i.e., from something that we can all access and agree upon. But what is this publicly accessible thing that mental terms like 'pain' refer to?
+
+One answer to this question is offered by verificationism, a position in the philosophy of language that was attractive to behaviorists. The view was often articulated with the slogan of one of its proponents, Schlick, who claimed the following: 
+
+> The meaning of a statement consists in its method of verification.
+
+So, also A.J Ayer in ‘Language, Truth and Logic’ claimed: 
+
+> A sentence is only factually significant to a person if he or she knows what observations would lead him to accept the proposition as being true or false. (3)
+
+It thereby follows according to Ayer that: 
+>  No statement which refers to a reality transcending the limits of all possible sense-experience can possible have any literal significance. (3)
+
+The basic idea is that sentences, at least those that are truth apt, have clearly identifiable conditions in which they would be true or false. Consider, for instance, 'the cat is on the mat'. This sentence is either true or false---this is what I mean by being 'truth apt'; the sentence is one or the other. I might not currently know if the sentence is true. I might be in the coffee shop unaware of what my cat is doing. Nevertheless, I know what observations could settle the matter. If I were to walk into my apartment and I were to observe a grey, 12lb cat, breathing, and sitting on a mat, I would know that the sentence 'the cat is on the mat' is true. If I observe no creature on the mat, the sentence is false. Verificationists claim that sentences are meaningful only if there are possible observable conditions which show the sentence true or false; they even go as far to claim that the meaning of a sentence consists in these verification conditions, i.e., consists in these possible observations that prove the sentence true or false.  
 
 
-+ Verificationists think something else. 
-+ I need to talk about observational sentences. 
+My sentence about the cat was obviously an easy one. The observations that verify it were straightforward and clearly connected to cats and mats. But the observations that verify a sentence can be more elaborate and indirect. For instance, many of the sentences in physics are verified by what you might consider indirect observations. We may not be able to see subatomic particles directly, but we can observe the tracks they make in a cloud chamber. So, the observations that verify sentences about subatomic particles will likely be observations about effects like these they make, i.e., the sentence 'a sub-atomic particle A is has P' is verified by some observation about the ionized gas particle in the cloud chamber. 
 
-Still, we all use the word pain to refer to our subjective sensation, so much so that in the end we all agree on the meaning of pain even though everyone’s sensation of pain might differ. If it means the same for everyone, if it is a constant, this means it derives its meaning solely from its use in a social and public context and not from any relevance to the private sensation of pain. The private object beetle or the private sensation of pain, according to Wittgenstein, drop out of consideration. What is your response to this? How can we communicate private sensations and ideas if we only have access to a language that is meaningful from its public, not private, use?
-+ I need to introduce general discussion of meaning. 
+Don't worry too much about this example from physics. I include it only to stress that verificationism allows for many subtle and indirect observations to verify a sentence; they don't think a term is meaningful only if you can directly see what it refers to.  The might indirectly see its referent by, for instance, seeing what effects the thing has. What is important is that 1) there are some clearly identifiable observations that would verify these sentences, 2) these observations are in principle possible by everyone--something is confirmable only if in principle confirmable by everyone, and 3) the meaning of a sentence consists in the set of these observations that would allow us know if it is true or false. 
 
-+ “The meaning of a statement consists in its method of verification”, Schlick
-
-+ Observational sentences
-+ Confirmation--you need to say that in principle something that is confirmable must be confirmable by everyone.
-+ Empirically verifiable conditions for individual sentences
-
-+ Ayer in ‘Language, Truth and Logic’ argued “A sentence is only factually significant to a person if he or she knows what observations would lead him to accept the proposition as being true or false.” (3)
-+ “No statement which refers to a reality transcending the limits of all possible sense-experience can possible have any literal significance.”(3)
-
-+ In principle vs. in practice
-
-+ S is verifiable then if I can use one of my senses to realise it. But this must be qualified… my eyes must be open, my senses working properly, I am tall enough to see above the table, an evil demon has not made the cat invisible, I am looking in the right direction. The list is endless. 
-
-+ Bachelors are unmarried men
-
-+ This is  meaningful for the positivist because it is an analytic truth, somehow true by definition. 
-+ Q is meaningful because the terms bachelors and unmarried men are synonymous. 
-+ Two terms are synonymous if they are intersubstitutable salva veritate. 
-
-+ But what if two terms are accidentally intersubstitutable salva veritate without being synonymous. of Renate and Cordate as two terms that are accidentally intersubstitutable salva veritate but differ in meaning.
-
-Logical empiricism 
-
-+ Something about no progress in many areas in comparison to the sciences. They diagnose the problem in terms of the language used in these debates. They want to say that we are speaking nonsense. 
-+ Europe in 20s and 30s. Places like Vienna. Later in the US in the 50s and 60s. 
+Verificationism has an obvious upshot: if no observation can verify a sentence, the sentence is meaningless. And, by 'meaningless', I mean it is a string of sounds as meaningful as, say, 'blah wah doo efle fople wittle.' That's obviously non-sensical. If no observations could confirm a snetnece, the verificationsit claims that sentence is similarly non-sensical. There are interesting questions about how to understand sentences about God according to verificationist. But we can set that aside and show the relationship between verificationism and behaviorism. Let us first present it as an argument for behaviorism: 
  
-1. The meaning of a sentence is given by the conditions that must be verified to obtain if the sentence is true (we may call these “verification conditions”).
-2. If a sentence has a meaning that can be shared by different speakers, its verification conditions must be accessible to each speaker—that is, they must be publicly observable.
-3. Only behavioral and physical phenomena (including physiological occurrences) are publicly observable.
-4. Therefore, the sharable meaning of any psychological sentence must be specifiable by statements of publicly observable verification “conditions, that is, statements describing behavioral and physical conditions that must hold if the psychological statement is true.
++ P1. The meaning of a sentence is given by the conditions that must be verified to obtain if the sentence is true--call these **verification conditions.**
++ P2. If a sentence has a meaning that can be shared by different speakers, its verification conditions must be accessible to each speaker—that is, they must be publicly observable.
++ P3. Only behavioral and physical phenomena (including physiological occurrences) are publicly observable.
++ C. Therefore, the sharable meaning of any psychological sentence must be specifiable by statements of publicly observable verification conditions, that is, statements describing behavioral and physical conditions that must hold if the psychological statement is true.
 
+P1 and P2 is a statement of verificationism; it claims that the meaning of a sentence is given by its verification conditions **and** claims that these conditions must be given in terms of observable phenomena. P3 states that only behavior and physical phenomean are observable, e.g., chairs and twitches are observable. A mystic might deny P3, but the behaviorist is no mystic. Our conclusion states that any sentence that contains terms like 'pain', 'itch', etc., are meaningful only if they are about and verified by observations about our behavior and physical bodies. So, for instance, 'John feels confused' is a meaningful sentence only if there is a set of observations we can make about John to verify this sentence. These observations may be that a puzzled person wears a certain facial expression, will write a question into google if they have access to an internet connected device, will ask an expert if one is around, etc. John's puzzlement, then, is not something on the inside of John's skull. It is the set of observable behaviors and physical features that he displays and we now associate with the meaning of 'puzzlement'. 
 
 
 
