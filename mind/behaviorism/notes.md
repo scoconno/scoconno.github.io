@@ -91,49 +91,31 @@ Verificationism has an obvious upshot: if no observation can verify a sentence, 
 + P3. Only behavioral and physical phenomena (including physiological occurrences) are publicly observable.
 + C. Therefore, the sharable meaning of any psychological sentence must be specifiable by statements of publicly observable verification conditions, that is, statements describing behavioral and physical conditions that must hold if the psychological statement is true.
 
-P1 and P2 is a statement of verificationism; it claims that the meaning of a sentence is given by its verification conditions **and** claims that these conditions must be given in terms of observable phenomena. P3 states that only behavior and physical phenomean are observable, e.g., chairs and twitches are observable. A mystic might deny P3, but the behaviorist is no mystic. Our conclusion states that any sentence that contains terms like 'pain', 'itch', etc., are meaningful only if they are about and verified by observations about our behavior and physical bodies. So, for instance, 'John feels confused' is a meaningful sentence only if there is a set of observations we can make about John to verify this sentence. These observations may be that a puzzled person wears a certain facial expression, will write a question into google if they have access to an internet connected device, will ask an expert if one is around, etc. John's puzzlement, then, is not something on the inside of John's skull. It is the set of observable behaviors and physical features that he displays and we now associate with the meaning of 'puzzlement'. 
+P1 and P2 is a statement of verificationism; it claims that the meaning of a sentence is given by its verification conditions **and** claims that these conditions must be given in terms of observable phenomena. P3 states that only behavior and physical phenomena are observable, e.g., chairs and twitches are observable. A mystic might deny P3, but the behaviorist is no mystic. Our conclusion states that any sentence that contains terms like 'pain', 'itch', etc., are meaningful only if they are about and verified by observations about our behaviors and physical bodies. So, for instance, 'John feels confused' is a meaningful sentence only if there is a set of observations that would verify this sentence. These observations may be that a puzzled person wears a certain facial expression, will write a question into google if they have access to an internet connected device, will ask an expert if one is around, etc. John's puzzlement, then, is not something inside  John's skull. It is the set of observable behaviors and physical features that he displays associated with the meaning of 'puzzlement'. 
 
 
 
 ## Objections to Behaviorism
 
-+ Knowledge of our own minds: The behaviorist explains our knowledge of other people's mental states, but tells the wrong sort of story about how we know about our own mental states. We seem to have direct access to our own minds. We don't need to observe our behavior to know how we're feeling, especially qualitative states like pain and sensory experiences. Whether I'm in pain, or having the "reddish" kind of visual experience I normally have when I look at a ripe tomato, seems to a matter of what's going on in me right now, which I can be directly aware of. It doesn't seem to be a matter of how I would act in certain hypothetical situations. 
+Behaviorism is a powerful theory that had many defenders, but it has fallen out of favor for a variety of reasons. 
 
-+ Some features of mentality have characteristic ‘qualia’ or presentationally immediate or phenomenal qualities. To be in pain, for example, is not merely to produce appropriate pain behavior under the right environmental circumstances, but it is to experience a ‘like-thisness’ to the pain (as something dull or sharp, perhaps). A purely behaviorist creature, a ‘zombie’, as it were, may engage in pain behavior, including beneath the skin pain responses, yet completely lack whatever is qualitatively distinctive of and proper to pain (its painfulness).
-
-+ Mental states do not cause anything. But we ordinarily think that behavior is caused by mental states. It is not the mental state itself. Behavior is only a sign or piece of evidence for what mental state you're in--in the same way that smoke is only a sign that there is a fire. This is why we think it's possible for someone  to be in pain without engaging in pain behavior. 
-
-+ There are no distinctive behaviors associated with a single mental state in isolation. Any connection between mental states and behavior normally needs to invoke other mental states. It is difficult for the behaviorist to say what sorts of behavior one mental state will dispose a person towards, without making assumptions about what other mental states the person has.
-	+ Consider the behaviorist's account of wanting a Caribbean vacation. X wants a Caribbean vacation iff:
-
-1. X is disposed to read the Caribbean brochures first, if you give him a bunch of holiday brochures--this assumes that X is not already *bored* of Caribbean brochures.
-2. X is disposed to pack his bags when you give him a ticket to Jamaica--this depends on whether he *believes* the flight will be canceled, whether he can afford to miss work, etc.
+**Mental Causation**
+If behaviorism is true, mental states do not cause anything. For instance, my pain does not cause me to grimace. My pain just is the grimacing. The grimacing is caused by, say, stubbing my toe, or spraining a muscle. But we ordinarily think that behavior is caused by our mental states. We think we buy the ice-cream because we want the ice-cream. We don't think our desire is just the purchase. Again, we treat our partners well because we love them. Our love isn't reducible to all the various ways we treat them. But if behaviorism is true, we are wrong to think these things. Our love, desires, pains, and hopes cannot be the cause of anything.  
 
 
-+ On the other hand, just because you utter the sounds "I want to go to the Caribbean," does that mean you want to go to the Caribbean? Perhaps you're being deceptive. Or perhaps you didn't even mean to be asserting anything: perhaps you made those noises as the result of a complicated hiccough.
+**Knowledge of our own minds**
+The behaviorist explains our knowledge of others' mental states, but cannot how we know about our own mental states. We don't need to observe our behavior to know how we're feeling, e.g., I don't need to look at in a mirror to see a grimace to know that I am in pain. Whether I'm in pain, or having the reddish kind of visual experience I normally have when I look at a ripe tomato, seems to a matter of what's going on in me right now, which I can be directly aware of. It doesn't seem to be a matter of how I would act in certain hypothetical situations. But if behaviorism is true, it would be a matter about how I act in hypothetical scenarios. 
 
-+ The upshot of these observations seems to be that we can't find any behavior described in purely physical terms which is associated with any mental state. For instance, the behavior associated with the desire to go to the Caribbean can't just be making certain noises. *It has to be making those noises intentionally and sincerely.*
+**Single mental states do not have distinctive behaviors**
+The behaviorist claims that each mental state is associated with some distinctive behaviors. But this seems implausible. One person screams when they feel pain. Another person bites their tongue and remains silent--perhaps they are training to be an army ranger and need to prove themselves. But if behaviorism is true, we would expect the same behavior for every mental state. 
 
-+ But if the behaviorist says this, then he's no longer talking about purely physical behavior! Contrast:
+Another way of raising this problem is to note that it is difficult to say what behavior is associated with what mental state without making assumptions about what other mental states the person has. Consider the behaviorist's account of wanting ice-cream. X wants ice-cream if and only if:
 
-+ raising one's arm (this is mentalistic behavior) vs. one's arm moving in such-and-such ways (this is purely physical behavior)
-+ intentionally saying "I want to go to the Caribbean" (this is mentalistic behavior) vs. one's mouth opening and certain noises coming out (this is purely physical behavior)
-+ Many definitions smuggle back in mental terms. I believe I have a 2pm appointment. That just means I arrive there. But that doesn't seem sufficient to distinguish an appointment from something else. 
+1. X is disposed to read the dessert menu before reading the main menu--this assumes that X does not want food from the main menu, so I need to assume a want in analyzing a want for ice-cream. 
+2. X is disposed to purchase ice-cream if you give him a free voucher for ice-cream--this depends on whether he believes that the voucher will work, whether he intends to keep his weight in check, etc. So, here I have explained what it is to want ice-cream by appealing to more mental states like belief and intent. 
 
+The upshot is that we can't describe behavior in purely physical terms. So, we can't describe the behavior associated with a mental state in purely physical terms. For instance, the behavior associated with the desire for ice-cream can't just be making certain noises. It has to be making those noises intentionally and sincerely, i.e., while having other mental states. But if the behaviorist says this, then he's no longer talking about purely physical behavior. 
+ 
+Hence, the behaviorist faces a dilemma. Either he says that creatures with mental state M are disposed to engage in such-and-such purely physical behavior. But then the claims he makes won't be plausible. There is no single physical way in which all creatures who are in pain behave.  Alternatively, the behaviorist can say creatures with mental state M are disposed to engage in such-and-such mentalistic behavior. But if the behaviorist says this, then he hasn't succeeded in reducing mental facts to purely physical facts.
 
-
-Hence, the behaviorist faces a dilemma. Either he says:
-
-+ Creatures with mental state M are disposed to engage in such-and-such purely physical behavior. But then the claims he makes won't be plausible. There is no single physical way in which all creatures who are in pain behave. 
-+ Alternatively, the behaviorist can say creatures with mental state M are disposed to engage in such-and-such mentalistic behavior. But if the behaviorist says this, then he hasn't succeeded in reducing mental facts to purely physical facts.
-
-
-### Three Types of Behaviorism again
-
-
-1. Psychology is the science of behavior. Psychology is not the science of mind--as something other or different from behavior.
-
-2. Behavior can be described and explained without making ultimate reference to mental events or to internal psychological processes. The sources of behavior are external (in the environment), not internal (in the mind, in the head).
-
-3. In mental terms or concepts are deployed in describing or explaining behavior, then either (a) these terms or concepts should be eliminated and replaced by behavioral terms or (b) they can and should be translated or paraphrased into behavioral concepts.
 
