@@ -10,8 +10,8 @@ title: Behaviorism
 + [Notes](notes)
 
 ### Videos
-+ https://www.youtube.com/watch?v=FR2odu9jbHs
-+ https://www.youtube.com/watch?v=gEVQQp3gwX0
++ [Intro to Behaviorism](https://www.youtube.com/watch?v=FR2odu9jbHs)
++ [Types of behaviorisms](https://www.youtube.com/watch?v=gEVQQp3gwX0)
 + [Wittgenstein's beetle in a box](https://www.youtube.com/watch?v=x86hLtOkou8)
 
 ### Assignments
