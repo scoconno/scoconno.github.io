@@ -7,25 +7,18 @@ title: Essay
 
 What a case! You have never seen one like it in all these years of  working for the Gothic Knight Law Firm. A gorilla called Koko? Your clients want you to petition the courts for emancipation. That will be tough. You need to convince the courts that keeping Koko in captivity is as bad as keeping a human being in captivity. The case raises all kinds of tricky philosophical issues, but you settle on a strategy. Logical behaviorism is a theory of mind that shows Koko to enjoy mentality as much as any human being does. You first need to take a careful note of behaviors that most resemble those of a human being. Observation in hand, you can then use use logical behaviorism to prove that she has a mind. 
 
-You can watch Koko here [https://www.youtube.com/watch?v=8oh1uhrdc6w](https://www.youtube.com/watch?v=8oh1uhrdc6w)
+You can watch Koko here: [https://www.youtube.com/watch?v=8oh1uhrdc6w](https://www.youtube.com/watch?v=8oh1uhrdc6w)
 
-
-### Purpose 
-
-The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
-
-1. 	Charitably explaining arguments for views that are not your own.  
-1.  Explaining difficult concepts in your own words. 
-2.  Applying a theory to test a controversial case. 
  
 
 ### Task
 
-Write the **legal brief** to the court. You can find a sample legal brief [here](http://www.law.cuny.edu/legal-writing/students/memorandum/memorandum-3.html). Include all four sections and include the titles of these sections (you can make up the laws for this essay) 
+Write the **legal brief** to the court. You can find a sample legal brief [here](http://www.law.cuny.edu/legal-writing/students/memorandum/memorandum-3.html). Include four sections and include the titles of these sections (you can make up the laws for this essay) as follows:
 
 1. Question: what is the case about? One sentence. 
 2. Short Answer: A one sentence summary of your case. 
-3. Facts: A detailed list of *some* of Koko's most human like behaviors. Again, watch some of this documentary [here](https://www.youtube.com/watch?v=8oh1uhrdc6w) 
+3. Facts: A detailed list of *some* of Koko's most human like behaviors, i.e., bodily movements and physical responses. Again, watch some of this documentary [here.](https://www.youtube.com/watch?v=8oh1uhrdc6w) 
+	1. NB: Behaviors are bodily movements and physical responses. If you describe Koko's behaviors by using mental terms, you will have failed this part of the assignment. For instance, if you say that Koko was happy when she saw the cat, then you will have used the word 'happy', which is not a word for a bodily movement or physical response. Describe only the movements and responses.
 1. Discussion: this should have two parts:
 	1. An explanation of logical behaviorism and the argument for it.   
 	2. An application of this theory to Koko and her behavior (which you outlined in the 'facts' section.)
@@ -55,10 +48,10 @@ Per the policies outlined in the syllabus, late work will not be accepted. Any r
 Please submit the file as a docx, rtf, or pdf. 
 
 ### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
+Please find the rubric and explanation of it [here](/resources/grading/).
 
 ### Resources
-Please find links to writing resources [here](/Teaching/Resources/).
+Please find links to writing resources [here](/resources/).
 
 
 
