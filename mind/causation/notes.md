@@ -5,11 +5,7 @@ title: Mental Causation
 ---
 
 ## Introduction
-
-(Don't cover immediately after functionalism next time)
-(Consider covering mental content after functionalism and then consciousness)
-
-Mental causation is common place. Every time we act on a choice, intentionally move our body,  a mental state is causing a physical reaction. Mental causation is important to our concepts of agency, to our idea of performing actions intentionally. An action is not a mere bodily motion like involuntarily blinking your eye. It is something you do intentionally. We can only distinguish mere bodily movement from an action if there exists mental causation, i.e., if there are intentions, mental states, that cause physical reactions. There are strictly four type of phenomena that might constitute an instance of mental causation: 
+Perhaps the best evidence for the mind-brain identity theory comes from consideration of mental causation, the focus of this note. Mental causation is common place. Every time we act on a choice, intentionally move our body,  a mental state is causing a physical reaction. Mental causation is important to our concepts of agency, to our idea of performing actions intentionally. An action is not a mere bodily motion like involuntarily blinking your eye. It is something you do intentionally. We can only distinguish mere bodily movement from an action if there exists mental causation, i.e., if there are intentions, mental states, that cause physical reactions. There are strictly four type of phenomena that might constitute an instance of mental causation: 
 
 
 + Mental to mental causation, e.g., beliefs lead to another belief
@@ -20,29 +16,26 @@ Mental causation is common place. Every time we act on a choice, intentionally m
 
 + Physical to physical causation, e.g., heating causes water to boil
 
-Our main interest is mental to physical causation. We would like to know what mechanism or process a mental event manages to initiate, or insert itself into, a causal chain of physical events. It certainly seems that mental events insert themselves into such causal chains, but it is hard to reconcile to explain how this is so given an apparent clash between distinctive features of the mental and the requirements for entering into causal chains of physical events. The main problem we will focus on is called the causal exclusion argument, which, as the name suggests, claims that mind is excluded from playing any causal roles. To motivate the objection, we need to take a stand back and understand 
+Our main interest is mental to physical causation. We would like to know what mechanism or process a mental event manages to initiate, or insert itself into, a causal chain of physical events. It certainly seems that mental events insert themselves into such causal chains, but it is hard to explain how this is so given an apparent clash between distinctive features of the mental and the requirements for entering into causal chains of physical events. The main problem we will focus on is called the causal exclusion argument, which, as the name suggests, claims that mind is excluded from playing any causal roles. To motivate the objection, we need to take a stand back and think a little about causation.
 
-Causation is standardly taken as a relation that holds between two events, whereby the first event, e1, is the cause of the second event, e2. Examples include: the cue striking the cue ball is the cause of cue ball moving. The heat radiating from the heater is the cause of the ambient temperature increasing. The wind blowing is the cause of the windmill turning. 
+Causation is standardly taken as a relation that holds between two events, whereby the first event, e1, is the cause of the second event, e2. Examples include: the cue striking the cue ball is the cause of cue ball moving, the heat radiating from the heater is the cause of the ambient temperature increasing, the wind blowing is the cause of the windmill turning, etc. 
 
 There are many interesting questions we can ask about causation, about what the relation is, about how one event could every bring about another, etc. But here we will focus on some common, but not universally accepted, claims about causation. We have already said that causation occurs between two events; each event has only one cause. Many also agree that for one event e1 to be the cause of e2 the following must obtain: 
 
 1. e1 and e2 are spatially contiguous. 
 2. e2 immediately succeeds e1 in time. 
-3. e1 is sufficient for e2. 
+3. e1 is sufficient for e2. (do I mean necessitate? (CHECK)...
 
 
-Claim 1 states that causation require spatial contact. Consider the cue moving the cue ball. The cue touches the ball and energy is transferred from one to the other. Claim 3 does not state that all causation requires energy transfer, but it does require that events can only enter into a causal relation if they are in the same location. Two events separated by millions of mile cannot enter into direct causal contact.  
+Claim 1 states that causation require spatial contact. Consider the cue moving the cue ball. The cue touches the ball and energy is transferred from one to the other. Claim 1 does not state that all causation requires energy transfer, but it does require that events can only enter into a causal relation if they are in the same location. Two events separated by millions of mile cannot enter into direct causal contact.  
 
+Claim 2 states that causation a cause to come immediately prior to its effect. Consider the cue moving the cue ball. The event of the cue touching the cue ball happens immediately before the ball begins to move. Likewise, my hand touching the class occurs immediately before the glass falls over. Note that this is a claim about the immediate and direct causes of effects. Of course, there can be chains of causes that are separated by a period of time. For instance, my friend dares me to play pool, I accept, I move the cue against the cue ball,the cue ball moves. My friend's dare happened well before the ball moved, but, nevertheless, you might think that the dare caused the ball to move. Here, note that claim 2 does not apply to remote or indirect causes. It is a claim about the immediate and direct cause of an effect.  
 
-Claim 3 states that the occurrence of one event, e1, necessitates the occurrence of the other event, e2. What does this mean? 
-
-First, it means that if e1 occurs, e2 occurs. This is the simplest way of putting the point. If the cue striking the ball causes it to move, then the former event entails the occurrence of the latter event. 
+Claim 3 states that the occurrence of one event, e1, is sufficient for the occurrence of the other event, e2. What does this mean? First, it means that if e1 occurs, e2 occurs. This is the simplest way of putting the point. If the cue striking the ball causes it to move, then the former event entails the occurrence of the latter event. It would be impossible for the former event to occur and the latter not to.  
 
 Second, it means that if e2 had not occurred, e1 would not have occurred. Consider the cue striking the cue ball. This causes the ball to move. Imagine a world exactly like our world in all respects, but it is a world in which the cue ball is not moving at exactly that time. Claim 3 tells us that there will be no cue striking that cue ball either. In other words, claim 3 states that if one thing genuinely causes some later thing, then if the later thing hadn't happened, the earlier thing wouldn't have happened either. 
 
 Third, it means that there is no other event, e, such that had e occurred without e1, e2 would still have occurred, or had e1 occurred without e, e2 would not have occurred. It means, for instance, that there is no event like the shaking of my hand, or air hitting the cue ball, such that had these occurred without the cue striking the cue ball, the ball would still have moved. And there are no such events such that had they not occurred, the cue would strike the ball and the ball would not move.
-
-One 
 
 Each effect has only one sufficient immediate cause. But cause can be complex. It can mean the conjunction of lots of things happening at that time. 
 
