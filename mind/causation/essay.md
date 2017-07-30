@@ -9,7 +9,7 @@ title: Essay
 Formulate Kim’s “Causal Exclusion” problem for mental-to-physical causation as clearly as possible. Your paper must have these following parts:    
 
 1. State and explain the conclusion of the argument in your own words.
-2. Identity and state each of the principles that serves as premises in this argument. Explain these principles in your own words
+2. Identify and state each of the principles that serves as premises in this argument. Explain these principles in your own words
 3. Explain why these group of principles cannot all be true together---at least one of them must be false if the others are true.
 4. Conclude by saying which principle you would reject and give a reason for rejecting that principle.
 	   
@@ -36,10 +36,10 @@ Per the policies outlined in the syllabus, late work will not be accepted. Any r
 Please submit the file as a docx, rtf, or pdf. 
 
 ### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
+Please find the rubric and explanation of it [here](/resources/grading/).
 
 ### Resources
-Please find links to writing resources [here](/Teaching/Resources/).
+Please find links to writing resources [here](/resources/).
 
 
 

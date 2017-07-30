@@ -4,10 +4,6 @@ title: Notes
 
 ---
 
-They're made out of meat questions!!
-
-https://www.youtube.com/watch?v=GTiNHeqlfqc
-
 
 ## Introduction
 We have seen that the behaviorist defines a mental state in terms of physiological responses and bodily movements. Pain, on this view, just was a characteristic set of such responses and movements. A radically different view claims that mental states should be defined in terms of brain states. A brain state is what is *going on* in your brain, i.e., nerve cells firing. A mental state is a state or condition some mind might be in, like seeing, or thinking, being in pain, etc. So, thoughts, pains, desires, beliefs, etc., are all mental states. The mind-brain identit theory claims that each mental state is identical to some brain state, e.g., pain is identical to some nerves, in particular C-fibres, firing. 
