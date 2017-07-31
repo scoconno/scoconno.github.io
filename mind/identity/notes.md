@@ -27,11 +27,10 @@ The claims that mental states are identical to brain states provides a neat and 
 
 
 ## Arguments for Mind-Brain Identity Theory
+In the next note, I will discuss perhaps the best argument for the mind-identity theory, which is called **the causal exclusion argument**. That argument is part of a larger discussion about mental causation, so I will defer it for now. 
 
-### Argument 1. Occam's Razor
-
-Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. 
-The Latin version of the principle was as follows: 
+Here I want to discuss what is called an argument from simplicity. The argument arises from an application of **Occam's razor**. Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. 
+The Latin version of the principle comes in a variety of forms: 
 
 > Pluralitas non est ponenda sine neccesitate.
 > Frustra fit per plura quod potest fieri per pauciora.
@@ -43,13 +42,13 @@ And, roughly translated:
 > What can be down with fewer assumption should not be done with more. 
 > Adopt simplest ontology possible. 
 
-Perhaps the best explanation of Occam's razor comes from Sir. Isaac Newton, who stated that, "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances." Simply put, the simplest explanation should be preferred over the more complex one. 
+Perhaps the best explanation of Occam's razor comes from Sir. Isaac Newton, who stated that "[w]e are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances." Simply put, the simpler explanation should be preferred over the more complex one. 
 
-Consider, for instance, a person reporting that they saw a ghost in their bedroom in the middle of the night. They are met with skepticism. Some respond that this is a common hallucination, especially as we shift in and out of sleep. Just like a dream, the brain creates an image of a ghost and our sleeper takes it for a real. A true believer in ghosts hates such explanation and insists the ghost was real. 
+Consider a person reporting that they saw a ghost in their bedroom in the middle of the night. They are met with skepticism. Some respond that this is a common hallucination, especially as we shift in and out of sleep. Just like a dream, the brain creates an image of a ghost. A true believer hates such explanations and insists that the ghost was real. 
 
-Which explanation should you accept? Occam's razor tells us that a rational person will accept the simplest explanation. And by 'simple', Occam means that we should compare the assumptions and principles the various explanations ask of us. The claim that the ghost is real requires that we accept that there exist immaterial and supernatural beings. We will also have to accept that such beings have some ability to interact with the physical world and that our perceptive capacities allow us see such things. This explanation, then, is asking us to believe in many different kinds of things beside the ordinary physical things that we believe in. The hallucination explanation requires far less of us. We all agree that people dream, hallucinate, and have illusions. Such occurrences are more likely at night, when we are tired or stressed, and are specially likely when we shift between dream states. 
+Which explanation should you accept? Occam's razor tells us that a rational person should accept the simplest explanation. And by 'simple', Occam means that we should compare the assumptions and principles the various explanations ask of us. The claim that the ghost is real requires that we accept that there exist immaterial and supernatural beings. It requires that we also accept that such beings have some ability to interact with the physical world and that our perceptive capacities allow us see such things. This explanation, then, is asking us to believe in many different kinds of things beside the ordinary physical things that we believe in. The hallucination explanation requires far less of us. We all agree that people dream, hallucinate, and have illusions. Such occurrences are more likely at night, when we are tired or stressed, and are specially likely when we shift between dream states. 
 
-Applying Occam's razor, requires, then, for the rational person to accept the simpler theory; our sleeper hallucinated and did not see a real ghost. It might be hard to accept this. Often, people are wedded to a conspiracy theory, a myth, a superstition, etc. But, imagine approaching these issues like a poker player. Each explanation requires us to sign on to a set of assumptions and principles. If you were required to bet $100 on each assumption and principle being true, the safest bet, the least risky bet, is the one that has you betting on the fewest and most plausible assumptions. Calculated in this way, the bet that the sleeper experienced a hallucination would be smaller and so safer than the bet that the sleeper saw a real ghost.   
+Applying Occam's razor requires, then, for the rational person to accept the simpler theory: our sleeper hallucinated and did not see a real ghost. It might be hard to accept this. People are often wedded to a conspiracy theory, a myth, a superstition, etc. But imagine approaching these issues like a poker player. Each explanation requires us to believe a set of assumptions and principles. If you were required to bet $100 on each assumption and principle being true, the safest bet, the least risky bet, is the one that has you betting on the fewest and most plausible assumptions. Calculated in this way, the bet that the sleeper experienced a hallucination would be smaller and so safer than the bet that the sleeper saw a real ghost.   
 
 
 
