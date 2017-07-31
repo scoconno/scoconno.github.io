@@ -37,23 +37,20 @@ The Latin version of the principle was as follows:
 > Frustra fit per plura quod potest fieri per pauciora.
 > Entia non sunt multiplicanda praeter necessitatem
 
-This can be taken as follows: 
+And, roughly translated: 
 
 > Entities should not be multiplied unnecessarily.  
 > What can be down with fewer assumption should not be done with more. 
 > Adopt simplest ontology possible. 
 
-Give examples of conspiracy theories. Choose the theory that has the fewest hypotheses and assumptions. 
+Perhaps the best explanation of Occam's razor comes from Sir. Isaac Newton, who stated that, "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances." Simply put, the simplest explanation should be preferred over the more complex one. 
 
-So, mind-brain identity might explain correlation by satisfying both examples.
+Consider, for instance, a person reporting that they saw a ghost in their bedroom in the middle of the night. They are met with skepticism. Some respond that this is a common hallucination, especially as we shift in and out of sleep. Just like a dream, the brain creates an image of a ghost and our sleeper takes it for a real. A true believer in ghosts hates such explanation and insists the ghost was real. 
 
+Which explanation should you accept? Occam's razor tells us that a rational person will accept the simplest explanation. And by 'simple', Occam means that we should compare the assumptions and principles the various explanations ask of us. The claim that the ghost is real requires that we accept that there exist immaterial and supernatural beings. We will also have to accept that such beings have some ability to interact with the physical world and that our perceptive capacities allow us see such things. This explanation, then, is asking us to believe in many different kinds of things beside the ordinary physical things that we believe in. The hallucination explanation requires far less of us. We all agree that people dream, hallucinate, and have illusions. Such occurrences are more likely at night, when we are tired or stressed, and are specially likely when we shift between dream states. 
 
- Isaac Newton stated the rule: "We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances."
+Applying Occam's razor, requires, then, for the rational person to accept the simpler theory; our sleeper hallucinated and did not see a real ghost. It might be hard to accept this. Often, people are wedded to a conspiracy theory, a myth, a superstition, etc. But, imagine approaching these issues like a poker player. Each explanation requires us to sign on to a set of assumptions and principles. If you were required to bet $100 on each assumption and principle being true, the safest bet, the least risky bet, is the one that has you betting on the fewest and most plausible assumptions. Calculated in this way, the bet that the sleeper experienced a hallucination would be smaller and so safer than the bet that the sleeper saw a real ghost.   
 
-Distinguish two types of simplicity: 
-
-1. Axiom simplicity: the number and conciseness of the theory's basic principles. 
-2. Ontological simplicity: the number of kinds of entities postulated by the theory. 
 
 
 
