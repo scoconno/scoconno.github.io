@@ -21,21 +21,9 @@ This says that there is a certain *type* of mental state, say, fearing, such tha
 
 The mere fact that mental and physical states are correlated does not entail that they are identical. Every enclosed figure that has three equal angles is also an enclosed figure with only three sides of equal length, and *vice versa*. But having three equal angles and three equal sides are not identical features even thought they strictly correlate with one another.
 
-So, what explains the mind-brain correlation thesis? Why are mental states and brain states correlated with one another? Different explanations could be offered and we will see that mind-identity theory offers one such explanation.
+So, what explains the mind-brain correlation thesis? Why are mental states and brain states correlated with one another? Different explanations could be offered. Perhaps they are correlated because one is the cause of the other. Or perhaps they are correlated because they have a common cause. The mind-brain identity theory claims that the correlation is explained by the fact that mental states are identical to brain states. 
 
- Let's think of some simple correlations.  + Superman and Clark Kent in the same place. 
-
-Some are explained by F causing G. Others are explained by F and G having a common cause, two aspects of the same process. Kim goes through a-f types of correlation and asks how mind and brain are correlated. 
-
-+   *Causal Interactionism:* Descartes
-+   *Presestablished Harmony:* Kind of like clocks with a common historic cause. 
-+  *Occasionalism:* A constant intervener. 
-+  *Double Aspect Theory:* Two aspects of an underlying substance. They do not cause each other. Spinoza. 
-+  *Epiphenomenalism:* Huxley claims that conscious states are caused by neural events in the brain and mental states can do nothing to the brain. 
-+  *Emergentism* No explanation for the phenomena. The correlations are brute facts. 
-+ *Psychoneural (or Psychophysical, Mind-Body) Identity Theory: mental states are identical to physical processes in the brain 
-
-The mind-brain identity theory understands this correlation in a very special away. They claim that the best way to explain the correlation is not to try identify some cause for how two distinct things might always co-occur, they think that there is just one thing in the first place. If mental properties (mental states) are identical to properties of brains (brain states), then this would easily and neatly explain mind brain correlation.  Consider, for instance, the property of being water and the property of being H20. Whenver something has the property of being water it also has the property of being H20. This correlation, the fact that both properties always co-occur, is explained just by the fact that these are not two properties at all. The property of being water and the property of being H2O are one and the same property. Likewise, the mind-brain identity theory claims that property of being in a certain mental state is identical to the property of being in a certain brain state. There is no surprise that both properties co-occur because they are one and the same property. e.
+The claims that mental states are identical to brain states provides a neat and easy explanation for mind brain correlation.  Consider the property of being water and the property of being H20. Whenever something has the property of being water it also has the property of being H20. This correlation, the fact that both properties always co-occur, is explained just by the fact that these are not two properties at all. The property of being water and the property of being H2O are one and the same property. Likewise, the mind-brain identity theory claims that property of being in a certain mental state is identical to the property of being in a certain brain state. There is no surprise that both properties co-occur; they are one and the same property, so of course they co-occur. 
 
 
 ## Arguments for Mind-Brain Identity Theory
@@ -90,73 +78,33 @@ The Argument
 3. Mental events are physical events, i.e., are identical to brain events.
 
 
-## Arguments against Mind-Brain Identity Theory
-According to the Identity Theorist, the fact that mental states are caused by states of the world is the same fact as the fact that brain states are caused by states of the world.
+## Objections to the Mind-Brain Identity Theory
 
+There are many objections to the mind-brain identity theory. Each objection relies on the following set of basic principles: 
 
-For the Identity Theorist, this is the same as the claim that certain brain states cause actions. Again, the evidence for this is very strong.
+Leibniz’ Law:
+: If A and B are identical, then whatever properties A has B must have too, and *vice versa*. 
 
-https://www.youtube.com/watch?v=9oka8hqsOzg
+Consider Superman and Clark Kent. Since they are identical, Leibniz' Law tells us that any feature of Clark Kent is also a feature of Superman, and *vice versa*. So, if Clark Kent is wearing classes, so too is Superman. If Superman is flying, so too is Clark Kent. Leibniz Law says simply that numerically distinct things have exactly the same features. 
 
-All of our objections will rely on the following principles
-Leibniz’ Law
-n  If A and B are identical, then whatever properties one has the other must have too.
-–  That is, if A and B are the very same thing, then “they” must have exactly the same properties.
-n  So if A and B have different properties, they cannot be identical.
-n  So, if mental states and physical states have different properties, they cannot be identical.
+Leibniz's Law is really helpful for adjudicating questions of identity. Identical things must have the same properties. So, if if A and B have different properties, they cannot be numerically identical. If, for instance, Jekyll and Hyde have different features, they are numerically distinct persons (residing in the same body). 
 
-If X = Y, then X and Y have all the same properties.
+Leibniz's Law also tells us that if a mental state is identical to a brain state, then the states will have exactly the same properties. Conversely, if they have different properties, they are numerically distinct. In other words, if the mind-brain identity is correct, then Leibniz Law requires the following:
 
-[Converse] If X and Y don’t have all the same properties, then X ≠ Y.
++ If mental state A and brain state B are numerically identical, then A and B have exactly the same properties. 
 
-Property: drives a motorcycle
+If, on the other hand, A and B vary in even one property, they A and B are not numerically identical. In order, then, to decide whether mental state are identical to brain states, we should investigate whether properties of the one are always properties of the other. There are at least some properties where this does not seem to hold. 
 
-Sally = the tallest person in the room.
-Sally drives a motorcycle.
-Therefore, the tallest person in the room drives a motorcycle.
+### Property 1: mental states are such that I can be certain of them
 
-Property: being red
+We have direct and private access of our mental states; I can easily and reliably know when I am in a pain state---it feels really sore! I can also easily reliably know when I am having an experience as of a red bicycle--there is an image of a red bicycle before me (even though I might be dreaming, hallucinating, etc.) It seems that our mental states are such that we can be certain that we are in them. But this is not a property of brain states. I have no idea what is happening in my brain right now. Do you? What neurons are firing as you read this page? What is their characteristic pattern? This is something that neuroscientists can now discover with the help of sophisticated machines, but people know their contents of their mind well before they knew anything about brains or neurons. So, the argument against the mind-brain identity theory is this: 
 
-My car is red (has the property of being red.
-That car is not red (does not have the property).
-Since my car and that car don’t have all the same properties, that car is not my car.
+1. I can be certain of my mental states (e.g., pain).
+2. I cannot be certain of my brain states.
+3. Therefore, mental states have properties (of being such that I can be certain of them) that brain states lack.
+4. Therefore, mental states are not identical to brain states.
 
-
-Property: boils at 100 degrees Celsius
-
-Water = H2O.
-Water boils at 100 degrees Celsius.
-Therefore, H2O boils at 100 degrees Celsius.
-Property: boils at 100 degrees Celsius.
-
-Water = H2O.
-Water boils at 100 degrees Celsius.
-Therefore, H2O boils at 100 degrees Celsius
-
-If Mind-Brain Identity Theory is correct, then Leibniz Law requires the following:
-
-+ If mental state A and brain state B are numerically identical, then A and B are qualitatively identical. 
-
-If, on the other hand, A and B vary in even one property, they A and B are not numerically identical. 
-
-My pain [a mental state] is in my foot.
-No brain state is in my foot.
-Therefore, my pain is not any brain state.
-
-
-
-
-### Application 1: argument from certain
-
-The Argument from Certainty
-•  1. I can be certain of my mental states (e.g., pain).
-•  2. I cannot be certain of my brain states.
-•  3. So, mental states have properties (of being such that I can be certain of them) that brain states lack.
-•  4. So, mental states cannot be identical to brain states.
-
-
-
-Question: does Leibniz Law apply to *intensional* properties? 
+The argument appears straightforward, but raises a very difficult question about Leibniz's Law: does it apply to *intensional* properties like 'belief', 'knowledge', etc. Consider Lois Lane before she learns that Superman and Clark Kent are one and the same person. Superman has the property of being believed by Lois Lane to save the city.  
 
 •  If A and B are the very same thing, then A and B must have the same intrinsic properties.
 – i.e., not merely involving beliefs about it.
