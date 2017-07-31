@@ -104,49 +104,38 @@ We have direct and private access of our mental states; I can easily and reliabl
 3. Therefore, mental states have properties (of being such that I can be certain of them) that brain states lack.
 4. Therefore, mental states are not identical to brain states.
 
-The argument appears straightforward, but raises a very difficult question about Leibniz's Law: does it apply to *intensional* properties like 'belief', 'knowledge', etc. Consider Lois Lane before she learns that Superman and Clark Kent are one and the same person. Superman has the property of being believed by Lois Lane to save the city.  
+The argument appears straightforward, but raises a very difficult question about Leibniz's Law: does it apply to *intensional* properties like 'belief', 'knowledge', etc. Consider Lois Lane before she learns that Superman and Clark Kent are one and the same person. Lois Lane believes that Superman saves the city. So, Superman has the property of being believed by Lois Lane to have saved the city. Does Clark Kent have that property? If he is identical to Superman, then he should also have that property. But Lois Lane doesn't think that Clark Kent saved the city!
 
-•  If A and B are the very same thing, then A and B must have the same intrinsic properties.
-– i.e., not merely involving beliefs about it.
-•  But being “believed by me to like gardening” and being “something I can have certainty about” are not intrinsic properties.
-•  So, the fact that I know or believe different things about mental states and physical states doesn’t prove they aren’t identical.
+So, Leibniz Law has a problem. If it includes properties of being believed to be a certain way, then it is obviously false. But the Law shouldn't include those properties; the beliefs that others have about something shouldn't affect what that thing is or is not identical to. So, perhaps Leibniz's Law should be formulated as stating that if A and B are identical, then A and B have the same intrinsic properties, where intrinsic properties do not involve beliefs about it. 
 
-
-### Application 2: The Argument from Color
-
-•  1. I am experiencing a green after-image.
-•  2. No brain states are green.
-•  3. So (by Leibniz’ Law) my after-image is not identical with any brain state because one is green (the after image) and the other (the brain state) isn’t.
+When Leibniz's Law is reformulated in this way, our first argument against the mind-brain identity theory falls flat: the fact that I know or believe different things about mental states and brain states is irrelevant to questions about their identity. 
 
 
-But, Carruthers argues, it is simply false that after images are (literally) green.
+### Property 2: having a color
+Some other arguments against the mind-brain identity theory are harder to escape. Stare at a bright green piece of paper for thirty seconds and then look up towards a blank, white wall. You will likely experience a green after-image; there will be a greenish hue to the wall that fades after a moment. It seems that our mental states have various color after-images. Can brain states have these same colors? Neurons do have colors, but those colors do not vary by whatever experience they correlate with. The neuron has the same color regardless of whether I am having a greed, red, or purple after image. So, here is our next argument against the mind-brain identity theory:  
+
+1. I am experiencing a green after-image.
+2. No brain states are green.
+3. Therefore, my after-image is not identical to any brain state. 
+
+If my after-image was identical to a brain state, then the properties of the after-image must also be properties of the brain state. One property of the after-image is that it is green. But this is not a property of the brain state correlated with that image! 
+
+This argument assumes that the after-image is literally green and I will leave you to decide whether you think that it is true. If it is not literally green, then the argument fails. If it is literally green, then the argument succeeds. 
+
+### Propert 3--Multiple Realizability 
+
+The multiple realizability thesis states that a single mental kind (property, state, event) can be realized by many distinct physical kinds (property, state, event). Sharks feel pain, but sharks do not have c-fibres. Their brains are just very different to humans. An alien made of different stuff than we are might still experience pain. A very sophisticated robot might one day experience pain. This poses a problem for the mind-brain identity theory:
+
+1. Pain has the property of being correlated with c-fibres firing in humans. 
+2. Pain does not have the property of being correlated with c-fibres firing in sharks. 
+3. Pain is not identical to c-fibres firing. 
+
+Premise 2 could be replaced with examples of plants feeling pain, non-carbon based life-form feeling pain, synthetic creatures (robots) feeling pain, etc. The point is that there are things that feel pain and their pain is not correlated with the kind of brain states that are correlated with our pain. An identity theory might respond here and claim that such things do not feel pain, or that their *pain* is not the same type of mental state that we call *pain*. But I will leave you to decide how plausible is such a strategy. 
 
 
 
-Question: is my after-image really purle? 
 
-
-### Application 3--Multiple Realizability 
-
-The multiple realizability thesis states that a single mental kind (property, state, event) can be realized by many distinct physical kinds (property, state, event).
-
-
-1. Pain has the property of being correlated with C-fibres firing in humans. 
-2. Pain does not have the property of being correlated with C-fibres firing in sharks. 
-3. Pain is not identical to C-fibres firing. 
-
-
-Note 1: premise 2 could be replaced with examples of plants feeling pain, non-carbon based life-form feeling pain, synthetic creatures (robots) feeling pain.
-
-Note 2: do these things really feel pain? If they do, is their feeling of pain the same type of mental state as the pain humans feel? 
-
-If souls, squid, aliens, and robots can all feel pain, then pain can’t be a brain state, because these things don’t have brains.
-
-Maybe all human pains are brain states, but being a mental state type is not the same thing as being a brain state type.
- Money is multiply reliasible. 
  
- The Identity Theory says that mental states and certain brain states are type-identical.
-The theory is consistent with physics and explains the causal interactions between mind and world (maybe not rationality).
-A principal objection to the theory is the apparent multiple realizability of mental states.
+
 
 
