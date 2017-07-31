@@ -28,19 +28,20 @@ The claims that mental states are identical to brain states provides a neat and 
 
 ## Arguments for Mind-Brain Identity Theory
 
-### 1. Occam's Razor
+### Argument 1. Occam's Razor
 
-Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. The principle states:
+Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. 
+The Latin version of the principle was as follows: 
 
->  Entities should not be multiplied unnecessarily.  
-+ What can be down with fewer assumption should not be done with more. 
+> Pluralitas non est ponenda sine neccesitate.
+> Frustra fit per plura quod potest fieri per pauciora.
+> Entia non sunt multiplicanda praeter necessitatem
 
+This can be taken as follows: 
 
-> Pluralitas non est ponenda sine neccesitate"
-> Frustra fit per plura quod potest fieri per pauciora"
-> Entia non sunt multiplicanda praeter necessitatem"
-
-Adopt simplest ontology possible. 
+> Entities should not be multiplied unnecessarily.  
+> What can be down with fewer assumption should not be done with more. 
+> Adopt simplest ontology possible. 
 
 Give examples of conspiracy theories. Choose the theory that has the fewest hypotheses and assumptions. 
 
@@ -56,26 +57,7 @@ Distinguish two types of simplicity:
 
 
 
-### 2. Causation
 
-An Argument for the Identity Theory
-1)  Some conscious states (i.e., mental states)
-are the causes of some physical events. For example, my desire causes me to move.
-2)  But (according to science) the only things that cause physical events are other physical events.
-3)  So, at least some mental states and events must be identical with some physical states and events.
-
-
-The Argument
-•  1) At least some mental events (like choosing to do something) cause physical events.
-•  2) But only physical events can cause physical events.
-•  3) So, at least some mental events must be physical events.
-– i.e., at least some mental states are identical to brain states.
-
-
-
-1. Mental events cause physical events.
-2. Only physical events can cause physical events.
-3. Mental events are physical events, i.e., are identical to brain events.
 
 
 ## Objections to the Mind-Brain Identity Theory
@@ -130,7 +112,7 @@ The multiple realizability thesis states that a single mental kind (property, st
 2. Pain does not have the property of being correlated with c-fibres firing in sharks. 
 3. Pain is not identical to c-fibres firing. 
 
-Premise 2 could be replaced with examples of plants feeling pain, non-carbon based life-form feeling pain, synthetic creatures (robots) feeling pain, etc. The point is that there are things that feel pain and their pain is not correlated with the kind of brain states that are correlated with our pain. An identity theory might respond here and claim that such things do not feel pain, or that their *pain* is not the same type of mental state that we call *pain*. But I will leave you to decide how plausible is such a strategy. 
+Premise 2 could be replaced with examples of plants feeling pain, non-carbon based life-form feeling pain, synthetic creatures (robots) feeling pain, etc. The point is that there are things that feel pain and their pain is not correlated with the kind of brain states that are correlated with our pain. So, mental states just cannot be identical to brain states. An identity theory might respond here and claim that plants, animals, and robots do not feel pain, or that their pain is not the same type of mental state that we call pain. But I will leave you to decide how plausible that response would be. 
 
 
 
