@@ -29,3 +29,4 @@ title: Functionalism
 ### Assignments
 + Quiz 5
 + [Essay 5](essay)
+	+ [Sample essay response:](TuringSample.pdf) a former student's paper. Notice how thoroughly they explain what it means for the Turing Test to provide a necessary and sufficient condition for mentality. Your paper should be similarly detailed, but you need to demonstrate that you fully understand the topic. Do not quote from this sample or paraphrase it. Your work must be your own. 
