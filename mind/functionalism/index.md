@@ -7,11 +7,11 @@ title: Functionalism
 + Required
   + Textbook, ch.5, pp. 129--138, 156--165
   + ['Computing Machinery and Intelligence',](turing.pdf) A.M.Turing
-  + 'Is the Brain's Mind a Computer Program?', J. Searle
+  + ['Is the Brain's Mind a Computer Program?'](SearleBrain.pdf), J. Searle
 
 + Optional
   + ['Troubles with Functionalism',](Block.pdf) N. Block 
-  + [Philosophy and the creation of computers,](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
+  + [Philosophy and the creation of computers](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
 
 ### Notes
 + [Notes](notes)
