@@ -23,9 +23,8 @@ title: Functionalism
  
 + Optional
   + [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
-  + [The Imitation Game,](https://www.youtube.com/watch?v=5LqNm9d2__I) great movie about Turing. Available online on Amazon and elsewhere.
-  + [Star Trek: The Measure of a Man,](https://www.youtube.com/watch?v=5LqNm9d2__I) 
-
+  + [The Imitation Game,](http://www.imdb.com/title/tt2084970/) a great movie about Turing. Available online on Amazon and elsewhere.
+ 
 
 ### Assignments
 + Quiz 5

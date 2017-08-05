@@ -5,7 +5,7 @@ title: Essay
 ---
 ### Introduction
 
-We have practiced writing about the mind in less formal formats. This paper will be our first standard writing assignment. In it you will be discussing the Turing Test. Turing believed that the ability to pass the Turing Test was both necessary and sufficient for mentality. You will be challenging both these claims (see below). While this is our first formal writing assignment, I do not want you to read anything other than the textbook and the materials I have included on the website. Do watch the videos I included there too. Include citations and reference, but feel free to pick your citation format.  
+ Turing believed that the ability to pass the Turing Test was both necessary and sufficient for mentality. You will be challenging both these claims (see below). I do not want you to read anything other than the textbook and the materials I have included on the website. Do watch the videos I included there too. Include citations and reference, but feel free to pick your citation format.  
 
 ### Task
 
@@ -17,20 +17,12 @@ Your paper should have 4 distinct parts. Each part should receive at least one g
 4. Set out a reason to believe that the Turing Test does not provide a sufficient condition for mentality. 
 	   
 
-**NB:** Failure to include any of these elements in your dialog will result in a loss of points. 
+**NB:** Failure to complete any of these tasks will result in a loss of points. 
 
-
-### Purpose 
-
-The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
-
-1. 	Charitably explaining arguments for views that are not your own.  
-1.  Explaining difficult concepts in your own words. 
 
 ### Word Count
 
 Your essay must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
-
 
 
 ### Plagiarism
@@ -48,10 +40,10 @@ Per the policies outlined in the syllabus, late work will not be accepted. Any r
 Please submit the file as a docx, rtf, or pdf. 
 
 ### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
+Please find the rubric and explanation of it [here](/resources/grading/).
 
 ### Resources
-Please find links to writing resources [here](/Teaching/Resources/).
+Please find links to writing resources [here](/resources/).
 
 
 
