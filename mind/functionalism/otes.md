@@ -47,10 +47,37 @@ You shouldn't find this too surprising. A person counts as occupying a position 
 
 The functionalist thinks that we need to be similarly careful when investigating the nature of the mind to distinguish between functional and physical descriptions of mental states. The identity theorist, for instance, really thinks that mental states are best captured by some physical description; they think that a mental state is identical to what composes it. But the functionalist disagrees. They think that the nature of a mental state is the job it plays; the nature of a mental state is defined by a functional role and not what constitutes it. 
 
-Consider pain. What job does pain play? That might seem an odd question, but pain does play a role, a role that even has a rich evolutionary history. Namely, when your body detects tissue damage, pain is that mental state which causes you to respond appropriately, e.g. causes you to remove your  hand from the burning object. On this view, the pain state exists and it is defined by the job that it does, namely, disposing you to behave in a certain way given the detection of tissue damage. Pain is also distinct from any behavior for pain, on this view, is whatever causes you to behave in some distinctive way upon the detection of tissue damage. Pain is also distinct from any physical state. Just as what it is to be heart is not to be made of tissues, so too what it is to be pain is not to be made of some physical state. A physical states will play the role of pain just as some tissue will play the role of heart. But they job and the thing that performs the job are distinct from one another. 
+Consider pain. What job does pain play? That might seem an odd question, but pain does play a role, a role that even has a rich evolutionary history. Namely, when your body detects tissue damage, pain is that mental state which causes you to respond appropriately, e.g. causes you to remove your  hand from the burning object. On this view, the pain state exists and it is defined by the job that it does, namely, disposing you to behave in a certain way given the detection of tissue damage. Pain is also distinct from any behavior for pain, on this view, is whatever causes you to behave in some distinctive way upon the detection of tissue damage. Pain is also distinct from any physical state. Just as what it is to be heart is not to be made of tissues, so too what it is to be pain is not to be made of some physical state. A physical states will play the role of pain just as some tissue will play the role of heart. But the job and the thing that performs the job are distinct from one another. 
+
+If functionalism is correct, then there must be some role that each mental state plays. David Armstrong puts the point as follows: 
+
+> the concept of a mental state is the concept of an internal state apt to be caused by certain sensory inputs and apt to cause certain behavioral outputs. A specification of input and output, <i, o>, will define a particular mental state: for example, <tissue damage, aversive behavior> defines pain, <skin irritation, scratching> defines itch, and so on.
+
+So, we will expect that each mental state will have some input and some output. The job of the mental state is to cause the output given the relevant input. The inputs include other mental states. For instance, one of the inputs, or conditions, relevant in describing the role of being itchy might be that you are awake, where being awake is a mental state; you can't be itchy if you are asleep. The outputs too can include other mental states. Perhaps one of the outputs of belief is desire, e.g., a belief that eating kale is healthy might cause in you a desire to eat kale. 
+
+Functionalists say that for every functionally defined mental state, there is something which plays the role given in the definition. We will say that any entity that plays the role *realizes* it. Kim defines this as follows: 
+
+> F is a functional property (or kind) just in case F can be characterized by a definition of the following form: For something x to have F (or to be an F) = def for x to have some property P such that C(P), where C(P) is a specification of the causal work that P is supposed to do in x.
+
+*And*
+
+> Let F be a functional property defined by a functional definition, as above. Property Q is said to realize F, or be a realizer or a realization of F, in system x if and only if C(Q), that is, Q fits the specification C in x (which is to say, Q in fact performs the specified causal work in system x).
+
+This is less complicated than it appears. Consider some examples: 
+
++ x is a mousetrap if x has some property P such that P enables x to trap and hold or kill mice.
++ x is a bread knife if x has some property P such that P enables x to cut bread. 
++ x is a heart if f x has some property P such that P enables x to pump blood. 
++ x is a pain state if x has some property P such that P enable x to detect tissue damage and cause aversive behavior. 
+
+So, there are two things to keep clearly before us. The first is the functional definition of whatever we are interested in. The second is the properties something must possess to allow it play the relevant role. In the case of mental states, the functionalist claims that brain states have properties that allow them perform the job specified in the description of some mental state.
+
 
 ## Argument for Functionalism
-Functionalists say that for every functionally defined mental state, there is something which plays the role given in the definition. We will say that any entity that plays the role *realizes* it. If functionalism is true, we expect that very different types of entities could realize the same role. Just as both plastic and organic materials can realize the role of a heart, we might then expect that different kinds of entities can realize mental states, e.g., that different types of things could play the role of pain. The very best argument for functionalism is that, in fact, different types of entities can and realize mental states. We will look at one version of this argument that relies heavily on the intuition that a sufficiently complex computer program could realize mental states. Since a computer is made of silicon and our brains are not, if a computer realizes some similar mental states as our brain does, then mental states cannot be identical to any of these physical states. Rather, mental states would be identical to various jobs or functions. 
+  
+
+
+If functionalism is true, we expect that very different types of entities could realize the same role. Just as both plastic and organic materials can realize the role of a heart, we might then expect that different kinds of entities can realize mental states, e.g., that different types of things could play the role of pain. The very best argument for functionalism is that different types of entities can and do realize mental states. We will look at one version of this argument that relies heavily on the intuition that a sufficiently complex computer program could realize mental states. Since a computer is made of silicon and our brains are not, if a computer realizes some similar mental states as our brain does, then mental states cannot be identical to any of these physical states. Rather, mental states would be identical to various jobs or functions. 
 
 You may not be surprised that computers may be appealed to when investigating the mind. Whether it is Alexa or Siri, we regularly hear about and increasingly interact with apparently artificially intelligent machines. A word of clarify before we proceed. 'Artificial intelligence' could be understood in different ways when thinking about the mind:  
 Weak Artificial Intelligence (WAI):: Computers give us a powerful tool to study the mind. Thinking may be modeled by formal symbol systems, such as computer programs.
@@ -61,17 +88,10 @@ WAI does not say that the computers really have a mind. It says only that such m
 ## The Turing Test
 The best argument comes from the Cambridge mathematician, Alan Turing. Turing is the parent parent of artificial intelligence and lived a truly remarkable life. During World War II, he worked on Government Code and Cypher School in Bletchley Park and  was key to breaking German naval Enigma. In 1952, he was prosecuted for homosexuality, chemically castrated, and died in 1954 by suicide. In 2013, the British government righted this historic wrong and  gave him a posthumous pardon.
 
-Turing was interested in the question whether machines can think. But he arged that we should rephrase the question as follows: 
+Turing was interested in the question whether machines can think. Turing observed that it is difficult to define 'thought' , so it is difficult to answer the question. He pointed out, thought, that we can decide whether machines can do what we as thinking beings can do. In other words, he pointed out that evidence we have that another person is a thinking being could also be helpful in deciding whether a machine can think. What is that evidence? According to Turing, it is being able to hold a sufficiently intelligent conversation. Thus, he devises his famous Turing Test for artificial intelligence. 
 
--   Can machines do what we as thinking beings can do?
+"The idea is that if machines can do as well as humans on certain cognitive, intellectual tasks, then they must be judged no less psychological (“intelligent”) than humans. What, then, are these tasks? Obviously, they must be those that, intuitively, require intelligence and mentality to perform. Turing describes a game, the “imitation game,” to test for the presence of these capacities.”
 
--   Can machine cause an interrogator to wrongly identify it to the same  degree that an ordinary man or woman could?
-
--   Are there *imaginable digital* computers that would do well in the  game?
-
-> If the interrogator decides wrongly as often when the game is played with the computer as he does when the game is played between a man and a woman, it may be argued that the computer is intelligent.
-
-### Control Case
 
 
 -   Decision, convincing, and deception via teletype connection.
@@ -82,81 +102,72 @@ Turing was interested in the question whether machines can think. But he arged t
 
 -   Questions can be on any subject imaginable, from mathematics to poetry, from the weather to chess.
 
-### Digital Computer
+I believe that in about fifty years’ time it will be possible to programme computers...to make them play the imitation game so well that an average interrogator will not have more than 70 percent chance of making the right identification after five minutes of questioning...I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted. (Alan Turing)
 
-A Digital Computer is a machine intended to carry out any operation which could be done by a human computer. It has three parts. 
 
-Store:
-: a bank of information. It iss like the paper or book that a human computer uses when doing their calculations.
 
-Executive unit:
-: carries out the various operations.
 
-Control:
-:   is like the rules or instructions for carrying out the calculation. Its job is to ensure that instructions are  obeyed correctly and in the right order.
+-   Are there *imaginable digital* computers that would do well in the  game?
 
-Notice that we can dramatically increase the size and power of these three parts. So even if we don’t yet have a powerful enough computer that passes the Turing Test, we might build one by increasing the power and size of these parts.
+> If the interrogator decides wrongly as often when the game is played with the computer as he does when the game is played between a man and a woman, it may be argued that the computer is intelligent.
 
 ## Test 1: Man or Woman?
 
 
 ![image](2.jpg)
 
+We will first develop a control test with three players: an interrogator, a man, and a woman. Each is in their own seperate room. The man and woman are known only as “X” and “Y” to the interrogator, who can ask them questions via keyboards and monitors. Each player has a distinct task: 
+
+1. Interrogator: identity the sex of X and Y. 
+1. Man: mislead the interrogator to make a false identification
+2. Woman: help the interrogator make the correct identification. 
+
+Our interrogators can ask any questions they like. They could ask, for instance, 'are you male or female?'. The man will do whatever he can to make the interrogator judge incorrectly. The woman will do whatever she can to help the interrogator judge correctly. There are no restrictions on the topics of the questions asked; the interrogator can ask anything. 
+
+Suppose that we randomly select 1000 people to serve as interrogators and use that to decide how likely it is that someone can make the correct identification. Suppose 70% of our interrogators are tricked by the man; they judge incorrectly. Turing now asks us to replace the man with a machine, a machine which has been programmed to trick the interrogator into making the wrong guesses. If the machine consistently tricks interrogators into misidentifying it or the woman, then Turing claims that the machine is intelligent. In other words, if a machine can cause an interrogator to wrongly identify it to the same  degree that an ordinary man or woman could, then it is as intelligent as an ordinary man or woman. 
+
+
 ### Test 2 Human or Computer?
 
 ![image](3.jpg)
 
-### Clarifying the Turing Test
+In our second test, our interrogators are be told that they are talking to one computer and one human, and they have to judge correctly who is who. The roles of our papers are slightly different: 
 
-Distinguish two questions? 
+1. Interrogator: determine which of X and Y is the compuer and which is the human. 
+2. Computer: cause the interrogator to judge incorrectly, i.e., cause the interrogator into thinking that the computer is, in fact, a human. 
+3. Human: aid the interrogagor into making the correct judgement. 
 
--   Is passing the Turing Test necessary for intelligence?
+Our interrogator will again ask questions and have a rich conversation. WIll they be able to identify the computer? Or will the computer be able to consistently fool them into thinking that they comptuer is human?  If a computer can consistently fool us, then Turing believes that the machine has the kind of mentality that we grant to humans.
 
--   Is passing the Turing Test sufficient for intelligence?
+How does all this provide evidence for functionalism? Understanding a sentence is a mental state. And, according to the functionalist, this mental state has a functional role, a job to play: it disposes the entity who possess that state to respond in various ways given certain inputs. For instance, understanding the question 'where were you from?' disposes me to answer 'I was born in Dublin.' Understanding does clearly have a job in conversations. Turing's simple idea is that anything which can perform the job of understanding must have understanding. Let us present this idea in argument form:  
 
-P is necessary for Q =
+1. For some arbitrary time period, there is no discernible difference between the linguistic behavior of a person and that of a machine.2. If there is no discernible difference in linguistic behavior between man and machine, then there is no difference in the causes of that behavior.3. Therefore, if understanding is the cause of the linguistic behavior in the person, understanding is the cause of the linguistic behavior in the machine.
 
--   Q cannot be true unless P is true.
-
--   Q entails P.
-
-P is sufficient for Q =
-
--   P entails Q.
-
-Examples: 
-
-Having access to a snowboard is necessary for competing in the snowboard contests at the Olympics, but it is not sufficient for doing so.
-
-Winning a medal in a snowboard contest at the Olympics is sufficient for becoming an Olympic medal winner, but it is not necessary for becoming one.
-
-Give an example of conditions that satisfy the following
-descriptions: 
-
--   Necessary, but not sufficient.
-
--   Sufficient, but not necessary.
-
--   Necessary and sufficient.
-
-Our Question: 
-
--   Is passing the Turing Test necessary for intelligence?
-
--   Is passing the Turing Test sufficient for intelligence?
-
-Here’s why it’s a tricky question:
-
--   Turing thinks that the question whether machines can think is
-    meaningless.
-
--   He believes that ‘being able to think’ just means ‘being able to pass the test’.
-
--   Being able to pass the Test is then constitutive of being
-    intelligent, i.e., being able to pass is both necessary and sufficient for being intelligent. 
+It's a brilliant argument. If machines can do whatever mentality allows us to do, then machines must also have mentality. 
 
 
-1. For some arbitrary time period, there may be no discernible difference between the linguistic behavior of a person and that of a machine.2. If there is no discernible difference in linguistic behavior between man and machine, then there is no reason to think that there is any underlying difference in the causes of that behavior.3. Thus if we are willing to say that it is intelligent thought that is the cause of the linguistic behavior in the person we should be willing to say the same thing about the machine.
 
 
-Understanding a sentence is a mental state that plays a functional role, namely, disposes the entity who possess that state to respond in various ways given certain inputs.P2 Given certain inputs, the computer performs in the way specified in the functional definition of understanding.C Thus an appropriately programmed computer is a mind, where a computer is a machine whose operation is defined as an instantiation of a computer program.
+## Clarifying the Turing Test
+I want to make one clarifying remark about the Turing Test: Distinguish these two questions: 
+
+1. Is passing the Turing Test *necessary* for intelligence?
+2. Is passing the Turing Test *sufficient* for intelligence?
+
+Turing believes the answer to both these questions in 'yes', but it is important to understand what that amounts to. Roughly, to say that passing the test is necessary for intelligence means that it is impossible to be intelligence without the ability to pass the test. This does not mean that passing the test is enough for intelligence. Perhaps more is required. But, it does mean that whatever is required, the ability to pass the test is one of them. In contrast, to say that passing the test is sufficient for intelligence is to say that passing the test, all by itself, is enough for intelligence. Nothing else is required. Pass it and the machine is intelligent. But, this does not mean that passing the test would be required for intelligence. 
+
+Confusing? The reason is that necessary and sufficient conditions are themselves confusing. Formally, we can present the difference as follows: 
+
+P is necessary for Q:
+:  Q entails P.
+
+P is sufficient for Q:
+:   P entails Q.
+
+But that by itself may not help. Here are some examples: having access to a snowboard is necessary for competing in the snowboard contests at the Olympics; you cannot compete in that competition without a snowboard. But having access to a snowboard is not sufficient. If it were, then anyone without a snowboard could compete in the Olympics. But that's not the case. You must also win a variety of qualifying competitions as well as many other requirements. 
+
+In contrast, winning a medal in a snowboard contest at the Olympics is sufficient for being an Olympic medal winner. If you win that competition, you do not need to do anything else to become a medal winner. You are guaranteed the medal if you win the competition. But, winning the snowboard competition is not necessary for becoming an Olympic medal winner; you could become a medal winner by winning some other competition like downhill skiing or ice-skating. 
+
+Finally, being an unmarried man is necessary *and* sufficient for being a bachelor. Being unmarried is itself necessary for being a bachelor, but not sufficient. Being a man is also necessary for being a bachelor, but not itself sufficient. But being an unmarried man is both necessary and sufficient for being a bachelor; anyone who is a bachelor is an unmarried man and anyone who is a unmarried man is a bachelor. 
+
+So, Turing's main claim is that passing the Turing Test is both necessary and sufficient for intelligence. If anything passes the test, it is intelligent. If anything is unable to pass the test, it is not intelligent. We will see in the next note that there are reasons for doubting that passing the Turing Test is both necessary and sufficient; some think it is sufficient, but not necessary. Others think it is necessary, but not sufficient. 

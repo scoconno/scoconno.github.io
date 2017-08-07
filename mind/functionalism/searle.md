@@ -101,6 +101,20 @@ anything*. It can do *whatever we know how to order it to perform*.”
 
 Response: The objection assumes that machines cannot learn. But it is possible for machines to learn.
 
+### Digital Computer
+
+A Digital Computer is a machine intended to carry out any operation which could be done by a human computer. It has three parts. 
+
+Store:
+: a bank of information. It iss like the paper or book that a human computer uses when doing their calculations.
+
+Executive unit:
+: carries out the various operations.
+
+Control:
+:   is like the rules or instructions for carrying out the calculation. Its job is to ensure that instructions are  obeyed correctly and in the right order.
+
+Notice that we can dramatically increase the size and power of these three parts. So even if we don’t yet have a powerful enough computer that passes the Turing Test, we might build one by increasing the power and size of these parts.
 
 
 
