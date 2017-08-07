@@ -122,16 +122,16 @@ In our second test, our interrogators are be told that they are talking to one c
 2. Computer: cause the interrogator to judge incorrectly, i.e., cause the interrogator into thinking that the computer is, in fact, a human. 
 3. Human: aid the interrogator into making the correct judgement. 
 
-Our interrogator will again ask questions and have a rich conversation. WIll they be able to identify the computer? Or will the computer be able to consistently fool them into thinking that they comptuer is human?  If a computer can consistently fool us, then Turing believes that the machine has the kind of mentality that we grant to humans.
+Our interrogator will again ask questions and have a rich conversation. Will they be able to identify the computer? Or will the computer be able to consistently fool them into thinking that they, the computer, is human?  If a computer can consistently fool us, then Turing believes that the machine has the kind of mentality that we grant to humans. And, even if machines aren't sufficiently complex to do so, Turing wrote: 
 
-How does all this provide evidence for functionalism? Understanding a sentence is a mental state. And, according to the functionalist, this mental state has a functional role, a job to play: it disposes the entity who possess that state to respond in various ways given certain inputs. For instance, understanding the question 'where were you from?' disposes me to answer 'I was born in Dublin.' Understanding does clearly have a job in conversations. Turing's simple idea is that anything which can perform the job of understanding must have understanding. Let us present this idea in argument form:  
+
+> I believe that in about fifty years’ time it will be possible to programme computers...to make them play the imitation game so well that an average interrogator will not have more than 70 percent chance of making the right identification after five minutes of questioning...I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted. (Alan Turing)
+
+How does all this provide evidence for functionalism? Understanding a sentence is a mental state. And, according to the functionalist, this mental state has a functional role, a job to play: it disposes the entity who possess that state to respond in various ways given certain inputs. For instance, understanding the question 'where were you from?' disposes me to answer that 'I was born in Dublin.' Understanding does clearly have a job in conversations. And, Turing's simple idea is that anything that can perform the job of understanding has understanding. Let us present this idea in argument form:  
 
 1. For some arbitrary time period, there is no discernible difference between the linguistic behavior of a person and that of a machine.2. If there is no discernible difference in linguistic behavior between man and machine, then there is no difference in the causes of that behavior.3. Therefore, if understanding is the cause of the linguistic behavior in the person, understanding is the cause of the linguistic behavior in the machine.
 
 It's a brilliant argument. If machines can do whatever mentality allows us to do, then machines must also have mentality. 
-
-
-
 
 ## Clarifying the Turing Test
 I want to make one clarifying remark about the Turing Test: Distinguish these two questions: 
@@ -139,7 +139,7 @@ I want to make one clarifying remark about the Turing Test: Distinguish these tw
 1. Is passing the Turing Test *necessary* for intelligence?
 2. Is passing the Turing Test *sufficient* for intelligence?
 
-Turing believes the answer to both these questions in 'yes', but it is important to understand what that amounts to. Roughly, to say that passing the test is necessary for intelligence means that it is impossible to be intelligence without the ability to pass the test. This does not mean that passing the test is enough for intelligence. Perhaps more is required. But, it does mean that whatever is required, the ability to pass the test is one of them. In contrast, to say that passing the test is sufficient for intelligence is to say that passing the test, all by itself, is enough for intelligence. Nothing else is required. Pass it and the machine is intelligent. But, this does not mean that passing the test would be required for intelligence. 
+Turing believes that the answer to both these questions in 'yes', but it is important to understand what that amounts to. Roughly, to say that passing the test is necessary for intelligence means that it is impossible to be intelligent without the ability to pass the test. This does not mean that passing the test is enough for intelligence. Perhaps more is required. But, it does mean that  the ability to pass the test is required. In contrast, to say that passing the test is sufficient for intelligence is to say that passing the test, all by itself, is enough for intelligence. Nothing else is required. Pass it and the machine is intelligent. But, this does not mean that passing the test would be required for intelligence. 
 
 Confusing? The reason is that necessary and sufficient conditions are themselves confusing. Formally, we can present the difference as follows: 
 
@@ -153,6 +153,6 @@ But that by itself may not help. Here are some examples: having access to a snow
 
 In contrast, winning a medal in a snowboard contest at the Olympics is sufficient for being an Olympic medal winner. If you win that competition, you do not need to do anything else to become a medal winner. You are guaranteed the medal if you win the competition. But, winning the snowboard competition is not necessary for becoming an Olympic medal winner; you could become a medal winner by winning some other competition like downhill skiing or ice-skating. 
 
-Finally, being an unmarried man is necessary *and* sufficient for being a bachelor. Being unmarried is itself necessary for being a bachelor, but not sufficient. Being a man is also necessary for being a bachelor, but not itself sufficient. But being an unmarried man is both necessary and sufficient for being a bachelor; anyone who is a bachelor is an unmarried man and anyone who is a unmarried man is a bachelor. 
+Finally, being an unmarried man is necessary *and* sufficient for being a bachelor. Being unmarried is itself necessary for being a bachelor, but not sufficient. Being a man is also necessary for being a bachelor, but not itself sufficient. But being an unmarried man is both necessary and sufficient for being a bachelor; anyone who is a bachelor is an unmarried man, and anyone who is an unmarried man is a bachelor. 
 
 So, Turing's main claim is that passing the Turing Test is both necessary and sufficient for intelligence. If anything passes the test, it is intelligent. If anything is unable to pass the test, it is not intelligent. We will see in the next note that there are reasons for doubting that passing the Turing Test is both necessary and sufficient; some think it is sufficient, but not necessary. Others think it is necessary, but not sufficient. 
