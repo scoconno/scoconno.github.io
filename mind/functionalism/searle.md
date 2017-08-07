@@ -1,92 +1,108 @@
- Mind and Body
-===========================
+Turing defense
 
-Sample Theories of Mind
+## Turing’s Defense of the Imitation Game
 
-1.  Dualism.
+Turing defends his claim that passing the test is constitutive of being intelligent by responding to several objections.
 
-2.  Identity Theory.
+1.  Argument from Extrasensory Perception
 
-3.  Functionalism.
+2.  Argument from Various Disabilities
 
-Dualism
-=======
+3.  The Argument from Consciousness
 
-![image](seat.jpg)
+4.  The Mathematical Objection
 
--   Dualism says that states and processes of the mind are separate from
-    states and processes of the brain.
+5.  Argument from the Informality of Behavior
 
--   Consider an experience of pain, or of seeing something, or of having
-    a mental image. Dualism says that these experiences are not
-    identical to states and processes of the brain, even if they are
-    correlated with them.
+6.  Lady Lovelace’s Objection
 
-Identity Theory
-===============
+#### ESP Objection
 
-![image](identity.jpg)
+Objection: If the human participant in the game was telepathic, then the interrogator, who is also human, could exploit this fact in order to determine the identity of the machine.
 
--   The identity theory of mind says that states and processes of the
-    mind are identical to states and processes of the brain.
+Response: Turing proposes that the competitors should be housed in a “telepathy-proof room.”
 
--   Consider an experience of pain, or of seeing something, or of having
-    a mental image. The identity theory of mind says that these
-    experiences are identical to brain states and/or processes, not
-    merely correlated with them.
+#### Argument from Various Disabilities
 
-Functionalism
-=============
+Objection
+> Machines cannot do many things that humans can, e.g.,be kind, be resourceful, be beautiful, be friendly, have initiative, have a sense of humor, tell right from wrong, make mistakes, fall in love, enjoy strawberries and cream, make someone fall in love with it, learn from experience, use words properly, be the subject of its own thought, have as much diversity of behavior as a man, do something really new.
 
-![image](president.jpg).
+Response: The objection relies on an inductive inference. You know that particular machines have various disabilities and then infer that all present and future machines will have various disabilities. But induction can fail!
 
--   Functionalists says that states and processes of the mind are
-    defined by the causal roles they play in the cognitive system as a
-    whole, i.e., what it is to be a particular state just is to bring
-    about some result given some input.
++  Induction is a non-deductive inference. We infer that since some instances of a certain group have a certain attribute that the next members of that group will have that attribute.
+	+   The sun rose every day that I remember, hence, the sun will rise tomorrow.
+	+   Every lion I have seen was a golden yellow color, hence every lion I will see will be a golden yellow color.
 
--   Consider an experience of pain, or of seeing something, or of having
-    a mental image. Functionalism says that all there is to such an
-    experience is that being in one and getting a particular input
-    results in a particular output.
+The Problem with Induction inferences is that they are difficult to justify. 
 
--   Pain: all there is to being in pain is that it disposes you to
-    respond in certain ways given certain inputs, e.g. it disposes you
-    to say ‘ouch’ when you scrap your knee. The pain state existed, it
-    is just defined by the job it does, namely, disposing you to respond
-    in way given certain inputs.
 
-An Analogy
-==========
+### The Argument from Consciousness
 
-![image](hearts.jpg)
+Objection
 
--   Functionalists say that for every functionally defined mental state,
-    there is something which realizes that state, i.e., plays the role
-    given in the state.
+> “Not until a machine can write a sonnet or compose a concerto because of thoughts and emotions felt, and not by the chance fall of symbols, could we agree that machine equals brain—that is, not only write it but know that it had written in it.”
 
--   Very different kinds of entities might play the very same role.
+1.  A being can think only if it can know that it thinks.
 
--   Consider the heart. What it is to be a heart is to pump oxygenated
-    blood to the issues. Different kinds of entities made from different
-    materials, having different structures, and even operating in
-    different ways may all still count as being hearts because they each
-    pump oxygenated blood to the tissues.
+2.  Computers cannot know that they think.
 
-Does he have a heart?
-=====================
+3.  Computers cannot think. (From 1 and 2)
 
-![image](tin.jpg)
+Response: Reject 2
 
-The function of the heart is to pump oxygenated blood to the tissues. To
-determine, then whether Tin Man has a heart, we have to determine
-whether this job is being performed in his body, i.e., determine whether
-any blood is being pumped around his body. If there is blood being
-pumped, then we can infer that he must have a heart—the thing that
-causes the pumping. Similarly, if mental states are functional states,
-we can determine whether an entity has a particular mental state by
-determining whether or not the job associated with that mental state is
-being performed in that entity.
+1.  The evidence we could have that a being is self-aware is either from their reports or from being that being.
+2.  We cannot be another being.
+3.  So the only evidence we have that another being is self-aware is their reports that they are self-aware. (From 1&2)
+4.  Computers can report that they are self-aware. (From performance in Turing Test)
+5.  So we have evidence that they are self-aware. (From 3&4)
+
+In addition, if the machine gave sufficiently complex answers about how it wrote poetry, we would likely think that it is, in fact, conscious.
+
+### The Mathematical Objection
+
+Objection
+
+1.  Within any consistent formal system there are statements that can neither be proved nor disproved within that system.
+2.  Suppose that a computing machine is a formal system that operates by proving or disproving various statements put to it, i.e., by answering ‘yes’ or ‘no’ to various questions put to it.
+3.  There will be questions a computing machine gives wrong answers to   (From 1 and 2; the machine, in some cases, should say that there is no correct answer.)
+4.  Intelligent beings are not so limited.
+5.  A computing machine is not intelligent. (From 3 and 4)
+
+Response: Reject 4
+
+1.  There are questions that humans can’t answer, yet they are
+    intelligent.
+2.  It could be that the inability to answer every question is due to precisely the same limitations that restrict the capacity of machines.
+
+### Objection from the Informality of Behavior
+
+Objection
+
+> If each man had a definite set of rules of conduct by which he regulated his life he would be no better than a machine. But there are no such rules, so men cannot be machines.
+
+Response: Distinguish
+
+Laws of Conduct:
+:   Precepts such as “Stop if you see red lights,” on which one 	can act, and of which one can be conscious.
+
+Laws of Behavior:
+:   Laws of nature as applied to a man’s body such as “if you pinch him  he will squeak.” (We do not act upon these laws, nor is it important that we are conscious of them.)
+
+Turing agrees that if there is a definite set of laws of behavior that regulate X’s life, then x is a machine. But he denies that being regulated by laws of conduct are relevant for determining if X is a machine.
+
+He then argues that humans are as much machines as computers. He agrees that there is no definite set of laws of conduct that regulate human life.  Denies that there is no definite set of laws of behavior that regulate human life.
+
+-   It follows that humans are machines as much as computers.
+
+### Lady Lovelace’s Objection
+
+Objection: Machines have “no pretensions to *originate
+anything*. It can do *whatever we know how to order it to perform*.”
+
+Response: The objection assumes that machines cannot learn. But it is possible for machines to learn.
+
+
+
 
 The Chinese Room Thought Experiment
 ===================================
