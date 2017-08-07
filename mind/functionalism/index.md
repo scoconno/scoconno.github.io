@@ -27,6 +27,7 @@ This week we are considering the view that what it is to have a mind is to be ab
 	+ [A reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M) This experiment challenges Turing's claim that passing the Turing Test is sufficient for intelligence. 
  
 + Optional
+
   	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)
   	+ [The Imitation Game,](http://www.imdb.com/title/tt2084970/) a great movie about Turing. Available online on Amazon and elsewhere.
   	+ [Her,](http://www.imdb.com/title/tt1798709/) a movie illustrating a highly advanced AI program. Available online at Amazon and elsewhere.  
