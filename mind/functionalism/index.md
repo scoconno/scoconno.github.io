@@ -3,7 +3,7 @@ layout: mindweekly
 title: Functionalism
 ---
 
-This week we are considering the view that what it is to have a mind is to be able to perform sufficiently complex computations. On this view, minds are merely very complex computers.  To introduce you to the topic, please have conversation with this [program](http://www.mitsuku.com). 
+This week we are considering the view that what it is to have a mind is to be able to perform sufficiently complex computations. On this view, minds are merely very complex computers.  To introduce you to the topic, please have a conversation with this [program](http://www.mitsuku.com). 
 
 
 ## Reading
@@ -13,11 +13,11 @@ This week we are considering the view that what it is to have a mind is to be ab
   + ['Is the Brain's Mind a Computer Program?'](SearleBrain.pdf), J. Searle
 
 + Optional
-  + ['Troubles with Functionalism',](Block.pdf) N. Block 
-  + [Philosophy and the creation of computers](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
+	+  ['Troubles with Functionalism',](Block.pdf) N. Block 
+	+  [Philosophy and the creation of computers](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
 
 ## Notes
-+ [Notes](notes)
++ [Notes 1](notes)
 
 ## Videos
 + Required
