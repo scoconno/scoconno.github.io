@@ -18,6 +18,8 @@ This week we are considering the view that what it is to have a mind is to be ab
 
 ## Notes
 + [Notes 1](notes)
++ [Notes 2](notes2)
+
 
 ## Videos
 + Required
