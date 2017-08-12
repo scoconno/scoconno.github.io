@@ -95,8 +95,6 @@ But, Searle thinks that this objection, in addition to being incredible, overloo
 
 ### The Robot Reply
 
-![image](apple.jpeg)
-
 ![image](cat.jpg)
 
 The Chinese Room represents a system that is meant to be similar to a computer system. Searle asks whether the system, or the person in the room, understands Chinese. Obviously, that person doesn't and so Searle concludes that computer systems do not possess understanding. The Robot Reply accuses Searle of developing too simple a system. A real Chinese speaker interacts with the world. They move around it and perceive it. An advocate of SAI may claim that a computer that was connected to cameras and was able to move around the world could also possess understanding. If that's the case, Searle's thought-experiment doesn't properly parallel the type of computer that could possess intelligence. 
@@ -113,14 +111,9 @@ Even if current computers cannot understand, we will probably be able to build m
 Searle responds that even if we could build such computers, the reply trivializes the claims of SAI because SAI is supposed to give us insight into what understanding is, i.e., that it is a functionally defined state.
 
 
-## Brain Simulator Reply
+### Brain Simulator Reply
 
 This reply concedes that Searle has shown that computer systems that work in the way that parallels the Chinese Room do have possess understanding. But, it claims that if we could make a computer that exactly parallels whatever goes on in a fluent Chinese speaker’s brain when he or she understands Chinese, then that computer would understand Chinese. What we need is for the electric circuitry of a computer to mimic the neural network of a Chinese speaker. 
-
-![image](hearts.jpg)
-
-Searle responds: 
-![image](room.jpg)
 
 ![image](valves.jpg)
 
