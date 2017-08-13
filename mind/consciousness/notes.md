@@ -7,30 +7,29 @@ title: Notes
 
 ## Consciousness
 
-Turing thought it obvious that the capacity to imitate a human was sufficient for a machine to enjoy mentality. It certainly is sufficient if mentality consists entirely in the abilty to ask questions, give answers, joke, tease, lament and symphatesize. In other words, if all there is to having a mind is the ability to hold a conversation, then machines could one day enjoy mentality (if they don't already). But Searle's thought experiment seems to show that there is something more to the mind than just the ability to have conversations; something that the machine is cruciall lacking. At this point, it should seem no surprise to learn that many think that this missing ingredient is consciousenss. And consciousness, whatever it is, is not something enjoyed by a machine regardless of how loquacious it may be. 
+Turing thought it obvious that the capacity to imitate a human was sufficient for a machine to enjoy mentality. It certainly is sufficient if mentality consists entirely in the abilty to ask questions, give answers, joke, tease, lament and symphatesize. In other words, if all there is to having a mind is the ability to hold a conversation, then machines could one day enjoy mentality (if they don't already). But Searle's thought experiment seems to show that there is something more to the mind than just the ability to have conversations; something that the machine is crucially lacking. At this point, it should seem no surprise to learn that many think that this missing ingredient is consciousness. And many claim that consciousness, whatever it is, is not something enjoyed by a machine regardless of how loquacious it may be. 
 
-But why think that consciousness is not enjoyed by a machine? Isn't the machine aware of the people it is talking to? Isn't a robotic car aware of the obstacles it successfully navigates on the road? If being aware is sufficient for being conscious, then robotic cars are clearly conscious. In this section and the next, we will try get clearer on this question by asking about the nature of consciousness, what exactly is it that we take humans to possess and machines to lack? There are two distinct questions we will focus on, one in the each week: 
+But why think that consciousness is not enjoyed by a machine? Isn't the machine aware of the people it is talking to? Isn't a robotic car aware of the obstacles it successfully navigates on the road? If being aware is sufficient for being conscious, then robotic cars are clearly conscious. In this section and the next, we will try get clearer on this question by asking about the nature of consciousness, what exactly is it that we take humans to possess and machines to lack? There are two distinct questions we will focus on:: 
 
 1. What is consciousness? What are its features? How best can they be described?
 2. How does consciousness come to exist? If from the brain, how so?
 
-Our first question asks us to identify the defining features of consciousness. Should it be characterized as mere awareness of the external world? If not, what else is it? Is there just one phenomeneon of consciousness or might there be several different phenomena that we use the same word to describe? If so, what are these different phenomena? 
+Our first question asks us to identify the defining features of consciousness. Should it be characterized as mere awareness of the external world? If not, what else is it? Is there just one phenomenon of consciousness or might there be several different phenomena that we use the same word to describe? If so, what are these different phenomena? 
 
 Our second question asks how consciousness exists. The 19th century biologist puts the question as follows: 
 
-
 > But what consciousness is, we know not; and how it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue, is just as unaccountable as the appearance of the Djin when Aladdin rubbed his lamp in the story, or as any other ultimate fact of nature (Huxley). 
 
-Humans are consciouss and our consciousness has something to do with our brains. But what is that 'something'? Just how could a brain produce consciousness in the first place? This second question is, of course, related to the first. If we learn that there are, in fact, two types of consciousness, then we will need to determine how the brain gives rise to each type. We will focus on the second question next week. 
+Humans are conscious and our consciousness has something to do with our brains. But what is that 'something'? Just how could a brain produce consciousness in the first place? This second question is, of course, related to the first. If we learn that there are, in fact, two types of consciousness, then we will need to determine how the brain gives rise to each type. We will focus on the second question in the next module. 
 
 
 ## “What Is It Like to Be a Bat?”
 
-Our entry point for our discussion of conscioussness if Thomas Nagel's seminal 1974 paper "What is it like to be a bat?". The paper restored consciousness as a central problem in philosophy and neuroscience, for, as Nagel convinced us:
+The entry point for our discussion is Thomas Nagel's seminal 1974 paper, "What is it like to be a bat?". The paper restored consciousness to a central problem in philosophy and neuroscience, for, as Nagel convinced us:
 
   > The most important and characteristic feature of conscious mental phenomena is very poorly understood (436).
 
-Nagel begins Conscious Creatures: 
+In order to identify the features of consciousness, Nagel asks us to contrast conscious creatures from non-conscious creatures: 
 
 ![Animal Consciousness](animals.jpg)
 
@@ -38,47 +37,46 @@ Nagel begins Conscious Creatures:
 
 ![What is missing?](Zombies.jpg)
 
+We likely agree that aleins and the more complex animals are conscious, whereas zombies would not be conscious. Nagel asks us to reflect on what makes the conscious creatures conscious, features that will be lacking in the zombie. He first observes the following: 
+
 > It is not analyzable in terms of any explanatory system of functional states, or intentional states, since these could be ascribed to robots or automata that behaved like people though they experienced nothing (436).
 
-Nagel uses the examples of bats to argue for the 'what it's like' quality of consciousness: 
+We have already seen an argument like this from Searle. It doesn't seem that consciousness just consists in performing tasks because a non-conscious creature could easily do this. Instead, Nagel thinks that we can see from these examples that there is what he call  'what it's like' quality of consciousness. He uses bats to illustrate the point.  
 
 ![Echolocation](bat.jpg)
 
-- Bats are mammals.
-- They have conscious experience. 
-- Bats use echolocation to navigate and perceive objects. 
-- Both sonar and vision are regarded as perceptional experiences.
-- What it's like to see a bug is different from what it's like to echolocate that bug. 
-- What it's like to a human differs from what it's like to be a bat.
+Bats are mammals, which seem to have conscious experience. They use echolocation to navigate and perceive objects. And, both sonar and vision are regarded as perceptional experiences. Nagel observes that what it's like to see a bug is probably different from what it's like to echolocate that bug. Similarly, what's it like to taste chocolate is different from what it is like to see chocolate. He infers from this that, in general, what it's like to a bat is different from what it's like to be a human.
 
+The `what it is like' aspect to our mental lives seems mysterious. I don't have direct access to how you feel when you stub your toe. Likewise, you do not have direct access to how I feel when I stub my toe. The inability to properly appreciate others mental lives can be problematic. I once lectured while having a crushing headache. I grimaced and kept going, answering questions as best I could. Afterwards, a student asked me why I was so angry with them. That student believed something about my mental life, but that belief was wrong. Now, I tell students if I have a headache or if something else is affecting my performance. In more serious situations, our inability to reliably judge the subjective character of another person's experience can lead us to judge them poorly, e.g., a police officer might incorrectly judge a person to be relishing the news of someone's death, a protestor might judge a politician to feel hatred towards their group or cause. Nagel puts the point as follows: 
 
-> The problem is not confined to exotic cases, however, for it exists between one person and another. The subjective character of the experience of a person deaf and blind from birth is not accessible to me, for example, nor presumably is mine to him. This does not prevent us each from believing that the other's experience has such a subjective character.(440)
+> The problem is not confined to exotic cases, however, for it exists between one person and another. The subjective character of the experience of a person deaf and blind from birth is not accessible to me, for example, nor presumably is mine to him. This does not prevent us each from believing that the other's experience has such a subjective character (440)
 
+I am confident that your experiences have a subjective character. You too should be confident that my experiences too have a subjective character. But, we know this about each other without really knowing what that subjective character is like. If you think that Nagel is right about this, then you agree with him that he has isolated something important about consciousness: the subjective character of our experiences. 
 
 ## Qualia
 
-“What it is like” refers to the specific qualitative character of experiences, e.g., the redness of a visual percept, the hurtfulness of a pain, the smell of fresh newsprint, the tactile feel of a cool marble surface, etc. An itch feels different from a tickle. A sharp pain feels different from a burning one. Thirst feels different from hunger. Seeing something that looks green is different from seeing something that looks blue. T
+“What it is like” refers to the specific qualitative character of experiences. An itch feels different from a tickle. A sharp pain feels different from a burning one. Thirst feels different from hunger. Seeing something that looks green is different from seeing something that looks blue. 'What it is like' refers to hurtfullness of the pain, the greenness of a visual experience, etc. The idea that your experiences have a 'what it is like' feel to them may be either mysterious or obvious to you. The only way I can prove that they do is by asking you to conduct a simple thought experiment with me. 
 
- Imagine a chili on your tongue. Now imagine a chocolate on your tongue. Not only can you tell the difference between the chocolate and the chili, the chocolate and chili cause  different conscience feelings in you. It feels a certain way when you taste chocolate, and it feels a certain way when you taste a chili, and those two feelings are different. Philosophers use the word 'qualia' to refer to these qualitative aspects of experiences, though the following are also used: 
+After closing your eyes and ignoring as much of the external worlds as possible, imagine a chili on your tongue. Now imagine a chocolate on your tongue. Think really hard about the difference in taste. What were you aware of? You were clearly aware of the chocolate and the chili. But, you were also aware of something else. You were aware of the taste of the chocolate and the taste of the chili; these tastes were different. It feels a certain way when you taste chocolate, and it feels a certain way when you taste a chili, and those two feelings are different. These differences are what we are talking about when we talk about the 'what it is like' aspect of our mental states.
+
+Philosophers use different words for this feature our mental states. The most popular word is 'qualia', though the following are also used: 
 
 1. Phenomenal properties
 2. Phenomenological properties
 3. Raw feels
 4. What it's like
 
-These terms are ways of getting you to identify something you are already familiar with it. They aren't meant to introduce you to something new. If you are not already familiar from your own mental life that mental states have a dis­tinctive feel, these words will mean nothing to you. 
-
-Bodily sensations and perceptual experiences clearly have qualia. Cognitive states likes beliefs, hopes, and emotions don't clearly have such qualia, or, at least, they are not individuated by the qualia they have. So, for instance, anger and pride may have certain feelings associated with them, but they aren't merely certain feelings. Pride and anger also have different propositional contents associated with them, e.g., pride has some belief about merit attached. 
-
+These terms are ways of getting you to identify something you are already familiar with it. They aren't meant to introduce you to something new. If you are not already familiar from your own mental life that mental states have a dis­tinctive feel, these words will mean nothing to you. The different feel that your states have are qualia, which seem essential to consciousness.
+ 
 There is plenty of evidence for qualia. Consider first your experience of color:  
 
 ![Colors](figure1.gif)
 
-It is tempting to think that your experience of color is to be explained fully in terms of the properties and features of what you see. The content of your experience just is the external object and its features. But there seems to be something more to our expierences than the objects we experience and their properties. Imagine that a person, Ted, suffers an unusual brain injury. The parts of his brain responsible for vision inverts the colors of the objects they had experienced in the past: 
+It is tempting to think that your experience of color is to be explained fully in terms of the properties and features of what you see. You might think that the content of a color experience just is the external object and its features. But there seems to be something more to our experiences than the objects we experience and their properties. Imagine that a person, Ted, suffers an unusual brain injury. The parts of his brain responsible for vision inverts the colors of the objects they had experienced in the past: 
 
 ![Inverted](inverted.jpg)
 
-Before Ted's accident, he placed a strawberry in his fridge. That strawberry appeared red to him. After the injury, he returns to the fridge and takes out the strawberry. But it now looks green to him! He is very unsettled by this. Green looks so different than red. Obviously, there is more to Ted's experience of the strawberry than just the external object. His perceptual experience of the strawberry has properties, perceptual properties, or qualia, that are different from the properties of the strawberry. These properties changed after the brain injury. The strawberries did not. 
+Before Ted's accident, he placed a strawberry in his fridge. That strawberry appeared red to him. After the injury, he returns to the fridge and takes out the strawberry. But it now looks green to him! He is very unsettled by this. Green looks very different than red. Obviously, there is more to Ted's experience of the strawberry than just the external object. His perceptual experience of the strawberry has properties, perceptual properties, or qualia, that are different from the properties of the strawberry. These properties changed after the brain injury. The strawberries did not change. 
 
 We don't need such a bizarre example to be convinced that there are qualia. Consider that sensational dress that caused such an internet outcry. What color is it? 
 

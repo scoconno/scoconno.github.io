@@ -113,7 +113,7 @@ Searle responds that even if we could build such computers, the reply trivialize
 
 ### Brain Simulator Reply
 
-This reply concedes that Searle has shown that computer systems that work in the way that parallels the Chinese Room do have possess understanding. But, it claims that if we could make a computer that exactly parallels whatever goes on in a fluent Chinese speaker’s brain when he or she understands Chinese, then that computer would understand Chinese. What we need is for the electric circuitry of a computer to mimic the neural network of a Chinese speaker. 
+This reply concedes that Searle has shown that computer systems that work in the way that parallels the Chinese Room do have possess understanding. But, it claims that if we could make a computer that exactly parallels whatever goes on in a fluent Chinese speaker’s brain when he or she understands Chinese, then that computer would understand Chinese. What we need is for the electric circuitry of a computer to mimic the neural network of a Chinese speaker. s
 
 ![image](valves.jpg)
 
