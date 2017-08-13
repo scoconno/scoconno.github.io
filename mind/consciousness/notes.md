@@ -86,17 +86,9 @@ Some were adamant that the dress was white and gold. Others were adamant that it
 
 The notion of qualia is key to understanding contemporary debates about the nature of consciousness. Consider this claim by Nagel: 
 
-> fundamentally an organism has conscious mental states if and only if there is something that it is like to be that organism-something it is like for the organism (436)
+> fundamentally an organism has conscious mental states if and only if there is something that it is like to be that organism-something it is like for the organism (436).
 
-Nagel has  the question about what consciousness is has foc  
-
-1. Pain: there is something it is like to experience pain in a burned finger. 
-2. Vision: there is something it is like to see a large red circle painted on a white wall.
-3. Smell:  there is something it is like to smell a rotten egg. 
-
-
-Creature (subject) Consciousness: 
-: A conscious creature is one that is capable of having conscious states.
+So, according to Nagel what it means to be conscious just is to have mental states with qualia. Anything with qualia is conscious. Anything without qualia is not cosncious.   
 
 ## Phenomenal and Access Consciousness
 
