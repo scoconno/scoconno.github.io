@@ -20,18 +20,13 @@ Second order mental states:
 
 Consider driving down a busy road with a friend. While you talk, you successfully stay in your lane and navigate around obstacles. You must, in some sense, be aware of the road and your surroundings. This awareness is a first order mental state. Suppose your friend tells you to focus on the road. You will do that by attending to what you had already somehow been aware of, i.e., you will focus on your perception of the road. 
 
-By *self-knowledge*, we mean the knowledge we have of our own minds. It is the second-order mental state about our own minds. The importance of self-knowledge can be illustrated by relating it to our previous distinction between access and creature consciousness. 
+By *self-knowledge*, we mean the knowledge we have of our own minds. It is the second-order mental state about our own minds. The importance of self-knowledge can be illustrated by relating it to our previous distinction between access and phenomenal consciousness. Phenomenal consciousness, we recall, is the property that mental states have when there is something “it is like” to be in that state, i.e., a state is p-conscious if that state has qualia. In contrast, a state is access if it is poised for direct control of thought, speech, and action, e.g., a state is a-conscious if it is available for us to reflect and act upon. We also recall that a state can come in varieties: it can be both a-conscious and p-conscious, a-conscious and not p-conscious, or p-conscious and not a-conscious. 
 
 
-Access consciousness: 
-: Access consciousness involves an awareness of one's own mental states--the difference between a conscious and unconscious first order mental state is that we have awareness of the former, but not the latter. This awareness of a mental state is what is called a second order mental state.
 
-*Example 1:* You see the road and hear the traffic, but you are not aware of what you see and what you hear when you are talking to your friend. You become aware of what you see and what you hear by becoming aware of your awareness of the car and the traffic. 
+*Example 1:* You see the road and hear the traffic, but you are not aware of what you see and what you hear when you are talking to your friend. Your various mental states about the road are p-conscious but not a-conscious. When you become aware of what you see and what you hear, you aware of your awareness of the car and the traffic, i.e., you gain a-conscious of what you previously had only been p-conscious about. 
 
-*Example 2:* The person in an agitated state does not notice the pain in their side when shot or injured during battle. When they become aware of their pain, they have a second order mental state about their first order mental state. 
-
-Creature consciousness: 
-: A creature is conscious just in case it is capable of being aware of its own first order mental states, i.e., a creature has creature consciousness only if it has second order mental states. 
+*Example 2:* The person in an agitated state does not notice the pain in their side when shot or injured during battle. When they become aware of their pain, they have a second order mental state about their first order mental state.  
 
 *Example 1*: The robotic vacuum cleaner is aware of the wall and turns around. However, it is not aware that it is aware of the wall. Thus, it may have some conscious like states, but it does not have creature conscious---it is not a conscious creature. 
 
