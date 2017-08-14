@@ -1,7 +1,7 @@
 ---
-layout: mind-weekly
-title: Self Knowledge
---- 
+layout: mindweekly
+title: Notes 
+---
 
 ## Self-Knowledge
 
