@@ -11,7 +11,7 @@ title: Consciousness
   + ['Knowing Our Minds'](Byrne.pdf), A. Byrne
 
 + Optional
-- ['Consciousness as Internal Monitoring'](Internal.pdf), William G. Lycan (optional)
+	+ ['Consciousness as Internal Monitoring'](Internal.pdf), William G. Lycan (optional)
 
 ## Videos
 + [Psychologists on introspection](http://study.com/academy/lesson/introspection-and-self-awareness-theory-in-psychology-definition-examples.html)
