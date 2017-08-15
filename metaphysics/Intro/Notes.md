@@ -1,4 +1,7 @@
-
+---
+layout: metweekly
+title: Notes
+---
 
 title: What is Metaphysics?
 
