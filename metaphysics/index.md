@@ -1,14 +1,10 @@
 ---
 layout: course
 title: Metaphysics
-
 ---
-
-# Course Information
 + [Syllabus](Syllabus.pdf)
-+ [Philosophy of Mind Resources](/mind/resources)
-+ [General Education at NJCU](http://www.njcu.edu/department/general-education)
-+ [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
++ [Metaphysics links](https://pegasus.cc.ucf.edu/~janzb/metaphysics/)
+
 
 ## Withdrawal Dates
 
