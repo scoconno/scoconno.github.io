@@ -16,7 +16,8 @@ title: Metaphysics
 
 ## Modules
 
-Note that the syllabus schedule takes precedence.  
+Please refer to the syllabus for a weekly schedule of readings and assignments. 
+
 
 <ul>
   {% for page in site.data.metaphysics-week %}
