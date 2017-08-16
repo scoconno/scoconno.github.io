@@ -14,7 +14,7 @@ title: Metaphysics
 | October 2 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
 | November 1  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
 
-## Weekly schedule
+## Modules
 
 Note that the syllabus schedule takes precedence.  
 
