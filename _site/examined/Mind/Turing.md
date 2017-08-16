@@ -1,133 +1,14 @@
-Functionalism
+The following six were raised and discussed by Turing himself. 
 
-### Alan Turing 
-
--   Cambridge mathematician. Parent of Artificial Intelligence.
-
--   Worked on Government Code and Cypher School in Bletchley Park and   was key to breaking German naval Enigma.
-
--   Prosecuted for homosexuality in 1952, chemically castrated, died in 1954 by suicide, and given a posthumous pardon in 2013.
-
-### Can Machines Think?
-
-Turing argues that we should rephrase the question as follows: 
-
--   Can machines do what we as thinking beings can do?
-
--   Can machine cause an interrogator to wrongly identify it to the same  degree that an ordinary man or woman could?
-
--   Are there *imaginable digital* computers that would do well in the  game?
-
-> If the interrogator decides wrongly as often when the game is played with the computer as he does when the game is played between a man and a woman, it may be argued that the computer is intelligent.
-
-### Control Case
+1.  The argument from extrasensory perception
+2.  The argument from various disabilities
+3.  The argument from consciousness
+4.  The mathematical Objection
+5.  Argument from the informality of behavior
+6.  Lady Lovelace’s objection
 
 
--   Decision, convincing, and deception via teletype connection.
-
--   Interrogator asks questions in written natural language.
-
--   Receives answers in written natural language.
-
--   Questions can be on any subject imaginable, from mathematics to poetry, from the weather to chess.
-
-### Digital Computer
-
-A Digital Computer is a machine intended to carry out any operation which could be done by a human computer. It has three parts. 
-
-Store:
-	:   is a store of information. It’s like the paper or book that a human computer uses when doing their calculations.
-
-Executive unit:
-    :   carries out the various operations.
-
- Control:
-    :   is like the rules or instructions for carrying out the calculation. It’s job is to ensure that instructions are  obeyed correctly and in the right order.
-
-We can dramatically increase the size and power of these three
-parts. So even if we don’t yet have a powerful enough computer that passes the Turing Test, we might build one by increasing the power and size of these parts.
-
-## Test 1: Man or Woman?
-
-
-![image](2.jpg)
-
-### Test 2 Human or Computer?
-
-![image](3.jpg)
-
-### Clarifying the Turing Test
-
-Distinguish two questions? 
-
--   Is passing the Turing Test necessary for intelligence?
-
--   Is passing the Turing Test sufficient for intelligence?
-
-P is necessary for Q =
-
--   Q cannot be true unless P is true.
-
--   Q entails P.
-
-P is sufficient for Q =
-
--   P entails Q.
-
-Examples: 
-
-Having access to a snowboard is necessary for competing in the snowboard contests at the Olympics, but it is not sufficient for doing so.
-
-Winning a medal in a snowboard contest at the Olympics is sufficient for becoming an Olympic medal winner, but it is not necessary for becoming one.
-
-Give an example of conditions that satisfy the following
-descriptions: 
-
--   Necessary, but not sufficient.
-
--   Sufficient, but not necessary.
-
--   Necessary and sufficient.
-
-Our Question: 
-
--   Is passing the Turing Test necessary for intelligence?
-
--   Is passing the Turing Test sufficient for intelligence?
-
-Here’s why it’s a tricky question:
-
--   Turing thinks that the question whether machines can think is
-    meaningless.
-
--   He believes that ‘being able to think’ just means ‘being able to pass the test’.
-
--   Being able to pass the Test is then constitutive of being
-    intelligent, i.e., being able to pass is both necessary and sufficient for being intelligent. 
-
-## Turing’s Defense of the Imitation Game
-
-Turing defends his claim that passing the test is constitutive of being intelligent by responding to several objections.
-
-1.  Argument from Extrasensory Perception
-
-2.  Argument from Various Disabilities
-
-3.  The Argument from Consciousness
-
-4.  The Mathematical Objection
-
-5.  Argument from the Informality of Behavior
-
-6.  Lady Lovelace’s Objection
-
-#### ESP Objection
-
-Objection: If the human participant in the game was telepathic, then the interrogator, who is also human, could exploit this fact in order to determine the identity of the machine.
-
-Response: Turing proposes that the competitors should be housed in a “telepathy-proof room.”
-
-#### Argument from Various Disabilities
+### Argument from Various Disabilities
 
 Objection
 > Machines cannot do many things that humans can, e.g.,be kind, be resourceful, be beautiful, be friendly, have initiative, have a sense of humor, tell right from wrong, make mistakes, fall in love, enjoy strawberries and cream, make someone fall in love with it, learn from experience, use words properly, be the subject of its own thought, have as much diversity of behavior as a man, do something really new.
@@ -205,3 +86,18 @@ Objection: Machines have “no pretensions to *originate
 anything*. It can do *whatever we know how to order it to perform*.”
 
 Response: The objection assumes that machines cannot learn. But it is possible for machines to learn.
+
+### Digital Computer
+
+A Digital Computer is a machine intended to carry out any operation which could be done by a human computer. It has three parts. 
+
+Store:
+: a bank of information. It iss like the paper or book that a human computer uses when doing their calculations.
+
+Executive unit:
+: carries out the various operations.
+
+Control:
+:   is like the rules or instructions for carrying out the calculation. Its job is to ensure that instructions are  obeyed correctly and in the right order.
+
+Notice that we can dramatically increase the size and power of these three parts. So even if we don’t yet have a powerful enough computer that passes the Turing Test, we might build one by increasing the power and size of these parts.
