@@ -1,6 +1,6 @@
 ---
 layout: metweekly
-title: Space
+title: Appearance & Reality
 
 ---
 
