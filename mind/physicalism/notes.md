@@ -1,6 +1,7 @@
 ---
 layout: mindweekly
 title: Notes
+
 ---
 
 
