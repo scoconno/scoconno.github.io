@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Zeno 1 &middot; Scott O'Connor
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body class="layout-reverse sidebar-overlay theme-base-08">
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p></p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/contact/">Contact</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/research/">Research</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/teaching/">Teaching</a>
+        
+      
+    
+
+  
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2017. Scott O'Connor. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Scott O'Connor</a>
+            <small></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <h3 id="motion-does-not-exist">Motion does not exist</h3>
+
+<ol>
+  <li>
+    <p>Space is infinitely divisible or not infinitely divisible.</p>
+  </li>
+  <li>
+    <p>If space is infinitely divisible, motion is impossible.</p>
+  </li>
+  <li>
+    <p>If space is not infinitely divisible, motion is impossible.</p>
+  </li>
+  <li>
+    <p>Motion is impossible (From 1-3).</p>
+  </li>
+</ol>
+
+<h3 id="premise-1---the-divisibility-of-space">Premise 1 - the divisibility of space</h3>
+
+<ul>
+  <li>
+    <p>If x is infinitely divisible, x can be divided into ever smaller
+parts <em>ad infinitum</em>. In other words, x contains no indivisible
+parts, i.e. parts that cannot further be divided.</p>
+
+    <ul>
+      <li>
+        <p>For example, suppose that a line, L, is infinitely divisible.
+Lines are divided into line segments. So every line segment of L
+can be divided into further smaller line segments - there is no
+smallest line segment.</p>
+      </li>
+      <li>
+        <p>Think of this process of dividing something out as
+merely conceptual. Don’t worry whether or not we could literally
+do something to x to divide it in this way.</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>If x is not infinitely divisible, x can be divided into a finite
+number of <em>smallest</em> parts, i.e. parts that cannot be divided into
+any smaller parts.</p>
+
+    <ul>
+      <li>For example, suppose that a line, L, is not
+infinitely divisible. Then L contains a finite number of
+smallest line segments, i.e., line segments with some smallest
+extent that cannot be divided into any further line segments.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="premise-2">Premise 2</h2>
+
+<p>This handout will proceed by discussing Premise 2. See Handout 2 for discussion of Premise 3. I first outline Zeno’s argument for Premise 2.  I then examine 3 different responses.</p>
+
+<p><em>Strategy:</em> Assume that space is infinitely divisible. Then argue that
+it is impossible to move from one place to another by showing that (a)
+doing so requires completing an infinite number of tasks, and (b) it is
+impossible to complete an infinite number of tasks.</p>
+
+<p>Zeno argues for premise 2 by using a number of paradoxes. The first is called <em>Racecourse</em>, which argues that it is impossible to complete an arbitrary journey from A to B - to start at A, move to B, and then stop.</p>
+
+<blockquote>
+  <p>The first asserts the non-existence of motion on the ground that that which is in locomotion must arrive at the half-way stage before it arrives at the goal. (Aristotle Physics, 239b11)</p>
+</blockquote>
+
+<p>A.  The distance between A and B is infinitely divisible (assumed).</p>
+
+<p>B.  A journey from A to B is a series of sub-journeys with no last
+    member:  from A to  $\frac{1}{2}AB$, from $\frac{1}{2}AB$ to
+    $\frac{3}{4}AB$, and so on.</p>
+
+<p>C.  It is impossible to complete a series of sub-journeys with no
+    last member.</p>
+
+<p>D.  Completing a journey from A to B, requires completing the series of sub-journeys with no last member:  from A to  $\frac{1}{2}AB$, from $\frac{1}{2}AB$ to $\frac{3}{4}AB$, and so on.</p>
+
+<p>E. It is impossible to complete the journey from A to B.</p>
+
+<ul>
+  <li>An inverted version of the paradox shows us that our traveler cannot begin to move.</li>
+  <li>A different paradox, the Achilles paradox, shows us that in a race between Achilles and a tortoise, where the tortoise is given a head start, Achilles could never catch-up and pass the tortoise.</li>
+</ul>
+
+<blockquote>
+  <p>The [second] argument was called “Achilles,” accordingly, from the fact that Achilles was taken [as a character] in it, and the argument says that it is impossible for him to overtake the tortoise when pursuing it. For in fact it is necessary that what is to overtake [something], before overtaking [it], first reach the limit from which what is fleeing set forth. In [the time in] which what is pursuing arrives at this, what is fleeing will advance a certain interval, even if it is less than that which what is pursuing advanced … . And in the time again in which what is pursuing will traverse this [interval] which what is fleeing advanced, in this time again what is fleeing will traverse some amount … . And thus in every time in which what is pursuing will traverse the [interval] which what is fleeing, being slower, has already advanced, what is fleeing will also advance some amount. (Simplicius(b) On Aristotle’s Physics, 1014.10)</p>
+</blockquote>
+
+<h3 id="response-1-reject-c">Response 1: Reject C</h3>
+
+<p>Some deny premise C by claiming that as we divide the distances of the journey, we should also divide the total time taken, and, further, that the sum of these infinite series of decreasingly short time intervals is still equal to a finite period of time. These denials assume that the argument for C is the following:</p>
+
+<ul>
+  <li>
+    <p>C1. Completing an infinite series of tasks would take an infinite amount of time.</p>
+  </li>
+  <li>
+    <p>C2. It is not possible to spend an infinite amount of time completing some task(s).</p>
+  </li>
+  <li>
+    <p>C. Therefore, it is not possible to complete an infinite series of tasks.</p>
+  </li>
+</ul>
+
+<p>This argument for Premise C is valid, but some deny that it is not sound because C1 is false. They claim that it relies on the false assumption that completing an infinite series of tasks would take an infinite period of time. This seems false. As we divide the distances between the points we travel, we should also divide the time it takes to travel the ever smaller distances:</p>
+
+<ul>
+  <li>
+    <p>It takes $\frac{1}{2}$ the time to run from A to $\frac{1}{2}AB$ as it does to run from A to B.</p>
+  </li>
+  <li>
+    <p>It takes $\frac{1}{4}$ of the time to run from $\frac{1}{2}AB$ to
+  $\frac{3}{4}AB$, and so on.</p>
+  </li>
+  <li>
+    <p>The sum of these decreasing times is finite.<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+  </li>
+  <li>
+    <p>Therefore, we can complete an infinite series of sub-journeys in a finite period of time.</p>
+  </li>
+</ul>
+
+<p>Let us grant that C1-C2 fail to establish Premise C. There is an alternative way of defending Premise C that is immune to our current objection:</p>
+
+<ul>
+  <li>Even if it takes less time to complete each sub-journey, I still need to first complete each sub-journey before completing the journey that comes after it. If so, I always have one more sub-journey to complete before I can complete the final step.</li>
+</ul>
+
+<p>Note that the response assumes that time is infinitely divisible, i.e.  divisible into a infinite number of finite parts. We’ll be re-visiting that assumption in Handout 2.</p>
+
+<h3 id="response-2-reject-b">Response 2: Reject B</h3>
+
+<p>Aristotle claims that a journey from A to B is a series of <em>potential</em> and not <em>actual</em> sub-journeys, i.e. the full journey does not consist of actual parts each of which are sub-journeys. The point here is that Zeno is defining journeys in terms of the space over which you travel. Aristotle responds by denying that journeys are individuated in this way.</p>
+
+<p>In order to evaluate this response, we need to investigate the nature of actions/activities and try to understand what is involved in completing them. In other words, if journeys are not individuated by the distance over which they occur, how are they individuated?</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>See ‘A Contemporary Look at Zeno’s Paradoxes’, by Wesley Salmon <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>
