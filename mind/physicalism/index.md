@@ -18,7 +18,7 @@ title: Physicalism
 + Required
 	+ [Can science teach us everything?](http://www.wi-phi.com/video/science-can-it-teach-us-everything)
 	+ [Mary's Room](https://www.youtube.com/watch?v=mGYmiQkah4o)
-	+ [Creepy version]((https://www.youtube.com/watch?v=gZy3Ky9y_fg)
+	+ [Creepy version](https://www.youtube.com/watch?v=gZy3Ky9y_fg)
 
 + Optional
 	+ [The Hard Problem of Consciousness,](http://serious-science.org/the-hard-problem-of-consciousness-6131) David Chalmers

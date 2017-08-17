@@ -17,9 +17,9 @@ According to physicalism, if anything exist that thing is either something physi
 
 Supervenience is a relation; one thing always supervenes on another. The analogy Lewis uses to illustrate this relies on a dot-matrix. You probably have seen one of these, but here is a reminder: 
 
-![](dot1.jpg)
+![image](dot1.jpg)
 
-![](dot2.jpg)
+![image](dot2.jpg)
 
 The pattern or picture supervenes on the dots. The various dots can be indented or not. They have different locations and arrangements. To say that the picture supervenes on the dots is to say that all the features of the pictures are explained by various features of the dots. To see this, notice that if you change the dots, you will change the picture. Physicalists believes that everything that exists is either physical or explained by properties of the physical. 
 
@@ -62,19 +62,19 @@ Is physicalism true? Many deny that physicalism applies to consciousness. They c
 The knowledge argument aims to establish that conscious experience involves non-physical facts. It rests on the idea that Mary has complete physical knowledge about some conscious experience, but lacks knowledge about what conscious experience is like “from the inside.” If she lacks suck knowledge, then something about consciousness is essentially non-physical. 
 
 
-![](Mary2.jpg)
+![image](Mary2.jpg)
 
-![](Mary1.jpg)
+![image](Mary1.jpg)
 
 ## What does Mary know? 
 
 Let us go through the argument in detail and first ask what Mary in the black and white room might now. 
 
-![](Reflect.jpg)
+![image](Reflect.jpg)
 
 First, she knows that there are different wavelengths of light, and she knows which wavelengths of light are reflected by which surfaces. 
 
-![](eye.png)
+![image](eye.png)
 
 Second, she knows all the following facts about the eye: 
 1. There are light-sensitive cells in the retina, some shaped like rods and some shaped like cones. 
@@ -82,13 +82,13 @@ Second, she knows all the following facts about the eye:
 3. There are three types of cones, one type detects short wavelengths, one detects medium wavelengths, and the other detects long wavelengths. 
 4. The rods and cones process the light into nerve impulses and pass them along to the cortex of the brain via the optic nerve. 
 
-![](optic.jpg)
+![image](optic.jpg)
 
 Third, Mary knows that there is an optic nerve and knows how the optic nerve transmits information about the wavelengths detected in the retina to the central nervous system. 
 
-![](nueron1.jpg)
+![image](nueron1.jpg)
 
-![](neuron2.jpg)
+![image](neuron2.jpg)
 
 Finally, Mary knows which neurons are activated by each wavelength and know those neurons are activated. 
 
@@ -109,7 +109,7 @@ If Mary learns something new, then physicalism is false. Recall that Mary knows 
 
 ## A different version of the argument ##
 
-![](Fred.jpg)
+![image](Fred.jpg)
 
 Instead of asking whether Mary learns something new upon her release, we can ask whether we would learn something new in the following scenario: suppose that Fred returns from a mission to space and reports a significant change in his perceptual experience. He says that he know see a strange new color completely unlike anything he experienced before leaving Earth. He can see what is called a forbidden color--yellow-blue! What's more, he sees this color every time he looks at a blank piece of paper that appears white to everyone else. Suppose we study the physics of color and the neuroscience of color vision. We are tasked with studying Fred's yellow-blue perception. We learn everything about the relevant wavelength, cones, neurons, etc. Would we thereby know everything there is to know about Fred's experience of yellow-blue? If we did, then we would learn nothing new by seeing yellow-blue for the first time when our eyes too are changed by a trip to space. 
 
