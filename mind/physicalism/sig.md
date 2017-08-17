@@ -1,7 +1,4 @@
----
-layout: default
-title: Project
----
+
 
 ## Signature Assignment (Final Project)
 
