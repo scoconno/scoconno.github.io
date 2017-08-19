@@ -1,6 +1,6 @@
 
 
-## Signature Assignment (Final Project)
+Signature Assignment (Final Project)
 
 ### Special Submission Instruction
 + Please ignore previous information about TK20 and submit this assignment through Blackboard.  
