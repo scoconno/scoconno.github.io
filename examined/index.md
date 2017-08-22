@@ -68,7 +68,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + *Videos*
 	+ [Meaning of Life](https://www.youtube.com/watch?v=Ebt0X5ybm9Y&list=PLHSC9mjpRe4rGkvRaVAfkZ-rIrkHtfGVP)
 	+ [Susan Wolf on the Meaning of Life](https://www.youtube.com/watch?v=8CfvMaaTp6I), from approx. 1:33
-+ [Essay 2](Meaning/SW1)
++ [Essay 2](Meaning/Essay)
 
 ---
 	
@@ -85,7 +85,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + [Notes](God/Handout1)
 + ['Intelligent Design Has No Place in the Science Curriculum',](/Teaching/Examined/God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
 + ['Design for Living',](/Teaching/Examined/God/Des.pdf) Michael J. Behe	
-+ [Essay 3](God/SW2) 
++ [Essay 3](God/Essay1) 
 
 ---
 
@@ -99,7 +99,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Notes](God/Handout3)
 + ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
-+ [Essay 4](God/SW3)
++ [Essay 4](God/Essay2)
 
 ---
 
