@@ -42,7 +42,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 **Week 1**  
 
 + [Notes](Intro/Notes/)
-+ [Reading](/Teaching/Examined/Intro/ch1.pdf)--please purchase the book by next week.
++ [Reading](/examined/Intro/ch1.pdf)--please purchase the book by next week.
 + [Allegory of the Cave](https://www.youtube.com/watch?v=h55X9LJTAg4)
 + [Essay 1](Intro/Essay/)
 
@@ -83,8 +83,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 **Week 5**
 	
 + [Notes](God/Handout1)
-+ ['Intelligent Design Has No Place in the Science Curriculum',](/Teaching/Examined/God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
-+ ['Design for Living',](/Teaching/Examined/God/Des.pdf) Michael J. Behe	
++ ['Intelligent Design Has No Place in the Science Curriculum',](God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
++ ['Design for Living',](God/Des.pdf) Michael J. Behe	
 + [Essay 3](God/Essay1) 
 
 ---
