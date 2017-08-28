@@ -36,7 +36,7 @@ title: The Examined Life
 
 ## Material for each week
 
-Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. Consult the syllabus for a full list of what is required for each week.
+Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. Consult the syllabus for a full list of what is required for each week. Note that essays are on a prior week's topic, e.g., essay 1 posted under week 2 concerns the material from week 1. 
 
 
 **Week 1**  
@@ -44,12 +44,12 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + [Notes](Intro/Notes/)
 + [Reading](/examined/Intro/ch1.pdf)--please purchase the book by next week.
 + [Allegory of the Cave](https://www.youtube.com/watch?v=h55X9LJTAg4)
-+ [Essay 1](Intro/Essay/)
 
 ---
 
 **Week 2**
 
++ Essay 1
 + [Notes](CT/Handout)
 + [Answer key](CT/Answers) 
 + Videos
@@ -68,12 +68,12 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + *Videos*
 	+ [Meaning of Life](https://www.youtube.com/watch?v=Ebt0X5ybm9Y&list=PLHSC9mjpRe4rGkvRaVAfkZ-rIrkHtfGVP)
 	+ [Susan Wolf on the Meaning of Life](https://www.youtube.com/watch?v=8CfvMaaTp6I), from approx. 1:33
-+ [Essay 2](Meaning/Essay)
 
 ---
 	
 **Week 4**
 
++ Essay 2
 + [Notes 1](Meaning/Handout2)
 + [Notes 2](Meaning/Handout3)	
 + [Optional reading](Meaning/Confession.pdf)
@@ -85,12 +85,12 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + [Notes](God/Handout1)
 + ['Intelligent Design Has No Place in the Science Curriculum',](God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
 + ['Design for Living',](God/Des.pdf) Michael J. Behe	
-+ [Essay 3](God/Essay1) 
 
 ---
 
 **Week 6**
 
++ [Essay 3](God/Essay1) 
 + [Notes](God/Handout2)
  
 ---
@@ -99,12 +99,12 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Notes](God/Handout3)
 + ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
-+ [Essay 4](God/Essay2)
 
 ---
 
 **Week 8**
-	
+
++ [Essay 4](God/Essay2)
 + [Notes](FreeWill/Handout1)	
 + *Videos* 
 	+ [Free-will video](http://www.wi-phi.com/video/problem-free-will)
@@ -119,12 +119,12 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Notes](FreeWill/Handout2)
 + ['Please Don’t Tell Me How The Story Ends’,](http://creationdemonstration.blogspot.com/2013/03/please-dont-tell-me-how-story-ends.html) Thomas Davis
-+ [Essay 5](FreeWill/Essay) 
 
 ---
 	
 **Week 10**
 
++ [Essay 5](FreeWill/Essay) 
 + [Notes](/mind/dualism/notes)
 + [‘Life after Life’,](Mind/Life.pdf) Thomas Davis
 + Optional Reading: [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes
@@ -135,13 +135,14 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 **Week 11**
 
 + [Notes](/mind/functionalism/notes)
-+ `They're Made out of Meat', Terry Bisson, pp.225--227
-+ [Essay 6](Mind/Essay) 	
++ ['They're Made out of Meat',](http://www.terrybisson.com/page6/page6.html) 
++ [Video version](https://www.youtube.com/watch?v=7tScAyNaRdQ)
 
 ---
 
 **Week 12**
 
++ [Essay 6](Mind/Essay) 	
 + [Notes](Ethics/Handout)
 + ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
 
@@ -165,10 +166,11 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + *Video*
 	+ [Kant's Ethics Video 1](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
 	+ [Kant's Ethics Video 2](https://www.youtube.com/watch?v=8bIys6JoEDw)
+
+---
+
+**Week 15**
++ **No class**
 + [Essay 7](Ethics/Essay2) 
-
-
-
-
 
 
