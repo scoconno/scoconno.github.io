@@ -50,9 +50,10 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 **Week 2**
 
 + Essay 1
-+ [Notes](CT/Handout)
-+ [Answer key](CT/Answers) 
-+ Videos
++ *Notes* 
+	+ [Notes](CT/Handout)
+	+ [Answer key](CT/Answers) 
++ *Videos*
 	+ [Truth & Validity](http://www.wi-phi.com/video/truth-and-validity)
 	+ [Deductive Argument](http://www.wi-phi.com/video/deductive-arguments)
 	+ [Validity](http://www.wi-phi.com/video/validity)
@@ -74,23 +75,31 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 **Week 4**
 
 + Essay 2
-+ [Notes 1](Meaning/Handout2)
-+ [Notes 2](Meaning/Handout3)	
++ *Notes*
+	+ [Notes 1](Meaning/Handout2)
+	+ [Notes 2](Meaning/Handout3)	
 + [Optional reading](Meaning/Confession.pdf)
++ *Videos*
+	+ [Perspectives on Death](https://www.youtube.com/watch?v=mjQwedC1WzI&index=17&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR)
 
 ---
 
 **Week 5**
 	
 + [Notes](God/Handout1)
-+ ['Intelligent Design Has No Place in the Science Curriculum',](God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
-+ ['Design for Living',](God/Des.pdf) Michael J. Behe	
-
++ Readings
+	+ ['Intelligent Design Has No Place in the Science Curriculum',](God/Intel.pdf) Harold Morowitz, Robert Hazen, and James Trefil
+	+ ['Design for Living',](God/Des.pdf) Michael J. Behe	
++ Videos
+	+ [Crash Course](https://www.youtube.com/watch?v=7e9v_fsZB6A)
 ---
 
 **Week 6**
 
 + [Essay 3](God/Essay1) 
++ Videos
+	+ [The Ontological Argument](https://www.youtube.com/watch?v=FmTsS5xFA6k)
+	+ [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
 + [Notes](God/Handout2)
  
 ---
@@ -99,6 +108,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Notes](God/Handout3)
 + ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
++ Videos
+	+ [Crash Course](https://www.youtube.com/watch?v=9AzNEG1GB-k)
 
 ---
 
@@ -144,14 +155,22 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Essay 6](Mind/Essay) 	
 + [Notes](Ethics/Handout)
-+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
 
++ *Reading*
+	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
+
++ *Videos*
+	+ 
 
 ---
 
 **Week 13**
 
-+ [Notes](Ethics/Handout2)
++ *Notes*
+	+ [Notes](Ethics/Handout2)
++ *Videos*
+	+ [Crash Course](https://www.youtube.com/watch?v=-a739VjqdSI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=36)
+	+ [Julia Driver on Consequentialism](https://www.youtube.com/watch?v=hACdhD_kes8&feature=youtu.be)
 
 ---
 
@@ -164,9 +183,9 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [‘A Horseman in the Sky’,](Ethics/Horseman.pdf) Ambrose Pierce
 	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer 
 + *Video*
-	+ [Kant's Ethics Video 1](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
-	+ [Kant's Ethics Video 2](https://www.youtube.com/watch?v=8bIys6JoEDw)
-
+	+ [Kant's Ethics](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
+	+ [Crash Course on Kant](https://www.youtube.com/watch?v=8bIys6JoEDw)
+	+ [Crash Course on Aristotle](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=38)
 ---
 
 **Week 15**
