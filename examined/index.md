@@ -92,16 +92,17 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ ['Design for Living',](God/Des.pdf) Michael J. Behe	
 + Videos
 	+ [Crash Course](https://www.youtube.com/watch?v=7e9v_fsZB6A)
+
 ---
 
 **Week 6**
 
 + [Essay 3](God/Essay1) 
++ [Notes](God/Handout2)
 + Videos
 	+ [The Ontological Argument](https://www.youtube.com/watch?v=FmTsS5xFA6k)
 	+ [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
-+ [Notes](God/Handout2)
- 
+
 ---
 
 **Week 7**
@@ -139,7 +140,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + [Notes](/mind/dualism/notes)
 + [‘Life after Life’,](Mind/Life.pdf) Thomas Davis
 + Optional Reading: [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes
-+ Optional Video: [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
++ *Videos*: [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
 
 ---
 
@@ -155,12 +156,11 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Essay 6](Mind/Essay) 	
 + [Notes](Ethics/Handout)
-
 + *Reading*
 	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
 
 + *Videos*
-	+ 
+	+ TBD
 
 ---
 
@@ -192,4 +192,9 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + **No class**
 + [Essay 7](Ethics/Essay2) 
 
+---
+
+**Week 16**
++ **No class**
++ Signature Assignment due 12/19/17
 
