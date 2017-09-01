@@ -9,8 +9,7 @@ title: Teaching
 
 ### Spring 2018, tentative, no times scheduled
 
-+ Phil 236: Self: Mind, online
-+ Phil 236: Self: Mind, in-person
++ Phil 236: Self: Mind, online (2 sections)
 + Phil 211: A Survey of Ancient Philosophy
 + Honors: A Survey of Ancient Philosophy (with trip to Greece)
 
@@ -19,7 +18,7 @@ title: Teaching
 
 + Phil 205: Metaphysics, M & W @ 4:00pm
 + Phil 236: Self: Mind, M & W @ 9:55am
-+ Phil 236: Self: Mind, M & W @ 12:45pm
++ Phil 236: Self: Mind, online
 + Phil 140: The Examined Life, R @ 4:00pm
 
 ### Summer II 2017
