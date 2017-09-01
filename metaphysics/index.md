@@ -2,6 +2,9 @@
 layout: course
 title: Metaphysics
 ---
+
+## Course Information
+
 + [Syllabus](Syllabus.pdf)
 + [Metaphysics links](https://pegasus.cc.ucf.edu/~janzb/metaphysics/)
 
