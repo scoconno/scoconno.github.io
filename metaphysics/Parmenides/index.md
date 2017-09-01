@@ -1,12 +1,13 @@
 ---
 layout: metweekly
-title: Appearance & Reality
+title: Parmenides' Challenge
 
 ---
 
+## Reading
 
++ ['On Nature',](text) Parmenides
 
-## Space
 + [Extra Reading](Reading)
 + [Notes](handout.pdf)
 + [Short Writing Assignment 1](SW1)
