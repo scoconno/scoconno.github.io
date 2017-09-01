@@ -34,7 +34,7 @@ title: The Examined Life
 
 
 
-## Material for each week
+## Materials for each week
 
 Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. Consult the syllabus for a full list of what is required for each week. Note that essays are on a prior week's topic, e.g., essay 1 posted under week 2 concerns the material from week 1. 
 
