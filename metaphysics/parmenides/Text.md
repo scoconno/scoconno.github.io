@@ -70,7 +70,7 @@ Note that I have divided the text into chunks, added some titles, and notes to h
 
 > Only one story of the way is still left: that a thing is. On this way there are very many signs: that Being is **ungenerated and imperishable, entire, unique, unmoved and perfect; it never was nor will be, since it is now all together, one, indivisible.** 
 
-[*Argument that Being is ungenerated and impreshable*
+[*Argument that Being is ungenerated and impreshable*]
 
 > For what parentage of it will you look for? How and whence grown? I shall not let you say or conceive, ‘from Not-being’, for it cannot be said or conceived that anything is not; and then what necessity in fact could have urged it to begin and spring up later or before from Nothing? Thus it must either be entirely or not be at all. Nor will the strength of conviction ever impel anything to come to be alongside it from Not-being. 
 
@@ -81,16 +81,20 @@ Note that I have divided the text into chunks, added some titles, and notes to h
 > Thus becoming has been extinguished and perishing is unheard of.
 
 [*Argument that Being is indivisible*] 
+
 > Nor is it divisible, since it is all alike and not any more in degree in some respect, which might keep it from uniting, or any inferior, but it is all full of Being. Therefore it is all united, for Being draws near to Being.
 
 [*Argument that Being is unchanging*]
+
 > Further, it is changeless in the coils of huge bonds, without beginning or cessation, since becoming and perishing have strayed very far away, thrust back by authentic conviction; remaining the same and in the same state, it lies by itself and remains thus where it is perpetually, for strong necessity holds it in the bondage of a limit, which keeps it apart, because it is not lawful that Being should be incomplete, for it is not defective, whereas Not-being would lack everything.
 
 > The same thing is for conceiving as is cause of the thought conceived; for not without Being, when predications have been asserted of it, will you find the cause so as to conceive of it.
 
 [*Argument that Being has no past or future*]
+
 > And time is not nor will be another thing alongside Being, since this was bound fast by fate to be entire and changeless. Therefore all those things will be a name, which mortals, confident that they are real, suppose to be coming to be and perishing, to be and not to be, and to change their place and alter their bright aspect to dark and from dark to bright.
 
-[*Argument that Being is complete*
+[*Argument that Being is complete*]
+
 > Since now its limit is ultimate, Being is in a state of perfection from every viewpoint, like the volume of a spherical ball, and equally poised in every direction from its centre. For it must not be either at all greater or at all smaller in one regard than in another. For neither has Not-being any being which could halt the coming together of Being, nor is Being capable of being more than Being in one regard and less in another, since it is all inviolate. For it is equal with itself from every view and encounters determination all alike.
 
