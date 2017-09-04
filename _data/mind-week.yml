@@ -1,27 +1,64 @@
-- title: Week 1. Personal Identity
+- title: Week 1. Introduction
+  folder: introduction
+  content: "09/04"
+  
+- title: Week 2. Personal Identity 1
   folder: personal
-  content: "07/10-07/16"
+  content: "09/11"
 
-- title: Week 2. Substance Dualism
+- title: Week 3. Personal Identity 2
+  folder: personal
+  content: "09/18"
+
+- title: Week 4. Substance Dualism
   folder: dualism
-  content: "07/17-07/23"
+  content: "09/25"
 
-- title: Week 3. Behaviorism
+- title: Week 5. Behaviorism
   folder: behaviorism
-  content: "07/24-07/30"
+  content: "10/02"
 
-- title: Week 4. Mind Brain Identity Theory
+- title: Week 6. Mind as Brain
   folder: identity
-  content: "07/31-08/06"
+  content: "10/09"
   
-- title: Week 5. Functionalism
-  folder: functionalism
-  content: "08/07-08/13"
-  
-- title: Week 6. Consciousness
-  folder: consciousness
-  content: "08/14-08/20"
-  
-- title: Week 7. Physicalism
+- title: Week 7. Physicalism 1
   folder: physicalism
-  content: "08/18-08/24"
+  content: "10/16"
+  
+- title: Week 8. Physicalism 2
+  folder: physicalism
+  content: "10/23"
+  
+- title: Week 9. Mental Causation
+  folder: physicalism
+  content: "10/30"
+  
+- title: Week 10. Mind as Computer 1
+  folder: functionalism
+  content: "11/6"
+  
+- title: Week 11. Mind as Computer 2
+  folder: functionalism
+  content: "11/13"
+  
+- title: Week 11. Consciousness 1
+  folder: consciousness
+  content: "11/20"
+  
+- title: Week 12. Consciousness 2
+  folder: consciousness
+  content: "11/27"
+  
+- title: Week 13. Consciousness 3
+  folder: physicalism
+  content: "12/04"
+  
+- title: Week 14. Consciousness 3
+  folder: physicalism
+  content: "12/11"
+  
+- title: Week 15. Consciousness 3
+  folder: physicalism
+  content: "12/18"
+  

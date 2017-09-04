@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.12)  25 AUG 2017 22:02
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.12)  4 SEP 2017 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1492,13 +1492,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--188
 LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
 (Font)              scaled to size 8.85622pt on input line 192.
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--215
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
 []|\EU1/MinionPro(0)/m/n/10 –**“Brains and Behavior”, H. Putnam
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--224
-[]|\EU1/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
  []
 
 
@@ -1507,16 +1502,21 @@ Overfull \hbox (50.65942pt too wide) in alignment at lines 190--224
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 224--247
+Underfull \hbox (badness 10000) in paragraph at lines 227--227
+[]|\EU1/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
+ []
+
+
+Overfull \hbox (50.65942pt too wide) in alignment at lines 224--248
  [] [] [] 
  []
 
 [4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 258.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 258.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 259.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 259.
  (./SyllabusFO.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 258.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 258.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 259.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 259.
 Package logreq Info: Writing requests to 'SyllabusFO.run.xml'.
 \openout1 = `SyllabusFO.run.xml'.
 
