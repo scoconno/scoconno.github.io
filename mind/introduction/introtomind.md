@@ -8,23 +8,17 @@ This is about true self I think
 + [TedEd Talk](https://www.youtube.com/watch?v=UHwVyplU3Pg)
 
 
+## Introduction
 
-Minds are special sorts 
+Minds are curious sorts of thing. We readily distinguish those things that have them from those that do not. Pet owners regularly gush over their little darlings, claiming that little Fido is *excited* when outside, or furry Penny, my cat, *dislikes* beings picked up. In making these claims, pet owners are attributing to mentality to animals; they assume their pets have desires, emotions, experience pleasure and pain, etc. It seem likely that non-human creatures do experience things like pain and pleasure, but it is difficult to decide which do and do not.  One reason this is so is that we attribute mentality to creatures based on their behavior, but entities without minds can mimic such behavior. For instance, many think that cats and dogs enjoy a mental life because they seem to perceive their environment and act accordingly. But if this is reliable evidence that animals have minds, then it shows us that automatic cars, robotic vacuum cleaners, and oysters have minds. For these things too perceive their surroundings and behave accordingly. 
 
+Should we be so confident that our pets have minds? Perhaps they merely mimic our behavior and more akin to a robotic car than a young child. Here you might reply that the robot car might too have a mind. Perhaps an artificially intelligent creature could be sufficiently complex to enjoy mentality too. 
 
-We divide the world into those that live and those don't. We divide those that live into those that have a mind and those that don't. There are creatures that are conscious and can experience things like pain and pleasure. 
-+ Consider the controversies over animals, whether they should be eaten and whether they should be tested upon. 
-.+ Cats and dogs experience sensation, perceive their surroundings, remember things, learn from their experiences, seem to have emotions. What about more complex emotions? 
-+ What about when we move down the animal chain to oysters and insects? They seem to perceive their environment, but do they have a mind? 
-+ What about machines? 
+In order to answer questions like these, we need to know what it is to have a mind, which is the guiding question of this course. 
 
+## What is the philosophy of mind? 
 
-We can only answer these questions if know what it is to have a mind. 
-
-
-## What is philosophy of mind? 
-
-The mind is studied by disciplines ranging from psychology, to cognitive science, to neuroscience. What does philosophy have to offer in addition to these disciplines? If you wanted to learn about cells, you would ask the cell biologist and be surprised if the philosopher had anything to add in addition to the biologist. 
+Philosophers have no special claim to the study of the mind. Many disciplines ask what it is to have a mind and claim to make progress in answering that question, e.g., psychology, cognitive science, neuroscience. What does philosophy have to offer in addition to these disciplines? It might be surprising that the philosopher has anything to offer: if you wanted to learn about cells, you would ask the cell biologist, not the philosopher. 
 
 One think philosophers do is identify and clarify which questions must be answered if we are to fully understand the nature of mind. A biological cell is a target that we can all identify. The questions we must ask about this target are relevantly clear. Not so with the mind. Disciplines do not yet even agree on which questions are the relevant questions. Should we be focused merely on the way brain processes information? Must we also understand how a person represent their environment to themselves? What exactly are those questions that must be asked about the mind? 
 
