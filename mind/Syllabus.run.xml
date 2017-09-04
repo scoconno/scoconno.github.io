@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>SyllabusFALL.bcf</file>
+      <file>Syllabus.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>SyllabusFALL.bbl</file>
+      <file>Syllabus.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -66,19 +66,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>SyllabusFALL</infile>
+      <infile>Syllabus</infile>
     </cmdline>
     <input>
-      <file>SyllabusFALL.bcf</file>
+      <file>Syllabus.bcf</file>
     </input>
     <output>
-      <file>SyllabusFALL.bbl</file>
+      <file>Syllabus.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>SyllabusFALL.bbl</file>
+      <file>Syllabus.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>SyllabusFALL.bcf</file>
+      <file>Syllabus.bcf</file>
     </requires>
     <requires type="editable">
       <file>/Users/kjhealy/Documents/bibs/socbib.bib</file>
