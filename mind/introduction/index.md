@@ -1,20 +1,16 @@
 ---
 layout: mindweekly
-title: Introductin
+title: Introduction
 ---
 
-### Reading
-+ Textbook, ch.3
+## Start Here
++ Mechanics
 
-### Assignments
-+ Quiz 3
-+ [Essay](Essay)
+## Reading
++ [Kim, ch.1](kim1and2.pdf)
 
-### Notes
+**NB:** Copyright prohibits me from photocopying any more of the textbook. Please purchase or rent it by week 3. 
+
+## Notes
 + [Notes](notes)
 
-### Videos
-+ Some video
-
-### Extra Literature
-+ Pop literature
