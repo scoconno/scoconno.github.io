@@ -21,7 +21,7 @@ Please note that there are two sections of this course, one that meets in person
 | October 2 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
 | November 1  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
 
-## Modules
+## Materials
 
 Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
