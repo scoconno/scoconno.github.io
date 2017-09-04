@@ -16,19 +16,10 @@ While you are my student, the appropriate way to address me is as Dr. O'Connor. 
 ## Textbook
 Please find details about the textbook on the syllabus. I will photocopy some readings for weeks 1 and 2, but you will need the textbook from week 3 onwards. The book is available online and in the campus bookstore. The textbook I chose is a compromise between quality and price. Some others are easier, but much more expensive. This means that some of the chapters in this textbook are less accessible than I would like. I will remedy this by providing supplemental reading and videos on the website. 
 
-## Assignments
-There is an assignments each week, either a quiz or a short essay. Both are found on Blackboard. You will find a full description on the syllabus, but let me emphasize here again the following: 
-
-1. Assignments are normally due on a Sunday by 11:59pm. 
-2. You must complete 4 of the 7 assigned quizzes. If you complete more than 4, the lowest grades will be dropped. 
-3. You must complete 4 of the 7 assigned essays. If you complete more than 4, the lowest grades will be dropped. 
-
-Keep in mind that we must cover 3 credits worth of material in our time together. So expect to spend about 12 hours per week on the readings and assignments. If this work load is too high for you, then reconsider taking this class. 
-
 ## Late work and extra credit
 Students sometimes ask to submit work late or ask for a make-up opportunity. I used to receive many of these requests and found it difficult to adjudicate them. I also want to treat my students equally and am frustrated by students who expect special treatment. 
 
-But, students do get sick. Life does get in the way. So, here is what I do instead of accepting late work and offering extra credit: I assign more essays and quizzes than are needed to complete the course. And, if someone is unable to complete 5 of the 7 assigned quizzes and 5 of the 7 assigned essays due to illness, personal problems, etc, then they should withdraw from the course. NJCU also offers medical withdrawals for students who miss the ordinary withdrawal dates. So, moral of the story: I will teach you the material and help you complete the assignments, but I will not entertain requests for extra credit or accept late work. Please don't ask. 
+But, students do get sick. Life does get in the way. So, here is what I do instead of accepting late work and offering extra credit: I assign more essays and quizzes than are needed to complete the course. If you are still unable to complete the required number of assignments due to illness, personal problems, etc, then you should withdraw from the course. NJCU also offers medical withdrawals for students who miss the ordinary withdrawal dates. So, moral of the story: I will teach you the material and help you complete the assignments, but I will not entertain requests for extra credit or accept late work. Please don't ask. 
 
 
 ## Technical Help
