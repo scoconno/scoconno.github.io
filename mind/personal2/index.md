@@ -7,7 +7,7 @@ title: Personal Identity 2
 + ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
 
 ## Notes 
-+ [Notes](notes2)
++ [Notes](notes)
 
 ## Videos
 + Required
