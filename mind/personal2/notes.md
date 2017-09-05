@@ -5,7 +5,7 @@ title: Psychological Continuity
 ---
 
 
-# Introduction
+## Introduction
 
 Recall that our question is what personal identity consists in. We have already discussed two theories: 
 
@@ -16,30 +16,27 @@ Same Soul Theory:
 : A person A at one time is identical to a person B at a
 later time if and only if the soul of A is identical to the soul of B.
 
-
-## Psychological Continuity
-
-Our third, and perhaps most plausible theory, is the claim that personal identity consists in psychological continuity.
+Our third, and perhaps most plausible theory, says that personal identity consists in psychological continuity.
 
 Psychological Continuity Theory: 
 : A person A at one time is identical to a person B at a later time if and only if B is psychologically continuous with A.
 
-In order to introduce our new theory, we need to think again about the question that we are trying to answer--what does personal identity consist in? Our first two answers said that there was some one thing that each of the earlier and later stages of a person share; this one thing is numerically identical between each stage, whether it be soul or body. Our third view denies that some one identical thing shared by each earlier and later stages of a person is required for them to be identical to one another. It claims that the earlier and later stages must enjoy a certain *relationship* to one another. Look at the following image: 
+In order to introduce our new theory, we need to think again about the question that we are trying to answer--what does personal identity consist in? Our first two answers said that there was something that each of the earlier and later stages of a person share; this one thing is numerically identical between each stage, whether it be soul or body. Our third view denies that some one identical thing shared by each earlier and later stages of a person is required for them to be identical to one another. It claims that the earlier and later stages must enjoy a certain *relationship* to one another. Look at the following image: 
 
 ![image](stages.jpg)
 
-Our first two theories stated that there will be some thing, either a soul or body, that is shared by each stage. This common thing shared will exist fully at each moment that the person exists. If, for instance, personal identity consists in sameness of soul, then the one same soul will exist fully at each moment that the person exists. Our third theory advises against looking for one same thing that exists fully at each moment that the person exists. Rather, it claims that we should look at the relationship between all the stages of the person. Consider the following image of a train:  
+Our first two theories stated that there is something, either a soul or body, that is shared by each stage. This common thing shared will exist fully at each moment that the person exists. If, for instance, personal identity consists in sameness of soul, then the one same soul will exist fully at each moment that the person exists. Our third theory advises against looking for one same thing that exists fully at each moment that the person exists. Rather, it claims that we should look at the relationship between all the stages of the person. Consider the following image of a train:  
 
 ![image](train.jpg)
 
-Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you attend to when watching the engine is identical to the owner of the train you are attending to when watching the final carriage. Suppose, now, we ask in virtue of what are these trains identical to one another? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train car are one and the same train by virtue of the fact that they are connected to one another---just notice the locks where each car connects with one another. 
+Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you attend to when watching the engine is identical to the owner of the train you are attending to when watching the final carriage. Suppose, now, we ask in virtue of what are these trains identical to one another? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train cars are one and the same train by virtue of the fact that they are connected to one another---just notice the locks where each car connects with one another. 
 
-When I claim that the cars are the same by virtue of being appropriately connected, I have subtly changed the focus of our initial investigation. The individual *train cars* are not numerically identical to one another; the engine is not identical to the coal car. And if by 'same train', I mean 'train car', the various trains cars are not numerically identical to one another. But I don't mean this when asking whether the cars are identical. What I mean to ask is whether the train that the engine is part of is numerically identical to the train that the final carriage is part of. Likewise, I can ask whether the body that has my left hand as a part is numerically identical to the body that has my right as a part. When I ask this, I am not asking whether my left and right hands are identical to one another. I am asking whether they are parts of bodies that are numerically identical to one another. 
+When I claim that the cars are the same by virtue of being appropriately connected, I have subtly changed the focus of our initial investigation. The individual *train cars* are not numerically identical to one another; the engine is not identical to the coal car. And if by 'same train', I mean 'train car', the various trains cars are not numerically identical to one another. But I don't mean this when asking whether the cars are identical trains. What I mean to ask is whether the train that the engine is part of is numerically identical to the train that the final carriage is part of. Likewise, I can ask whether the body that has my left hand as a part is numerically identical to the body that has my right hand as a part. When I ask this, I am not asking whether my left and right hands are identical to one another. I am asking whether they are parts of bodies that are numerically identical to one another. 
 
 Asked in this way, what we would like to know is whether the train cars compose one and the same train, are they parts of the same train. To answer this question, we must decide whether the carriages are appropriately related to one another so as to compose a whole train. Likewise, instead of asking in virtue of what the various stages of person's life are identical to one another, we can ask in virtue of what all these stages compose one and the same person. On this view, the baby and adult are numerically distinct person stages, but they  are stages of one and the same person as it weaves its way through time. 
 
 ## Psychological Continuity--Version 1
-Just as some connection between the train cars explained why they compose some one train, so too there must be some connection between person stages if they are to compose some one person. In his 'Essay on Human Understanding' John Locke articulated one famous answer: 
+Just as some connection between the train cars explains why they compose some one train, so too there must be some connection between person stages if they are to compose some one person. In his 'Essay on Human Understanding' John Locke articulated one famous answer: 
 
 > “For as far as any intelligent being can repeat the idea of any past action with the same consciousness it had of it at first, and with the same consciousness it has of any present action; so far it is the same personal self.” John Locke (§10)
 
@@ -54,7 +51,7 @@ Factual memories, memories that many can share, differ from *personal memories*.
 
 ![image](leo.jpg)
 
-So consider the image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he has personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view, then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
+So, consider the image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he has personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view, then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
 
 ## Objections to Version 1
 
@@ -62,13 +59,13 @@ While version 1 of the psychological continuity theory seems plausible, it is no
 
 1. Leo = Leonardo if and only if Leo remembers everything that Leonardo experienced.
 2. Leo does not remember what Leonardo ate for breakfast on the second day after his 12th birthday, though Leonardo certainly had the experience of eating something
-3. Leo $\neq$ Leonardo
+3. Leo # Leonardo
 
 Our first premise is an application of the first version of our third theory, which states that a person existing at one time is identical to existing at some earlier time just if the later person remembers all the earlier person's experiences. So, if the younger person ate a cake, the older person is identical to them only if they remember the experience of eating that cake. 
 
 Our second premise is trivial. Can you remember every experience you ever had? I cannot! I remember important life events, special moments with friends and family, etc. But I certainly do not remember what I ate for lunch, on say, June 11th, 1995. No idea! 
 
-3 states our conclusion: Leo is not identical to Leonardo. This is clearly false, so there must be a problem with our first two premises. It should be fairly obvious to you why this simple version of our third theory fails. It is far too demanding. It requires you to have complete and perfect memory, and while a few lucky individuals have such a facility, the majority of us do not. And even though you may have forgotten what you ate the day after your 12th birthday, you are still numerically identical to your 12 year old self. 
+3 states our conclusion: Leo is not identical to Leonardo. This is clearly false, so there must be a problem with our first two premises. It should be fairly obvious to you why this simple version of our third theory fails. It is far too demanding. It requires you to have complete and perfect memory. And, while a few lucky individuals have such a facility, the majority of us do not. Nevertheless, even though you may have forgotten what you ate the day after your 12th birthday, you are still numerically identical to your 12 year old self. 
 
 ## Psychological Continuity Theory-Version 2
 
@@ -80,7 +77,7 @@ By 'psychological continuity', we mean that there is a chain of person-stages co
 
 ![image](letters.jpg)
 
-F, our oldest stage, remembers what the slightly younger stage, E, experienced. However, F does not remember what an even younger stage, D, experienced, but E does remember D's experiences. So, on our sophisticated version of the theory, F is identical to D; not by remembering D's experiences, but by remembering E's experiences who in turn remembers D's experiences. The chain can continue backward as follows:  
+F, our oldest stage, remembers what the slightly younger stage, E, experienced. However, F does not remember what an even younger stage, D, experienced, but E does remember D's experiences. So, on our sophisticated version of the theory, F is identical to D; not by remembering D's experiences, but by remembering E's experiences, who in turn remembers D's experiences. The chain can continue backward as follows:  
 
 + F remembers what E experienced.
 + E remembers what D experienced.
@@ -111,13 +108,11 @@ It might be tempting to distinguish genuine from fake memories by appeal to the 
 + If two persons A and B both have an experience as though
 they remember the experiences of some person C, then the memory of A (or B) is genuine and not fake only if A (or B) is identical to C.
 
-On this view, what makes a memory genuine is that the person who has the memory is identical to the person who had the relevant experience, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who had the experience of eating the salad. 
+On this view, what makes a memory genuine is that the person who has the memory is identical to the person who had the relevant experience, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who had the experience of eating the salad. But if we try to distinguish genuine from fake memories in this way *and* use memory to explain personal identity, then we commit a simple logical mistake, namely it is circular to make both of these claims:
 
-But if we try distinguish genuine from fake memories in this way *and* use memory to explain personal identity, then we commit a simple logical mistake, namely it is circular to make both of these claims:
+1.  A = C because A really remembers what C experiences.
 
-1.  A = C only if A really remembers what C experiences.
-
-2.  A really remembers what C experiences only if A = C.
+2.  A really remembers what C experiences because A = C.
 
 Claim 1 explain personal identity in terms of genuine memories. But claim 2 explains genuine memory in terms of personal identity. This is an instance of what is called circular reasoning. You can see a famous example of this type of mistake illustrated in this diagram: 
 
@@ -133,4 +128,4 @@ Both Thomas and William seem to have genuine memories of Riker's experiences. Bo
 
 
 ## Conclusion
-Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the Presocratics over two millennia ago. Some questions just take many lifetimes to answer. Questions about what persons are and what our identity consists in could easily be one of those.
+Impasse! I hope you have enjoyed your introduction to this topic. Don't be disheartened that we don't know yet what personal identity consists in. Physicists are still learning about the basic constituents of matter and they have been studying that since at least the time of the Presocratics over two millennia ago. Some questions just take many lifetimes to answer. Questions about what persons are and what our identity consists in could easily be a question that takes many more years to answer.
