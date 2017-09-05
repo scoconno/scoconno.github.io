@@ -152,4 +152,7 @@ Consider a scenario in which a series of souls flow into and out of the same bod
 In this scenario, different souls continually replace one another in the same body. Perhaps the souls are paying visitors interested in seeing out of a material being's eyes. As they souls are exchanged, there is no change in which psychological traits are exemplified; the creature acts, reacts, and speaks in exactly the same way. Since souls can be exchange without a corresponding change in psychological traits, same psychology does not entail same soul.
 
 
-...*to be continued*...
+*...to be continued...*  
+
+
+
