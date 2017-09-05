@@ -186,6 +186,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Kant's Ethics](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
 	+ [Crash Course on Kant](https://www.youtube.com/watch?v=8bIys6JoEDw)
 	+ [Crash Course on Aristotle](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=38)
+
 ---
 
 **Week 15**
