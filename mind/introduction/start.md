@@ -34,7 +34,7 @@ I occasionally have students report that their computer crashes one minute befor
 
 2. Read ch.1 of the textbook, on this week's list of materials, as well as my introduction to the course under 'notes'. 
 
-3. There are no assignments in this first week. Familiarize with the website and materials. Contact me if you have questions about the policies. And get ready to start with the 
+3. There are no assignments in this first week. Familiarize with the website and materials. Contact me if you have questions about the policies. And get ready for next week!
 
 ## Broken links
 
