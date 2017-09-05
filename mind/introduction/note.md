@@ -3,10 +3,6 @@ layout: mindweekly
 title: Introduction
 ---
 
- 
-
-
-
 
 
 ## Introduction
