@@ -4,7 +4,7 @@ title: Introduction
 ---
 
 ## Start Here
-+ Mechanics
++ [Click this link](start)
 
 ## Reading
 + [Kim, ch.1](kim1and2.pdf)
