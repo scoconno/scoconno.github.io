@@ -2,18 +2,18 @@
 layout: default
 title: Essay
 ---
-## E-mailing your younger self
+## An e-mail from your future self
 
 ### Introduction
 
-Our beliefs and values change over time. Some think that marriage is essential to a flourishing life and then find themselves thinking a solitary life the best. Some think that money is the only thing of value, but come to realize that, for them, family trumps wealth. Some are atheists when they are young, but find God later in life. Still others follow the religion of their parents and abandon it when they become adults. You too have changed over time. There is some belief your younger self held that you no longer share. It may concern politics, or the nature of a meaningful life, or the nature of friendship, or God, or your ethical requirements, or the nature of the mind, etc. You will have changed your mind about at least one thing!
+Our beliefs and values change over time. Some think that marriage is essential to a flourishing life and then find themselves thinking a solitary life the best. Some think that money is the only thing of value, but come to realize that, for them, family trumps wealth. Some are atheists when they are young but find God later in life. Still others follow the religion of their parents and abandon it when they become adults. You too have changed over time and will continue to do so. 
 
+In this assignment, you will imagine that you have received an email from your future self. They have a surprise in store! You will come to suspect one of your current **political** or **ethical** beliefs. Your older self will explain why they now think that belief is false and encourage you to abandon it.  
 
 
 ### Purpose 
 
 The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
-
 
 1.  Identifying your own beliefs about important philosophical topics.
 
@@ -23,26 +23,22 @@ The purpose of this assignment is to help you practice the following skills that
 
 ### Task
 
-Write an e-mail to your younger self. This email must include the following: 
+Write an e-mail from your future self. This email must include the following: 
 
-1. Identify the belief your younger self holds that you no longer do. 
-2. Identify how that belief shaped your younger self. You can do this by, for instance, identifying how this belief affected their relationships, education, career choices, etc. 
-3. Tell your younger self why they likely hold this belief, i.e., identify the reasons they have for thinking it true. 
-4. Explain to your younger self why you now think that belief is false. 
+1. Identify the **political** or **ethical** belief you hold in the present that your older self abandons.   
+2. Argue that the **political** or **ethical** belief you currently hold is false, i.e., you must provide reasons for thinking the your current belief is false. 
 
+**NB:** You are writing in the voice of someone from the future. They really think that your current **political** or **ethical** belief is false. So, feel safe in the pretense. You are trying to imagine someone convincing you that your belief is false; you are taking their perspective and temporarily suspending your own. 
  
 ### Word Count
 
- 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
+500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points. 
 
 ### Further Instruction 
 
 + This assignment covers material contained in Ch.1.
-+ This is an e-mail. Include all appropriate headings, salutations, etc. 
-+ You are writing to your younger self. Talk directly to them, not to me. Imagine what you would say to your younger self and how you might convince them to change their minds. 
++ This is an e-mail. Include all appropriate headings, salutations, etc.  
 + Use simple examples. 
-
- 
 
 ### Due Date
 Please consult the syllabus and course website for the due date.
@@ -59,11 +55,7 @@ Please review the plagiarism policy on the syllabus. It is critical that you pre
 
 Submit your works by first clicking on the relevant assignment in Blackboard. Click on 'browse computer' and upload your document as a .doc, .rtf or .pdf file. Please use 'attach document'. Do not send it to me by e-mail or through Blackboard's messaging application. 
 
-### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
 
-### Resources
-Please find links to writing resources [here](/Teaching/Resources/)
 
 
 
