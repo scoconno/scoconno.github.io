@@ -21,6 +21,8 @@ It's important to reflect on what you can expect to learn by taking a course in 
 
 Learning philosophy is not easy. Many shy away from examining their deep convictions. For those who do not, the process is difficult, but rewarding. The effects of this education were famously described in 'The Republic', by Plato in his famous *Allegory of the Cave*. You will find an animated version of that allegory [here](https://www.youtube.com/watch?v=h55X9LJTAg4).
 
+![image](cave.jpg)
+
 Plato describes a group of people who have been born and raised in a cave. They live their lives shackled to the floor, their heads locked facing in one position. All they can see are shadows cast on the wall in front of them. Since they can't turn their heads, they cannot see the things the shadows are of. Imagine a baby that had only ever seen holograms. They would never think the holograms were anything but real. The cave dwellers make a similar mistake. 
 
 Plato compares the state the cave dwellers are in to the position most of us are in our ordinary lives. You already have beliefs. You have beliefs about whether God does or doesn't exist. You have beliefs about what's moral. For instance, you already have beliefs about whether it's morally permissible to cheat on your partner. You have beliefs about what counts as a life well lived and about lives that fall short of that. For instance, you already have a belief as to whether a life devoted to taking drugs is a life well lived. Plato thinks that these beliefs have been formed passively, formed because we have been brought up in ways that rarely gave us pause to question their veracity.  
