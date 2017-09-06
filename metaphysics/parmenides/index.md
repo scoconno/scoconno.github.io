@@ -7,4 +7,4 @@ title: Parmenides' Challenge
 ## Reading
 
 + ['On Nature',](text) Parmenides
-+ ['Presocratic Themes',](Pres) D. Sedley 
++ ['Presocratic Themes',](Pres.pdf) D. Sedley 
