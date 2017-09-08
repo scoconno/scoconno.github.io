@@ -1,4 +1,4 @@
-## Mechanics
+Mechanics
 
 There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. One exception is the final week, which will become live on a Friday.  Each week will include some combination of the following: 
 
