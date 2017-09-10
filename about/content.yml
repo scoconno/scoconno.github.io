@@ -73,11 +73,13 @@ articles:
  # publisher: "Right"
 
 #progress:
-#-  title: \enquote{Persistence in Aristotle's \emph{Physics}  I--II}
-#  journal: \emph{Journal of the History of Philosophy}, 
-#  issue: (revised and resubmitted)
-
-
+#- title: \enquote{On Persistence in Aristotle}
+#  journal: 
+#  issue: \emph{final draft}
+  
+#- title: \enquote{Substantial Change and Alteration in  Aristotle's \emph{Generation and Corruption}\ I}
+#  journal: 
+#  issue: \emph{full draft}
 
 invited:
 
@@ -90,6 +92,13 @@ invited:
   month: March\textdagger
   title: \enquote{Aristotle's Objection to Pluralism in \emph{Generation and Corruption}\ I}
   place: First Dublin Graduate Conference in Ancient Philosophy, \emph{``Physis and Psyche in Ancient Philosophy, Causes, Generation, and Change'',} TCD/UCD, Dublin, Ireland
+
+#- year: 2017
+#  month: April*
+#  title: \enquote{Notes on Aristotle's \emph{Metaphysics}\ 8.6}
+#  place:  Graduate seminar, Yale, New Haven,  CT 
+
+
 	
 - year: 2016
   month: May*
@@ -110,6 +119,11 @@ invited:
   month: October\textdagger
   title: \enquote{The Principles and Elements of Nature in Aristotle's \emph{Physics}\ I}
   place: The Society for Ancient Greek Philosophy, Fordham University, NY
+
+#- year: 2015
+#  month: April
+#  title: \enquote{Some Stuff and Things}
+#  place: Adventures in Philosophy, NJCU, NJ
 
 - year: 2015
   month: April\textdagger
@@ -198,7 +212,7 @@ teaching1:
 - number: phil 207
   title: Ethics-Happiness, Friendship, and the Good Life (biannually)  
 - number: phil 101
-  title: Persons & Problems  (online, every semester and summer)
+  title: Persons & Problems  (online, most semesters and summers)
 - number: phil 140
   title: The Examined Life (most semesters)
 - number: phil 120
@@ -223,8 +237,8 @@ teaching2:
   title: Time
 
 service:
-# - year: Referee Work
-#  post: Epoché, A Journal for the History of Philosophy
+#- year: Referee Work
+#  post: Epoché
 - year: 2016-present
   post: SGO Global Citizens Scholarship Application Review Committee, NJCU
 - year: 2016-present
