@@ -19,7 +19,7 @@ title: Metaphysics
 
 ## Modules
 
-Please refer to the syllabus for a weekly schedule of readings and assignments. 
+Please refer to the syllabus for a weekly schedule of readings and assignments. Changes will be announaced through Blackboard. 
 
 
 <ul>
