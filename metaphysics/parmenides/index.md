@@ -19,4 +19,4 @@ title: Appearance & Reality
 
 + Optional
   + [*Aristotle*](shields.pdf), selections, C. Shields
-  + ['The Subjects of Natural Generations in Aristotle's *Physics* 1.7,](subjects.pdf) S. O'Connor
+  + ['The Subjects of Natural Generations in Aristotle's *Physics* 1.7',](subjects.pdf) S. O'Connor
