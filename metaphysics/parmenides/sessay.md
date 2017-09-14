@@ -1,8 +1,8 @@
 ---
 
-layout: metaphysics
+layout: metweekly
 
-title: short essay 1
+title: Short Essay 1
 
 ---
 
