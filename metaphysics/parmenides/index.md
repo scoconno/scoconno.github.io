@@ -23,5 +23,5 @@ title: Appearance & Reality
   + ['The Subjects of Natural Generations in Aristotle's *Physics* 1.7',](subjects.pdf) S. O'Connor
 
 ## Assignments
-+ [Short essay 1:](sessay) eachof the 7  modules contains a short essay. You must complete 5 of these over the semester. If you complete more than 5, I will drop the lowest grades. See the syllabus for full details on due dates, requirements, etc.
++ [Short essay 1:](sessay) each of the 7  modules contains a short essay. You must complete 5 of these over the semester. If you complete more than 5, I will drop the lowest grades. See the syllabus for full details on due dates, requirements, etc.
 + Long essay--please note that I will include a prompt for a long essay in each module. See the syllabus to understand what these are, when they are due, and how many you must complete. 
