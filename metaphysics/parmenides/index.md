@@ -1,7 +1,6 @@
 ---
 layout: metweekly
 title: Appearance & Reality
-
 ---
 
 ## Parmenides' Challenge
@@ -20,7 +19,7 @@ title: Appearance & Reality
   + ['The Eleatic Challenge in Aristotle's *Physics* 1.8',](eleatic.pdf) S. O'Connor
 
 + Optional reading
-  + [*Aristotle*](shields.pdf), selections, C. Shields
+  + [*Aristotle*,](shields.pdf) selections, C. Shields
   + ['The Subjects of Natural Generations in Aristotle's *Physics* 1.7',](subjects.pdf) S. O'Connor
 
 ## Assignments
