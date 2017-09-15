@@ -1,12 +1,11 @@
 ---
 layout: metweekly
-title: Parmenides' Challenge
+title: On Nature
 
 ---
 
 
-
-Note that I have divided the text into chunks, added some titles, and notes to help us read it. I also labelled a few of the most important lines for easy reference. Obviously, none of these markings are in the original.  
+(Note that I have divided the text into chunks, added some titles, and notes to help us read it. I also labelled a few of the most important lines for easy reference. Obviously, none of these markings are in the original.) 
 
 ## The Introductory Phase
 

@@ -11,6 +11,14 @@ title: Appearance & Reality
 + Optional reading
    + ['Presocratic Themes',](Pres.pdf) D. Sedley 
    + ['Parmenides',](https://plato.stanford.edu/entries/parmenides/) SEP entry
+  
++ Optional videos
+	+ [Susan Sauve Meyer on Parmenides' Prohibition](https://www.youtube.com/watch?v=c-LfIxda0fs)
+	+ [Susan Suave Meyer on Parmenides' vs change](https://www.youtube.com/watch?v=OX6fIvT7yJo)
++ Notes
+	+ [Lecture notes](notes)
+
+
 
 ## Responses to Parmenides
 
@@ -21,6 +29,10 @@ title: Appearance & Reality
 + Optional reading
   + [*Aristotle*,](shields.pdf) selections, C. Shields
   + ['The Subjects of Natural Generations in Aristotle's *Physics* 1.7',](subjects.pdf) S. O'Connor
+ 
++ Optional video
+	+ [Susan Suave Meyer on Empedocles](https://www.youtube.com/watch?v=NbecyxOJ3bM)	
+	+ [Susan Suave Meyer on other presocratics](https://www.youtube.com/watch?v=lkgmb2g928Q)
 
 ## Assignments
 + [Short essay 1:](sessay) each of the 7  modules contains a short essay. You must complete 5 of these over the semester. If you complete more than 5, I will drop the lowest grades. See the syllabus for full details on due dates, requirements, etc.

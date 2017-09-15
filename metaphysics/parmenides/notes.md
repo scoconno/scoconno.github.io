@@ -4,6 +4,8 @@ title: Parmenides' Challenge
 
 ---
 
+## Introduction
+
 Parmenides of Elea, current day Italy, was active in the earlier part of the 5th c. BCE. He is part of a school of philosophy called the *Eleatics*. We will learn about his student Zeno later in the course. 
 
 
@@ -21,126 +23,105 @@ Here is what the poem looks like in the original Greek.
 8. κύκλοις ἀμφοτέρωθεν, ὅτε σπερχοίατο πέμπειν  
 9. ἡλιάδες κοῦραι προλιποῦσαι δώματα νυκτὸς  10. ἐς φάος, ὠσάμεναι κράτων ἄπο χερσὶ καλύπτρας.
 
-Unfortunately, the full poem has not survived. What has survived are various fragments that have been copied and passed on. These fragments allow us a good understand of the poem, which is now standardly taken to have contained three parts. The first part is called the 'proem', a kind of introductory phase in which Parmenides describes a mystical trip to the halls of a Goddess, most likely the Goddess Nyx (night). The Goddess describes to Parmenides three roads of inquiry and argues that only one road will lead to the truth. The second part of the poem argues that the road of truth involves inquiry into 'what is' or 'being'. Two other roads are rejected, inquiry into 'what is not' or 'non-being' and the inquiry into 'what is and is not', the road of mortals. Whatever the correct the interpretation, the Goddess thinks that any judgement that concerns either directly or indirectly non-being is false. The third part of the poem concerns the way humans normally think the universe and everything in it comes into being and passes away. I do not include that below.  
+Unfortunately, the full poem has not survived. What has survived are various fragments that have been copied and passed on. These fragments allow us a good understanding of the poem, which is now standardly taken to have contained three parts. The first part is called the 'proem', a kind of introductory phase in which Parmenides describes a mystical trip to the halls of a Goddess, most likely the Goddess Nyx (night). The Goddess describes to Parmenides three roads of inquiry and argues that only one road will lead to the truth. The second part of the poem argues that the road of truth involves inquiry into 'what is' or 'being'. Two other roads are rejected, inquiry into 'what is not' or 'non-being', and the inquiry into 'what is and is not', the road of mortals. Whatever the correct the interpretation, the Goddess thinks that any judgement that either directly or indirectly concerns non-being is false. The third part of the poem concerns Parmenides' view on the cosmology that contains fewest mistakes. I do not include that below.  
+
+Before tackling the poem, it is important to recognize that Parmenides holds radical views. We can perhaps agree with him that there is a different between how something appears and how something really is. After all, all of us have had the experience of something appearing one way, but discovering that we were mistaken. Perhaps you were ill and believed what was, in reality, a cold room to be very hot. Or, perhaps you saw or heard something when really tried that was not really there at all. There is no difficulty in accepting that our appearances are sometimes mistaken. But, Parmenides goes further and claims that all of our appearances are mistaken, at least all our appearances of a world populated by discrete, changing, and temporary beings. 
+
+This claim may seem radical and it is. But it has some affinities to some of the main commitments of Hinduism and perhaps Buddhism. According to Vedanta school of Hinduism, the world of appearance is the world of maya, the presentation of things that come in and out of existence, alter, and move. It is the world in which many different beings appear to exist. But maya in this tradition is also a false world. The Vedanta school believes that true reality is brahman, which is unchanging, whole, and eternal. Spiritual practices were developed to help us  overcome maya, help us rid of ourselves of the delusion that the world of appearance is the real world (and also the apparent delusion that we each are separate beings). So, if Parmenides is radical, then so is anyone whose religious practice focuses on ridding what they take to be their belief in the world of appearance.  
 
 
-Summary
+## Summary of Parmenides' Strategy
 
-1. He wants to argue that nothing can (i) be created or destroyed, (ii) alter, grow, or, move, (iii) be divided into parts (iv) be incomplete, i.e., lacking in some size. 
-2. He wants to argue that since i-iv are true, the only thing that exists is being itself that lacks these tratits. This is called monism. 
-3. His argument for 1 relies on the claim that each predicate, or property, would entail the existence of non-being, i.e., a location that the sphere is not, a time when the baby is not.
+While the argument is difficult, the general strategy is clear: 
+
+1. Parmenides wants to argue that nothing can (i) be created or destroyed, (ii) alter, grow, or, move, (iii) be divided into parts or from any other being, (iv) be incomplete, i.e., lacking in some size. 
+2. He wants to argue that since i-iv are true, the only thing that exists is something that lacks these traits, i.e., he wants to argue for monism, the claim that only one thing exists.  
+3. His argument for 1 relies on the claim that each predicate mentioned in (i)-(iv) would entail the existence of non-being, i.e., a location that the sphere is not, a time when the baby is not.
 4. His argument against non-being relies on some relationship between thought/language and its referents. 
 
 
-
-We want to understand 4, before seeing how he can use it to support 1. 
+The interpreter's main task is to properly identify why he thinks that we cannot think about non-being *and* show how this claim allows him for monism. 
 
 
 
 ## Argument for 1
 
-1. A thing can be thought about only if it is possible for it to exist. 
-2. Anything that does not exist, cannot exist. 
-3. Therefore, anything that can exist, does exist...from 2.
-4. Therefore, a thing can be thought about only if it exists...from 1 and 3
-5. Therefore, anything that does not exist, cannot be thought about....from 4
+Perhaps the simplest version of Parmenides' argument for (1) is as follows: 
 
++ P1. If X exists, then X is a possible object of thought. 
++ P2. If X is a possible object of thought, then X exists. 
++ C1. Therefore, if X does not exist, then X cannot be thought about.
 
+Premise 1 (P1) tells us that any existing thing must be a possible object of thought. By *possible object of thought*, I do not mean that someone must actually have that thought. For instance, dinosaurs are possible objects of thoughts. This does not mean that there are people actually thinking about dinosaurs. It means that nothing about the nature of dinosaurs prevents them being thought about. To put this metaphorically: if God exists, then nothing about dinosaurs would prevent him thinking about them. Contrast this to, say, being the object of taste. Many things are not possible objects of taste, e.g., the number 3, sentences, etc. The reason they are not objects of taste lies in their nature; they cannot interact with a tongue and generate a taste sensation. 
 
-> When you think, you think of something; when you use a name, it must be the name of something. Therefore both thought and language require objects outside themselves. 
+So, P1 is making the very minor point that existing things are such that they can be thought about. This seems very plausible. I challenge you to think of an existing thing that cannot be thought about! 
 
+The difficult premise is premise 2 (P2). Parmenides assume that any possible object of thought must also some entity that really exists. If you successfully think about Santa Clause--if Santa is a possible object of thought--, then Santa Clause really exists. Why Parmenides accept such a radical claim?  Bertrand Russell tried to explain it as follows: 
 
+> When you think, you think of something; when you use a name, it must be the name of something. Therefore both thought and language require objects outside themselves. (Bertrand Russell)
 
-+ A name is meaningful only if it refers to something that possible exists. 
-+ A proposition/sentence is meaningful only if the names within the sentence are meaningful.
-+ A proposition is true/false only if it is meaningful
+Russell has in mind here a simple argument: 
++ P3. A name is meaningful only if it refers to something that possibly exists. 
++ P4. A proposition is meaningful only if the names within that sentence are meaningful.
++ P5. A proposition is true or false only if it is meaningful
++ C2. Therefore, a proposition containing an empty name---a name which does not refer---is meaningless and so neither true or false. 
 
+P3 says simply that the meaning of name is its reference. Consider the name 'Barack Obama'. P3 says that the meaning of this name is just the man the name refers to. So too the name 'New Jersey City University'. It's name is just the institution that it refers to. If P3 is true, then the meaning of the name, 'Santa Clause' just is the person that it refers to. But, unfortunately, Santa does not exist. Thus, the name does not have a meaning. 
 
+Consider now the sentence,'Santa Clause lives in the North Pole'. Is this sentence true? P5 tells us that a sentence can be true (or false) only if it is meaningful. But P4 tells us that the a sentence can be meaningful only if the names within that sentence have meaning. Since our sentence contains an empty name, it is meaningless. Thus, it cannot be true. 
 
-*Examples*
+One way to make this problem acute is to consider sentences that explicitly deny that something exists, which might be Parmenides' real worry. Suppose you believe that Santa Clause does not exist. If you believe this, then you think that the following sentence is true: 
 
-+ Santa-Clause
+>  'Santa Clause does not exist.' 
 
-+ Easter Bunny
+(Note that philosophers put a single quotation mark around a phrase in order to indicate they are speaking about the sentence and not the referent of the sentence). 
 
-+ 'Santa Clause lives in the North Pole'
+Is the sentence true? P5 tells us that it can be true only if it is meaningful. P4 tells us that it is meaningful only if the names it contains are meaningful, e.g., if 'Santa Clause' is meaningful. And P3 tells us that the meaning of a name is what it refers to. 
 
-+ 'Socrates lives in Hades'
+So, if our sentence is meaningful, then the name 'Santa Clause' has a referent, its meaning is the person it refers to. Therefore, if our sentence is meaningful, it is false. It is false because there is an existing thing that the name refers to. If, however, the name has no meaning, then the whole sentence is meaningless. And, if the whole sentence is meaningless, P5 tells us that the sentence can be neither true nor false. Thus, if the name has no referent, the claim that 'Santa Clause does not exist' is meaningless. The upshot is that we cannot meaningful assert a true denial of Santa's existence. This applies generally: you cannot both meaningfully assert that something does not exist and, at the same time, be speaking truly. S. Marc Cohen makes the point in this wonderful way: 
 
-  ​
-
-  **Or perhaps this is the worry**
-
-+ Is the sentence 'Santa Clause does not exist' true? 
-
-+ To be true, it must be meaningful. 
-
-+ To be meaningful, the names must refer. 
-
-+ If 'Santa Clause' refers, Santa Clause exists. 
-
-+ If Santa Clause exists, the sentence 'Santa Clause does not exist' is false.
-
-+ If  Santa Claus does not exist, the sentence 'Santa Clause does not exist' is not meaningful, and thus neither true nor false
-
-+ General  idea: you cannot both meaningfully assert that something does not exist and, at the same time, be speaking truly. 
-
->    “*x* does not exist” is not true unless *x* does not exist. But if the subject of a statement does not exist, the statement is not meaningful. The problem with negative existentials is this: a necessary condition of their truth is a sufficient condition of their meaninglessness.
-
-
-## Upshot
-
-1. x can be *successfully* thought and/or talked about if and only if x exists.
-
-2. If x does not exist, then x cannot be *successfully* thought and/or talked about.
-
-3. If x does not exist and you believe that you have *successfully* thought or talked about x, then your belief is false. 
-
-
-
+> “*x* does not exist” is not true unless *x* does not exist. But if the subject of a statement does not exist, the statement is not meaningful. The problem with negative existentials is this: a necessary condition of their truth is a sufficient condition of their meaninglessness. (S. Marc Cohen)
 
 
 ## Signs of Truth
 
+Keep fixed this upshot as we continue. Call it U: 
+: If X does not exist and you believe that you have *successfully* thought or talked about X, then your belief is false. 
+
+Parmenides will use U to generate some remarkable claims about the true nature of reality. His strategy consists in showing how various ordinary beliefs about the world assume that something does not exist, i.e., in showing that a variety of ordinary beliefs violate U. I present these below, but I won't add much commentary. It's relatively straightforward to see how U figures in the arguments. I will use Socrates as an example, but the arguments can be applied to anything whatsoever. 
 
 
 ### 1. Generation & Destruction
 
-+ If Socrates comes into existence, then he comes into existence from either (1) previously not-existing or (ii) previously existing.
-
-+ (ii) is not a genuine case of coming into existence. 
-
-+ (i) is impossible
-
-  + If Socrates comes from a time when he, Socrates, did not exist, then it must be possible to think and say that there is a time when Socrates did not exist. 
-
-  + It is impossible to think and say that Socrates did not exist (for it is impossible to think and say that anything does not exist)
+1.  If Socrates comes into existence, then there is a time when Socrates did not exist.
+2.  If there is a time when Socrates did not exist, then it must be possible to think and say that Socrates did not exist. 
+3.  It is impossible to think and say that Socrates did not exist (for it is impossible to think and say that anything does not exist).
+4.  Therefore, Socrates did not come into existence. 
 
 
-
-Consequence for Time:
-
+*Consequence for Time*:
 : If there is no generation and no destruction, then there can be no temporal difference
-
-
 
 > Nor was it ever nor will it be, since it is now, all together, one, holding together. ... it is right either fully to be or not.
 
-+ If time 1 differs from a later time 2, then time 1 has gone out of existence and time 2 has come into existence. 
-+ The claim that time comes into or out of existence could mean either that temporal moments are entities that come into or go out of existence, or it could mean that the state of the universe as a whole comes into or out of existence. 
-
-
+1. If time 1 differs from a later time 2, then time 1 has gone out of existence and time 2 has come into existence. 
+2. If time 1 has gone out of existence, it must be possible to think and say that time 1 does not exist. 
+3. It is impossible to think and say that time 1 does not exist (for it is impossible to think and say that anything does not exist). 
+4. Therefore, time 1 has not gone out of existence. 
+5. Therefore, time 1 does not differ from any later times. 
+ 
+The claim that time comes into or goes out of existence could mean either that temporal moments are entities that come into or go out of existence, or it could mean that the state of the universe as a whole comes into or out of existence. 
 
 ## 2. Change 
 
 ### Alteration: change in qualities
 
-1. If Socrates learns music, then he has changed from being unmsuical to being musical. 
-2. If Socrates learns music, then his unmusicality--unmusical Socrates--goes out of existence and his musicality--musical Socrates--comes into existence.
-3. The changes described in 2 involve generation & destruction, which are both impossible.
-4. Therefore, Socrates cannot learn music.  
+1. If Socrates sickens, then he has changed from being healthy to being sick. 
+2. If Socrates changes from being healthy to being sick, then his health goes out of existence and his sickness comes into existence.
+3. The changes described in 2 involve generation & destruction, which are both impossible (for it is impossible to think and say that anything does not exist).
+4. Therefore, Socrates cannot sicken.  
 
-*What is meant to go out of existence:* (i) the property, e.g, being red, warm, etc., (ii) The state that Socrates is someway, e.g., that Socrates is red, that Socrates is warm, etc. (ii) The unusual object that has Socrates and the property as parts, e.g., the-warm-Socrates, the-red-Socrates, etc. 
+*What goes out of existence in these cases:* (i) the property, e.g, being healthy, being red, being warm, etc., (ii) The state that Socrates is someway, e.g., that Socrates is healthy, that Socrates is red, that Socrates is warm, etc. (ii) The unusual object that has Socrates and a property as parts, e.g., the-healthy-Socrates, the-warm-Socrates, the-red-Socrates, etc. 
 
 
 ### Movement: change in location
@@ -149,151 +130,56 @@ Consequence for Time:
 
 1. If Socrates moves to location 2 from location 1, then there is some time when location 2 is empty. 
 2. If location 2 is empty, then location 2 is nothing. 
-3. Location 2 cannot not be, i.e., location 2 cannot be a non-existent thing. 
+3. Location 2 cannot be a non-existent thing. 
+4. Therefore, Socrates cannot move to location 2.
 
 *Version 2*
 
-1. If Socrates moves from location 1 to location 2, then Socrates is at location 1 at one time and location 2 at a different time. 
-2. Socrates can occoupy different locations only if times exist. 
+1. If Socrates moves from location 1 to location 2, then Socrates is at location 1 at one time and location 2 at a different time.  
 3. Time does not exist. 
-4. Therefore, Socrates cannot move. 
-
-
+4. Therefore, Socrates cannot move from location 1 to location 2. 
 
 
 ## 3. Completeness ##
 
 1. If Socrates occupies some location, but not all locations, there is some location where he is not
-2. ...
-
-
-
+2. If there some location where he is not, then that location does not exist. 
+3. That is impossible. 
+4. Therefore, Socrates must occupy all locations. 
 
 
 ### 4.  Plurality
 
 *Version 1*
-1. If  x and y are numerically distinct,, then something, a,  must separate x and y. 
-2. a cannot be nothing. 
-3. Thefore, a is some existing thing. 
-4. If a is some existing thing, then something, b, must separate x and z, and something, c, must separate y and z. 
-5. b and c cannot be nothing. 
-6. Therefore, b and c are some existing things. 
-7. ...x and y are not numerically distinct.
+1. If X and Y are numerically distinct, then something, A,  must separate X and Y. 
+2. A cannot be nothing. 
+3. Therefore, A is some existing thing. 
+4. If A is some existing thing, then something, B, must separate X and A, and something, C, must separate Y and A. 
+5. B and C cannot be nothing. 
+6. Therefore, B and C are some existing things. 
+7. By similar reasoning, X and Y are never separated from other beings.
+8. Therefore, X and Y are not numerically distinct. 
 
 
 *Version 2*
 
 1. If there were two things, say Superman and Batman, it would be true to say that one of them is not the other.
-2. ?
-3. ?
-4. ?
+2. If Superman is not Batman, then it must be possible to think of not-Batman. 
+3. It is not possible to think of not-Batman.
+3. Therefore, Superman are numerically identical. 
 
+*Version 3*
 
-  *Version 3*
-
-  1. If there were two things, say Superman and Batman, there would property, P, such that Superman had P and Batman did not have P
-  2. ?
-
-
-
-
-
-
-## One Simple Response: not all denials are denials of existence.
-
-
-+ The statement that Socrates **is musical** should not be analyzed as referring to the musicality of Socrates and saying of it that it exists.
-+ Likeweise, the statement that Socrates **is not musical** should not be analyzed as referring to the musicality of Socrates and saying that it does not exist.
-
-**Summary:* Claims that x is not P are not equivalent to denials of existence.
-
-
-
-
-
-The Poem begins: 
-
-- Maiden daughters of Helios, the sun God. 
-- Justice is the God who guards the gates
-- Going to Nyx, the Goddess of night, the points where Helios and Nyx cross paths.
-
-
-
-Parmenides claims that there are only  two logically coherent possibilities in any inquiry – that the subject of the enquiry exists or it does not exist. He rules out the latter as unlearnable. 
-
-What does this mean? When you begin an inquiry, you must hold an object of thought firmly in your mind and ask questions about it. You might ask things like, does it exist or not? He thinks that you cannot even entertain the possibility that the thing cannot exist and so cannot even try answer the question. 
-
-
-
-___
-
-
-
-1. ​
+1. If there were two things, say Superman and Batman, there would be some property, P, such that Superman had P and Batman did not have P
+2. If Superman does not have P, then it must be possible to think of not-P. 
+3. It is not possible to think of not-P. 
+4. Therefore, Superman and Batman are numerically identical. 
 
 
 
 
 
 
-
-## Thought
-
-- one cannot refer to what is not there to refer to.
-
-- Compare: trying to see something that is not there to be seen. It is impossible. It is true that you might hallucinate a dolphin, but there was a hallucination to see. Imagine if there were both no dolphin and no hallucination. The he would not see anything at all.
-
-- Well, reasons Parmenides (though not, of course, with Hamlet in mind), why should speech or thought be any different? We cannot see what is not there to be seen, so why should we be able to refer to what is not there to be referred to? If something does not exist, in other words, we cannot think about it and we cannot speak about it.
-
-- Because of this profound link between thinking and being, Parmenides claims we cannot make any statements of non-being. So we cannot, for instance, speak about unicorns, even to say that they do not exist. In fact, we can never claim that anything does not exist, because anything that does not exist cannot be spoken about.
-
-
-
-## The Way of Truth M
-
-
-KRS: in fr.2 the Goddess was specifying logically coherent alternatives between which rational enquirers must decide. “The third way is simply the path you will find yourself following if, like the generality of mortals, you do not take that decision through failure to use your critical powers. You will find yourself saying or implying both that a thing is and that it is not (e.g. by acknowledging change and coming into existence); and so you will wander helplessly from one of the ways distinguished in 291 to the other.”p247
-
-(iii) Signs of truth. 
-1)	that being and uncreated and imperishable it is
-2)	whole of a single kind 
-3)	unshaken 
-4)	perfect.
-
-The signs constitute formal requirements which any subject of enquiry must satisfy. 
-
-Upshot of Parmenides’ argument is a form of monism: everything there is must have one and the same character; and it is doubtful whether in fact anything could have that character except reality as a whole. 
-
-(iii) (a) Uncreated and imperishable. 
-Fr. 8: ‘It never was nor will be, since it is now, all together one, continuous.’
-I’m not sure my interpretation will work. I want to say if x is(e) F, then it could not be otherwise. But surely it was(e) F and will(e) be F. Well, wait, Parmenides could be just saying that it is not the case that now [it] which is no longer now, was before now. And likewise with will. So he might not be talking about something that is now and was also before and will be. But what about the qualification.
-But he does speak about being completely – funky. 
-
-He asks ‘how could what is be in the future’. He must be assuming that if something is in the future then it should not be now. This is surely absurd on an existential reading. But it makes sense on a Curd readings. The point is that this thing now x (which is F) could not be G in the future. Or maybe, this thing now x is a being now, so how it could it be the case that now it will only have its essence in the future. 
-
-These lines are meant to show that what is cannot come to be or perish. 
-
-(iii) (b) One and continuous. 
-KRS thinks that Parmenides intends to show that all reality is one by this thesis. I’m not sure. 
-
-Nor is it divided, since it all exists alike; nor is it more here and less there which would prevent it from holding together, but it is all full of being. So it is all continuous: for what is draws near to what is. 
-
-The reference here looks like the sortal or form. He is claiming it is homogenous. The ‘all full of being’, I think suggests that whatever the subject is has no lack or non-being. 
-
-(iii) (c) Unchangeable. 
-So he says that it is not just imperishable and doesn’t come to be but also does not alter. Interesting that he has two notions of change. 
-
-(iii) (d) Perfect.
-What is should not be imperfect (think Nehamas)
-“The same thing is there to be thought and is why there is thought.”
-
-Mortal Opinions. 
-(i)
-
-> 
-
-When you think, you think of something; when you use a name, it must be the name of something. Therefore both thought and language require objects outside themselves. And since you can think of a thing or speak of it at one time as well as another, whatever can be thought of or spoken of must exist at all times. Consequently there can be no change, since change consists in things coming into being or ceasing to be (Russell 1945, 49).
 
 
 
