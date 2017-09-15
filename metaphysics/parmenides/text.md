@@ -4,24 +4,7 @@ title: Parmenides' Challenge
 
 ---
 
-Parmenides of Elea, current day Italy, was active in the earlier part of the 5th c. BCE. He is part of a school of philosophy called the *Eleatics*. We will learn about his student Zeno later in the course. 
 
-
-'On Nature', the work we are studying, was written in hexameter verse, a standard meter for poems of this type. Homer's *Odyssey*, for instance, was written in hexameter. We will study the poem in translation, but it is near impossible to recreate this particular Greek meter in English. So, keep in mind two things: 1) the translation of ancient Greek is not easy and  the translation of several passages is contested, 2) Parmenides intended his readers to hear this as a poem. 
-
-Here is what the poem looks like in the original Greek. 
-
-
-> 1. Ἵπποι, ταί με φέρουσιν, ὅσον τ ̓ ἐπὶ θυμὸς ἱκάνοι 
-2.  πέμπον, ἐπεί μ ̓ ἐς ὁδὸν βῆσαν πολύφημον ἄγουσαι     
-3. δαίμονος, ἣ κατὰ πάντ ̓ ἄ<ν>τη<ν> φέρει εἰδότα φῶτα·     
-4. τῇ φερόμην, τῇ γάρ με πολύφραστοι φέρον ἵπποι    5. ἅρμα τιταίνουσαι, κοῦραι δ ̓ ὁδὸν ἡγεμόνευον.   
-6. ἄξων δ ̓ ἐν χνοίῃσιν ἵ<ει> σύριγγος ἀυτὴν  
-7. αἰθόμενος, δοιοῖς γὰρ ἐπείγετο δινωτοῖσιν  
-8. κύκλοις ἀμφοτέρωθεν, ὅτε σπερχοίατο πέμπειν  
-9. ἡλιάδες κοῦραι προλιποῦσαι δώματα νυκτὸς  10. ἐς φάος, ὠσάμεναι κράτων ἄπο χερσὶ καλύπτρας.
-
-Unfortunately, the full poem has not survived. What has survived are various fragments that have been copied and passed on. These fragments allow us a good understand of the poem, which is now standardly taken to have contained three parts. The first part is called the 'proem', a kind of introductory phase in which Parmenides describes a mystical trip to the halls of a Goddess, most likely the Goddess Nyx (night). The Goddess describes to Parmenides three roads of inquiry and argues that only one road will lead to the truth. The second part of the poem argues that the road of truth involves inquiry into 'what is' or 'being'. Two other roads are rejected, inquiry into 'what is not' or 'non-being' and the inquiry into 'what is and is not', the road of mortals. Whatever the correct the interpretation, the Goddess thinks that any judgement that concerns either directly or indirectly non-being is false. The third part of the poem concerns the way humans normally think the universe and everything in it comes into being and passes away. I do not include that below.  
 
 Note that I have divided the text into chunks, added some titles, and notes to help us read it. I also labelled a few of the most important lines for easy reference. Obviously, none of these markings are in the original.  
 

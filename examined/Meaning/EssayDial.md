@@ -10,11 +10,21 @@ title: Essay
 
 ### Introduction
 
-Flex your imagination. You are a dragon living in a comfortable well. It's not that obvious a well and strangers sometimes fall down it when they are not watching the path ahead. The well is also nice and slippy; you have yet to see anyone climb up who has fallen down. One day, a particularly plumb and tasty academic type falls down below. Unfortunately for you, there some roots of a tree sticking out of the walls of the tree and this potential dinner grabs onto the wall out of your reach. So, frustrating! He also seems to love honey, which is annoying given that some honey is trickling down those roots. You wish he would hurry up. Of course, the roots will break when your allies, those mice, nibble through the roots. But that takes too long. You are hungry now! So, you try to convince the victim to drop below to your waiting jaws. 
+Flex your imagination. You are a disembodied soul that has yet to see this world. You know nothing about what life you may live. You know nothing about what talents you might be born with, about whether you will be able or disabled, about whether you will be rich or poor. You do not know what country you will be born in and you know nothing about the parents you will be born to. In short, you have no idea whether you will be born to a long life of comfort and ease or a short life of pain and trouble. You could be born to a wealthy family in New York or an impoverished family in a war torn country. You don't know. 
+
+The only thing you are aware of are two angels nearby. They offer you a choice. You can choose a body, to be born, live a life and die. Or you can choose to fade away into the peaceful nothingness from which you emerged. The angels disagree about what you should do. One tries to convince you that life is meaningless, that it is better to be nothing at all than to be a being who is born, lives a while, and dies. The other disagrees. They claim that regardless of the circumstances of your life, God's existence guarantees that it will be something full of meaning and purpose. 
+
+### Purpose 
+
+The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
+
+1. 	Charitably explaining arguments for opposing claim. 
+2.  Explaining why you think one argument succeeds where another fails. 
+1.  Explaining difficult concepts in your own words. 
 
 ### Task
 
-Write a dialogue between you and the well hanger. Your dialogue must contain the following three elements:
+Write a dialogue between you and the two angels. Your dialogue must contain the following three elements:
 
 + The first angel must explain Tolstoy's initial argument that life is meaningless. This angel must discuss internal and external value.
 + The second angel must explain Tolstoy's subsequent religious conversion and argument that life is meaningful. This angel must explain in what way God's existence would address Tolstoy's initial worry.
