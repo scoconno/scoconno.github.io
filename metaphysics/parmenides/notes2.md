@@ -3,7 +3,7 @@ layout: metweekly
 title: Responses to Parmenides
 ---
 
-Parmenides' challenge was felt acutely. Scientists, natural philosophers, insisted that the world of change existed.  But, they recognized that they needed to describe a world of change that could avoid Parmenides' challenge. They took care to articulate their own views in a way that allowed them to avoid the implication that 'what is not' is, i.e., they articulated accounts of change and the changing world while avoiding saying and thinking about what is not. One interesting feature of these research projects is how radical the positions were that one needed to adopt to avoid Parmenides' challenge; Parmenides' predecessors rescued the world of change in ways that still questioned the veracity of the world of appearance. This table summarizes the various ways Parmenides' predecessors differed from him. 
+Parmenides' challenge was felt acutely. Scientists, natural philosophers, insisted that the world of change existed.  But, they recognized that they needed to describe a world of change that could avoid Parmenides' challenge. So, they took care to articulate their own views in a way that allowed them to avoid the implication that 'what is not' is, i.e., they articulated accounts of change and the changing world while avoiding saying and thinking about what is not. One interesting feature of these research projects is how radical the positions were that one needed to adopt to avoid Parmenides' challenge; Parmenides' predecessors rescued the world of change in ways that still questioned the veracity of the world of appearance. This table summarizes the various ways Parmenides' predecessors differed from him. 
 
 
 |	| Parmenides  | Empedocles  | The Atomists  | Aristotle |
@@ -22,7 +22,7 @@ We are going to treat Empedocles and the atomists as a group. We will focus on A
 
 > For it is impossible to come to be from **what in no way is**, and it is not to be accomplished and is unheard of that what is **perishes absolutely**. (Empedocles, B12)
 
-The verb 'to be' can be used in different ways. One of the central responses to Parmenides is to exploit these different ways to identify mistakes in his argument. The two ways, are what we call the 'existential' and the 'predicative' uses of the verb. Compare the following: 
+The verb 'to be' can be used in different ways. One of the central responses to Parmenides is to exploit these different ways to identify mistakes in his argument. The two ways are what we call the 'existential' and the 'predicative' uses of the verb. Compare the following: 
 
 
 + Socrates is not at all. *vs*
@@ -54,144 +54,64 @@ It makes not sense to say, 'I exist doctor'. The distinction between the existen
 
 If something does not exist, then perhaps we will agree with Parmenides that it cannot be a possible object of thought. And, if an object has no property whatsoever, then it does not exist. So, such things too could not be possible objects of thought. However, it does not follow that an object lacks some specific property, that it does not exist. For instance, it does not follow from the fact that Socrates is not red that Socrates does not exist. Socrates failing to be red is compatible with him having plenty of other properties, e.g., he is human, tall, Greek, etc. So, the fact Socrates fails to have one property does not entail that he is not a possible object of thought. 
 
+## Empedocles
+Empedocles responds to Parmenides with a concession and a rebuttal. To articulate the repsonse, let us consider Parmenides' argument against the reality of change in the following way:
 
- 
++ P1. Change involves coming to be from what is not
++ P2. We cannot think about what is not
++ C. So, change is unthinkable. 
 
-Fools those who think that something comes from what is not or that somethng is generated and destroyed. 
-Agreed that no generation and perishing because both involved what is not. 
+I just suggested that P2 should be read with the existential version of 'to be'. So, it should be read as follows:
 
-Empedocles 
-It is impossible to come to be from what in now way is. And things don't perish absolutely.
++ P1*. Change involves coming to exist from what does not exist. 
++ P2*. We cannot think about what does not exist. 
++ C*. So, change is unthinkable. 
 
-'What is no way is'. 
-'Perishing absolutely'
+Empedocles agree with P2. He agrees, in effect, that change is impossible if it involves coming to be from what does not exist. This is why Empedocles denies that there is any generation or destruction: 
 
+> ...There is coming to be of not a single one of all mortal things, nor is there any end of deadly death ....(Empedocles B8)
 
-Anaxagoras, 
-Empedocles
-Atomists
+This is a reasonable point to make if we assume that Socrates' generation involves Socrates changing from not-existing to existing. Socrates' generation, then, would involve Socrates coming to exist from what does not exist. A similar argument can be run for destruction. 
 
-Change involves coming to be from what is not
-We cannot think about what is not
-So, change is unthinkable. 
+Empedocles agrees with Parmenides on this point; that there is no generation or destruction. But, he denies that every change involves coming from what does not exist. Many changes, Empedocles, claims are best described as coming from what is not F. For instance, Socrates music lesson is best described as Socates becoming musical from being unmusical. His catching a cold is best described as Socrates becoming sick from being healthy. The descriptions of these changes use the predicative sense of 'to be' and not the existential sense of the verb. 
 
++ P1**. Change invovles coming to be F from what is not F.
++ P2**. We cannot think about what does not exist. 
++ C**. So, change is unthinkable. 
 
-One Simple Response: not all denials are denials of existence.
+Note here that the argument is not valid; the conclusion does not follow from the premises. It is analagous to the following argument: 
 
-There is no chocolate in the fridge. 
-Socrates is short. 
++ Every bank is adjacent to some river.
++ The Chase building on Lexington and 72nd is a bank. 
++ Thererfore, the Chase building is adjacent to some river. 
 
-same very, 'is'. 
+Obviously, this is invalid because it confuses two meanings of the word, 'bank'. There is a difference between money banks and river banks. 
 
-Parmenides: no way is, existential sense. Then something that in noway exists. Problem. 
-Something that is not P, might still exist. 
+## Empedocles positive theory
 
-What is not red, the apple, becomes red. The apple comes to be from what is not, but that does not require us to think about what is not altogether. 
 
-I should ask them to do some examples of the existential predicative use of the verb 'to be'. 
+> Hear first the four roots of all things: Shining Zeus [fire] and life-bringing Hera [air] and Aidoneus [earth] and Nestis [water] who with her tears moistens mortal Springs. (B6)
 
-No generation/destruction:
-Fools. For their thoughts are not far-reaching, who expect that there comes to be what previously was not, or that anything perishes and is completely destroyed. (36=B11)
+> And these [sc. the elements] never cease continually interchanging, at one time all coming together into one by Love, and at another each being borne apart by the hatred of Strife. (43=B17, line 6)
 
-For it is impossible to come to be from what in no way is, and it is not to be accomplished and is unheard of that what is perishes absolutely. (39=B12)
 
-...There is coming to be of not a single one of all mortal things, nor is there any end of deadly death .... (35=B8)
 
-Changes involves coming to be from what is not. 
-We cannot think about what is not. 
-Change is impossible. 
 
-Give an exmaple of ambiguity. 
+| Active Principles  | Passive Principles  | 
+| :--------: |:-------:|
+| Love | Earth    |   
+| Strife  | Fire     | 
+| | Water  |   
+| | Air |   
 
 
-+ The statement that Socrates **is musical** should not be analyzed as referring to the musicality of Socrates and saying of it that it exists.
-+ Likewise, the statement that Socrates **is not musical** should not be analyzed as referring to the musicality of Socrates and saying that it does not exist.
+...For there are just these things [i.e., the four elements], and running through one another they come to be both humans and the tribes of other beasts at one time coming together into a single cosmos by Love and at another each being borne apart by the hatred of Strife .... (48=B26)
 
-**Summary:* Claims that x is not P are not equivalent to denials of existence.
+> Whenever they [sc. the elements] arrive in the aither mixed so as to form a man or one of the wild beasts or bushes or birds, that is when <people> speak of coming into being; and whenever they are separated, that <is what they call> the ill-starred fate of death. They do not call it as is right, but I myself too assent to their convention. (B9).
 
+> There is ... only mixture, and separation of what is mixed, and nature [or, birth, phusis] is the name given to them by humans. (B8)
 
+> For from these [sc. the elements] come all things that were and are and will be in the future. Trees have sprouted and men and women, and beasts and birds and fishes nurtured in water, and long-lived gods highest in honors. For there are just these things [i.e., the elements], and running through one another they come to have different appearances, for mixture changes them. (B21)
 
+> Pleasant earth in her well made crucibles obtained two parts of bright Nestis out of the eight, and four of Hephaestus, and white bones came into being, fitted together divinely by the glues of Harmonia. (B96)
 
-
-The Poem begins: 
-
-- Maiden daughters of Helios, the sun God. 
-- Justice is the God who guards the gates
-- Going to Nyx, the Goddess of night, the points where Helios and Nyx cross paths.
-
-
-
-Parmenides claims that there are only  two logically coherent possibilities in any inquiry – that the subject of the enquiry exists or it does not exist. He rules out the latter as unlearnable. 
-
-What does this mean? When you begin an inquiry, you must hold an object of thought firmly in your mind and ask questions about it. You might ask things like, does it exist or not? He thinks that you cannot even entertain the possibility that the thing cannot exist and so cannot even try answer the question. 
-
-
-
-___
-
-
-
-1. ​
-
-
-
-
-
-
-
-## Thought
-
-- one cannot refer to what is not there to refer to.
-
-- Compare: trying to see something that is not there to be seen. It is impossible. It is true that you might hallucinate a dolphin, but there was a hallucination to see. Imagine if there were both no dolphin and no hallucination. The he would not see anything at all.
-
-- Well, reasons Parmenides (though not, of course, with Hamlet in mind), why should speech or thought be any different? We cannot see what is not there to be seen, so why should we be able to refer to what is not there to be referred to? If something does not exist, in other words, we cannot think about it and we cannot speak about it.
-
-- Because of this profound link between thinking and being, Parmenides claims we cannot make any statements of non-being. So we cannot, for instance, speak about unicorns, even to say that they do not exist. In fact, we can never claim that anything does not exist, because anything that does not exist cannot be spoken about.
-
-
-
-## The Way of Truth M
-
-
-KRS: in fr.2 the Goddess was specifying logically coherent alternatives between which rational enquirers must decide. “The third way is simply the path you will find yourself following if, like the generality of mortals, you do not take that decision through failure to use your critical powers. You will find yourself saying or implying both that a thing is and that it is not (e.g. by acknowledging change and coming into existence); and so you will wander helplessly from one of the ways distinguished in 291 to the other.”p247
-
-(iii) Signs of truth. 
-1)	that being and uncreated and imperishable it is
-2)	whole of a single kind 
-3)	unshaken 
-4)	perfect.
-
-The signs constitute formal requirements which any subject of enquiry must satisfy. 
-
-Upshot of Parmenides’ argument is a form of monism: everything there is must have one and the same character; and it is doubtful whether in fact anything could have that character except reality as a whole. 
-
-(iii) (a) Uncreated and imperishable. 
-Fr. 8: ‘It never was nor will be, since it is now, all together one, continuous.’
-I’m not sure my interpretation will work. I want to say if x is(e) F, then it could not be otherwise. But surely it was(e) F and will(e) be F. Well, wait, Parmenides could be just saying that it is not the case that now [it] which is no longer now, was before now. And likewise with will. So he might not be talking about something that is now and was also before and will be. But what about the qualification.
-But he does speak about being completely – funky. 
-
-He asks ‘how could what is be in the future’. He must be assuming that if something is in the future then it should not be now. This is surely absurd on an existential reading. But it makes sense on a Curd readings. The point is that this thing now x (which is F) could not be G in the future. Or maybe, this thing now x is a being now, so how it could it be the case that now it will only have its essence in the future. 
-
-These lines are meant to show that what is cannot come to be or perish. 
-
-(iii) (b) One and continuous. 
-KRS thinks that Parmenides intends to show that all reality is one by this thesis. I’m not sure. 
-
-Nor is it divided, since it all exists alike; nor is it more here and less there which would prevent it from holding together, but it is all full of being. So it is all continuous: for what is draws near to what is. 
-
-The reference here looks like the sortal or form. He is claiming it is homogenous. The ‘all full of being’, I think suggests that whatever the subject is has no lack or non-being. 
-
-(iii) (c) Unchangeable. 
-So he says that it is not just imperishable and doesn’t come to be but also does not alter. Interesting that he has two notions of change. 
-
-(iii) (d) Perfect.
-What is should not be imperfect (think Nehamas)
-“The same thing is there to be thought and is why there is thought.”
-
-Mortal Opinions. 
-(i)
-
-> 
-
-When you think, you think of something; when you use a name, it must be the name of something. Therefore both thought and language require objects outside themselves. And since you can think of a thing or speak of it at one time as well as another, whatever can be thought of or spoken of must exist at all times. Consequently there can be no change, since change consists in things coming into being or ceasing to be (Russell 1945, 49).
