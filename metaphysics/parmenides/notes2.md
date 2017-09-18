@@ -3,7 +3,7 @@ layout: metweekly
 title: Responses to Parmenides
 ---
 
-People were aware of Parmenides challenge. They wanted to describe a world of change. They took care to avoid their own views in a way that allowed htem to avoid his objections.
+People were aware of Parmenides challenge. They wanted to describe a world of change. They took care to avoid their own views in a way that allowed ttem to avoid his objections.
 
 
 Empedocles
@@ -22,16 +22,41 @@ Anaxagoras,
 Empedocles
 Atomists
 
-Change invoves coming to be from what is not
+Change involves coming to be from what is not
 We cannot think about what is not
 So, change is unthinkable. 
 
 
 One Simple Response: not all denials are denials of existence.
 
+There is no chocolate in the fridge. 
+Socrates is short. 
+
+same very, 'is'. 
+
+Parmenides: no way is, existential sense. Then something that in noway exists. Problem. 
+Something that is not P, might still exist. 
+
+What is not red, the apple, becomes red. The apple comes to be from what is not, but that does not require us to think about what is not altogether. 
+
+I should ask them to do some examples of the existential predicative use of the verb 'to be'. 
+
+No generation/destruction:
+Fools. For their thoughts are not far-reaching, who expect that there comes to be what previously was not, or that anything perishes and is completely destroyed. (36=B11)
+
+For it is impossible to come to be from what in no way is, and it is not to be accomplished and is unheard of that what is perishes absolutely. (39=B12)
+
+...There is coming to be of not a single one of all mortal things, nor is there any end of deadly death .... (35=B8)
+
+Changes involves coming to be from what is not. 
+We cannot think about what is not. 
+Change is impossible. 
+
+Give an exmaple of ambiguity. 
+
 
 + The statement that Socrates **is musical** should not be analyzed as referring to the musicality of Socrates and saying of it that it exists.
-+ Likeweise, the statement that Socrates **is not musical** should not be analyzed as referring to the musicality of Socrates and saying that it does not exist.
++ Likewise, the statement that Socrates **is not musical** should not be analyzed as referring to the musicality of Socrates and saying that it does not exist.
 
 **Summary:* Claims that x is not P are not equivalent to denials of existence.
 
