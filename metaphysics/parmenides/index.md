@@ -33,6 +33,9 @@ title: Appearance & Reality
 + Optional video
 	+ [Susan Suave Meyer on Empedocles](https://www.youtube.com/watch?v=NbecyxOJ3bM)	
 	+ [Susan Suave Meyer on other presocratics](https://www.youtube.com/watch?v=lkgmb2g928Q)
+	
++ Notes
+	+ [Lecture Notes](notes2): These are in draft form. I will edit and complete after our meeting on Wednseday. 
 
 ## Assignments
 + [Short essay 1:](sessay) each of the 7  modules contains a short essay. You must complete 5 of these over the semester. If you complete more than 5, I will drop the lowest grades. See the syllabus for full details on due dates, requirements, etc.
