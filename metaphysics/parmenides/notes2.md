@@ -3,10 +3,59 @@ layout: metweekly
 title: Responses to Parmenides
 ---
 
-People were aware of Parmenides challenge. They wanted to describe a world of change. They took care to avoid their own views in a way that allowed ttem to avoid his objections.
+Parmenides' challenge was felt acutely. Scientists, natural philosophers, insisted that the world of change existed.  But, they recognized that they needed to describe a world of change that could avoid Parmenides' challenge. They took care to articulate their own views in a way that allowed them to avoid the implication that 'what is not' is, i.e., they articulated accounts of change and the changing world while avoiding saying and thinking about what is not. One interesting feature of these research projects is how radical the positions were that one needed to adopt to avoid Parmenides' challenge; Parmenides' predecessors rescued the world of change in ways that still questioned the veracity of the world of appearance. This table summarizes the various ways Parmenides' predecessors differed from him. 
 
 
-Empedocles
+|	| Parmenides  | Empedocles  | The Atomists  | Aristotle |
+| :----------: |:-----------:| :-----:| :--------: |:-------:|
+| Gen. & Dest. | No  | No 	|  No	| Yes |
+| Motion     | No     |   Yes | Yes |  Yes |
+| Alteration | No      |   Yes |	No |	Yes |
+| Plurality  | No      |   Yes | Yes |  Yes |
+| Empty space | No     |   No	| Yes | No |
+
+
+
+We are going to treat Empedocles and the atomists as a group. We will focus on Aristotle on Wednesday. 
+
+## The verb to be 
+
+> For it is impossible to come to be from **what in no way is**, and it is not to be accomplished and is unheard of that what is **perishes absolutely**. (Empedocles, B12)
+
+The verb 'to be' can be used in different ways. One of the central responses to Parmenides is to exploit these different ways to identify mistakes in his argument. The two ways, are what we call the 'existential' and the 'predicative' uses of the verb. Compare the following: 
+
+
++ Socrates is not at all. *vs*
++ Socrates is not short.
+
++ There is no chocolate in the fridge. *vs*
++ The chocolate is not cheap.
+
++ 'To be or not to be.' (Hamlet)
++ 'Do you want to be a doctor or a lawyer?'
+
+The predicative use of 'to be', the copula, always requires some complement. For instance, if I intend the copula, the following are incomplete sentences: 
+
++ Socrates is___
++ Socrates is not___
++ I am___
++ I am not___
+
+The existential sense of the verb 'to be' does not need a complement to form a sentence. We can mark this by replacing 'is' with exists. Consider: 
+
++ I exist.
++ Socrates does not exist. 
+
+It makes not sense to say, 'I exist doctor'. The distinction between the existential and predicative uses of 'to be' allows us to read in different ways Parmenides' primary injunction against thinking about what is not. 
+
++ It is impossible to think about what does not exist. 
++ It is impossible to think about what does not have any property. 
++ It is impossible to think about what does not have some property.
+
+If something does not exist, then perhaps we will agree with Parmenides that it cannot be a possible object of thought. And, if an object has no property whatsoever, then it does not exist. So, such things too could not be possible objects of thought. However, it does not follow that an object lacks some specific property, that it does not exist. For instance, it does not follow from the fact that Socrates is not red that Socrates does not exist. Socrates failing to be red is compatible with him having plenty of other properties, e.g., he is human, tall, Greek, etc. So, the fact Socrates fails to have one property does not entail that he is not a possible object of thought. 
+
+
+ 
 
 Fools those who think that something comes from what is not or that somethng is generated and destroyed. 
 Agreed that no generation and perishing because both involved what is not. 
