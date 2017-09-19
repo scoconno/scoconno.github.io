@@ -8,8 +8,8 @@ title: Short Essay 1
 
 
 
-### Introdcution
-That Parmenides! He is so sincere and always follows an argument wherever it takes him.  But what a mistake. He has convinced himself that the world as we perceive it is all an illusion. Reality, he has come to be believe, comprises one and only one thing. There are no plurality of cats, or dogs, or people, or anything! Moreover, he thinks this one thing is uncreated and indestructible; it will exist for eternity. He thinks it cannot alter, grow, or move, and he insists that it occupies all of space. What are you going to do with him, your oldest and dearest friend? 
+### Introduction
+That Parmenides! He is so sincere and always follows an argument wherever it takes him.  But, what a mistake. He has convinced himself that the world as we perceive it is all an illusion. Reality, he has come to be believe, comprises one and only one thing. There are no plurality of cats, or dogs, or people, or anything! Moreover, he thinks this one thing is uncreated and indestructible; it will exist for eternity. He thinks it cannot alter, grow, or move, and he insists that it occupies all of space. What are you going to do with him, your oldest and dearest friend? 
 
 Fortunately, Parmenides is a reasonable person and would gladly learn of any mistakes in his argument. You decide to write him a letter diagnosing the error in his reasoning. 
 
