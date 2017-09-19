@@ -76,7 +76,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	
 **Week 4**
 
-+ Essay 2
++ [Essay 2](Intro/Essay)
 + *Notes*
 	+ [Notes 1](Meaning/Handout2)
 	+ [Notes 2](Meaning/Handout3)	
