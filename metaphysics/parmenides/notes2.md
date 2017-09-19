@@ -3,7 +3,7 @@ layout: metweekly
 title: Responses to Parmenides
 ---
 
-Parmenides' challenge was felt acutely. Scientists, natural philosophers, insisted that the world of change existed.  But, they recognized that they needed to describe a world of change that could avoid Parmenides' challenge. So, they took care to articulate their own views in a way that allowed them to avoid the implication that 'what is not' is, i.e., they articulated accounts of change and the changing world while avoiding saying and thinking about what is not. One interesting feature of these research projects is how radical the positions were that one needed to adopt to avoid Parmenides' challenge; Parmenides' predecessors rescued the world of change in ways that still questioned the veracity of the world of appearance. This table summarizes the various ways Parmenides' predecessors differed from him. 
+Parmenides' challenge was felt acutely. Scientists, called natural philosophers back then, insisted that the world of change existed.  But, they recognized that they needed to describe a world of change that could avoid Parmenides' challenge. So, they took care to articulate their own views in ways that allowed them to avoid the implication that 'what is not' is, i.e., they articulated accounts of change and the changing world while avoiding saying and thinking about what is not. One interesting feature of these research projects is how radical the positions were that scientists adopted to avoid the challenge; Parmenides' predecessors rescued the world of change in ways that still questioned the veracity of the world of appearance. This table summarizes the various ways Parmenides' predecessors differed from him. 
 
 
 |	| Parmenides  | Empedocles  | The Atomists  | Aristotle |
@@ -22,7 +22,7 @@ We are going to treat Empedocles and the atomists as a group. We will focus on A
 
 > For it is impossible to come to be from **what in no way is**, and it is not to be accomplished and is unheard of that what is **perishes absolutely**. (Empedocles, B12)
 
-The verb 'to be' can be used in different ways. One of the central responses to Parmenides is to exploit these different ways to identify mistakes in his argument. The two ways are what we call the 'existential' and the 'predicative' uses of the verb. Compare the following: 
+Notice the qualifications that I have highlighted. The verb 'to be' can be used in different ways. One of the central responses to Parmenides is to exploit these different ways to identify mistakes in his argument. The two ways are what we call the 'existential' and the 'predicative' uses of the verb. Compare the following: 
 
 
 + Socrates is not at all. *vs*
@@ -55,7 +55,7 @@ It makes not sense to say, 'I exist doctor'. The distinction between the existen
 If something does not exist, then perhaps we will agree with Parmenides that it cannot be a possible object of thought. And, if an object has no property whatsoever, then it does not exist. So, such things too could not be possible objects of thought. However, it does not follow from the fact that an object lacks some specific property that it does not exist. For instance, it does not follow from the fact that Socrates is not red that Socrates does not exist. Socrates failing to be red is compatible with him having plenty of other properties, e.g., he is human, tall, Greek, etc. So, the fact Socrates fails to have one property does not entail that he is not a possible object of thought. 
 
 ## Empedocles
-Empedocles responds to Parmenides with a concession and a rebuttal. To articulate the repsonse, let us consider Parmenides' argument against the reality of change in the following way:
+Empedocles responds to Parmenides with a concession and a rebuttal. To articulate the respsonse, let us consider Parmenides' argument against the reality of change in the following way:
 
 + P1. Change involves coming to be from what is not
 + P2. We cannot think about what is not
@@ -67,34 +67,36 @@ I just suggested that P2 should be read with the existential version of 'to be'.
 + P2*. We cannot think about what does not exist. 
 + C*. So, change is unthinkable. 
 
-Empedocles agree with P2. He agrees, in effect, that change is impossible if it involves coming to be from what does not exist. This is why Empedocles denies that there is any generation or destruction: 
+Empedocles agrees with P2. He agrees, in effect, that change is impossible if it involves coming to be from what does not exist. This is why Empedocles denies that there is any generation or destruction: 
 
 > ...There is coming to be of not a single one of all mortal things, nor is there any end of deadly death ....(Empedocles B8)
 
 This is a reasonable point to make if we assume that Socrates' generation involves Socrates changing from not-existing to existing. Socrates' generation, then, would involve Socrates coming to exist from what does not exist. A similar argument can be run for destruction. 
 
-Empedocles agrees with Parmenides on this point; that there is no generation or destruction. But, he denies that every change involves coming from what does not exist. Many changes, Empedocles, claims are best described as coming from what is not F. For instance, Socrates' music lesson is best described as Socates becoming musical from being unmusical. His catching a cold is best described as Socrates becoming sick from being healthy. The descriptions of these changes use the predicative sense of 'to be' and not the existential sense of the verb. Parmenides' argument fails when we consider the predicative use.
+Empedocles agrees with Parmenides on this point; that there is no generation or destruction. But, he denies that every change involves coming from what does not exist. Many changes, Empedocles claims, are best described as coming from what is not F. For instance, Socrates' music lesson is best described as Socrates becoming musical from being unmusical. His catching a cold is best described as him becoming sick from being healthy. The descriptions of these changes uses the predicative sense of 'to be' and not the existential sense of the verb. Parmenides' argument fails when we describe change using the predicative sense of the verb 'to be'.
 
-+ P1**. Change invovles coming to be F from what is not F.
++ P1**. Change involves coming to be F from what is not F.
 + P2**. We cannot think about what does not exist. 
 + C**. So, change is unthinkable. 
 
-This argument is not valid; the conclusion does not follow from the premises. It is analagous to the following argument: 
+This argument is not valid; the conclusion does not follow from the premises. It is analogous to the following argument: 
 
 + Every bank is adjacent to some river.
 + The Chase building on Lexington and 72nd is a bank. 
-+ Thererfore, the Chase building is adjacent to some river. 
++ Therefore, the Chase building is adjacent to some river. 
 
-Obviously, this is invalid because it confuses two meanings of the word, 'bank'. There is a difference between money banks and river banks. 
+Obviously, this is invalid because it confuses two meanings of the word, 'bank'; the conclusion does not follow from the premises. There is a difference between money banks and river banks. Likewise, if 'to be' is used in one way to describe change and a used a different way to describe what we cannot think about, then the argument in invalid.  
 
 ## Empedocles positive theory
 
+Notice that Empedocles does not believe in generation and destruction. He does not believe that cats are born, trees rot, paintings are created, etc. He agrees with Parmenides that such changes are impossible. His disagreement with Parmenides is over other kinds of change, changes like coming to be sick from being healthy. He thinks that Parmenides' argument fails to disprove the existence of such changes. Parmenides proceeds to offer a cosmology, a theory of the world that relies only on some eternal elements and their alterations.  
 
 > Hear first the four roots of all things: Shining Zeus [fire] and life-bringing Hera [air] and Aidoneus [earth] and Nestis [water] who with her tears moistens mortal Springs. (B6)
 
 > And these [sc. the elements] never cease continually interchanging, at one time all coming together into one by Love, and at another each being borne apart by the hatred of Strife. (43=B17, line 6)
 
 
+Parmenides here identifies six principles, four passive principles, and two active principles. 
 
 
 | Active Principles  | Passive Principles  | 
@@ -103,6 +105,8 @@ Obviously, this is invalid because it confuses two meanings of the word, 'bank'.
 | Strife  | Fire     | 
 | | Water  |   
 | | Air |   
+
+The idea is that by love brings various portion of elements together and strife separates them. Compare this to lego blocks. There is one process that brings some lego blocks together and another process that brings the lego blocks apart. This point, by itself, may seem compatible with generation and destruction. Perhaps Empedocles just wants to say that things are generated from various elements via and destroyed via strife. But, 
 
 
 > ...For there are just these things [i.e., the four elements], and running through one another they come to be both humans and the tribes of other beasts at one time coming together into a single cosmos by Love and at another each being borne apart by the hatred of Strife .... (B26)
@@ -134,3 +138,24 @@ Parmenides' argument works on the former reading, but not the latter reading.
 
 
 
+
+
+> White comes from not-white, and not from any not-white, but from black or some intermediate. Similarly, musical comes to be from non-musical, but not from any thing other than musical, but from unmusical or any intermediate state there may be. [188b1]
+
+> Nor again do things pass away into the first chance thing; white does not pass into musical (except, it may be, accidentally), but into not-white—and not into any chance thing which is not white, but into black or an intermediate; musical passes into not-musical–and not into any chance thing other than musical, but into unmusical or any intermediate state there may be. [188b4]
+
+> If then this is true, everything that comes to be or passes away comes from, or passes into, its contrary or an intermediate state. [188b21]
+
+
+In any change, there is a subject that persists through the change and there are two contraries.
+
+The subject has one contrary before the change and another contrary afterwards. (One of these contraries may be replaced by an intermediate.)
+
+E.g., if a man comes to be musical:The man persists through the change.The contraries are “musical” and “unmusical.”Before the change the man was unmusical or an intermediate; afterwards he is musical.
+
+
+ Substances (for Aristotle) are things that exist in their own right, not as properties of something else.A man, a statue, and a house are substances.Black, white, musical, unmusical, are not substances.Substances come into existence and go out of existence. How can this fit Aristotle’s general model of change?
+
+> The first of those who studied philosophy were misled in their search for truth and the nature of things by their inexperience, which as it were thrust them into another path. So they say that none of the things that are either comes to be or passes out of existence, because what comes to be must do so either from what is or from what is not, both of which are impossible. For what is cannot come to be (because it is already), and from what is not nothing could have come to be (because something must be underlying). [191a25]
+
+To say something comes “from what is” is ambiguous. It might mean:(a) It comes from what already is what it will become. (b) It comes from something that exists.To say something comes “from what is not” might mean: (a) It comes from nothing.(b) It comes from something that isn’t yet what it will become.In the (a) senses, things can’t come to be either from what is or from what is not.In the (b) senses, things come to be both from what is and from what is not.Parmenides went astray by confusing the (a) and (b) senses.
