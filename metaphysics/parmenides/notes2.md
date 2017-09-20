@@ -153,7 +153,7 @@ Distinguish two claims:
 
 Our first claim may appear to speak about what does not exist, i.e., about the non-existence of health. But, the second claim speaks of some existing thing, i.e., it speaks about the existing sickness that Socrates possessed. Aristotle wants to emphasize that change can be described in ways that avoid speaking about what strictly does not exist. 
 
-**Claim 2: there is a subject of change distinct from those opposites the change occurs between
+**Claim 2: there is a subject of change distinct from those opposites the change occurs between**
 
 > Granted then, that they [the principles of nature] are a limited number, it is plausible to assume them more than two. For it is difficult to see how either density should be of such a nature to make rarity something or rarity is such to make density something. The same is true of any other pair of opposites; for Love does not gather Strife together and make things out of it, nor does Strife make anything out of Love, but both make a third thing something. Some indeed assume more than one such thing from which they construct the nature of beings (189a21–27).
 
