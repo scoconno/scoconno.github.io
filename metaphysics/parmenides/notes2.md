@@ -177,12 +177,31 @@ Aristotle here emphasizes that there really are subjects from which substances a
 
 ## Aristotle's response to Parmenides
 
+Aristotle presents Parmenides' puzzle as follows:
+
 > The first of those who studied philosophy were misled in their search for truth and the nature of things by their inexperience, which as it were thrust them into another path. So they say that none of the things that are either comes to be or passes out of existence, because what comes to be must do so either from what is or from what is not, both of which are impossible. For what is cannot come to be (because it is already), and from what is not nothing could have come to be (because something must be underlying). [191a25]
 
-To say something comes “from what is” is ambiguous. It might mean:
+He responds by making a point similar to Empedocles: to say that something comes 'from what is' is ambiguous. Similar, to say that something comes 'from what is not'. Aristotle will agree that some readings are problematics, while others are not. Focusing on 'what is' first and using Socrates as an example. It could mean: 
+
+1. Socrates comes from what is already Socrates. 
+2. Socrates comes from what exists. 
+3. Socrates comes from something that has some feature or other. 
+
+Aristotle agrees with Parmenides that 1 is impossible. But he thinks that 2 and 3 are perefectly possible. This is the route that many of those after Parmenides also too. The real novelty comes with 'what is not'. The claim that Socrates comes from 'what is not' could mean: 
+
+1. Socrates comes from what is not (already) Socrates.
+2. Socrates comes from what does not exist. 
+
+Aristotle agrees with 2. He accepts that Socrates cannot come from what does not exist (such a thing would be nothing at all). But, Aristotle thinks 1 is perfectly possible. Socrates comes from some matter that is not yet Socrates, but can still be turned into Socrates (when the relevant form is imposed on Socrates). Likewise, a house comes from a pile of bricks that are not yet a house, but a pile that can be turned into a house (when they are arranged--informed--in the right way). Aristotle's point is that claims of type 1 do not require us to think and speak about non-existing entities. It requires that we speak and think about matter that does not yet have some relevant form. But when we do this, we are thinking and speaking about some existing thing.  
+
+
+
+
+1. Socrates comes from what exists or from what does not exist.
+2. Socrates comes from what is (already) Socrates or from what is not (already) Socrates. 
+
 (a) It comes from what already is what it will become. (b) It comes from something that exists.
 To say something comes “from what is not” might mean: (a) It comes from nothing.
 (b) It comes from something that isn’t yet what it will become.
 In the (a) senses, things can’t come to be either from what is or from what is not.
 In the (b) senses, things come to be both from what is and from what is not.
-Parmenides went astray by confusing the (a) and (b) senses.
