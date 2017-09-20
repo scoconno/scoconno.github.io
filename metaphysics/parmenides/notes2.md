@@ -87,9 +87,9 @@ This argument is not valid; the conclusion does not follow from the premises. It
 
 Obviously, this is invalid because it confuses two meanings of the word, 'bank'; the conclusion does not follow from the premises. There is a difference between money banks and river banks. Likewise, if 'to be' is used in one way to describe change and a used a different way to describe what we cannot think about, then the argument in invalid.  
 
-## Empedocles positive theory
+## Empedocles' positive theory
 
-Notice that Empedocles does not believe in generation and destruction. He does not believe that cats are born, trees rot, paintings are created, etc. He agrees with Parmenides that such changes are impossible. His disagreement with Parmenides is over other kinds of change, changes like coming to be sick from being healthy. He thinks that Parmenides' argument fails to disprove the existence of such changes. Parmenides proceeds to offer a cosmology, a theory of the world that relies only on some eternal elements and their alterations.  
+Notice that Empedocles does not believe in generation and destruction. He does not believe that cats are born, trees rot, paintings are created, etc. He agrees with Parmenides that such changes are impossible. His disagreement with Parmenides is over other kinds of change, changes like coming to be sick from being healthy. He thinks that Parmenides' argument fails to disprove the existence of such changes. Empedocles proceeds to offer a cosmology that relies only on some eternal elements and their alterations.  
 
 > Hear first the four roots of all things: Shining Zeus [fire] and life-bringing Hera [air] and Aidoneus [earth] and Nestis [water] who with her tears moistens mortal Springs. (B6)
 
@@ -106,7 +106,7 @@ Empedocles here identifies six principles, four passive principles, and two acti
 | | Water  |   
 | | Air |   
 
-The idea is that by love brings various portion of elements together and strife separates them. Compare this to lego blocks. There is one process that brings some lego blocks together and another process that brings the lego blocks apart. This point, by itself, may seem compatible with generation and destruction. Perhaps Empedocles just wants to say that things are generated from various elements via and destroyed via strife. But, Empedocles denies generation and destruction. Instead, he is trying to explain why it might *appear* to us that there is generation and destruction: 
+The idea is that love brings various portion of elements together and strife separates them. Compare this to lego blocks. There is one process that brings some lego blocks together and another process that brings the lego blocks apart. This point, by itself, may seem compatible with generation and destruction. Perhaps Empedocles just wants to say that things are generated from various elements via love and destroyed via strife. But, Empedocles denies generation and destruction. Instead, he is trying to explain why it might *appear* to us that there is generation and destruction: 
 
 
 > Whenever they [sc. the elements] arrive in the aither mixed so as to form a man or one of the wild beasts or bushes or birds, that is when <people> speak of coming into being; and whenever they are separated, that <is what they call> the ill-starred fate of death. They do not call it as is right, but I myself too assent to their convention (B9).
@@ -131,14 +131,14 @@ The atomists claim there are two ways to read the first premise:
 + Empty space does not exist. 
 + Empty space is not full.
 
-Parmenides' argument works on the former reading, but not the latter reading. 
+Parmenides' argument works on the former reading but not the latter reading of the premise: the fact that empty space is not full does not entail that empty space does not exist. 
 
 
 ## Aristotle 
 
-Aristotle was not willing to deny even the existence of generation and destruction; he thought it more likely that Parmenides had erred than that our believes in such change were false. He did, though, respect Parmenides, and he thought responding appropriately required properly characterizing the most basic structure of change, on the one hand, and clearly describing the proper subjects of generation and destruction. We will focus on his account of change first. 
+Aristotle was not willing to deny even the existence of generation and destruction; he thought it more likely that Parmenides had erred than that our believes in such change were false. He did, though, respect Parmenides, and he thought responding appropriately required properly characterizing the most basic structure of change, on the one hand, and clearly describing the proper subjects of generation and destruction on the other. We will focus on his account of change first. 
 
-**Claim 1: all change occurs between contraries** 
+**Claim 1: all change occurs between opposites** 
 
 > White comes from not-white, and not from any not-white, but from black or some intermediate. Similarly, musical comes to be from non-musical, but not from any thing other than musical, but from unmusical or any intermediate state there may be. [188b1]
 
@@ -151,20 +151,38 @@ Distinguish two claims:
 1. Socrates becomes healthy from being not-healthy. 
 2. Socrates becomes healthy from being sick. 
 
-Our first claim may appear to speak about what does not exist, i.e., about the non-existence of health. But, the second claim speak of some existing thing, i.e., it speaks about the existing sickness that Socrates possessed. Aristotle wants to emphasize that change can be described in ways that avoid speaking about what does not exist. 
+Our first claim may appear to speak about what does not exist, i.e., about the non-existence of health. But, the second claim speaks of some existing thing, i.e., it speaks about the existing sickness that Socrates possessed. Aristotle wants to emphasize that change can be described in ways that avoid speaking about what strictly does not exist. 
 
+**Claim 2: there is a subject of change distinct from those opposites the change occurs between
 
-In any change, there is a subject that persists through the change and there are two contraries.
+> Granted then, that they [the principles of nature] are a limited number, it is plausible to assume them more than two. For it is difficult to see how either density should be of such a nature to make rarity something or rarity is such to make density something. The same is true of any other pair of opposites; for Love does not gather Strife together and make things out of it, nor does Strife make anything out of Love, but both make a third thing something. Some indeed assume more than one such thing from which they construct the nature of beings (189a21–27).
 
-The subject has one contrary before the change and another contrary afterwards. (One of these contraries may be replaced by an intermediate.)
+Aristotle believes that every change has the same structure: some subject has one opposite before the change and another opposite afterwards. (One of these opposites may be replaced by an intermediate.) He illustrates the point with a simple example of a music lesson: When a person becomes musical, the person is the subject, and 'musical' and 'unmusical' are the opposites the change occurs between. Before the change the man was unmusical or an intermediate; afterwards he is musical.
 
-E.g., if a man comes to be musical:The man persists through the change.The contraries are “musical” and “unmusical.”Before the change the man was unmusical or an intermediate; afterwards he is musical.
+The problem, though, is how to apply this model to generation and destruction: what is the subject and the pair of opposites involved in generation and destruction. Aristotle's answer has two parts. First, he emphasizes that there is a difference between substances and their predicates and claims that, strictly, it is only substances that are generated and destroyed. We use the phrase 'substantial change' often to indicate that it is really only substances that come into or go out of existence: 
 
+Substance: 
+X is a substance if and only if (i) X is not predicated of anything else, and (ii) other things are predicated of X. 
 
- Substances (for Aristotle) are things that exist in their own right, not as properties of something else.A man, a statue, and a house are substances.Black, white, musical, unmusical, are not substances.Substances come into existence and go out of existence. How can this fit Aristotle’s general model of change?
+Predicate:
+Y is a predicate if and only if there is some, Z, of which Y is predicated.
+
+The subjects and opposites involved in alterations, growth, and locomotion are easy enough believes Aristotle. The subject is always a substance and never a predicate. The opposites are always predicates and never substances. But what is the subject and opposites involved in the generation and destruction of substances? Aristotle's second important claim in his analysis of generation & destruction begins as follows: 
+
+> For in every case there is something that is a subject from which the thing that comes into being [comes into being], as plants and animals come into being from sperma. Some of the things that come into being without qualification [i.e., substances] do so by change of figure (for instance, a statue); some by addition (for instance, growing things); some by subtraction (for instance, Hermes from the stone); some by composition (for instance, a house); some by alteration (for instance, by being turned [into something else] in accordance with matter). It is evident that everything that comes to be in this way comes to be from a subject (190b3–10).
+
+Aristotle here emphasizes that there really are subjects from which substances are generated. Statues, for instances, are created from stone. Aristotle goes on to call the various subjects that substances are generated from 'matter' and the opposite that is gained in the change 'form' (or 'shape). So, when Socrates is generated, some matter gains some form. The reason this differences from mere alterations is that Socrates has not changed in one of his features. Rather, by mattering taking on a new form, there is a now a new object that has the form and the matter as parts. 
+
+> Suppose, then, that there are indeed causes and principles of natural beings, from which they primarily are and have come to be – not come to be coincidentally, but come to be what each thing is called in accordance with its essence. It evidently follows that everything comes to be from the subject and the shape. For in a way the musical man is composed from man and musical, since you will analyze him into their accounts. It is clear, then, that whatever comes to be does so from these things (190b17–23).10
 
 ## Aristotle's response to Parmenides
 
 > The first of those who studied philosophy were misled in their search for truth and the nature of things by their inexperience, which as it were thrust them into another path. So they say that none of the things that are either comes to be or passes out of existence, because what comes to be must do so either from what is or from what is not, both of which are impossible. For what is cannot come to be (because it is already), and from what is not nothing could have come to be (because something must be underlying). [191a25]
 
-To say something comes “from what is” is ambiguous. It might mean:(a) It comes from what already is what it will become. (b) It comes from something that exists.To say something comes “from what is not” might mean: (a) It comes from nothing.(b) It comes from something that isn’t yet what it will become.In the (a) senses, things can’t come to be either from what is or from what is not.In the (b) senses, things come to be both from what is and from what is not.Parmenides went astray by confusing the (a) and (b) senses.
+To say something comes “from what is” is ambiguous. It might mean:
+(a) It comes from what already is what it will become. (b) It comes from something that exists.
+To say something comes “from what is not” might mean: (a) It comes from nothing.
+(b) It comes from something that isn’t yet what it will become.
+In the (a) senses, things can’t come to be either from what is or from what is not.
+In the (b) senses, things come to be both from what is and from what is not.
+Parmenides went astray by confusing the (a) and (b) senses.
