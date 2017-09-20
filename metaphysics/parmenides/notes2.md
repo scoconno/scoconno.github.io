@@ -96,7 +96,7 @@ Notice that Empedocles does not believe in generation and destruction. He does n
 > And these [sc. the elements] never cease continually interchanging, at one time all coming together into one by Love, and at another each being borne apart by the hatred of Strife. (43=B17, line 6)
 
 
-Parmenides here identifies six principles, four passive principles, and two active principles. 
+Empedocles here identifies six principles, four passive principles, and two active principles. 
 
 
 | Active Principles  | Passive Principles  | 
@@ -106,18 +106,16 @@ Parmenides here identifies six principles, four passive principles, and two acti
 | | Water  |   
 | | Air |   
 
-The idea is that by love brings various portion of elements together and strife separates them. Compare this to lego blocks. There is one process that brings some lego blocks together and another process that brings the lego blocks apart. This point, by itself, may seem compatible with generation and destruction. Perhaps Empedocles just wants to say that things are generated from various elements via and destroyed via strife. But, 
+The idea is that by love brings various portion of elements together and strife separates them. Compare this to lego blocks. There is one process that brings some lego blocks together and another process that brings the lego blocks apart. This point, by itself, may seem compatible with generation and destruction. Perhaps Empedocles just wants to say that things are generated from various elements via and destroyed via strife. But, Empedocles denies generation and destruction. Instead, he is trying to explain why it might *appear* to us that there is generation and destruction: 
 
 
-> ...For there are just these things [i.e., the four elements], and running through one another they come to be both humans and the tribes of other beasts at one time coming together into a single cosmos by Love and at another each being borne apart by the hatred of Strife .... (B26)
-
-> Whenever they [sc. the elements] arrive in the aither mixed so as to form a man or one of the wild beasts or bushes or birds, that is when <people> speak of coming into being; and whenever they are separated, that <is what they call> the ill-starred fate of death. They do not call it as is right, but I myself too assent to their convention. (B9).
+> Whenever they [sc. the elements] arrive in the aither mixed so as to form a man or one of the wild beasts or bushes or birds, that is when <people> speak of coming into being; and whenever they are separated, that <is what they call> the ill-starred fate of death. They do not call it as is right, but I myself too assent to their convention (B9).
 
 > There is ... only mixture, and separation of what is mixed, and nature [or, birth, phusis] is the name given to them by humans. (B8)
 
-> For from these [sc. the elements] come all things that were and are and will be in the future. Trees have sprouted and men and women, and beasts and birds and fishes nurtured in water, and long-lived gods highest in honors. For there are just these things [i.e., the elements], and running through one another they come to have different appearances, for mixture changes them. (B21)
+So, Empedocles accepts that it appears to us that babies are born and tress die. But, he claims that what *really* happens in these cases is that various elements are coming together and separating. These elements are changing in their features, but none of these changes count as a coming from what does not exist: 
 
-> Pleasant earth in her well made crucibles obtained two parts of bright Nestis out of the eight, and four of Hephaestus, and white bones came into being, fitted together divinely by the glues of Harmonia. (B96)
+> For from these [sc. the elements] come all things that were and are and will be in the future. Trees have sprouted and men and women, and beasts and birds and fishes nurtured in water, and long-lived gods highest in honors. **For there are just these things [i.e., the elements], and running through one another they come to have different appearances,** for mixture changes them. (B21)
 
 
 ## The Atomists
@@ -128,7 +126,7 @@ The idea is that by love brings various portion of elements together and strife 
 + P2. We cannot think about what does not exist. 
 + C. Empty space is unthinkable. 
 
-The atomists say there are two ways to read the first premise: 
+The atomists claim there are two ways to read the first premise: 
 
 + Empty space does not exist. 
 + Empty space is not full.
@@ -136,15 +134,24 @@ The atomists say there are two ways to read the first premise:
 Parmenides' argument works on the former reading, but not the latter reading. 
 
 
+## Aristotle 
 
+Aristotle was not willing to deny even the existence of generation and destruction; he thought it more likely that Parmenides had erred than that our believes in such change were false. He did, though, respect Parmenides, and he thought responding appropriately required properly characterizing the most basic structure of change, on the one hand, and clearly describing the proper subjects of generation and destruction. We will focus on his account of change first. 
 
-
+**Claim 1: all change occurs between contraries** 
 
 > White comes from not-white, and not from any not-white, but from black or some intermediate. Similarly, musical comes to be from non-musical, but not from any thing other than musical, but from unmusical or any intermediate state there may be. [188b1]
 
 > Nor again do things pass away into the first chance thing; white does not pass into musical (except, it may be, accidentally), but into not-white—and not into any chance thing which is not white, but into black or an intermediate; musical passes into not-musical–and not into any chance thing other than musical, but into unmusical or any intermediate state there may be. [188b4]
 
 > If then this is true, everything that comes to be or passes away comes from, or passes into, its contrary or an intermediate state. [188b21]
+
+Distinguish two claims: 
+
+1. Socrates becomes healthy from being not-healthy. 
+2. Socrates becomes healthy from being sick. 
+
+Our first claim may appear to speak about what does not exist, i.e., about the non-existence of health. But, the second claim speak of some existing thing, i.e., it speaks about the existing sickness that Socrates possessed. Aristotle wants to emphasize that change can be described in ways that avoid speaking about what does not exist. 
 
 
 In any change, there is a subject that persists through the change and there are two contraries.
@@ -155,6 +162,8 @@ E.g., if a man comes to be musical:The man persists through the change.The con
 
 
  Substances (for Aristotle) are things that exist in their own right, not as properties of something else.A man, a statue, and a house are substances.Black, white, musical, unmusical, are not substances.Substances come into existence and go out of existence. How can this fit Aristotle’s general model of change?
+
+## Aristotle's response to Parmenides
 
 > The first of those who studied philosophy were misled in their search for truth and the nature of things by their inexperience, which as it were thrust them into another path. So they say that none of the things that are either comes to be or passes out of existence, because what comes to be must do so either from what is or from what is not, both of which are impossible. For what is cannot come to be (because it is already), and from what is not nothing could have come to be (because something must be underlying). [191a25]
 
