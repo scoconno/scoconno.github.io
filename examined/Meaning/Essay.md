@@ -3,9 +3,6 @@ layout: default
 title: Essay
 ---
 
-## Dialog on the Meaning of Life
-
-
  
 
 ### Introduction
