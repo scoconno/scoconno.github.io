@@ -7,7 +7,7 @@ title: Essay
 
 ### Introduction
 
-Flex your imagination. You are a dragon living in a comfortable well. It's not that obvious a well and strangers sometimes fall down it when they are not watching the path ahead. The well is also nice and slippy; you have yet to see anyone climb up who has fallen down. One day, a particularly plumb and tasty academic type falls down below. Unfortunately for you, there some roots of a tree sticking out of the walls of the tree and this potential dinner grabs onto the wall out of your reach. So, frustrating! He also seems to love honey, which is annoying given that some honey is trickling down those roots. You wish he would hurry up. Of course, the roots will break when your allies, those mice, nibble through the roots. But that takes too long. You are hungry now! So, you try to convince the victim to drop below to your waiting jaws. 
+Flex your imagination. You are a dragon living in a comfortable well. It's not that obvious a well and strangers sometimes fall down it when they are not watching the path ahead. The well is also nice and slippy; you have yet to see anyone climb up who has fallen down. One day, a particularly plumb and tasty academic type falls down below. Unfortunately for you, there are some roots of a tree sticking out of the walls of the tree and this potential dinner grabs onto the wall out of your reach. So, frustrating! He also seems to love honey, which is annoying given that some honey is trickling down those roots. You wish he would hurry up. Of course, the roots will break when your allies, those mice, nibble through the roots. But that takes too long. You are hungry now! So, you try to convince the victim to drop below to your waiting jaws. 
 
 ### Task
 
