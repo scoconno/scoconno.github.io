@@ -12,4 +12,4 @@ title: Relativism
 + Optional Reading
 	+ [*Plato on Knowledge in the Theaetetus*,](https://plato.stanford.edu/entries/plato-theaetetus/) SEP entry
 	+ [*Plato: Theaetetus*,](http://www.iep.utm.edu/theatetu/) IEP entry
-	+ [Plato's Theaetetus,](Bostock.pdf), David Bostock, use the table of contents to pick the parts you would like to read.
+	+ [Plato's Theaetetus,](Bostock.pdf) David Bostock, use the table of contents to pick the parts you would like to read.
