@@ -21,7 +21,7 @@ The purpose of this assignment is to help you practice the following skills that
 
 Write an email to Sam. In your email, do the following: 
 
-1. Explain the puzzle of personal identity. Why does Sam deny that he is identical to anyone from four years ago? 
+1. Explain the puzzle of personal identity. Why does Sam deny that he is identical to anyone from six months ago? 
 	+ **NB:** Explain here the difference between qualitative similarity and numerical identity. Failure to do so will result in loss of points. 
 2. Solve this puzzle by using the psychological continuity theory. 
 	+ **NB:** This assignment is not asking you to discuss each possible response to the puzzle. Only discuss the psychological continuity theory. Failure to ignore this instruction will result in a loss of points.     
