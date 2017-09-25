@@ -1,5 +1,8 @@
+---
+layout: metweekly
+title: The Knowledge Argument
 
-## The Knowledge Argument
+---
 
 ### Introduction to the dialog
 
