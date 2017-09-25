@@ -7,7 +7,7 @@ title: Categories
 | Categories | Aristotle’s Term   | Examples                            |
 | ---------- | ------------------ | ----------------------------------- |
 | Essence    | “what-it-is”       | human, horse, tree,                 |
-| Quantity   | How much           | four-foot, five-foot, 7 pounds, e   |
+| Quantity   | How much           | four-foot, five-foot, 7 pounds     |
 | Quality    | What sort          | pale, warm, cold, musical, literate |
 | Relation   | related to what    | double, greater, owner, brother     |
 | Location   | Where              | in the Lyceum, in the marketplace   |
