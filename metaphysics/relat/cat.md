@@ -4,7 +4,6 @@ title: Categories
 ---
 
 
-
 | Categories | Aristotle’s Term   | Examples                            |
 | ---------- | ------------------ | ----------------------------------- |
 | Essence    | “what-it-is”       | human, horse, tree,                 |
