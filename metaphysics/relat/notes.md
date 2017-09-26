@@ -103,9 +103,7 @@ Theodorus sums up the consequences of MM as follows: “the chief point on which
 
 ## The Defense of MM: The Secret Doctrine
 
-
-
-MM is radical. So, why would anyone accept it? 
+MM is radical. So, why would anyone accept it? Here is how Socrates introduces Protagoras' defense: 
 
 > SOC.: Well, it is not likely that a wise man would talk nonsense. So let us follow him up. Now doesn't it sometimes happen that when the same wind is blowing, one of us feels cold and the other not? Or that one feels rather cold and the other very cold?
 
@@ -115,9 +113,17 @@ MM is radical. So, why would anyone accept it?
 
 > THT.: It looks as if we must say that. (152b1–9)
 
-> SOC.: Was Protagoras one of those omniscient people? Did he perhaps put this out as a riddle for the common crowd of us, while he revealed **the Truth as a secret doctrine to his own pupils?**…I'll tell you; and this, now, is certainly no ordinary theory. (Tht. 152c8–d2)
+> SOC.: Was Protagoras one of those omniscient people? Did he perhaps put this out as a riddle for the common crowd of us, while he revealed **the Truth as a secret doctrine to his own pupils?**…I'll tell you; and this, now, is certainly no ordinary theory. (152c8–d2)
 
-> SOC.: This, now, is certainly no ordinary theory—I mean the theory that there is nothing which in itself is just one thing: nothing which you could rightly call anything or any kind of thing. If you call a thing large, it will reveal itself as small, and if you call it heavy, it is liable (p.85) to appear light, and so on with everything, because nothing is anything or any kind of thing. Rather, the things of which we naturally say that they ‘are’, are in process of coming to be, as the result of movement and change and blending with one another. We are wrong when we say they ‘are’, since nothing ever is, but everything is coming to be. (152d2–e1, trans. Levett/Burnyeat modified)14
+> SOC.: This, now, is certainly no ordinary theory—I mean the theory that there is nothing which in itself is just one thing: nothing which you could rightly call anything or any kind of thing. If you call a thing large, it will reveal itself as small, and if you call it heavy, it is liable to appear light, and so on with everything, **because nothing is anything or any kind of thing. Rather, the things of which we naturally say that they ‘are’, are in process of coming to be, as the result of movement and change and blending with one another. We are wrong when we say they ‘are’, since nothing ever is, but everything is coming to be. (152d2–e1)**
+
+A secret doctrine! Socrates here attributes to Protagoras a radical theory of flux, a theory that was most famously defended by Heraclitus. You might have heard of him if you ever heard someone say that you cannot step in the same river twice. Heraclitus supposedly used that claim to illustrate his overall metaphysical picture: everything is in a constant state of change. That everything is constantly changing may seem an innocent claim. Consider your age. By convention, we may say that you are 21 years of age. But, really, you are 21 years, X number of days, and Y number of hours, and Z number of minutes of age. Your age is constantly increasing. You are never the exact same age from one moment to the next. If you were to calculate your weight down to the atomic level, your weight would also change from one moment to the next. How about being still? If you are currently sitting right now, are you truly at rest? No! Of course, you are at rest in relation to the room. But our planet is hurtling through the solar system at dramatic speeds. It is also rotating round its axis. So, we are never truly not moving. 
+
+> You see, there is good enough evidence for this theory that being (what passes for such) and becoming are a product of motion, while not-being and passing-away result from a state of rest. There is evidence for it in the fact that heat or fire, which presumably generates and controls everything else, is itself generated out of movement and friction-these being motions. Or am I wrong in saying these are the original sources of fire? (153a).
+
+> And isn't it also true that bodily condition deteriorates with rest and idleness? While by exertion and motion it can be preserved for a long time?
+
+
 
 In accordance with the principle that nothing is but is always coming to be and in a constant state of motion, perceived colours must always ‘come to be’, and therefore cannot be at rest or be located anywhere, in the eyes or the object. But if one cannot locate the colour in the eye or in the object, how should one think of it (153e3)?
 
@@ -211,9 +217,9 @@ in belief formation but never an exhaustive one. There is no possibility
 of having beliefs that just draw upon the material provided by our
 immediate experiences. This we saw was a crucial if MM was to hold.
 
+---
 
-
-###Bibliography###
+### Bibliography
 
 **Burnyeat, M.F.** ‘Knowledge is Perception: Theaetetus (151D-184A)’, in
 *Plato*, ed. **Fine, Gail** (Oxford: Oxford University Press, 2000)
