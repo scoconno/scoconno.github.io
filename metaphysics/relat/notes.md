@@ -141,7 +141,7 @@ A secret doctrine! Socrates here attributes to Protagoras a radical theory of fl
 + P1. If four dice are put beside six dice, the six dice are more than the four.
 + P2. If twelve dice are now placed beside the six dice, the six dice are less than the twelve.
 + P3. The 6 dice have changed from being more to being less although their number has not changed.
-= P4. Something cannot change from being more or less unless its number changes.
++ P4. Something cannot change from being more or less unless its number changes.
 
 
 
