@@ -127,6 +127,7 @@ A secret doctrine! Socrates here attributes to Protagoras a radical theory of fl
 
 > SOC.: Well now, suppose that Protagoras, or anyone else, asks you this: ‘Theaetetus, is there any way in which something can become larger or more numerous, other than by undergoing increase What will you answer?
 
+**Size**
 
 + P1. If X gets shorter, then X's size must decrease
 + P2. Socrates is taller than Theaetetus in year 1.
@@ -134,6 +135,8 @@ A secret doctrine! Socrates here attributes to Protagoras a radical theory of fl
 + P4. Socrates' size does not change from year 1 to year 2
 + P5. Socrates changes from being taller to being shorter without his size decreasing.
 + P6. Socrates could not change from being taller to being shorter without his size decreasing (from P1).
+
+**Number**
 
 + P1. If four dice are put beside six dice, the six dice are more than the four.
 + P2. If twelve dice are now placed beside the six dice, the six dice are less than the twelve.
