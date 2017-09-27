@@ -123,36 +123,42 @@ A secret doctrine! Socrates here attributes to Protagoras a radical theory of fl
 
 > And isn't it also true that bodily condition deteriorates with rest and idleness? While by exertion and motion it can be preserved for a long time?
 
+## Some examples
+
+> SOC.: Well now, suppose that Protagoras, or anyone else, asks you this: ‘Theaetetus, is there any way in which something can become larger or more numerous, other than by undergoing increase What will you answer?
 
 
-In accordance with the principle that nothing is but is always coming to be and in a constant state of motion, perceived colours must always ‘come to be’, and therefore cannot be at rest or be located anywhere, in the eyes or the object. But if one cannot locate the colour in the eye or in the object, how should one think of it (153e3)?
++ P1. If X gets shorter, then X's size must decrease
++ P2. Socrates is taller than Theaetetus in year 1.
++ P3. Theaetetus grows and is taller than Socrates in year 2.
++ P4. Socrates' size does not change from year 1 to year 2
++ P5. Socrates changes from being taller to being shorter without his size decreasing.
++ P6. Socrates could not change from being taller to being shorter without his size decreasing (from P1).
 
-SOC.: Whenever I come to be perceiving, I necessarily come to be perceiving something; because it's impossible to come to be perceiving, but not perceiving anything. And (p.95) whenever it comes to be sweet, bitter, or anything of that kind, it necessarily comes to be so for someone; because it's impossible to come to be sweet, but not sweet for anyone (γλυκὺ γάρ, μηδϵνὶ δὲ γλυκὺ ἀδύνατoν γϵνέσθαι‎). (160a9–b3, trans. McDowell)36
-
-SOC.: Well then, you must think like this. In the case of the eyes, first, you mustn't think of what you call white colour as being some distinct thing outside your eyes, or in your eyes either—in fact you mustn't assign any place to it; because in that case it would, surely, be at its assigned place and in a state of rest, rather than coming to be. (153d8–e2)
-
-SOC.: Let's follow what we said just now, and lay it down that nothing is one thing just by itself. On those lines, we'll find that black, white, or any other colour will turn out to have come into being, from the collision of the eyes with the appropriate motion. What we say a given colour is will be neither the thing which collides, nor the thing it collides with, but something which has come into being between them; something peculiar to each one. (153e4 –154a3)
-
-
-Socrates' thesis is that neither the object nor the perceiver is coloured, or, to put it the other way, that the colour is neither in the object nor in the perceiver. Rather the colour is ‘something which has come into being between them, something peculiar to each one’. He argues:
-
-SOC.:…Or would you be prepared to insist that every colour appears to a dog, or any other living thing, just the way it appears to you?
-
-THT.: Certainly not.
-
-(p.97)
-SOC.: And what about another man? Is the way anything appears to him like the way it appears to you? Can you insist on that? Or wouldn't you much rather say that it doesn't appear the same even to yourself, because you're never in a similar condition to yourself?
-
-THT.: Yes, I think that's nearer the truth than the first alternative. (154a3–9)
++ P1. If four dice are put beside six dice, the six dice are more than the four.
++ P2. If twelve dice are now placed beside the six dice, the six dice are less than the twelve.
++ P3. The 6 dice have changed from being more to being less although their number has not changed.
+= P4. Something cannot change from being more or less unless its number changes.
 
 
 
-What are the flux doctrine premises? 
 
 
+## Secret Doctrine and Perception
 
- Rather, the perception, what is
-perceived, and even the perceiver are generated all in one go
+> In accordance with the principle that nothing is but is always coming to be and in a constant state of motion, perceived colours must always ‘come to be’, and therefore cannot be at rest or be located anywhere, in the eyes or the object. But if one cannot locate the colour in the eye or in the object, how should one think of it (153e3)?
+
+> SOC.: Whenever I come to be perceiving, I necessarily come to be perceiving something; because it's impossible to come to be perceiving, but not perceiving anything. And whenever it comes to be sweet, bitter, or anything of that kind, it necessarily comes to be so for someone; because it's impossible to come to be sweet, but not sweet for anyone (160a9–b3).
+
+> SOC.: Well then, you must think like this. In the case of the eyes, first, you mustn't think of what you call white colour as being some distinct thing outside your eyes, or in your eyes either—in fact you mustn't assign any place to it; because in that case it would, surely, be at its assigned place and in a state of rest, rather than coming to be (153d8–e2).
+
+> SOC.: Let's follow what we said just now, and lay it down that nothing is one thing just by itself. On those lines, we'll find that black, white, or any other colour will turn out to have come into being, from the collision of the eyes with the appropriate motion. What we say a given colour is will be neither the thing which collides, nor the thing it collides with, but something which has come into being between them; something peculiar to each one (153e4 –154a3).
+
+
+Socrates' thesis is that neither the object nor the perceiver is coloured, or, to put it the other way, that the colour is neither in the object nor in the perceiver. Rather the colour is ‘something which has come into being between them, something peculiar to each one’. 
+
+> SOC.: Let's follow what we said just now, and lay it down that nothing is one thing just by itself. On those lines, we'll find that black, white, or any other colour will turn out to have come into being, from the collision of the eyes with the appropriate motion. What we say a given colour is will be neither the thing which collides, nor the thing it collides with, but something which has come into being between them; something peculiar to each one. (153e4 –154a3)
+
 
 ## Socrates' Response
 
@@ -169,16 +175,9 @@ So, Protagoras is unable to maintain a clear distinction between perception and 
 
 Is is here that the claim that Socrates attacks the claim that knowlege is perception. He points to some features of perception and some features of belief that make it impossible that perception by itself could yield beliefs. He will argue that belief formation is an active affair that requires us to appeal to material outside of our immediate experiences. Thus, we cannot rely just on our immediate experiences to form beliefs. 
 
-We recall that knowledge is of an entity being determinate. Socrates claims that we cannot grasp through perception the determination of an object; that it is some F.  The argument to show this proceeds by first distinguishing
-between perceiving *through* and perceiving *with* our eyes and ears
-(184c). If we do not make this distinction, Socrates thinks we will have
-difficulty in showing how perceptions converge. Rather, his own view is
-that “we perceive with the soul through the senses” (184d). If I
-perceive that Helen is beautiful, I perceive this *with* my soul
-*through* my eyes.
+We recall that knowledge is of an entity being determinate. Socrates claims that we cannot grasp through perception the determination of an object; that it is some F.  The argument to show this proceeds by first distinguishing between perceiving *through* and perceiving *with* our eyes and ears (184c). If we do not make this distinction, Socrates thinks we will have difficulty in showing how perceptions converge. Rather, his own view is that “we perceive with the soul through the senses” (184d). If I perceive that Helen is beautiful, I perceive this *with* my soul *through* my eyes.
 
-The next step in the argument requires the premise that the objects of perception are peculiar to their senses. What I
-perceive through sight, I cannot perceive through hearing (185a). We attribute to both sight and sound many
+The next step in the argument requires the premise that the objects of perception are peculiar to their senses. What I perceive through sight, I cannot perceive through hearing (185a). We attribute to both sight and sound many
 things. We think they both ‘are’ and are different from one another and
 the same as themselves (185a-b). However, given that the objects of
 perception are peculiar to their powers, Socrates points out that we
