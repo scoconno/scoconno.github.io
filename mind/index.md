@@ -23,7 +23,7 @@ There are two sections of this course, one that meets in person and one that mee
 
 ## Materials
 
-Please refer to the syllabus for a weekly schedule of readings and assignments. All changes will be announced through Blackboard. 
+Please refer to the syllabus for a weekly schedule of readings and assignments. Changes will be announced through Blackboard. 
 
 <ul>
   {% for page in site.data.mind-week %}
