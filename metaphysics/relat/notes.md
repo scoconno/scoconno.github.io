@@ -173,55 +173,27 @@ Socrates diagnoses the source of Theodorus’ chief concern with MM as follows:
 
 > If whatever the individual judges by means of perception is true for him; if no man can access another’s experience better than he, or can claim authority to examine another man’s judgment and see if it be right or wrong; if, as we have repeatedly said, only the individual himself can judge his own world, and what he judges is always true and correct: how could it ever be my friend, that Protagoras was a wise man? (160d-e)
 
-The quote brings to light the relationship Protagoras sees holding between judgment, (the forming of beliefs), and perception. We form beliefs solely based on perception for the only material available for belief formation comes from the immediate perceptual experience. For example, you could not correctly compare the Taj Mahal you see to reports someone
-gives of the Taj Mahal for they are both different objects.
+The quote brings to light the relationship Protagoras sees holding between judgment, the forming of beliefs, and perception. Protagoras must say that we form beliefs solely based on perception because the only material available for belief formation comes from the immediate perceptual experience. For example, you could not correctly compare the Taj Mahal you see to reports someone gives of the Taj Mahal for they are both different objects according to Protagoras.
 
-Recall that for Protagoras the way an object appears to you is the way that the object is. There is no object with a stable nature that is there to be perceived (166d). There is not even a stable perceiver waiting to perceive. What seem to be ‘my’ past experiences are someone else’s past experiences (166b-c). Rather, the perception, what is perceived, and even the perceiver are generated all in one go. We cannot even appeal to our past experiences when forming judgment about the Taj Mahal. So, it is impossible to “judge anything other than what one is immediately experiencing.” (167a-b).
+Recall that for Protagoras the way an object appears to you is the way that the object is. There is no object with a stable nature that is there to be perceived (166d). There is not even a stable perceiver waiting to perceive. What seems to be ‘my’ past experiences are someone else’s past experiences (166b-c). Rather, the perception, what is perceived, and even the perceiver are generated all in one go. We cannot even appeal to our past experiences when forming judgment about the Taj Mahal. So, it is impossible to “judge anything other than what one is immediately experiencing.” (167a-b).
 
 So, Protagoras is unable to maintain a clear distinction between perception and judgment. As soon as I perceive that an object is someway, I should immediately have the belief that the object is that way. I cannot bring in material from anything outside of my immediate experiences to form a judgment. 
 
-Is is here that the claim that Socrates attacks the claim that knowlege is perception. He points to some features of perception and some features of belief that make it impossible that perception by itself could yield beliefs. He will argue that belief formation is an active affair that requires us to appeal to material outside of our immediate experiences. Thus, we cannot rely just on our immediate experiences to form beliefs. 
+Is is here that Socrates attacks the claim that knowledge is perception. He points to some features of perception and some features of belief that make it impossible that perception by itself could yield beliefs. He will argue that belief formation is an active affair that requires us to appeal to material outside of our immediate experiences. Thus, we cannot rely just on our immediate experiences to form beliefs. 
 
-We recall that knowledge is of an entity being determinate. Socrates claims that we cannot grasp through perception the determination of an object; that it is some F.  The argument to show this proceeds by first distinguishing between perceiving *through* and perceiving *with* our eyes and ears (184c). If we do not make this distinction, Socrates thinks we will have difficulty in showing how perceptions converge. Rather, his own view is that “we perceive with the soul through the senses” (184d). If I perceive that Helen is beautiful, I perceive this *with* my soul *through* my eyes.
+We recall that knowledge is of an entity being determinate. Socrates claims that we cannot grasp through perception the determination of an object, i.e., we cannot grasp through perception that it is some F.  The argument to show this proceeds by first distinguishing between perceiving *through* and perceiving *with* our eyes and ears (184c). If we do not make this distinction, Socrates thinks we will have difficulty in showing how perceptions converge. Rather, his own view is that “we perceive with the soul through the senses” (184d). If I perceive that Helen is beautiful, I perceive this *with* my soul *through* my eyes.
 
-The next step in the argument requires the premise that the objects of perception are peculiar to their senses. What I perceive through sight, I cannot perceive through hearing (185a). We attribute to both sight and sound many
-things. We think they both ‘are’ and are different from one another and
-the same as themselves (185a-b). However, given that the objects of
-perception are peculiar to their powers, Socrates points out that we
-cannot perceive these common attributes through any one sense. We cannot
-perceive the ‘being’ that we attribute to each.
+The next step in the argument requires the premise that the objects of perception are peculiar to their senses. What I perceive through sight, I cannot perceive through hearing (185a). But we attribute to both sight and sound many common things, things that are not perceived through any single sense. We think they both ‘are’, and are different from one another, and the same as themselves (185a-b). However, given that the objects of perception are peculiar to their powers, Socrates points out that we cannot perceive these common attributes through any one sense. We cannot perceive the ‘being’ that we attribute to each.
 
-In claiming that both colour and sound ‘are’, we should not necessarily
-take the ‘are’ as primarily existential. For there are at least two
-other ways of reading the ‘are’. A) Yellow ‘is’ in virtue of something
-being yellow. B) Yellow ‘is’ in virtue of it being bright or some such.
-The prime reason for not reading ‘to be’ here as existential is that
-doing so makes it difficult to understand Socrates’ claims that we
-cannot perceive the ‘being’ that is common to both. If the ‘is’ was
-purely existential, we might wonder why we cannot perceive that sound
-exists or yellow exists. What substantial difference would there be
-between perceiving a colour and perceiving that the colour exists?
+In claiming that both colour and sound ‘are’, we should not necessarily take the ‘are’ as primarily existential. For there are at least two other ways of reading the ‘are’. A) Yellow ‘is’ in virtue of something being yellow. B) Yellow ‘is’ in virtue of it being bright or some such. The prime reason for not reading ‘to be’ here as existential is that doing so makes it difficult to understand Socrates’ claims that we cannot perceive the ‘being’ that is common to both. If the ‘is’ was purely existential, we might wonder why we cannot perceive that sound exists or yellow exists. What substantial difference would there be between perceiving a colour and perceiving that the colour exists?
 
-However, by construing the main use of ‘to be’ as something other than
-purely existential we can mark the distinction. There is a difference if
-awareness that a colour ‘is’ is to be aware that it has some
-determination; either that something is coloured or that colour has some
-attributes. This is shown from Socrates’ discussion of how we perceive
-hardness and softness through touch. While we perceive them through
-touch, “as regards their being – they fact that they are – their
-opposition to one another, and the being, again of this opposition, the
-matter is different”(186b). We perceive hardness and softness. However,
-in order to have beliefs about hardness and softness, we need material from elsewhere. In other words, in
-order to have the belief that an entity has a determination we need to
-deploy concepts like ‘is similar’ or ‘is one’, concepts that one cannot
-acquire in perceiving hardness and softness. Michael Frede explains the point as follows: 
+By construing the main use of ‘to be’ as something other than purely existential, we can mark the distinction. There is a difference if awareness that a colour ‘is’ is to be aware that it has some determination; either that something is coloured or that colour has some attributes. This is shown from Socrates’ discussion of how we perceive hardness and softness through touch. While we perceive them through touch, “as regards their being – they fact that they are – their opposition to one another, and the being, again of this opposition, the matter is different”(186b). We perceive hardness and softness. However, in order to have beliefs about hardness and softness, we need material from elsewhere. In other words, in order to have the belief that an entity has a determination we need to deploy concepts like ‘is similar’ or ‘is one’, concepts that one cannot acquire in perceiving hardness and softness. Michael Frede explains the point as follows: 
 
 > I take it that Plato wants to argue that even the question whether *A* is red is not settled by perception. We may be passively affected by the colour red, but to form the belief that something is red presupposes and takes a great deal of activity on the part of the mind. Hence, we perceive the colour red, but we do not, strictly speaking, perceive that *A* is red. Hence, knowledge, since it always involves belief, never is just a matter of perception.
 
-Perception does not by itself give rise to belief. It can serve a role
-in belief formation but never an exhaustive one. There is no possibility
-of having beliefs that just draw upon the material provided by our
-immediate experiences. This we saw was a crucial if MM was to hold.
+Perception does not by itself give rise to belief. It can serve a role in belief formation but never an exhaustive one. There is no possibility of having beliefs that just draw upon the material provided by our immediate experiences. This we saw was a crucial if MM was to hold.
+
+In summary, MM was supposed to show us that knowledge is perception. If everything is as it appears to us, then appearances by itself should give us knowledge. But, if all we have to go on our appearances, then we will not even be able to form a belief about the things that appear to us let alone have knowledge of such things. 
 
 ---
 
