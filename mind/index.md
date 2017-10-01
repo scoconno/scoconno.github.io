@@ -7,6 +7,7 @@ title: Self-Mind
 # Course Information
 
 There are two sections of this course, one that meets in person and one that meets online. Please click the relevant syllabus for your course. 
+
 + [Syllabus for M & W section](Syllabus.pdf)
 + [Syllabus for online section](SyllabusFO.pdf)
 + [Philosophy of Mind Resources](/mind/resources)

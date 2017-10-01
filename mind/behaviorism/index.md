@@ -16,4 +16,3 @@ title: Behaviorism
 
 ### Assignments
 + Quiz 3
-+ [Essay](essay)

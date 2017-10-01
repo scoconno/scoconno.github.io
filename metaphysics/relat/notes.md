@@ -6,6 +6,8 @@ title: The Knowledge Argument
 
 ## Types of Properties
 
+Let me distinguish various types of properties: 
+
 
 | Categories | Aristotle’s Term   | Examples                            |
 | ---------- | ------------------ | ----------------------------------- |
@@ -21,6 +23,8 @@ title: The Knowledge Argument
 | Passion    | Undergoing         | is cut, is burned                   |
 
 
+We are interested this week in a view which says that for any of these properties F, an object is F *because* of how that object appears to us. So, on this view, a dog is large only because that is how it appears to us, a tree is green only because of how it appears to us, a chair is sturdy only because of how it appears to us, etc. This is obviously a very radical view, and we would like to know why anyone would hold it. We'll focus our discussion on a dialog by Plato called *The Theaetetus*. 
+
 
 ### Introduction to the dialog
 
@@ -30,28 +34,26 @@ Socrates and his interlocutors are interested in the nature of knowledge. What i
 2. knowledge must always be unerring (152c). 
 
 
-They consider three suggestions, the first of which is the claim that **knowledge is perception** (KP)(151e). If knowledge is perception, then perception must always be of what is, and perception must always be unerring. What ensues is first an argument that perception does satisfy these requirements and then Socrates' rebuttal.  Our interest is in the metaphysical underpinnings for this argument and Socrates' rebuttal of them. These two claims are as follows: 
+They consider three suggestions, the first of which is the claim that **knowledge is perception** (KP)(151e). If knowledge is perception, then perception must always be of what is, and perception must always be unerring. What ensues is an argument that perception does satisfy these requirements and then Socrates' rebuttal.  Our interest is in the metaphysical underpinnings for this argument and Socrates' rebuttal of them. Socrates says that the KP is closely associated with a view defended by his predecessors, Protagoras. 
 
 Protagoras' Measure Doctrine: 
 : “man is the measure of all things: of the things which are, that they are, and of things which are not, that they are not.” (MM)(152a) 
 
 (Note that 'man' translates the Greek word 'anthropos'. This word is neutral with respect to gender. Newer translations use 'human', but that raises issues for how to translate single neuter personal pronouns from Greek into English, e.g., a human is a measure by him/her/them? being such and such. So, just remember that the doctrines presented in Greek are gender neutral.)
 
-Heraclitus' flux doctrine:
-:  all things that ‘are’, “are in the process of coming to be”(AF) (152e).
 
 ## The Measure Doctrine
 
-Protagoras claims that man is the measure of the things which are, that they are, and of things which are not, that they are not. But what does this mean? Distinguish these two claims
+Protagoras claims that man is the measure of the things which are, that they are, and of things which are not, that they are not. But what does this mean? Distinguish these two claims:
 
 1. Man is the measure of the things which exist, that they exist, and of things which do not exist, that they do not eixst. 
 2. Man is the measure of the things which are F, that they are F, and of things which are not F, that they are not F. 
 
-Consider Helen of Troy. The first claim says that Helen exists only because of her relationship to some person. The second claims says that some property Helen has is a property she has only in relationship to some person. It is clear that Protagoras means the second claims. For instance, Socrates tells us that when the wind blows one of us may feel cold and the other not cold. He asks:
+Consider Helen of Troy. The first claim says that Helen exists only because of her relationship to some person. The second claim says that Helen has the properties she has only in virtue of her relationship to some person. It is clear that Protagoras means the second claim. For instance, Socrates tells us that when the wind blows one of us may feel cold and the other not cold. He asks:
 
 > in that case are we going to say that the wind itself, by itself, is cold or not cold? Or shall we listen to Protagoras, and say it is cold for the one who feels cold, and for the other, not cold? (152b).
 
-Protagoras is contrasted to someone who believes that the wind is say, cold, in virtue itself. He responds that the wind ‘by itself’ does not have this property. Rather, it is cold in virtue of someone experiencing it that way. 
+Protagoras is contrasted to someone who believes that the wind is cold in virtue itself. He responds that the wind ‘by itself’ does not have this property. Rather, it is cold in virtue of someone experiencing it that way. 
 
 Further evidence is found at 157a where we are told that Protagoras does not believe that anything is itself *hot* or
 *anything else*. Again, Socrates states MM as follows: 
@@ -72,28 +74,27 @@ He even suggests that Protagoras' claim may be irrefutable when restricted to im
 
 Presumably, ice is cold only because we experience it as cold. Another creature might experience it as hot, so it is hot for that creature. The properties 'hot' and 'cold' are not properties of the ice that it has in virtue of itself. It has these properties, if at all, only in virtue of someone or something experiencing it as hot or cold. It can even have both properties at the same time: it might be hot to you and cold to me. It has both properties, but it has them in relationship to different things or people. 
 
-But, MM is not the innocent thesis that objects have **some** features only because they are experienced in certain ways. Distinguish what Gail Fine (1996, 213--214) Narrow from Broad Protagoreanism as follows:  Narrow MM is restricted to the “immediate present experience of the individual.”(179c) That is, it is restricted to our beliefs about what we sense with our five sense. In contrast, Broad MM is not restricted. It applies to all beliefs, both perceptible and non-perceptible. Protagoras accepts the Broad view:
+But MM is not the innocent thesis that objects have **some** features only because they are experienced in certain ways. Distinguish between what Gail Fine (1996, 213--214) calls Narrow and Broad Protagoreanism as follows:  Narrow MM is restricted to the “immediate present experience of the individual.”(179c) That is, it is restricted to our beliefs about what we sense with our five sense. In contrast, Broad MM is not restricted. It applies to all beliefs, both perceptible and non-perceptible. Protagoras accepts the Broad view:
 
 > As each thing appears to me, so it is for me, and as it appears to you, so it is for you-you and I each being a man (152a). 
 
 Notice that Protagoras uses 'appear' here. There are many things that we are aware of that we do not perceive. An argument can appear valid, a situation can appear dangerous, etc. Restricted to the senses we would not normally use the word ‘perceive’ to cover these cases. I do not smell the argument as valid. So, the claim that knowledge is perception should be taken somewhat loosely: Protagoras has not restricted the thesis to just that which is perceived through the senses. He means that if X appears F to me, then X **is** F, where the appearance can be through the senses, or some other means.
 
-How does MM (along with AF) show that knowledge is perception? Recall our two conditions for knowledge. The first said that knowledge must always be of what is. This means that knowledge is of, or directed towards, an entity haveing some property or other, e.g., I know that Socrates is ugly, I know that ice is cold, I know that the square is a figure. Of course, we can also know that an object exists, but that knowledge will consist in, and be dependent upon, knowing in what way it is determinate, i.e. there is no possibility of knowing that an entity exists without knowing that it is some other way or other. 
+How does MM show that knowledge is perception? Recall our two conditions for knowledge. The first said that knowledge must always be of what is. This means that knowledge is of, or directed towards, an entity having some property or other, e.g., I know that Socrates is ugly, I know that ice is cold, I know that the square is a figure. Of course, we can also know that an object exists, but that knowledge will consist in, and be dependent upon, knowing in what way it is determinate, i.e., there is no possibility of knowing that an entity exists without knowing that it is some other way or other. 
 
 If MM is true, then perception obviously satisfies condition 1 for knowledge. If X appears F to me, then X is F. So, in proposing perception as a candidate for knowledge, they are suggesting that, and going on to inquire whether, we can perceive the determination of an object.
 
 Our second condition for knowledge states that knowledge must be unerring. It is unerring in the sense that possession of this power/capacity ensures that one can perform a function flawlessly. If I have 'knowledge', I always judge correctly the condition of whatever I know. Thus, in proposing perception as a candidate for knowledge, they are suggesting that this capacity is always unerring. If we perceive that objects have a certain determination, we cannot be wrong. That is, perception never goes wrong. 
 
-Let's pause to consider how radical MM is. If MM is true, there are no non-subjective facts about reality. The nature of reality would, in effect, be determined by how it appears to us. If this is true, there can be no genuine disagreement about the nature of reality nor anyone with special authority over any aspect of reality. Since, for Protagoras, all men judge truly (170c) MM makes all men equal in expertise (169d).
+Let's pause to consider how radical MM is. If MM is true, there are no non-subjective facts about reality. The nature of reality would, in effect, be determined by how it appears to us. If this is true, there can be no genuine disagreement about the nature of reality nor anyone with special authority over any aspect of reality. Since, for Protagoras, all men judge truly (170c), MM makes all men equal in expertise (169d).
 
 Consider a few odd implications suggested in the text:
 
 1. After Theodorus introduces Theaetetus to Socrates by pointing to their physical similarities, Socrates questions whether Theodorus has the expertise to evaluate their physical resemblance (145a). If MM is true, there are no experts, say artists, about physical resemblances. 
-2. Theaetetus finds it obvious that if he and Socrates were both lyres and Theodorus claimed that they were both similarly tuned, that they should not take his word straightaway. Rather, they must first find out “if he were speaking with any expert knowledge of music.”(144e) They should only trust the judgment of an expert. If MM is true, the musician is not better at judging the tuning of an instrument than a non-expert. 
+2. Theaetetus finds it obvious that if he and Socrates were both lyres and Theodorus claimed that they were both similarly tuned, that they should not take his word straightaway. Rather, they must first find out “if he were speaking with any expert knowledge of music”(144e). They should only trust the judgment of an expert. If MM is true, the musician is not better at judging the tuning of an instrument than a non-expert. 
 3. According to Protagoras, there is no reason to favour the doctor’s judgment over his patient’s as to whether the patient will take a fever tomorrow. If MM is true, the doctor’s and the patient’s judgment about their prognosis are equivalent (178c).
 4. If MM is true, then the grower’s judgment is no more reliable than the musician as to whether a future wine will be dry or sweet.
-5. If MM is true, there are no mishearings and other misperceivings (157e). In a false perception, it may appear to a perceiver than x is F, but in fact x is not-F. If MM is true, such a phenomenon does not occur. Socrates explains: 
-	 > “in these conditions we surely have false perceptions. Here it is far from being true that all things which appear to the individual also are. On the contrary, no one of the things which appear to him really is.”(158a). 
+5. If MM is true, there are no mis-hearings and other mis-perceivings (157e). In a false perception, it may appear to a perceiver than x is F, but in fact x is not-F. If MM is true, such a phenomenon does not occur. 
 	 
  
 Theodorus sums up the consequences of MM as follows: “the chief point on which the theory [MM] is convicted of error”(179b) is that it has the consequence that no man is superior in knowledge to any other. 
@@ -117,13 +118,16 @@ MM is radical. So, why would anyone accept it? Here is how Socrates introduces P
 
 > SOC.: This, now, is certainly no ordinary theory—I mean the theory that there is nothing which in itself is just one thing: nothing which you could rightly call anything or any kind of thing. If you call a thing large, it will reveal itself as small, and if you call it heavy, it is liable to appear light, and so on with everything, **because nothing is anything or any kind of thing. Rather, the things of which we naturally say that they ‘are’, are in process of coming to be, as the result of movement and change and blending with one another. We are wrong when we say they ‘are’, since nothing ever is, but everything is coming to be. (152d2–e1)**
 
-A secret doctrine! Socrates here attributes to Protagoras a radical theory of flux, a theory that was most famously defended by Heraclitus. You might have heard of him if you ever heard someone say that you cannot step in the same river twice. Heraclitus supposedly used that claim to illustrate his overall metaphysical picture: everything is in a constant state of change. That everything is constantly changing may seem an innocent claim. Consider your age. By convention, we may say that you are 21 years of age. But, really, you are 21 years, X number of days, and Y number of hours, and Z number of minutes of age. Your age is constantly increasing. You are never the exact same age from one moment to the next. If you were to calculate your weight down to the atomic level, your weight would also change from one moment to the next. How about being still? If you are currently sitting right now, are you truly at rest? No! Of course, you are at rest in relation to the room. But our planet is hurtling through the solar system at dramatic speeds. It is also rotating round its axis. So, we are never truly not moving. 
+A secret doctrine! Socrates here attributes to Protagoras a radical theory of flux, a theory that was most famously defended by Heraclitus. You might have heard of him if you ever heard someone say that you cannot step in the same river twice. Heraclitus supposedly used that claim to illustrate his overall metaphysical picture: everything is in a constant state of change. That everything is constantly changing may seem an innocent claim. Consider your age. By convention, we may say that you are 21 years of age. But, really, you are 21 years, X number of days, and Y number of hours, and Z number of minutes of age. Your age is constantly increasing. You are never the exact same age from one moment to the next. If you were to calculate your weight down to the atomic level, your weight would also change from one moment to the next. How about being still? If you are currently sitting right now, are you truly at rest? No! Of course, you are at rest in relation to the room. But our planet is hurtling through the solar system at dramatic speeds. It is also rotating round its axis. So, we are never truly not moving. Socrates presents some similar reasons as follows: 
 
 > You see, there is good enough evidence for this theory that being (what passes for such) and becoming are a product of motion, while not-being and passing-away result from a state of rest. There is evidence for it in the fact that heat or fire, which presumably generates and controls everything else, is itself generated out of movement and friction-these being motions. Or am I wrong in saying these are the original sources of fire? (153a).
 
 > And isn't it also true that bodily condition deteriorates with rest and idleness? While by exertion and motion it can be preserved for a long time?
 
 ## Some examples
+
+The radical flux doctrine does not merely claim that each object is changing in respect of *some* properties. It claims that there is no property that an object isn't changing in respect of. That's a much more radical claim. The argument for it seems to be by case. We start from simple observations that objects are changing in some ways and then add more and more cases. Here are some of the important ones: 
+
 
 > SOC.: Well now, suppose that Protagoras, or anyone else, asks you this: ‘Theaetetus, is there any way in which something can become larger or more numerous, other than by undergoing increase What will you answer?
 
@@ -143,7 +147,7 @@ A secret doctrine! Socrates here attributes to Protagoras a radical theory of fl
 + P3. The 6 dice have changed from being more to being less although their number has not changed.
 + P4. Something cannot change from being more or less unless its number changes.
 
-
+Both of these cases introduce what we might call cases of relational change. When you consider an object by itself, it might seem absurd to claim that it is radically changing, that it is changing in every respect. But once you consider the object's relationship to everything else that exists, it becomes less obvious that there is any respect in which the object remains stable. We would all agree that we become rich if someone deposits one million dollars into our accounts without our knowledge. We would agree that we become aunts and uncles if our siblings have children, even if our siblings are far, far, away. The radical flux doctrine says that we should also consider things like our comparable heights and speeds. Presumably, I walk quickly only relative to how quickly others are working. If we expand our focus to everyone on the globe who is currently walking, then a walker's speed would constantly changing from being slow to quick because of the variations throughout the globe in the speeds of other walkers.  
 
 
 
