@@ -15,4 +15,4 @@ title: Behaviorism
 + [Wittgenstein's beetle in a box](https://www.youtube.com/watch?v=x86hLtOkou8)
 
 ### Assignments
-+ Quiz 3
++ Quiz 2
