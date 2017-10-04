@@ -24,7 +24,7 @@ Why? What distinguishes the watch from the stone? Upon inspecting the watch, you
 
 Discovering the complexity of the watch, you likely will conclude that the watch must have had a maker; that there must have existed, at sometime, and at some place or other, a maker or makers, who formed the watch for the purpose of telling time. The stone, in contrast, has no similar complexity. It does not have parts put together for some purpose. We have no reason, then, to think that the stone, as opposed to the watch, was put together by some maker. 
 
-## The Structure of the Argument
+## The Structure of the Argument ##
 
 Paley's interest is God, not watches. He discusses watches to illustrate a general point about complexity, design, and creators. He thinks that these general points will apply to organisms just as much as to watches, and thus show that organisms too must have creators:
 
@@ -52,7 +52,7 @@ Premise 5 is an inference from earlier premises, and 6 states our conclusion. Pa
 
  
 
-## Objections & Responses
+## Objections & Responses ##
 
 I have presented Paley's argument as a deductive one. Evaluating a deductive argument requires us to determine whether the argument is valid and sound. (If you don't remember these distinctions, please study Ch.1.3 again. These notions will be used in each module.)
 
@@ -60,7 +60,7 @@ It is also important in evaluating philosophical arguments to distinguish betwee
 
 Our first three objections are easy to respond to, the fourth is not. In what follows, I will first list each objection, then offer some notes on how the objection speaks to the original argument. I will also outline Paley's response to the first three objections.  
 
-##Objection 1
+### Objection 1
 
 **Objection:** since we have never seen a watch made or know how to make one, we cannot conclude that someone made the watch.
 
@@ -72,7 +72,7 @@ Our first three objections are easy to respond to, the fourth is not. In what fo
 
 
 
-##Objection 2 
+### Objection 2 
 
 **Objection:** There are some parts of organisms that seem to serve no function, e.g., the appendix.
 
@@ -81,7 +81,7 @@ Our first three objections are easy to respond to, the fourth is not. In what fo
 **Response:** Paley responds by clarifying Premise 2. Premise 2 does not require that every part of the organism serves some purpose. His argument works as long as there are some parts that do; there is still an explanation that is required of how those parts serve the purpose they do. Paley also observes that the objection concedes to him that organisms have parts that are purposive; the objector cannot distinguish parts that do not have purposes from those that do unless she concedes that there are parts of the latter kind. In addition, we may note that while organisms may have some parts that serve no purpose, these are few in number compared to the vast majority of parts that do. 
 
 
-## Objection 3
+### Objection 3
 
 **Objection:** Organisms are produced from organisms through normal sexual and asexual reproduction. A baby chipmunk is not produced by God, but by his or her parents. 
 
