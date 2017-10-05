@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  2 OCT 2017 12:19
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  4 OCT 2017 12:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1260,13 +1260,7 @@ t,Scale=MatchLowercase].
 . \hyphenchar \font =\c_minus_one 
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 38.
-
-Overfull \hbox (6.23335pt too wide) in paragraph at lines 62--63
-[]\TU/MinionPro(0)/m/n/10 ...all things believed [ta dokounta panta] and [all] 
-appearances [ta phain-
- []
-
-[1
+ [1
 
 ]
 Overfull \hbox (4.60939pt too wide) in paragraph at lines 96--97
@@ -1274,13 +1268,13 @@ Overfull \hbox (4.60939pt too wide) in paragraph at lines 96--97
 kind membership, e.g., species
  []
 
-[2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
+[2] [3] [4] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 209.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 209.
  (./handout.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 123.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 123.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 209.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 209.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 209.
  ) 
 Here is how much of TeX's memory you used:
  28711 strings out of 493005
@@ -1291,4 +1285,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  46i,11n,117p,10383b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on handout.pdf (3 pages).
+Output written on handout.pdf (5 pages).
