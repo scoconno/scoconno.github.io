@@ -19,5 +19,5 @@ title: Motion
 + Reading
   + ['The Paradoxes of Motion and the Possibility of Change', pp. 300-306](LoweZeno.pdf) E.J. Lowe, 'A Survey of Metaphysics', OUP, 2002
 + Notes
-  + [Handout](Zeno3.pdf)
+  + [Handout](zeno3.pdf)
 
