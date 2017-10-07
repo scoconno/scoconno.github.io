@@ -1,191 +1,127 @@
-\documentclass[]{article}
-%\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={Zeno 3},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\setcounter{secnumdepth}{0}
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Metaphysics}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Zeno 3}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+ \usepackage{longtable,booktabs}
+\tolerance=700
 
-\title{Zeno 3}
-\date{}
 
 \begin{document}
-\maketitle
+\thispagestyle{fancy}
+
+
+
+\section{Introduction}
+
+Recall again Zeno's overall argument against the existence of motion. 
+
+\begin{enumerate}
+\item Space is infinitely divisible or not infinitely divisible.
+\item  If space is infinitely divisible, motion is impossible.
+\item  If space is not infinitely divisible, motion is impossible.
+\item  Therefore, motion is impossible (From 1-3).
+\end{enumerate}
+
 
 \subsubsection{The Arrow Paradox}\label{the-arrow-paradox}
+
+The source for Zeno's argument is Aristotle (Physics, Book VI, chapter 5, 239b5-32).
 
 \begin{quote}
 The third is \ldots{} that the flying arrow is at rest, which result
 follows from the assumption that time is composed of moments \ldots{} .
 he says that if everything when it occupies an equal space is at rest,
 and if that which is in locomotion is always in a now, the flying arrow
-is therefore motionless. (Aristotle Physics, 239b.30)
+is therefore motionless (Aristotle, \emph{Physics,} 239b30)
 \end{quote}
 
 \begin{quote}
 Zeno abolishes motion, saying ``What is in motion moves neither in the
-place it is nor in one in which it is not''. (Diogenes Laertius Lives of
-Famous Philosophers, ix.72)
+place it is nor in one in which it is not'' (Diogenes Laertius, \emph{Lives of
+Famous Philosophers,} ix.72).
 \end{quote}
 
-\subsubsection{Outline of the Paradox}\label{outline-of-the-paradox}
+Zeno asks us to consider a moving arrow. The arrow should be in motion at any instant during the time it is moving. What is happening to that arrow at any particular instant? Zeno assumes that it travels no distance during that instant because it occupies a space equal to itself  for the whole instant. 
 
-Assume the following claims:
+This is a reasonable assumption. Suppose that the arrow did not occupy a space equal to itself for the whole instant. Perhaps you think it began the instant in one location and ended the instant at a different location. If you think this, then the relevant instant is not really an instant. Recall that we are assuming time is both atomic and that an instant is the smallest measure of time. Thus, there cannot be anything shorter than an instant. So, what is happening to the arrow at a true instant? It cannot be in motion for all of it because that would require the instant to be divisible into smaller parts.   
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Space is finitely divisible.
-\item
-  Time is composed of moment.
+Since the entire period of the arrow' motion contains only instants, all of which contain an arrow at rest, Zeno concludes that the the arrow cannot be moving.
+
+\section{Outline of the Paradox}\label{outline-of-the-paradox}
+
+Assume that space is finitely divisible. Assume also that time is composed of instant. There are ways to present the argument: 
+
+\noindent \textbf{Version 1:}\begin{enumerate}
+\item If the arrow moves throughout the period of its flight, then it is moves at each instant of that period. 
+\item The arrow occupies a space equal to its own volume at each instant. 
+\item If the arrow occupies a space equal to its own volume at an instant, then it is not in motion at that instant. 
+\item The arrow is not in motion at any instant of that period (from 2--3).
+\item The arrow does not move throughout the period of its flight (from 4).
 \end{enumerate}
 
-\begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  P1. An arrow must occupy a space equal to itself at each moment that
-  it exists.
-\item
-  P2. If an arrow moves for, say, 1 minute, the arrow will occupy a
-  space equal to itself at each moment that is it moving.
-\item
-  P3. An arrow that occupies a space equal to itself at a specific
-  moment is not moving in that moment in that space.
-\item
-  P4. If an arrow is not moving
-\end{itemize}
 
-Consider an arrow, apparently in motion, at any instant. First, Zeno
-assumes that it travels no distance during that moment---`it occupies an
-equal space' for the whole instant. But the entire period of its motion
-contains only instants, all of which contain an arrow at rest, and so,
-Zeno concludes, the arrow cannot be moving.
+\noindent \textbf{Version 2:}
 
-'' a moving arrow must occupy a space equal to itself during any moment.
-That is, during any moment it is at the place where it is. But places do
-not move. So, if in each moment, the arrow is occupying a space equal to
-itself, then the arrow is not moving in that moment because it has no
-time in which to move; it is simply there at the place. The same holds
-for any other moment during the so-called ``flight'' of the arrow. So,
-the arrow is never moving. Similarly, nothing else moves. The source for
-Zeno's argument is Aristotle (Physics, Book VI, chapter 5, 239b5-32).
+\begin{enumerate}
+\item If the arrow moves throughout the period of its flight, then, when it moves, it moves in the present. 
+\item The arrow is not in motion in the present. 
+\item The arrow does not move throughout the period of its flight. 
+\end{enumerate}
 
-\subsubsection{The Standard Solution}\label{the-standard-solution}
+Our first version assumes that time is finitely divisible. 
+
+ 
+
+\section{The Standard Solution}
 
 The standard solution to the paradox uses the ``at-at'' theory of
-motion:
-
-\begin{itemize}
-\item
-  \begin{enumerate}
-  \def\labelenumi{(\roman{enumi})}
-  \itemsep1pt\parskip0pt\parsep0pt
-  \item
-    being in motion involve being at different places at different
-    times, and (ii) being at rest involves being motionless at a
-    particular point at a particular time.
-  \end{enumerate}
-\end{itemize}
-
-This theory asks us to distinguish two things:
-
+motion, which claims that being in motion involve being at different places at different times. All it means for an arrow to move is for it to occupy different locations at different times. The ``at-at'' theory then asks us distinguish between being in motion in or during an instant and   being in motion at an instant. The former is impossible, while the latter or now. Here is a simple summary: 
 \begin{enumerate}
-\def\labelenumi{\alph{enumi})}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  being in motion in or during an instant.
-\item
-  being in motion at an instant.
+\item An object is in motion \textbf{during a period of time} if and only if the object occupies different locations at every instant of that period.
+\item An object is in \textbf{motion at an instant} if and only if it occupies different locations immediately before and after that instant. 
+\item An objet is \textbf{at rest at an instant} if and only if it is at the same location immediately before and after that instant. 
 \end{enumerate}
 
-The at-at theory accepts that the arrow cannot move during an instant,
-but claims that the arrow can still move at an instant. It does so by
-occupying different locations before and after that instant.
+The at-at theory accepts that the arrow cannot move \textbf{during an instant}, but claims that the arrow can still \textbf{move at an instant}. It does so by occupying different locations before and after that instant. If this is correct, the difference between rest and motion has to do with what is happening at nearby moments and has nothing to do with what is happening during a moment. The arrow counts as moving at an instant because it occupies different locations before and after that instant. The arrow counts as being at rest at an instant because it is not located at different locations before and after that instant.
 
-If this is correct, the difference between rest and motion has to do
-with what is happening at nearby moments and has nothing to do with what
-is happening during a moment. The arrow counts as moving at an instant
-because it occupies different locations before and after that instant.
-The arrow counts as being at rest at an instant because it is not
-located at different locations before and after that instant.
+\subsection{Calculus}
 
-The instant must be part of a period in which the arrow is continuously
-in motion.
+The at-at theory may remind you of some ideas you learned in calculus. This is no accident. Calculus was, in part, developed to respond to the Arrow Paradox by providing a means of characterizing motion at an instant. 
 
-instantaneous motion from instantaneous rest.
+This is a metaphysics course, not a mathematics one. But we can get the general idea by taking the speed of an object at an instant (instantaneous velocity) to be the time derivative of the object's position. This means the object's speed is the limit of its speeds during arbitrarily small intervals of time containing the instant. 
 
-The Arrow Paradox seems especially strong to someone who would say that
-motion is an intrinsic property of an instant, being some propensity or
-disposition to be elsewhere.
+- The object's speed is the limit of its speed over an interval as the length of the interval tends to zero.
 
-Calculus: speed of an object at an instant (instantaneous velocity) is
-the time derivative of the object's position.
 
-This means the object's speed is the limit of its speeds during
-arbitrarily small intervals of time containing the instant.
+The issue is acceleration.
 
-The object's speed is the limit of its speed over an interval as the
-length of the interval tends to zero.
+- The instant must be part of a period in which the arrow is continuously
+in motion. instantaneous motion from instantaneous rest.
 
-The derivative of position x with respect to time t, namely dx/dt, is
-the arrow's speed, and it has non-zero values at specific places at
-specific instants during the flight.
+The Arrow Paradox seems especially strong to someone who would say that motion is an intrinsic property of an instant, being some propensity or disposition to be elsewhere.
 
-The speed during an instant or in an instant, which is what Zeno is
-calling for, would be 0/0 and so be undefined.
 
-Using these modern concepts, Zeno cannot successfully argue that at each
-moment the arrow is at rest or that the speed of the arrow is zero at
-every instant. Therefore, advocates of the Standard Solution conclude
-that Zeno's Arrow Paradox has a false, but crucial, assumption and so is
-unsound.
+The derivative of position x with respect to time t, namely dx/dt, is the arrow's speed, and it has non-zero values at specific places at specific instants during the flight. The speed during an instant or in an instant, which is what Zeno is calling for, would be 0/0 and so be undefined.
 
-\subsubsection{Response}\label{response}
+Zeno cannot successfully argue that at each moment the arrow is at rest or that the speed of the arrow is zero at every instant of its flight. Therefore, advocates of the standard solution conclude that Zeno's Arrow Paradox has a false, but crucial, assumption and so is unsound.
 
-Stuff before and a moment determines if its moving. That's odd.
+\section{A Response to the Standard Solution}
 
-Suppose God were to wipe the arrow out of existence completely an
-instant after it moved. This would mean that it was not moving. But
-notice here that we are assuming that the future is fine in the future.
+The Standard Solution rescues motion by assuming that facts
+  about an objects' location in the future are already fixed: the arrow is moving at this instance because it will be at a different location in the next instant. This assumes that facts about the arrow's future location determine what is happening to the arrow in the present; it assumes that the future fixes what is happening now. This has caused many to reject the Standard Solution. Surely it is what is happening to the arrow now that determines what happens to it in the future.  
+
+Here is another way to press the worry. Suppose that God exists. Now Suppose he were to wipe the arrow out of existence completely one instant after it has moved. Does the arrow move at the instant before it was annihilated? If it is moving, then it occupies a different location before this current instant.  If the arrow is moving at this instant, then that means it is not  destroyed in the next instant. It is true now that the arrow is not
+  being destroyed in the future. If the arrow is annihalated in the next instant, then it is not true now that it is moving. Facts about the present cannot constraint God. Facts about the future should not explain the present. 
+
 
 \end{document}
