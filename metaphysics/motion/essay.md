@@ -6,19 +6,23 @@ title: Essay
 
 
 ## Introduction
+Zeno uses his Stadium Paradox to argue that motion is impossible in discrete space, i.e., to argue that it is impossible for an object to move if the distance it travels is divisible into a finite number of parts (each of which has some smallest length).  
 
-Zeno uses his Stadium Paradox to argue that motion is impossible in discrete space, i.e., it is impossible for an object to move if space is divisible into a finite number of space with 
+Let us assume that space is discrete, that any distance is finitely divisible into a finite number of smallest parts. How can we rescue motion from Zeno's Stadium Paradox? What would motion have to be like in order for motion to be immune from the Stadium Paradox? 
+
+## Task
 
 Assume that space is discrete. This essay has two parts. 
 
 1. Explain the Stadium Paradox  
-2. Try solve the paradox while maintaining the assumption that space is discrete.
+2. Try solve the paradox while maintaining the assumption that space is discrete. You **cannot** respond by saying that space is infinitely divisible. 
  
+**NB: Do not discuss any of the other paradoxes! This paper is only about the Stadium Paradox. Nothing else.**
 
 ## Further Instruction
 
 + Use diagrams, illustrations, etc., to explain the paradox. 
-+ We didn't discuss possible solutions in class. This was by design. The second part of this exercise is asking you to think for yourself. It's ok if your solution ultimately won't work. I want you to try!
++ We didn't discuss possible solutions. This was by design. The second part of this exercise is asking you to think for yourself. It's ok if your solution ultimately won't work. I want you to try.
 + Assume that your audience is bright, but not familiar with the topic. Explain the terminology you introduce.   
 
 ### Word Count
