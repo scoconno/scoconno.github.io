@@ -29,6 +29,4 @@ title: Motion
   + [Handout will be here](Zeno3.pdf)
 
 ## Assignments
-
-Short Essay
-Long essay
++ [Short Essay](essay)
