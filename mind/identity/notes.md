@@ -8,7 +8,34 @@ title: Notes
 ## Introduction
 The behaviorist defines a mental state in terms of physiological responses and bodily movements. Pain, on their view, just is a characteristic set of such responses and movements. A radically different view defines mental states in terms of brain states. A brain state is what is *going on* in your brain, more specifically a set of neurons firing in some characteristic pattern. A mental state is a state or condition some mind might be in, e.g., seeing, or thinking, being in pain, etc. So, thoughts, pains, desires, beliefs, etc., are all mental states. The mind-brain identity theory claims that each mental state is identical to some brain state, e.g., pain is identical to some neurons, in particular c-fibres, firing in some particular way. The view is called both the *mind-brain identity theory*, the *psycho-neural identity theory*, and even just *identity theory*,  
 
-How should we understand this view? There is clearly a correlation between mental states and brain states. Hit the brain, change the mind. When we engage in various mental activities, parts of the brain light up. See the video on the main page for this week about the technology being developed to read thoughts from brain activities. The scientists have discovered that when you think of, say, the letter 'A', a particular neuron fires. Since they can detect that neuron, they can infer that your are thinking about the letter. Eventually, these machines will be able to read more complex thoughts by detecting the relevant brain activity associated with those thoughts. There is much to be said about the science behind this view, but, fortunately, we need not focus on those details here. All we need observe is that defenders of the view think that each mental state is identical to some central neural processes, namely, a set of neurons firing in some characteristic way. 
+How should we understand this view? There is clearly a correlation between mental states and brain states. Hit the brain, change the mind. When we engage in various mental activities, parts of the brain light up. Consider what happens in vision: 
+
+![image](Reflect.jpg)
+
+First, different wavelengths of light are reflected by different surfaces. 
+
+![image](eye.png)
+
+Second, the eye processes these wavelengths: 
+1. There are light-sensitive cells in the retina, some shaped like rods and some shaped like cones. 
+2. Both rods and cones detect light. 
+3. There are three types of cones, one type detects short wavelengths, one detects medium wavelengths, and the other detects long wavelengths. 
+4. The rods and cones process the light into nerve impulses and pass them along to the cortex of the brain via the optic nerve. 
+
+![image](optic.jpg)
+
+Third, the optic nerve transmits information about the wavelengths detected in the retina to the central nervous system. 
+
+![image](nueron1.jpg)
+
+![image](neuron2.jpg) 
+
+Finally, specific neurons are activated by each wavelength. When they active, they fire in a particular pattern, e.g., there are short or long intervals between each neurons . Seeing green will activate some neurons that fire in a particular  and know those neurons are activated. 
+
+
+
+
+See the video on the main page for this week about the technology being developed to read thoughts from brain activities. The scientists have discovered that when you think of, say, the letter 'A', a particular neuron fires. Since they can detect that neuron, they can infer that your are thinking about the letter. Eventually, these machines will be able to read more complex thoughts by detecting the relevant brain activity associated with those thoughts. There is much to be said about the science behind this view, but, fortunately, we need not focus on those details here. All we need observe is that defenders of the view think that each mental state is identical to some central neural processes, namely, a set of neurons firing in some characteristic way. 
 
 ## Mind-Brain Correlations
 
@@ -26,10 +53,9 @@ So, what explains the mind-brain correlation thesis? Why are mental states and b
 The claim that mental states are identical to brain states provides a neat and easy explanation for mind brain correlation.  Consider the property of being water and the property of being H20. Whenever something has the property of being water it also has the property of being H20. This correlation, the fact that both properties always co-occur, is explained just by the fact that these are not two properties at all. The property of being water and the property of being H2O are one and the same property. Likewise, the mind-brain identity theory claims that property of being in a certain mental state is identical to the property of being in a certain brain state. There is no surprise that both properties co-occur; they are one and the same property, so of course they co-occur. 
 
 
-## Arguments for Mind-Brain Identity Theory
-In the next note, I will discuss perhaps the best argument for the mind-identity theory, which is called **the causal exclusion argument**. That argument is part of a larger discussion about mental causation, so I will defer it for now. 
+## Argument for Mind-Brain Identity Theory
 
-Here I want to discuss what is called an argument from simplicity. The argument arises from an application of **Occam's razor**. Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. The Latin version of the principle comes in a variety of forms: 
+One argument for the mind-brain identity theory is an argument  from simplicity. The argument arises from an application of **Occam's razor**. Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. The Latin version of the principle comes in a variety of forms: 
 
 > Pluralitas non est ponenda sine neccesitate.
 > Frustra fit per plura quod potest fieri per pauciora.
@@ -41,15 +67,17 @@ And, roughly translated:
 > What can be down with fewer assumption should not be done with more. 
 > Adopt the simplest ontology possible. 
 
-Perhaps the best explanation of Occam's razor comes from Sir. Isaac Newton, who stated, "[w]e are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances." Simply put, the simpler explanation should be preferred over the more complex one. 
+Simply put, the simpler explanation should be preferred over the more complex one. What do I mean by 'simple explanation?' When comparing two explanation, Occam's razor asks us compare the assumptions the various explanations ask of us.
 
-Consider a person reporting that they saw a ghost in their bedroom in the middle of the night. They are met with skepticism. Some respond that this is a common hallucination, especially as we shift in and out of sleep. Just like a dream, the brain creates an image of a ghost. A true believer hates such explanations and insists that the ghost was real. 
+Think of an assumption as a questionable claim that is entailed by the explanation, e.g., the claim that aliens were experimented upon in Area 51 entails that there exists sentient, space traveling aliens. The existence of space traveling aliens is assumed by those who insist aliens were experimented upon in Area 51. 
 
-Which explanation should you accept? Occam's razor tells us that a rational person should accept the simplest explanation. And by 'simple', Occam means that we should compare the assumptions and principles the various explanations ask of us. The claim that the ghost is real requires that we accept that there exist immaterial and supernatural beings. It requires that we also accept that such beings have some ability to interact with the physical world and that our perceptive capacities allow us see such things. This explanation, then, is asking us to believe in many different kinds of things beside the ordinary physical things that we believe in. The hallucination explanation requires far less of us. We all agree that people dream, hallucinate, and have illusions. Such occurrences are more likely at night, when we are tired or stressed, and are specially likely when we shift between dream states. 
+To see how Occam's razor works in practice, consider a person reporting that they saw a ghost in their bedroom in the middle of the night. They are met with skepticism. Some respond that this is a common hallucination, especially as we shift in and out of sleep. Just like a dream, the brain creates an image of a ghost. A true believer hates such explanations and insists that the ghost was real. So, there are two explanation for the appearance of the ghost. The first is that the ghost exists. The second is that the ghost was hallucinated.
 
-Applying Occam's razor requires, then, for the rational person to accept the simpler theory: our sleeper hallucinated and did not see a real ghost. It might be hard to accept this. People are often wedded to a conspiracy theory, a myth, a superstition, etc. But imagine approaching these issues like a poker player. Each explanation requires us to believe a set of assumptions and principles. If you were required to bet $100 on each assumption and principle being true, the safest bet, the least risky bet, is the one that has you betting on the fewest and most plausible assumptions. Calculated in this way, the bet that the sleeper experienced a hallucination would be smaller and so safer than the bet that the sleeper saw a real ghost.   
+Which explanation should you accept? Occam's razor tells us that a rational person should accept the simplest explanation. So, let us compare the assumptions of the various explanations. The claim that the ghost is real requires that we accept that there exist immaterial and supernatural beings. It also requires that we accept that such beings can interact with the physical world, e.g., that our perceptive capacities allow us see such things. This explanation, then, is asking us to believe in many different kinds of things beside the ordinary physical things that we believe in. The hallucination explanation requires far less of us. We all agree that people dream, hallucinate, and have illusions. Such occurrences are more likely at night, when we are tired or stressed, and are specially likely when we shift between dream states. 
 
-When Occam's razor is applied to mind brain correlations, it requires of us to accept the simplest explanation for those correlations. The mind brain identity theorist claims that the simplest explanation is that mental states are identical to brain states. They point out that they ask only of us to accept the existence of the brain and that brain states cause our bodies to move in a variety of ways. This is easy to accept! They also point out that every other explanation for mind brain correlations requires that we accept not just the existence of brains, but also the existence of either minds or mental states. That's much more complicated! 
+Applying Occam's razor requires, then, for the rational person to accept the simpler theory: our sleeper hallucinated and did not see a real ghost. It might be hard to accept this. People are often wedded to a conspiracy theory, a myth, a superstition, etc. But imagine approaching these issues like a poker player. Each explanation requires us to believe a set of assumptions. If you were required to bet $1000 on each assumption being true, the safest bet, the least risky bet, is the one that has you betting on the fewest and most plausible assumptions. Calculated in this way, the bet that the sleeper experienced a hallucination would be smaller and so safer than the bet that the sleeper saw a real ghost.   
+
+When Occam's razor is applied to mind brain correlations, it requires of us to accept the simplest explanation for those correlations. The mind-brain identity theorist claims that the simplest explanation is that mental states are identical to brain states. They point out that they ask only of us to accept the existence of the brain and accept that brain states cause our bodies to move in a variety of ways. This is easy to accept! They also point out that every other explanation for mind brain correlations requires that we accept something in addition to the existence of brains. That's much more complex! It requires we accept the existence of different types of entities and accept that these interact with the physical world. 
 
 
 
@@ -62,19 +90,19 @@ There are many objections to the mind-brain identity theory. Each objection reli
 Leibniz’ Law:
 : If A and B are identical, then whatever properties A has B must have too, and *vice versa*. 
 
-Consider Superman and Clark Kent. Since they are identical, Leibniz' Law tells us that any feature of Clark Kent is also a feature of Superman, and *vice versa*. So, if Clark Kent is wearing classes, so too is Superman. If Superman is flying, so too is Clark Kent. Leibniz's Law says simply that numerically identical things have exactly the same features. 
+Consider Superman and Clark Kent. Since they are identical, Leibniz' Law tells us that any feature of Clark Kent is also a feature of Superman, and *vice versa*. So, if Clark Kent is wearing glasses, so too is Superman. If Superman is flying, so too is Clark Kent. Leibniz's Law says simply that numerically identical things have exactly the same features. 
 
-Leibniz's Law is really helpful for adjudicating questions of identity. Identical things must have the same properties. So, if A and B have different properties, they cannot be numerically identical. If, for instance, Jekyll and Hyde have different features, they are numerically distinct persons (residing in the same body). 
+Leibniz's Law is really helpful for adjudicating questions of identity. Identical things must have the same properties. So, if A and B have different properties, they cannot be numerically identical. If, for instance, Jekyll and Hyde have different properties, they are numerically distinct persons (residing in the same body). 
 
-Leibniz's Law also tells us that if a mental state is identical to a brain state, then the states will have exactly the same properties. Conversely, if they have different properties, they are numerically distinct. In other words, if the mind-brain identity theory is correct, then Leibniz Law requires the following:
+Leibniz's Law tells us that if a mental state is identical to a brain state, then the states will have exactly the same properties. Conversely, if they have different properties, they are numerically distinct. In other words, if the mind-brain identity theory is correct, then Leibniz Law requires the following:
 
 + If mental state A and brain state B are numerically identical, then A and B have exactly the same properties. 
 
-If, on the other hand, A and B vary in even one property, then A and B are not numerically identical. In order, then, to decide whether mental state are identical to brain states, we can investigate whether properties of the one are always properties of the other. There are at least some properties where this does not seem to hold. 
+If, on the other hand, A and B vary in even one property, then A and B are not numerically identical. In order, then, to decide whether mental states are identical to brain states, we can investigate whether properties of the one are always properties of the other. There are at least some properties where this does not seem to hold. 
 
 ### Property 1: mental states are such that I can be certain of them
 
-We have direct and private access of our mental states; I can easily and reliably know when I am in a pain state---it feels really sore! I can also easily reliably know when I am having an experience as of a red bicycle--there is an image of a red bicycle before me (even though I might be dreaming, hallucinating, etc.) It seems that our mental states are such that we can be certain that we are in them. But this is not a property of brain states. I have no idea what is happening in my brain right now. Do you? What neurons are firing as you read this page? What is their characteristic pattern? This is something that neuroscientists can now discover with the help of sophisticated machines, but people knew the contents of their mind well before they knew anything about brains or neurons. So, the argument against the mind-brain identity theory is this: 
+We have direct and private access of our mental states; I can easily and reliably know when I am in a pain state---it feels really sore! I can also reliably know when I am having an experience as of a red bicycle--there is an image of a red bicycle before me (even though I might be dreaming, hallucinating, etc.) It seems that our mental states are such that we can be certain that we are in them. But this is not a property of brain states. I have no idea what is happening in my brain right now. Do you? What neurons are firing as you read this page? What is their characteristic pattern? This is something that neuroscientists can now discover with the help of sophisticated machines, but people knew the contents of their mind well before they knew anything about brains or neurons. So, the argument against the mind-brain identity theory is this: 
 
 1. I can be certain of my mental states (e.g., pain).
 2. I cannot be certain of my brain states.
@@ -107,7 +135,7 @@ The multiple realizability thesis states that a single mental kind can be realiz
 2. Pain does not have the property of being correlated with c-fibres firing in sharks. 
 3. Therefore, pain is not identical to c-fibres firing. 
 
-Premise 2 could be replaced with examples of plants feeling pain, non-carbon based life-form feeling pain, synthetic creatures (robots) feeling pain, etc. The point is that there are things that feel pain and their pain is not correlated with the kind of brain states that are correlated with our pain. So, mental states just cannot be identical to brain states. An identity theorist might respond that plants, animals, and robots do not feel pain. Or, they might claim that their pain is not the same type of mental state that we call pain. But I will leave you to decide how plausible these responses are. 
+Premise 2 could be replaced with examples of plants feeling pain, non-carbon based life-form feeling pain, synthetic creatures (robots) feeling pain, etc. The point is that there are things that feel pain and their pain is not correlated with the kind of brain states that are correlated with our pain. So, mental states just cannot be identical to brain states. An identity theorist might respond that plants, animals, and robots do not feel pain. Or they might claim that their pain is not the same type of mental state that we call pain. But I will leave you to decide how plausible these responses are. 
 
 
 
