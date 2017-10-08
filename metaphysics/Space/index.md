@@ -7,19 +7,17 @@ title: Space
 
 ## Absolute vs. Relational Theories of Space
 
-Reading
+# Reading
 + [‘Space, Absolute and Relational’,](Maud.pdf) Tim Maudlin
-+ [‘Incongruent Counterparts and Higher Dimensions’,](Cleve.pdf) James Van Cleve
-
++ [‘Incongruent Counterparts and Higher Dimensions’,](/metaphysics/big.pdf) James Van Cleve. NB: the article is chapter 13 of the attached book. 
 
 ## The Fourth Dimension
-Reading
-+  ‘Flatland’, selections, Edwin Abbott
-+ ‘Incongruent Counterparts and Higher Dimensions’, James Van Cleve
-+ ‘The Fourth Dimension: an Excerpt from The Ambidextrous Universe’,
-Martin Gardner
++ Reading
+	+ [*Flatland*,](flatland), selections, Edwin Abbott
+	+ [‘Incongruent Counterparts and Higher Dimensions’,](/metaphysics/big.pdf) James Van Cleve. NB: the article is chapter 13 of the attached book. 
+	+ [‘The Fourth Dimension: an Excerpt from The Ambidextrous Universe’,](/metaphysics/big.pdf) Martin Gardner, NB: the article is chapter 12 of the attached book.
 
 + [Notes](handout.pdf)
 
 ## Assignments
-+ [Short Writing Assignment 1](SW1)
++ [Short essay](essay)

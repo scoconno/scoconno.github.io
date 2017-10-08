@@ -22,6 +22,7 @@ title: Motion
 ## Second week
 + Reading
   + ['The Paradoxes of Motion and the Possibility of Change', pp. 300-306](LoweZeno.pdf) E.J. Lowe, 'A Survey of Metaphysics', OUP, 2002
+  + ['Zeno's Paradoxes'.](https://plato.stanford.edu/entries/paradox-zeno/), SEP entry (optional).
 + Videos
   + [Angie Hobbs on the Arrow Paradox](https://www.youtube.com/watch?v=IPNttsu8x24)
 + Notes
