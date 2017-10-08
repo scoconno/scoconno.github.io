@@ -15,7 +15,7 @@ title: Mind Brain Identity Theory
 + [Notes ](notes)
 
 ### Assignments
-+ Essay 3
++ [Essay 3](essay)
 
 
 
