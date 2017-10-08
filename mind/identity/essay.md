@@ -4,16 +4,19 @@ title: Essay
 ---
 ### Introduction
 
-What a mystery! You are Jessica Jones, Hell's Kitchen famous private detective. What a case they have thrown at you this time. You were asked to track down 'The Mind'. The NYPD wanted to know who and what that thing is. Are they in for a surprise. The Mind was hiding in plain sight all along. It is none other than `The Brain'! Those traditional cops in the NYPD probably won't believe you; they are reluctant to accept unusual suggestions. So, you need to build your case. You will present the evidence that mental states just are identical to brain states, that the mind and the brain are identical to one another, and you will try preemptively shut down their objections to your discovery.  
+What a mystery! You are Jessica Jones, Hell's Kitchen's famous private detective. What a case they have thrown at you this time. You were asked to track down 'The Mind. The NYPD wanted to know who and what that thing is. They are in for a surprise. After carefully interrogating every eminent scientist and philosopher in NYC, those at Columbia, Cornell, NYU, and elsewhere, you have discovered that the Mind was hiding in plain sight all along. It is none other than 'The Brain'. Mental states are identical to brain states!
+
+Those traditional cops in the NYPD probably won't believe you; they are reluctant to accept unusual suggestions. So, you need to build your case. You will present the evidence that mental states  are numerically identical to brain states, that the mind and the brain are identical to one another, and you will try to anticipate and preemptively shut down their objections to your discovery.  
   
 ### Task
 
 Write your case report to the NYPD. The case report must include **all** of the following:  
 1. Explain what it means to say that mental states are identical to brain states. Be careful here. Do not claim that they are merely correlated or that one causes the other. Clearly explain what it means for them to be  **numerically identical**. 
 2. Present the best evidence for the claim that brains states are identical to mental states.   
-3. State **one** objection to the claim that       
+3. State **one** objection to the claim that mental states are identical to brain states.
+4. Respond to the objection.      
 
-**NB:** Failure to include either of these elements in your letter will result in a loss of points. 
+**NB:** Failure to complete any of these tasks in your letter will result in a loss of points. 
 
 ### Word Count
 
