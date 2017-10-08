@@ -6,13 +6,12 @@ title: Notes
 
 
 **Introduction**
-
-Our final topic concerns the relationship between consciousness and the brain. How exactly does the brain give rise to conscious mental states? The focus of our discussion will be on the question as to whether consciousness is itself something physical, i.e., are conscious mental states somehow reducible to states of the brain? We will pursue our topic by considering a famous argument that consciousness, whatever it is, is not something physical. The argument that we will consider attempt to undermine what is called *physicalism*.
+You may have been convinced by the mind-brain identity theory; perhaps you are convinced that mental states are identical to brain states. But, there is a dramatic objection to this view. If the identity theory is true, then mental states are just physical states (because they are identical to brain states, which are themselves physical). Let us call such a view *physicalism*.
 
 Physicalism:  
 : everything is either physical or supervenes on the physical.
 
-According to physicalism, if anything exist that thing is either something physical, i.e., something which has physical properties like mass and location. Or, if it not itself physical it *supervenes* on the physical. What does this word mean? Here is one way to understand 'supervenience': 
+According to physicalism, everything has physical properties like mass and location, or if it does not have these properties, then it *supervenes* on things with these properties. What does this word mean? Here is one way to understand 'supervenience': 
 > A dot-matrix picture has global properties — it is symmetrical, it is cluttered, and whatnot — and yet all there is to the picture is dots and non-dots at each point of the matrix. The global properties are nothing but patterns in the dots. They supervene: no two pictures could differ in their global properties without differing, somewhere, in whether there is or there isn't a dot (Lewis, 1986, p. 14).
 
 Supervenience is a relation; one thing always supervenes on another. The analogy Lewis uses to illustrate this relies on a dot-matrix. You probably have seen one of these, but here is a reminder: 
@@ -29,13 +28,11 @@ Local features:
 Global features:  
 : Just as there are global features of the picture--features that supervene on the local features of the picture--so too there are global features that supervene on the physical features of the world.  
 
-Notice that the global features of the picture are nothing but a pattern in the dots. You could only change the global features of the picture by changing the dots, i.e., changing which dots are pressed and how far they are pressed. You could change how cluttered the picture is by changing which dots there are (or are pressed). 
+Notice that the global features of the picture are nothing but a pattern in the dots. You could only change the global features of the picture by changing the dots, i.e., by changing which dots are pressed and how far they are pressed. You could change how cluttered the picture is by changing which dots there are (or are pressed). 
 
-Similarly, physicalism claims that all features of the world are physical features or are nothing but a pattern in the physical features. On this view, all biological, chemical, psychological, and social features, etc., of the world are nothing but a kind of pattern in the physical features of the fundamental entties. This entails that there can be no biological, chemical, or social change, without a change in the pattern of physical features. If a heart stops pumping blood, some change will have occurred in the physical features that the heart supervenes on.
+Similarly, physicalism claims that all features of the world are physical features or are nothing but a pattern in the physical features. On this view, all biological, chemical, psychological, and social features, etc., of the world are nothing but a kind of pattern in the physical features of the fundamental entities. This entails that there are no biological, chemical, or social changes without a change in the pattern of physical features. If a heart stops pumping blood, some change will have occurred in the physical features that the heart supervenes on. If some nation changes its laws, some change will have occurred in the physical features that the nations ultimately supervenes on.
 
-I have spoken of 'physical features', but this could be more precise. Let us clean the view up by distinguishing objects, properties, and relations. In the sentence 'the heart is an organ', 'heart' refers to that thing thumping in your chest, and 'organ' refers to a property of that thing--its being an organ. 
-
-Physicalism claims that every true sentence refers to fundamental physical objects, properties, and relations, or to non-fundamental physical objects, properties, and relations, where the non-fundamental supervene on the fundamental. For instance, the 'heart is pumping blood' refer to various non-fundamental things, and these non-fundamental things are as they are only in virtue of some fundamental entities being how they are, i.e., the heart is pumping blood only because there are some fundamental physical entities doing what they are doing. We will call facts about both these fundamental and non-fundamental things, 'physical facts'.  
+I have spoken of 'physical features', but this could be more precise. Let us clean the view up by distinguishing objects, properties, and relations.  Physicalism claims that every true sentence refers to fundamental physical objects, properties, and relations, or to non-fundamental physical objects, properties, and relations, where the non-fundamental supervene on the fundamental. For instance, the 'heart is pumping blood' refer to various non-fundamental things, and these non-fundamental things are as they are only in virtue of some fundamental entities being how they are, i.e., the heart is pumping blood only because there are some fundamental physical entities doing what they are doing. We will call facts about both these fundamental and non-fundamental things, 'physical facts'.  
 
 
 
@@ -45,7 +42,7 @@ If physicalism is true, then every fact you learn will be a physical fact. For i
 
 Consider what this means about studying some object like a heart. When you learn everything there is to know about the heart, you learn every fact about the heart. If physicalism is true, each of those facts you learned is a physical fact. 
 
-This may seem surprising when applied to, say, economics. If physicalism is true, then every fact you learn in economics is a physical fact. These are likely non-fundamental facts, e.g., facts about demand for a product changing as the price drops will ultimately hold in virtue of some facts about the most fundamental physical entities in the world. 
+This may seem surprising when applied to, say, economics. If physicalism is true, then every fact you learn in economics is a physical fact. These are likely non-fundamental facts, e.g., facts about demand for a product changing as its price drops will be a non-fundamental fact because it holds in virtue of some facts about the most fundamental physical entities in the world. 
 
 If physicalism is true, then every fact about human mentality is a physical fact. This is a dramatic claim. Consider the implication it has for the topics we focused on in this course. We first investigated personal identity. We asked under what conditions a person existing at one time is identical to a person existing at another. If physicalism is true, then personal identity consists in some physical facts. This precludes the possibility that personal identity consists in sameness of soul, an essentially non-physical entity. It also means that personal identity consists in psychological continuity only if facts about our psychologies are physical facts, i.e., fundamental physical facts or facts that supervene on fundamental physical facts. 
 
@@ -94,7 +91,7 @@ Finally, Mary knows which neurons are activated by each wavelength and know thos
 
 ## The Billion Dollar Question ##
 
-Mary has been study the mind of someone who see red. She knows everything that I have just outlined. Suppose that Mary leaves the room for the very first time and sees, say, a red apple. Does Mary learn anything new about the experience of red when she leaves the room? Here's an oddly creepy video that explains the [two answers.](https://www.youtube.com/watch?v=gZy3Ky9y_fg)
+Suppose that Mary has been studying the mind of someone who sees red. She knows everything that I have just outlined. Suppose that Mary leaves the room for the very first time and sees, say, a red apple. Does Mary learn anything new about the experience of red when she leaves the room? Here's an oddly creepy video that explains the [two answers.](https://www.youtube.com/watch?v=gZy3Ky9y_fg)
 
 If Mary learns something new, then physicalism is false. Recall that Mary knows all the physical facts before leaving the room. So, if she learns something new upon leaving it, then that new fact is not a physical fact. Jackson thinks that Mary clearly does learn something new. Let's say that Mary was studying John's vision of red and present his argument somewhat formally:  
 
@@ -111,7 +108,7 @@ If Mary learns something new, then physicalism is false. Recall that Mary knows 
 
 ![image](Fred.jpg)
 
-Instead of asking whether Mary learns something new upon her release, we can ask whether we would learn something new in the following scenario: suppose that Fred returns from a mission to space and reports a significant change in his perceptual experience. He says that he know see a strange new color completely unlike anything he experienced before leaving Earth. He can see what is called a forbidden color--yellow-blue! What's more, he sees this color every time he looks at a blank piece of paper that appears white to everyone else. Suppose we study the physics of color and the neuroscience of color vision. We are tasked with studying Fred's yellow-blue perception. We learn everything about the relevant wavelength, cones, neurons, etc. Would we thereby know everything there is to know about Fred's experience of yellow-blue? If we did, then we would learn nothing new by seeing yellow-blue for the first time when our eyes too are changed by a trip to space. 
+Instead of asking whether Mary learns something new upon her release, we can ask whether we would learn something new in the following scenario: suppose that Fred returns from a mission to space and reports a significant change in his perceptual experience. He says that he now sees a strange new color completely unlike anything he experienced before leaving Earth. He can see what is called a forbidden color--yellow-blue! What's more, he sees this color every time he looks at a blank piece of paper that appears white to everyone else. Suppose we study the physics of color and the neuroscience of color vision. We are tasked with studying Fred's yellow-blue perception. We learn everything about the relevant wavelength, cones, neurons, etc. Would we thereby know everything there is to know about Fred's experience of yellow-blue? If we did, then we would learn nothing new by seeing yellow-blue for the first time when our eyes too are changed by a trip to space. 
 
 
 
