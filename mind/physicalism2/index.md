@@ -20,5 +20,5 @@ title: Physicalism
 + [Notes](notes)
 
 ## Assignments
-+ [essay 7](essay)
++ [Essay 4](essay)
 

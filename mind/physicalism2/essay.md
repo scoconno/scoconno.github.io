@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: mindweekly
 title: Essay
+
 ---
   
 ## Introduction 
