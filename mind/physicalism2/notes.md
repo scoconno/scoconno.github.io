@@ -6,125 +6,107 @@ title: Notes
 
 
 **Introduction**
-You may have been convinced by the mind-brain identity theory; perhaps you are convinced that mental states are identical to brain states. But, there is a dramatic objection to this view. If the identity theory is true, then mental states are just physical states (because they are identical to brain states, which are themselves physical). Let us call such a view *physicalism*.
 
-Physicalism:  
-: everything is either physical or supervenes on the physical.
+ There are many responses to the Jackson’s Knowledge Argument. Jim Pryor groups the replies by their answers to these questions. 
 
-According to physicalism, everything has physical properties like mass and location, or if it does not have these properties, then it *supervenes* on things with these properties. What does this word mean? Here is one way to understand 'supervenience': 
-> A dot-matrix picture has global properties — it is symmetrical, it is cluttered, and whatnot — and yet all there is to the picture is dots and non-dots at each point of the matrix. The global properties are nothing but patterns in the dots. They supervene: no two pictures could differ in their global properties without differing, somewhere, in whether there is or there isn't a dot (Lewis, 1986, p. 14).
-
-Supervenience is a relation; one thing always supervenes on another. The analogy Lewis uses to illustrate this relies on a dot-matrix. You probably have seen one of these, but here is a reminder: 
-
-![image](dot1.jpg)
-
-![image](dot2.jpg)
-
-The pattern or picture supervenes on the dots. The various dots can be indented or not. They have different locations and arrangements. To say that the picture supervenes on the dots is to say that all the features of the pictures are explained by various features of the dots. To see this, notice that if you change the dots, you will change the picture. Physicalists believes that everything that exists is either physical or explained by properties of the physical. 
-
-Local features: 
-: The physical features of the world are like the dots in the picture. These physical features of the world include fundamental elementary particles like quarks and leptons as well as 'force particles', the bosons. 
-
-Global features:  
-: Just as there are global features of the picture--features that supervene on the local features of the picture--so too there are global features that supervene on the physical features of the world.  
-
-Notice that the global features of the picture are nothing but a pattern in the dots. You could only change the global features of the picture by changing the dots, i.e., by changing which dots are pressed and how far they are pressed. You could change how cluttered the picture is by changing which dots there are (or are pressed). 
-
-Similarly, physicalism claims that all features of the world are physical features or are nothing but a pattern in the physical features. On this view, all biological, chemical, psychological, and social features, etc., of the world are nothing but a kind of pattern in the physical features of the fundamental entities. This entails that there are no biological, chemical, or social changes without a change in the pattern of physical features. If a heart stops pumping blood, some change will have occurred in the physical features that the heart supervenes on. If some nation changes its laws, some change will have occurred in the physical features that the nations ultimately supervenes on.
-
-I have spoken of 'physical features', but this could be more precise. Let us clean the view up by distinguishing objects, properties, and relations.  Physicalism claims that every true sentence refers to fundamental physical objects, properties, and relations, or to non-fundamental physical objects, properties, and relations, where the non-fundamental supervene on the fundamental. For instance, the 'heart is pumping blood' refer to various non-fundamental things, and these non-fundamental things are as they are only in virtue of some fundamental entities being how they are, i.e., the heart is pumping blood only because there are some fundamental physical entities doing what they are doing. We will call facts about both these fundamental and non-fundamental things, 'physical facts'.  
+ 1. When Mary comes out of the room and first sees something red, does she genuinely acquire some new piece of knowledge (knowledge of information)? 
+ 2. If she does acquire some new piece of knowledge, is what she comes to know some new fact about our experiences, of which she was previously ignorant? Or is what she comes to know some old fact, now known in a new way? (http://www.jimpryor.net/teaching/courses/mind/notes/mary-con.html)
 
 
 
-**Knowledge and Physicalism**
-
-If physicalism is true, then every fact you learn will be a physical fact. For instance, if you learn some facts in your biology class, those facts you learned are physical facts. If you learn some facts in your political science class, those facts too are physical facts. Again, the reason is that those facts are about physical entities and their relations, either fundamental or non-fundamental physical entities and their relations. 
-
-Consider what this means about studying some object like a heart. When you learn everything there is to know about the heart, you learn every fact about the heart. If physicalism is true, each of those facts you learned is a physical fact. 
-
-This may seem surprising when applied to, say, economics. If physicalism is true, then every fact you learn in economics is a physical fact. These are likely non-fundamental facts, e.g., facts about demand for a product changing as its price drops will be a non-fundamental fact because it holds in virtue of some facts about the most fundamental physical entities in the world. 
-
-If physicalism is true, then every fact about human mentality is a physical fact. This is a dramatic claim. Consider the implication it has for the topics we focused on in this course. We first investigated personal identity. We asked under what conditions a person existing at one time is identical to a person existing at another. If physicalism is true, then personal identity consists in some physical facts. This precludes the possibility that personal identity consists in sameness of soul, an essentially non-physical entity. It also means that personal identity consists in psychological continuity only if facts about our psychologies are physical facts, i.e., fundamental physical facts or facts that supervene on fundamental physical facts. 
-
-Physicalism also has significant implications for investigation of the mind-body problem. Not only would it show substance and property dualism to be false, but it likely gives support to those who think that we can build artificially intelligent creatures who enjoy as much mentality as we do. If all facts about our mentality are physical facts, then all we need do is build machines such that their inner workings provide a supervenience base for mentality. 
-
-Finally, if physicalism is true, then every fact about consciousness is a physical fact. For instance, every fact about a bat's experience is a physical fact, including every fact about what it is like to be a bat. Every fact about self-knowledge is also a physical fact. If you are aware of the inner workings of your mind, this too is a physical fact, a fact about fundamental physical things or a fact about non-fundamental physical things that supervene on the fundamental physical thing. If, for instance, we become aware of our minds via an internal eye, then this is a physical fact that somehow must be grounded in the existence of fundamental particles and forces. 
-
-## Frank's Jackson's Knowledge Argument
-
-Is physicalism true? Many deny that physicalism applies to consciousness. They claim that facts about our consciousness are neither physical or supervene on the physical. The most famous argument against physicalism was offered  by Frank Jackson. He motivates it with the simple following thought-experiment: 
-
-> Mary is a brilliant scientist who is, for whatever reason, forced to investigate the world from a black and white room via a black and white television monitor. She specializes in the neurophysiology of vision and acquires, let us suppose, all the physical information there is to obtain about what goes on when we see ripe tomatoes, or the sky, and use terms like ‘red’, ‘blue’, and so on. She discovers, for example, just which wavelength combinations from the sky stimulate the retina, and exactly how this produces via the central nervous system the contraction of the vocal chords and expulsion of air from the lungs that results in the uttering of the sentence ‘The sky is blue’.… What will happen when Mary is released from her black and white room or is given a color television monitor? Will she learn anything or not? It seems just obvious that she will learn something about the world and our visual experience of it. But then is it inescapable that her previous knowledge was incomplete. But she had all the physical information. Ergo there is more to have than that, and Physicalism is false. (Jackson, 1982)
-
-The knowledge argument aims to establish that conscious experience involves non-physical facts. It rests on the idea that Mary has complete physical knowledge about some conscious experience, but lacks knowledge about what conscious experience is like “from the inside.” If she lacks suck knowledge, then something about consciousness is essentially non-physical. 
+  Q1
+No		Yes
+(Abilities)		Q2
+	               No   Yes	      
+		Reconceptualize		(Jackson)
 
 
-![image](Mary2.jpg)
-
-![image](Mary1.jpg)
-
-## What does Mary know? 
-
-Let us go through the argument in detail and first ask what Mary in the black and white room might now. 
-
-![image](Reflect.jpg)
-
-First, she knows that there are different wavelengths of light, and she knows which wavelengths of light are reflected by which surfaces. 
-
-![image](eye.png)
-
-Second, she knows all the following facts about the eye: 
-1. There are light-sensitive cells in the retina, some shaped like rods and some shaped like cones. 
-2. Both rods and cones detect light. 
-3. There are three types of cones, one type detects short wavelengths, one detects medium wavelengths, and the other detects long wavelengths. 
-4. The rods and cones process the light into nerve impulses and pass them along to the cortex of the brain via the optic nerve. 
-
-![image](optic.jpg)
-
-Third, Mary knows that there is an optic nerve and knows how the optic nerve transmits information about the wavelengths detected in the retina to the central nervous system. 
-
-![image](nueron1.jpg)
-
-![image](neuron2.jpg)
-
-Finally, Mary knows which neurons are activated by each wavelength and know those neurons are activated. 
-
-## The Billion Dollar Question ##
-
-Suppose that Mary has been studying the mind of someone who sees red. She knows everything that I have just outlined. Suppose that Mary leaves the room for the very first time and sees, say, a red apple. Does Mary learn anything new about the experience of red when she leaves the room? Here's an oddly creepy video that explains the [two answers.](https://www.youtube.com/watch?v=gZy3Ky9y_fg)
-
-If Mary learns something new, then physicalism is false. Recall that Mary knows all the physical facts before leaving the room. So, if she learns something new upon leaving it, then that new fact is not a physical fact. Jackson thinks that Mary clearly does learn something new. Let's say that Mary was studying John's vision of red and present his argument somewhat formally:  
-
-+ **P1:** If physicalism is true, all the facts about John's experience of red are physical facts.
-+ **P2:** Mary knows all the **physical facts** about John's experience of red before her release. 
-+ **P3:** Thus, if physicalism is true, Mary knows **all the facts** about John's experience of red before her release. 
-+ **P4:** Mary learns some **new fact**, F, about John's experience of red upon her release. 
-+ **P5:** F is **not a physical fact**. 
-+ **P6:** Thus, Mary does not know **all the facts** about John's experience of red before her release. 
-+ **Conclusion:** Physicalism is false. 
-
-
-## A different version of the argument ##
-
-![image](Fred.jpg)
-
-Instead of asking whether Mary learns something new upon her release, we can ask whether we would learn something new in the following scenario: suppose that Fred returns from a mission to space and reports a significant change in his perceptual experience. He says that he now sees a strange new color completely unlike anything he experienced before leaving Earth. He can see what is called a forbidden color--yellow-blue! What's more, he sees this color every time he looks at a blank piece of paper that appears white to everyone else. Suppose we study the physics of color and the neuroscience of color vision. We are tasked with studying Fred's yellow-blue perception. We learn everything about the relevant wavelength, cones, neurons, etc. Would we thereby know everything there is to know about Fred's experience of yellow-blue? If we did, then we would learn nothing new by seeing yellow-blue for the first time when our eyes too are changed by a trip to space. 
+Does Mary learn something new? 
+Old fact, new way
+New ability
+Acquaintance 
 
 
 
+
+## Objection 1: Mary can imagine red before her release
+
+Our first objections claims that Mary can imagine red by learning all the physical facts about experiencing red. This seems reasonable. Suppose an architect is provided the plans for a building that was constructed in, say, Alexandria, Egypt. Suppose also that this architect has never personally seen the building. A good architect can know what the building looks like just by studying the plans; the knowledge they gain from the plans allows them to imagine what the building looks like. 
+
+Very few have found this a convincing argument. On the one hand, it is just difficult to conceive how I could somehow imagine red by just learning all the physical facts about seeing red. But, more importantly, if the claim is correct, then complete physical knowledge necessarily involves the capacity to imagine red. In other words, it would be impossible to have complete physical knowledge of the experience of red and not have the ability to imagine it. Similarly, it would be impossible to have complete knowledge of the building's design without being able to imagine what it looks like. But physical knowledge can be acquired independently of one's particular perceptual apparatus. For instance, a blind scientist can learn all the facts about, say, the motion of an atom by reading the results in braille. The blind scientist does not have the ability to imagine the motion of the atom. So, why should Mary have the ability to imagine red by just knowing all the physical facts about the experience of red? 
+
+ But a fourth objection denies this. If Mary really did know everything about seeing red, she would not learn anything when she first sees red. The experience of seeing red is nothing more than highly detailed knowledge of what it is to see red, and Mary already has this highly detailed knowledge.  This objection is, however, counter-intuitive. It requires that Mary is able to work out what it is like to experience a colour without ever having seen one. But, we might argue, we cannot describe such experiences (seeing red) so fully as to know what it is like to experience them without actually doing so. No one can know what it is like to see red without actually ever having seen something red.  In ‘What Mary Didn’t Know’, Jackson points out that we can even allow that Mary could imagine what it is like to see red before she leaves her room. Imagining something is not the same as knowing it. You only have to imagine what something is like if you don’t already know. If Mary knows all the physical facts, and these were all the facts there are, then she would know what it is like to see red, so she wouldn’t have to imagine it. So even if Mary can imagine what it is like to see red, she still doesn’t know what it is like.  Is this right, though? This is our intuition, but is there an argument to support it? We don’t really know what knowing all the physical facts about seeing colours would involve. Perhaps Mary will be entirely unsurprised at seeing red – she already knew what it would be like. Is it impossible for any amount of information describing the experience to convey it? This objection claims that there is, in principle, a complete analysis of phenomenal properties in physical and functional terms
+
+## Mary gains ability knowledge##
+
+The Knowledge Argument assumes that Mary learns some new fact after she leaves the room, i.e., she learns some fact about the experience of red. But some have claimed that there is a distinction between learning a fact and learning how to do something, and that Mary learns the latter but not the former, i.e., the claim that knowledge that and knowledge how are different types of knowledge. David Lewis writes: 
+
+> The Ability Hypothesis says that knowing what an experience is like just is the possession of these abilities to remember, imagine, and recognize. … It isn't knowing-that. It's knowing-how. (Lewis 1990, 516)
+
+Lewis concedes that "knowing what an experience is like" requires having the experience. He also agrees that knowing all the physical facts about the experience of red will not let you know what it is like to have the experience.  But Lewis denies that coming to "know what an experience is like" is a matter of learning new facts. He thinks that Jackson’s argument proves that we learn no new information at all when we have a new experience.  Rather, you have learned some new abilities. 
+
+Consider other examples of knowing-how. I know how to ride a bicycle. I know how to sail a boat. I know how to play guitar. This knowledge seems different from the propositional knowledge I have about, say geometry, e.g., that a line is the shortest distance between two points. Even though I know how to sail a boat, I’m unsure I can formulate this knowledge in terms of a series of propositions that I know. I just move the tiller a certain way when I need to. I just trim the sail, alter course, tac and jibe when I need to. 
+
+Similarly, perhaps all Mary gains when she leaves the room is some new abilities. What are these abilities? 
+
+	1.	the ability to remember experiencing red
+	2.	the ability to imagine or visualize the color red
+	3.	the ability to recognize objects as red by sight
+	4.	the ability to recognize experiences of red (as experiences of that sort, which you've had before)
+
+### Response 1
+
+But, this objections has problems. Note first that these abilities seem neither necessary nor sufficient for knowing what it is like to have an experience of red. For instance, I might have an experience of F, know what it is like to have an experience of F, but be unable to ever imagine or visualize F. I certainly have experiences that I can’t recreate in my mind’s eye, e.g., smell. It also seems possible to have the ability to imagine some property Q without knowing what it is like to experience Q. Suppose, for instance, you are very good at imagining colors, but have yet the opportunity to imagine each color—you just haven’t got round to it yet. Many of us have abilities that we haven’t yet exercised, e.g., I’m pretty sure I can play the Irish National Anthem on the guitar, but I haven’t ever sat down and done it.  
+
+### Response 2
+
+
+Lewis’ response requires that all Mary learns are abilities. If she learns any new facts, then his response fails. In other words, Jackson can agree that Mary learns new abilities. But his point is that she also learns some new facts. But Mary does learn new fact. She is investigating the experiences of others. The question is whether she learns anything new about other peoples’ experiences of red when she has a red experience herself. Doesn’t she learn some new fact when she learns that others have red experiences? 
+
+
+
+### Response 3
+
+There is a difference between having an ability and knowing what it is like to exercise that ability. Mike Thau puts it as follows:
+
+> Leon has seen red, like the rest of us, but at the age of 20 he shuts himself up in the black and white room for 30 years. Leon retains the ability to visualize red, to remember what experiences of red are like, and so on. But we can suppose that, while he's in the room, he never exercises these abilities. He hasn't visualized red or had any memories of seeing red for all that time. At the age of 50, Leon comes out of the room again, and looks at a ripe tomato. He says, "I'd forgotten what it's like to see red! Now I know again.” Mike Thau
+
+Similarly, I know how to trim a sail. But I haven’t done it in ages. When I sail again, I will trim the sail and say, ‘wow, I had forgotten what it is like to trim a sail.’ Lewis claims that Mary learns new abilities when she sees red. But Mary seems to acquire knowledge of what it is like to exercise those abilities. So it’s unclear that acquiring abilities is the same as learning what it is like to exercise them. The point here is that Lewis wants to describe what happens when Mary leaves the room as her learning new abilities. But this doesn’t fully capture what is happening. 
  
 
 
-
-
-
-
  
- 
- 
+ Is the objection even right to think that knowing what it is like to see red involves knowing how to imagine red? Suppose there is someone who (for whatever reason) has no ability to imagine seeing red. Now suppose this person looks attentively at something red. While they look at red, they know what is it like to see red. And yet they cannot imagine seeing red. This shows that the ability to imagine is not necessary for knowing what it is like to see red. Now suppose someone else has the most amazing ability to imagine seeing colours. They are told that there is a shade of red, e.g. burgundy, that is between plum red and tomato red. They are now able to imagine burgundy, but as long as they don’t actually imagine burgundy, they still don’t know what it is like to see burgundy. This shows that the ability to imagine a colour is not sufficient to know what it is like to see it. (We can make similar arguments for recognizing colours.)  If the ability to imagine seeing red is neither necessary nor sufficient for knowing what it is like to see red, then when Mary comes to know what it is like to see red, she learns more than simply knowing how to imagine seeing red. The objection fails to show that Mary does not learn a new fact. It fails to show that the knowledge argument is mistaken.  
 
- 
 
+necessary and sufficient issues
+
+
+## New ways of knowing the same fact
+
+Assume that there was some knowledge that Mary lacked before leaving the room. Assume that Mary acquires new knowledge upon leaving the room. Does Mary thereby come to acquire knowledge of some new fact? 
+
+Some think you can come to learn the same fact in different ways. Consider these two sentences: 
+
+1. ‘Batman saved Gotham City from the Joker’
+2. ‘Bruce Wayne saved Gotham City from the Joker’
+
+These two sentences seem to express the same fact, but describe that fact in two different ways. Suppose that you don’t know on Monday that Batman and Bruce Wayne are the same person. On Monday, you would then know the first sentence without knowing the second. Suppose you learn on Tuesday that Bruce Wayne is Batman. You would then know that sentence 2 is true. But you haven’t learned some new fact by learning that 2 is true. You have learned the same fact in some new way.  
+
+So perhaps Mary doesn’t learn any new facts about the experience of red when she leaves the room. Perhaps she comes to know an old fact in some different way.
+
+It’s difficult to distinguish between learning some old fact in a new way and learning some brand new fact. Consider the Batman case again. When you think about Batman, you think about a caped superhero with a dark voice, no superpowers, a utility belt, and access to advanced technology. Your concept of Batman includes these various features that you associated with him. Your concept of Bruce Wayne is different. When you think about Bruce, you think about a billionaire, orphaned young when his parents were killed, someone cared for by a butler, someone relatively carefree and irresponsible. When you learn that one person is both Bruce Wayne and Batman, you realize that one person has all the various features you had associated with both, e.g., he is both a caped superhero and an orphan. You have learned that you had two concepts all along about the same person.
+
+Might this explain what Mary learns when she leaves the room? Let us say that P is the property of being an experience of red. Before leaving the room, Mary might have one concept for P. Namely, she has a physical concept for P, a concept which has associated with it all the various physical facts she has learned in her studies. So Mary already knows that an experience of red has property P, but she conceptualizes P as a purely physical property. When Mary leaves the room, perhaps she does not learn some new fact, namely, that the experience of red has some property distinct from P. Perhaps all she learns is a new concept for P. If so, she does not learn a new fact about the experience of P, she only learns a new way of conceptualizing that fact. 
+
+This seems unrealistic. Mary doesn’t know any of the various qualitative properties of a red experience before leaving the room. That is, she doesn’t have some haha moment and say to herself, ‘I knew about some various qualitative properties and I knew all the physical facts about some experience P, but it’s only now that I know that the experience of P has these various qualitative properties.’ Mary has no idea what it’s like to experience color. Equivalently, if I don’t know anything at all about Bruce Way, it’s hard to say that I only come to learn some old fact in a new way when I learn that Batman saved Gotham city. 
+
+
+Suppose I know that there is water in the glass. Is that the same as knowing that there is H2O in the glass? No – because someone may know one of these truths without knowing the other. Someone can have the concept of ‘water’ without having the concept of ‘H2O’. Or again, someone may have both concepts, but not know that water and H2O are the same thing. So we can say that to know that there is water in the glass and to know that there is H2O in the glass is to know two different facts. In this sense of ‘fact’, we count facts in terms of concepts.  However, in another sense of ‘fact’, the fact that there is water in the glass just is the fact that there is H2O in the glass. Both of these claims are made true by just one state of affairs in the world. In this sense of ‘fact’, we count facts in terms of how the world is, not how we think about it.  We can now apply this to the knowledge argument. Before leaving the room, Mary has a concept of red in physical terms – wavelengths of light, neurons firing, and so on. Call this the ‘physical’ or again a ‘theoretical’ concept of red. We can contrast this with a ‘phenomenal’ concept of red. A phenomenal concept of something is the concept by which you recognize something when you experience or perceive it. So we gain the phenomenal concept of red by seeing red.  When Mary comes out the room and sees red, she acquires the phenomenal concept of red for the first time. She is now able to think about red in a new way, in terms of what it is like to see red. She couldn’t know what it is like to see red before because she didn’t have the phenomenal concept. But, we can claim, the phenomenal concept of red is a concept of the same thing that her physical concept is a concept of – they are two different concepts of a physical property 
+of the brain (like water and H2O are two concepts of the same physical substance). Mary gains knowledge of a new fact in one sense (because she gains a new concept) but not in the other sense (since she already knew about the property).  Let us accept that the knowledge argument shows that there are different ways of thinking about physical things, some of which depend on experiencing, rather than describing. To know what it is like to see red, you need to have the phenomenal concept of red, and this you can only gain from experience. So Mary gains knowledge of a new fact, in the sense of fact that relates to concepts.  However, and this is the objection, physicalism and property dualism are claims about what exists. They are claims about properties, not about concepts. The knowledge argument does not show that Mary gains knowledge of a new property. It doesn’t show that Mary gains knowledge of a new fact in the sense of learning about something in the world she didn’t know about before. It doesn’t show that what it is like to see red cannot be a physical property. So the argument fails to show that there are any non-physical properties. So it fails to show that physicalism is false. 
+
+
+. 
  
  
  
