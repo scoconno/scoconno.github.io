@@ -5,10 +5,11 @@ title: Notes
 ---
 
 
-**Introduction**
+## Introduction 
 
 You may have been convinced by the mind-brain identity theory; perhaps you are convinced that mental states are identical to brain states. But, there is a dramatic objection to this view. If the identity theory is true, then mental states are just physical states (because they are identical to brain states, which are themselves physical). But, Frank Jackson has developed a stunning argument against the claim that mental states are themselves physical. If the objection succeeds, it shows that the mind-brain identity theory is false (because it shows that mental states cannot be identical to any physical instates, including states of the brain.) Jackson target his argument against *physicalism*. I will first explain what this is before discussing his argument, but keep forefront in your mind the fact that the mind-brain theory is committed to physicalism (because it claims that mental states are themselves physical). 
 
+## Physicalism
 
 Physicalism is a general theory about everything exists. It says that the only things that exists are physical things, both fundamental physical things and non-fundamental physical things. The fundamental physical things are those that have 
 physical properties like mass and location. The non-fundamental physical things are things without these properties that *supervene* on fundamental physical things. What does this word mean? Before I explain it, let me give you the rough idea: all facts about the non-fundamental physical things are explained by facts about the fundamental things. Thus, all changes in the non-fundamental things are explained by changes in the fundamental things. Think of a simple example: 
@@ -33,9 +34,7 @@ Notice that the global features of the picture are nothing but a pattern in the 
 
 I have spoken of 'physical features', but this could be more precise. Let us clean the view up by distinguishing objects, properties, and relations.  Physicalism claims that every true sentence refers to fundamental physical objects, properties, and relations, or to non-fundamental physical objects, properties, and relations, where the non-fundamental supervene on the fundamental. For instance, the 'heart is pumping blood' refer to various non-fundamental things, and these non-fundamental things are as they are only in virtue of some fundamental entities being how they are, i.e., the heart is pumping blood only because there are some fundamental physical entities doing what they are doing. We will call facts about both these fundamental and non-fundamental things, 'physical facts'.  
 
-
-
-**Knowledge and Physicalism**
+## If physicalims is true, the only things we know are physical facts
 
 If physicalism is true, then every fact you learn will be a physical fact. For instance, if you learn some facts in your biology class, those facts you learned are physical facts. Again, the reason is that those facts are about physical entities and their relations, either fundamental or non-fundamental physical entities and their relations. 
 
@@ -49,20 +48,25 @@ Physicalism also has significant implications for investigation of the mind-body
 
 ## Frank's Jackson's Knowledge Argument
 
-Is physicalism true? Many deny that physicalism applies to consciousness. They claim that facts about our consciousness are neither physical or supervene on the physical. The most famous argument against physicalism was offered  by Frank Jackson. He motivates it with the simple following thought-experiment: 
+Is physicalism true? Many have claimed that at least some facts about about our minds are not physical ones; there are some facts about the mind that are neither fundamental physical fact nor supervene on the fundmanetal physical facts. The most famous argument against physicalism was offered  by Frank Jackson. He motivates it with the simple following thought-experiment: 
 
 > Mary is a brilliant scientist who is, for whatever reason, forced to investigate the world from a black and white room via a black and white television monitor. She specializes in the neurophysiology of vision and acquires, let us suppose, all the physical information there is to obtain about what goes on when we see ripe tomatoes, or the sky, and use terms like ‘red’, ‘blue’, and so on. She discovers, for example, just which wavelength combinations from the sky stimulate the retina, and exactly how this produces via the central nervous system the contraction of the vocal chords and expulsion of air from the lungs that results in the uttering of the sentence ‘The sky is blue’.… What will happen when Mary is released from her black and white room or is given a color television monitor? Will she learn anything or not? It seems just obvious that she will learn something about the world and our visual experience of it. But then is it inescapable that her previous knowledge was incomplete. But she had all the physical information. Ergo there is more to have than that, and Physicalism is false. (Jackson, 1982)
 
-The knowledge argument aims to establish that conscious experience involves non-physical facts. It rests on the idea that Mary has complete physical knowledge about some conscious experience, but lacks knowledge about what conscious experience is like “from the inside.” If she lacks suck knowledge, then something about consciousness is essentially non-physical. 
+This is called the 'Knowledge Argument'. It aims to show that experience involves non-physical facts, and it rests on the idea that Mary, a super scientist, can have complete physical knowledge about some experience, but lack knowledge about what that experience is like “from the inside.” If she lacks suck knowledge, then something about our minds is essentially non-physical. 
+
+
+
+## What does Mary know? 
+
+Let us go through the argument in detail. Jackson first asks us to imagine a super-scientist, Mary. Mary has spent her life in a black and white room. Thus, she has never experienced red first hand. She has never seen the redness of a tomatoe, the red hue of a startling sunset. 
 
 
 ![image](Mary2.jpg)
 
 ![image](Mary1.jpg)
 
-## What does Mary know? 
 
-Let us go through the argument in detail and first ask what Mary in the black and white room might now. 
+While Mary cannot see red, she has advanced technology and machines that allows her to study what happens in other peoples' brains when they experience red. So, we can imagine that she is studying a subject, John, who reports that he is seeing red right now. Mary can study his brain and learn everything physical there is to know about John's experience of red. So, what does she know about John's experience of red? 
 
 ![image](Reflect.jpg)
 
@@ -84,13 +88,15 @@ Third, Mary knows that there is an optic nerve and knows how the optic nerve tra
 
 ![image](neuron2.jpg)
 
-Finally, Mary knows which neurons are activated by each wavelength and know those neurons are activated. 
+Finally, Mary knows which neurons in John's brain are activated by each wavelength and knows how those neurons are activated. 
 
 ## The Billion Dollar Question ##
 
 Suppose that Mary has been studying the mind of someone who sees red. She knows everything that I have just outlined. Suppose that Mary leaves the room for the very first time and sees, say, a red apple. Does Mary learn anything new about the experience of red when she leaves the room? Here's an oddly creepy video that explains the [two answers.](https://www.youtube.com/watch?v=gZy3Ky9y_fg)
 
-If Mary learns something new, then physicalism is false. Recall that Mary knows all the physical facts before leaving the room. So, if she learns something new upon leaving it, then that new fact is not a physical fact. Jackson thinks that Mary clearly does learn something new. Let's say that Mary was studying John's vision of red and present his argument somewhat formally:  
+If Mary learns something new, then physicalism is false. Recall that Mary knows all the physical facts before leaving the room. So, if she learns something new upon leaving it, then that new fact is not a physical fact. Jackson thinks that Mary clearly does learn something new. She knows what it is like to see red! Jackson thinks that knowing what it is like to see red is clearly some fact we can learn. He also thinks its a fact that Mary cannot learn by just learning the physical facts about the experience of red.
+
+Let's say that Mary was studying John's vision of red and present Jackson's argument somewhat formally:  
 
 + **P1:** If physicalism is true, all the facts about John's experience of red are physical facts.
 + **P2:** Mary knows all the **physical facts** about John's experience of red before her release. 
@@ -107,7 +113,7 @@ If Mary learns something new, then physicalism is false. Recall that Mary knows 
 
 Instead of asking whether Mary learns something new upon her release, we can ask whether we would learn something new in the following scenario: suppose that Fred returns from a mission to space and reports a significant change in his perceptual experience. He says that he now sees a strange new color completely unlike anything he experienced before leaving Earth. He can see what is called a forbidden color--yellow-blue! What's more, he sees this color every time he looks at a blank piece of paper that appears white to everyone else. Suppose we study the physics of color and the neuroscience of color vision. We are tasked with studying Fred's yellow-blue perception. We learn everything about the relevant wavelength, cones, neurons, etc. Would we thereby know everything there is to know about Fred's experience of yellow-blue? If we did, then we would learn nothing new by seeing yellow-blue for the first time when our eyes too are changed by a trip to space. 
 
-
+...next time: objections to Jackson...
 
  
 
