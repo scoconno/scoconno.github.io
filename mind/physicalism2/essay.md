@@ -6,10 +6,9 @@ title: Essay
   
 ## Introduction 
 
-Physicalism is the belief that mental events and their properties are entirely physical and can be described in the same objective physical way as all other phenomena in the world. If physicalism is true, then a complete physical description of mental states must contain all the information there is to know about those states. In 'The Knowledge Argument', Frank Jackson uses his famous Mary thought-experiment to show that this is not the case: that there are facts about mental states not entailed by a complete physical description. Several objections have been raised against Jackson's argument, including: 
+Physicalism is the belief that mental events and their properties are entirely physical and can be described in the same objective physical way as all other phenomena in the world. If physicalism is true, then a complete physical description of every mental state must contain all the information there is to know about those states. In 'The Knowledge Argument', Frank Jackson uses his famous Mary thought-experiment to show that this is not the case: that there are facts about mental states not entailed by a complete physical description. Several objections have been raised against Jackson's argument, including: 
 
 1. Mary gains ability knowledge, not new propositional knowledge
-2. Mary gains acquaintance knowledge, not new propositional knowledge
 3. Mary learns nothing new when leaving the room. 
 3. Mary comes to know the same physical fact but in a different way.
 
@@ -20,13 +19,13 @@ Physicalism is the belief that mental events and their properties are entirely p
 
 This assignment involves three distinct tasks, each with its own sub-task.  
 
-**Task 1:** Formulate Jackson's Knowledge Argument. To do this, you do the following: 
+**Task 1:** Formulate Jackson's Knowledge Argument. To do this, you must do the following: 
 
 1. Identify the premises of the Knowledge Argument. 
 2. Explain each premise carefully in your words. Use your own examples. 
 3. Explain why the conclusion of the argument shows physicalism to be false. 
 
-**Task 2:** Explain **one** of the four objections to Jackson's Knowledge Argument---your choice!** To do this, do the following: 
+**Task 2:** Explain **one** of the objections to Jackson's Knowledge Argument---your choice!** To do this, do the following: 
 
 1. Read the entry on the Knowledge Argument in the Stanford Encyclopedia [here](https://plato.stanford.edu/entries/qualia-knowledge) or a different encyclopedia entry [here](http://www.iep.utm.edu/know-arg/). You can also read the relevant entry in the textbook.
 2. Pick **one** of the objections discussed there and explain it.  
@@ -39,8 +38,6 @@ This assignment involves three distinct tasks, each with its own sub-task.
 ## Citations
 
 This is our first, standard college level paper. It should be structured accordingly and must include proper a bibliography and citations. You can use any citation style you like as long as you remain consistent throughout your paper. 
-
-
 
 ## Word Count
 
