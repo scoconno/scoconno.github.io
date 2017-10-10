@@ -5,13 +5,22 @@ title: Notes
 ---
 
 
-**Introduction**
+## Introduction
 
  There are many responses to the Jackson’s Knowledge Argument. Jim Pryor groups the replies by their answers to these questions. 
 
- 1. When Mary comes out of the room and first sees something red, does she genuinely acquire some new piece of knowledge (knowledge of information)? 
+ 1. When Mary comes out of the room and first sees something red, does she genuinely acquire some new piece of knowledge, i.e., knowledge of some new fact?   
  2. If she does acquire some new piece of knowledge, is what she comes to know some new fact about our experiences, of which she was previously ignorant? Or is what she comes to know some old fact, now known in a new way? (http://www.jimpryor.net/teaching/courses/mind/notes/mary-con.html)
 
+I will discuss three such responses below. The first two will deny that Mary learns any new information about leaving the room. The second accepts 
+
+
+|	 			|Q1  	|Q2	|
+|:--------:			|:-----:|:----: |
+| Imagination Response		| No	|   	|
+| Ability Hypothesis Response	| No	|      	|
+| Old Fact New Way Response	| Yes	| No    |
+| Jackson			| Yes	| Yes  	|
 
 
   Q1
@@ -24,18 +33,21 @@ No		Yes
 Does Mary learn something new? 
 Old fact, new way
 New ability
-Acquaintance 
 
 
 
 
 ## Objection 1: Mary can imagine red before her release
 
-Our first objections claims that Mary can imagine red by learning all the physical facts about experiencing red. This seems reasonable. Suppose an architect is provided the plans for a building that was constructed in, say, Alexandria, Egypt. Suppose also that this architect has never personally seen the building. A good architect can know what the building looks like just by studying the plans; the knowledge they gain from the plans allows them to imagine what the building looks like. 
+After Mary learns all the physical facts about our experience of red, Jackson claims that she still does not know what it is like to experience red. Our first objection denies this. It claims that Mary can imagine red by learning all the physical facts about experiencing red. So even before she leaves the room, she knows what it is like to experience red by imagining what red looks like. 
 
-Very few have found this a convincing argument. On the one hand, it is just difficult to conceive how I could somehow imagine red by just learning all the physical facts about seeing red. But, more importantly, if the claim is correct, then complete physical knowledge necessarily involves the capacity to imagine red. In other words, it would be impossible to have complete physical knowledge of the experience of red and not have the ability to imagine it. Similarly, it would be impossible to have complete knowledge of the building's design without being able to imagine what it looks like. But physical knowledge can be acquired independently of one's particular perceptual apparatus. For instance, a blind scientist can learn all the facts about, say, the motion of an atom by reading the results in braille. The blind scientist does not have the ability to imagine the motion of the atom. So, why should Mary have the ability to imagine red by just knowing all the physical facts about the experience of red? 
+How should we assess this response? We can imagine things that we have not seen in person by studying information about that thing. Suppose an architect is provided the plans for a building that was constructed in, say, Alexandria, Egypt. Suppose also that this architect has never personally seen the building. A good architect can imagine what the building looks like just by studying the plans. The knowledge they gain from the plans allows them to imagine what the building looks like, and so come to know what the building looks like. 
 
- But a fourth objection denies this. If Mary really did know everything about seeing red, she would not learn anything when she first sees red. The experience of seeing red is nothing more than highly detailed knowledge of what it is to see red, and Mary already has this highly detailed knowledge.  This objection is, however, counter-intuitive. It requires that Mary is able to work out what it is like to experience a colour without ever having seen one. But, we might argue, we cannot describe such experiences (seeing red) so fully as to know what it is like to experience them without actually doing so. No one can know what it is like to see red without actually ever having seen something red.  In ‘What Mary Didn’t Know’, Jackson points out that we can even allow that Mary could imagine what it is like to see red before she leaves her room. Imagining something is not the same as knowing it. You only have to imagine what something is like if you don’t already know. If Mary knows all the physical facts, and these were all the facts there are, then she would know what it is like to see red, so she wouldn’t have to imagine it. So even if Mary can imagine what it is like to see red, she still doesn’t know what it is like.  Is this right, though? This is our intuition, but is there an argument to support it? We don’t really know what knowing all the physical facts about seeing colours would involve. Perhaps Mary will be entirely unsurprised at seeing red – she already knew what it would be like. Is it impossible for any amount of information describing the experience to convey it? This objection claims that there is, in principle, a complete analysis of phenomenal properties in physical and functional terms
+Might we similarly be able to imagine red without seeing red just by studing what happens in a persons' brain when they see red? This seems unlikely. If I can imagine red by learning all the physical facts about the experience of red, then complete physical knowledge necessarily involves the capacity to imagine red. In other words, it would be impossible to have complete physical knowledge of the experience of red and not have the ability to imagine red. Similarly, it would be impossible to have complete knowledge of the building's design without being able to imagine what it looks like. 
+
+But this seems false when it comes to our experience of red. A completely blind scientist who studies color vision by reading the results from her machines in braille does not have the ability to imagine red. So, if our blind scientist is unable to imagine red by knowing all the physical facts, why should Mary have the ability to imagine red by just knowing all the physical facts about the experience of red? 
+
+It shouldn't be surprising that this objection to the Knowledge Argument fails. No one can know what it is like to see red without actually ever having seen something red.  
 
 ## Mary gains ability knowledge##
 
