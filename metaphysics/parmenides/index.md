@@ -39,4 +39,4 @@ title: Appearance & Reality
 
 ## Assignments
 + [Short essay 1:](sessay) each of the 7  modules contains a short essay. You must complete 5 of these over the semester. If you complete more than 5, I will drop the lowest grades. See the syllabus for full details on due dates, requirements, etc.
-+ Long essay--please note that I will include a prompt for a long essay in each module. See the syllabus to understand what these are, when they are due, and how many you must complete. 
+
