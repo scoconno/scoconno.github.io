@@ -18,18 +18,14 @@ You should devote significant time to researching your topic. Start early. Ask t
 + Point: 20 points towards your final grade. 
 + Citation style: use MLA, Chicago, or APA. It's up to you, but be consistent throughout. 
 
+---
 
-## Prompts--Pick 1
-
-**Prompt 1**
-Parmenides claims that there is no coming-to-be either (a) from “what is not” or (b) from “what is.”  Aristotle replies that in one sense both of these claims are correct, but in another sense they are both incorrect.  Explain what Aristotle means by this, with reference to his account of change and coming-into-being in Physics I. Does Aristotle's response succeed? Give reasons for your answer. 
+**Prompt 1:** Parmenides claims that there is no coming-to-be either (a) from “what is not” or (b) from “what is.”  Aristotle replies that in one sense both of these claims are correct, but in another sense they are both incorrect.  Explain what Aristotle means by this, with reference to his account of change and coming-into-being in Physics I. Does Aristotle's response succeed? Give reasons for your answer. 
 
 ---
 
-**Prompt 2**
-Protagoras claims that man is the measure of all things, of the things that are, that they are, and of things that are not, that they are not. How does Aristotle understand Protagoras' claim and how does he think that Protagoras' argues for it? What is Aristotle's response? Does it succeed? Give reasons for your answer.
+**Prompt 2:** Protagoras claims that man is the measure of all things, of the things that are, that they are, and of things that are not, that they are not. How does Aristotle understand Protagoras' claim and how does he think that Protagoras' argues for it? What is Aristotle's response? Does it succeed? Give reasons for your answer.
 
 ---
 
-**Prompt 3**
-As charitably and forcefully as you can, present a reconstruction of Zeno’s arrow paradox. How does the at-at theory of motion purport to solve this paradox? Is that solution successful? Give reasons for your answer. 
+**Prompt 3:** As charitably and forcefully as you can, present a reconstruction of Zeno’s arrow paradox. How does the at-at theory of motion purport to solve this paradox? Is that solution successful? Give reasons for your answer. 
