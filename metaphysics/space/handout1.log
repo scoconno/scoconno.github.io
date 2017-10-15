@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 OCT 2017 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  15 OCT 2017 15:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -233,31 +233,30 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 <hands.jpg, id=18, 1485.55pt x 803.0pt>
 File: hands.jpg Graphic file (type jpg)
  <use hands.jpg>
-Package pdftex.def Info: hands.jpg used on input line 207.
+Package pdftex.def Info: hands.jpg used on input line 215.
 (pdftex.def)             Requested size: 345.0pt x 186.48727pt.
- [4 <./hands.jpg>]
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 304--307
 
- []
 
-[6] [7] (./handout1.aux) ) 
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <./hands.jpg>] [6] [7] (./handout1.aux) ) 
 Here is how much of TeX's memory you used:
  2095 strings out of 492995
  28152 string characters out of 6132704
- 88421 words of memory out of 5000000
+ 89421 words of memory out of 5000000
  5617 multiletter control sequences out of 15000+600000
  26496 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,43p,315b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/b
-ase/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on handout1.pdf (7 pages, 169493 bytes).
+ 39i,11n,43p,315b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-
+dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/ur
+w/palatino/uplb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palat
+ino/uplr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/upl
+ri8a.pfb>
+Output written on handout1.pdf (7 pages, 169657 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
