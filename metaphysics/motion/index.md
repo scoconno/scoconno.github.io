@@ -28,7 +28,7 @@ title: Motion
 + Videos
   + [Angie Hobbs on the Arrow Paradox](https://www.youtube.com/watch?v=IPNttsu8x24)
 + Notes
-  + Handout
+  + [Handout](zeno3.pdf)
 
 ## Assignments
 + [Short Essay](essay)
