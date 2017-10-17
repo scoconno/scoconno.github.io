@@ -72,14 +72,14 @@ articles:
  # book: Yeah
  # publisher: "Right"
 
-#progress:
-#- title: \enquote{On Persistence in Aristotle}
-#  journal: 
-#  issue: \emph{final draft}
+progress:
+- title: \enquote{On Persistence in Aristotle}
+  journal: 
+  issue: \emph{final draft}
   
-#- title: \enquote{Substantial Change and Alteration in  Aristotle's \emph{Generation and Corruption}\ I}
-#  journal: 
-#  issue: \emph{full draft}
+- title: \enquote{Substantial Change and Alteration in  Aristotle's \emph{Generation and Corruption}\ I}
+  journal: 
+  issue: \emph{full draft}
 
 invited:
 
@@ -93,10 +93,10 @@ invited:
   title: \enquote{Aristotle's Objection to Pluralism in \emph{Generation and Corruption}\ I}
   place: First Dublin Graduate Conference in Ancient Philosophy, \emph{``Physis and Psyche in Ancient Philosophy, Causes, Generation, and Change'',} TCD/UCD, Dublin, Ireland
 
-#- year: 2017
-#  month: April*
-#  title: \enquote{Notes on Aristotle's \emph{Metaphysics}\ 8.6}
-#  place:  Graduate seminar, Yale, New Haven,  CT 
+- year: 2017
+  month: April*
+  title: \enquote{Notes on Aristotle's \emph{Metaphysics}\ 8.6}
+  place:  Graduate seminar, Yale, New Haven,  CT 
 
 
 	
@@ -120,10 +120,10 @@ invited:
   title: \enquote{The Principles and Elements of Nature in Aristotle's \emph{Physics}\ I}
   place: The Society for Ancient Greek Philosophy, Fordham University, NY
 
-#- year: 2015
-#  month: April
-#  title: \enquote{Some Stuff and Things}
-#  place: Adventures in Philosophy, NJCU, NJ
+- year: 2015
+  month: April
+  title: \enquote{Some Stuff and Things}
+  place: Adventures in Philosophy, NJCU, NJ
 
 - year: 2015
   month: April\textdagger
@@ -237,8 +237,8 @@ teaching2:
   title: Time
 
 service:
-#- year: Referee Work
-#  post: Epoché
+- year: Referee Work
+  post: Epoché
 - year: 2016-present
   post: SGO Global Citizens Scholarship Application Review Committee, NJCU
 - year: 2016-present
