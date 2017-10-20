@@ -5,13 +5,15 @@ title: Space
 ---
 
 
-## Absolute vs. Relational Theories of Space
+## Absolute vs. Relational Theories of Space (week 1)
 
-# Reading
-+ [‘Space, Absolute and Relational’,](Maud.pdf) Tim Maudlin
-+ [‘Incongruent Counterparts and Higher Dimensions’,](/metaphysics/big.pdf) James Van Cleve. NB: the article is chapter 13 of the attached book. 
++ Reading
+	+ [‘Space, Absolute and Relational’,](Maud.pdf) Tim Maudlin
+	+ [‘Incongruent Counterparts and Higher Dimensions’,](/metaphysics/big.pdf) James Van Cleve. NB: the article is chapter 13 of the attached book. 
++ [Notes](handout.pdf)
 
-## The Fourth Dimension
+
+## The Fourth Dimension (week 2)
 + Reading
 	+ [*Flatland*,](flat), selections, Edwin Abbott
 	+ [‘Incongruent Counterparts and Higher Dimensions’,](/metaphysics/big.pdf) James Van Cleve. NB: the article is chapter 13 of the attached book. 
