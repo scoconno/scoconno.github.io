@@ -19,3 +19,4 @@ title: Substance Dualism
 
 ### Assignments
 + [Essay](essay)
++ [Sample response](sample.pdf)

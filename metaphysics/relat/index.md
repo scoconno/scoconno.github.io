@@ -26,8 +26,8 @@ title: Relativism
   + [*Aristotle's Metaphysics*,](https://plato.stanford.edu/entries/aristotle-metaphysics/) S. Marc Cohen, SEP
  
  
- ## Essay ##
+## Essay
  
- Find the prompt [here.](essay)
- 
+ + Find the prompt [here.](essay)
+ + Find a sample response [here.](sample.pdf)
 

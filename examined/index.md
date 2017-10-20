@@ -100,6 +100,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 **Week 6**
 
 + [Essay 3](God/Essay1) 
+	+ [Sample response 1](God/sample1.pdf)
+	+ [Sample response 2](God/sample.pdf)
 + [Notes](God/Handout2)
 + Videos
 	+ [The Ontological Argument](https://www.youtube.com/watch?v=FmTsS5xFA6k)
