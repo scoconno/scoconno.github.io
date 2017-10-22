@@ -6,23 +6,25 @@ title: Short Essay
 
 ## Introduction
 
-Why does the existence of higher spatial dimensions pose a threat to Internalism with respect to incongruent counterparts? 
+What a challenge! You are a famed glove maker, the most famous alive today. But, NASA has a challenge for you. They have placed a 3D printer in a windowless room on the International Space Station. Nothing else is in the gravity free room.  
+You've seen examples of these printers in videos like [this](https://www.youtube.com/watch?v=C8NFLWFrGxc). 
+
+You must send instructions to that printer to create a left handed glove for an astronaut whose hands are perfect incongruent counterparts; there are no distinguishing differences between the two hands apart from the fact that one is a left hand and the other is a right hand.   
+
+Seems simple! You need to give that printer exact measurements and instructions about what order to build the glove parts, e.g., you'll tell it how long each finger is, the distance between the knuckles on each hand, the color, etc. But how do you tell it to make a left handed glove as opposed to a right handed glove? There is no obvious up or down in this room since there is no gravity. The 3D printer cannot sense the sun because there are no windows. 
+
+This is the challenge NASA has given you. They will test your creation by sending the astronaut to the space station. If it fits on her left hand and not right hand, you win. If it fits on the right hand and not the left hand, you lose.  
+
+You always write detailed diary entries when working on a project. You detail the task, the challenges, and your solution.
 
 ## Task
+Write your detailed diary entry. In the diary entry, do the following:  
 
-Assume that higher spatial dimensions exist. Your essay should do the following: 
-
-1. Explain the notion of 'incongruent counterparts.' Use something other than hands as an example.
-1. Explain Internalism with respect to Incongruent Counterparts. 
-2. Explain the notion of a higher spatial dimension, e.g., explain the notion of a fourth spatial dimension.  
-2. Explain how the existence of higher spatial dimensions poses a threat to Internalism.
+1. Explain the notion of 'incongruent counterparts.' What does it meant to say that the astronaut's hands are perfect incongruent counterpart?
+2. Explain Internalism with respect to Incongruent Counterparts.   
+2. Describe the internal/intrinsic features of a hand that might make it a left hand. This description is what will be sent to the 3D printer. 
  
 
-## Further Instruction
-+ Assume that your audience is bright, but not familiar with the topic. You will need to explain the terminology you introduce. Try also to find ways of explaining what a fourth dimension might be. 
-+ This essay has 2 major learning goals: 
-	1. Teach you the difference between explaining a view and arguing for a view. So, in the first part of your paper, you should neutrally explain Internalism as clearly as you can while avoiding arguing for or against it. 
-	2. Teach you to explain and argue for views that you might not accept.  In the first part of your essay, you should explain Internalism as clearly and charitably as you can (as if it was the view you accepted). In the second part, you will use the possibility of higher dimensions to argue against Internalism as forcibly as you can (regardless of whether you think there are higher dimensions or if you think that Internalism is true or not.) 
 
 ### Word Count
 
