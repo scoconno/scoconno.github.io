@@ -10,7 +10,7 @@ title: Space
 + Reading
 	+ [‘Space, Absolute and Relational’,](Maud.pdf) Tim Maudlin
 	+ [‘Incongruent Counterparts and Higher Dimensions’,](/metaphysics/big.pdf) James Van Cleve. NB: the article is chapter 13 of the attached book. 
-+ [Notes](handout.pdf)
++ [Notes](handout1.pdf)
 
 
 ## The Fourth Dimension (week 2)
