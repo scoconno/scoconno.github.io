@@ -1,5 +1,5 @@
 ---
-layout: 'Scott O’Connor'
+layout: default
 title:   Signature Assignment 
 ---
 
