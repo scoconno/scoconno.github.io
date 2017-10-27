@@ -1,32 +1,29 @@
 ---
 layout: mindweekly
-title: Functionalism
+title: Mind as Computer
 ---
 
 This week we are considering the view that what it is to have a mind is to be able to perform sufficiently complex computations. On this view, minds are merely very complex computers.  To introduce you to the topic, please have a conversation with this [program](http://www.mitsuku.com). 
 
 
-## Reading
+### Reading
 + Required
-  + Textbook, ch.5, pp. 129--138, 156--165
+  + Textbook, ch.5, pp. 129--138, 156--159
   + ['Computing Machinery and Intelligence',](turing.pdf) A.M.Turing
-  + ['Is the Brain's Mind a Computer Program?'](SearleBrain.pdf), J. Searle
 
 + Optional
-	+  ['Troubles with Functionalism',](Block.pdf) N. Block 
 	+  [Philosophy and the creation of computers](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) 
 
-## Notes
-+ [Notes 1](notes)
-+ [Notes 2](notes2)
+### Notes
++ [Notes](notes)
 
 
-## Videos
+### Videos
 + Required
 	+ [One explanation of the Turing Test](https://www.youtube.com/watch?v=1uDa7jkIztw)
 	+ [Another explanation of the Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
 	+ [Necessary and Sufficient Conditions:](https://www.youtube.com/watch?v=5LqNm9d2__I) Turing claims that passing the Turing Test is necessary and sufficient for intelligence. This video explains what necessary and sufficient conditions are. 
-	+ [A reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M) This experiment challenges Turing's claim that passing the Turing Test is sufficient for intelligence. 
+
  
  + Optional
 	+ [AI and Personhood](https://www.youtube.com/watch?v=39EdqUbj92U&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=23)
@@ -37,5 +34,4 @@ This week we are considering the view that what it is to have a mind is to be ab
  
 ## Assignments
 + Quiz 5
-+ [Essay 5](essay)
-	+ [Sample essay response:](TuringSample.pdf) a former student's paper. Notice how thoroughly they explain what it means for the Turing Test to provide a necessary and sufficient condition for mentality. Your paper should be similarly detailed, but you need to demonstrate that you fully understand the topic. Do not quote from this sample or paraphrase it. Your work must be your own. 
+ 
