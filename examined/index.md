@@ -127,7 +127,6 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [Strawson on the mysteries of free-will](https://www.youtube.com/watch?v=KV5_bHwaUBM&index=8&list=PLMDgR9XqmpVQleFnGdgRZf6RMdqoFrBEu)
 	+ [The Libet Experiments](https://www.youtube.com/watch?v=OjCt-L0Ph5o)
 	+ [Free-will & Neuroscience](https://www.youtube.com/watch?v=rCM5BFU01YU)
-	+ [The Determinism and Freedom Philosophy Website](http://global.oup.com/us/companion.websites/9780190207038/stu_res/ch5/links/)
 
 ---
 	
@@ -135,6 +134,16 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 + [Notes](FreeWill/Handout2)
 + ['Please Don’t Tell Me How The Story Ends’,](http://creationdemonstration.blogspot.com/2013/03/please-dont-tell-me-how-story-ends.html) Thomas Davis
++ *Videos*
+	+ [Determinism vs. Free-Will](https://www.youtube.com/watch?v=vCGtkDzELAI)
+	+ [Compatibilism](https://www.youtube.com/watch?v=KETTtiprINU)
+	+ [Social Thinking](https://www.youtube.com/watch?v=h6HLDV0T5Q8)
+	+ [Social Influence](https://www.youtube.com/watch?v=UGxGDdQnC1Y)
+	+ [The Bystander effect](https://www.youtube.com/watch?v=OSsPfbup0ac&spfreload=1)
+	+ [Recreation of the Milgram Experiments](https://www.youtube.com/watch?v=y6GxIuljT3w)
++ *Movies (optional): available online from various outlets*
+	+ [Experimenter](http://www.imdb.com/title/tt3726704/)
+	+ [The Stanford Prison Experiment](http://www.imdb.com/title/tt0420293/)
 
 ---
 	
