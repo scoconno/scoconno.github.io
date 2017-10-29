@@ -24,7 +24,7 @@ title: Space
 	+ [‘The Fourth Dimension: an Excerpt from The Ambidextrous Universe’,](/metaphysics/big.pdf) Martin Gardner, NB: the article is chapter 12 of the attached book.
 
 + Notes
-	+ [Notes](handout.pdf)
+	+ [Notes](handout2.pdf)
 	+ [How to conceptualize a fourth dimension,](http://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/four_dimensions/index.html) John D. Norton, Pittsburgh
 
 + Media
