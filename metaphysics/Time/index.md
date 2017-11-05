@@ -26,5 +26,5 @@ title: Time
 	+ [Handout 2](Time3.pdf)
 
 + Assignments
-	+ [Short essay](SW3)
+	
 
