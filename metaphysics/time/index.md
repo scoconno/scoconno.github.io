@@ -8,7 +8,7 @@ title: Time
 ## The A-Series and B-Series (week 1)
 
 + Reading
-	+ [Slaughter House Five’,](/metaphysics/time/reading) selections, Kurt Vonnegut
+	+ [Slaughter House Five’,](/metaphysics/reading) selections, Kurt Vonnegut
 
 + Notes
 	+ [Handout 1](/metaphysics/time/Time1.pdf)
