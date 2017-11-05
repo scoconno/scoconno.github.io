@@ -1,4 +1,3 @@
-
 ---
 layout: metweekly
 title: Time
