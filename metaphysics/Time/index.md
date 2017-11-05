@@ -1,6 +1,6 @@
 ---
 layout: metweekly
-title: Space
+title: Time
 
 ---
 
@@ -10,7 +10,7 @@ title: Space
 + Reading
 	+ [Slaughter House Five’,](reading) selections, Kurt Vonnegut
 
-+ [Notes](Time1.pdf)
++ Notes
 	+ [Handout 1](Time1.pdf)
 
 
