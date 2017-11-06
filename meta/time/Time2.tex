@@ -1,74 +1,26 @@
-\documentclass[]{article}
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{graphicx}
+
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
 \usepackage{fancyhdr}
  \pagestyle{fancy}
-\rhead{\textsc{Scott O`Connor}}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\usepackage[usenames,dvipsnames]{color}
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={Zeno 2},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{longtable,booktabs}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-
-\title{Time 2}
-\author{Scott O’Connor}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Metaphysics}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Time 2}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+\tolerance=700
 
 
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
 
 
 
 \begin{document}
-\maketitle
 
 \subsection*{The A-Series and the B-Series}
 
@@ -80,7 +32,7 @@
 \end{itemize}
 
 
-\subsection*{Time Does Not Exist}
+\subsection*{McTaggert vs. Time}
 
 \begin{enumerate}
 \item If time is real, either the B-theory or the A-theory of time is the correct characterization of time. 
@@ -117,7 +69,7 @@ Why accept (1)?  Changes are events that have temporal duration. They also seem 
 Big questions:
 \begin{itemize}
 \item Do you accept (2)? If so, why? If not, why not? 
-\item Why might we accept (3)? Recall that there is a worry about an infinite regress. What is this worry? A hint: it assumes a distinction between moments of time and the events occuring at those moments.
+\item Why might we accept (3)? Recall that there is a worry about an infinite regress. What is this worry? A hint: it assumes a distinction between moments of time and the events occurring at those moments.
 \end{itemize}
 
 
