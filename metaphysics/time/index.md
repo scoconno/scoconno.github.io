@@ -25,6 +25,7 @@ title: Time
 	+ [Handout 1](/metaphysics/time/Time2.pdf)
 	+ [Handout 2](/metaphysics/time/Time3.pdf)
 
-+ Assignments
-	
+## Assignments
+
++ [Short essay](essay)
 
