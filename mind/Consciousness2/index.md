@@ -18,10 +18,13 @@ title: Consciousness
 
 ## Notes
 + [Notes 1](notes)
++ [Notes 2](notes2)
 
 
-## Assignments
-+ Quiz
+
+### Assignments
++ Quiz 3
++ [Essay](essay)
 
 
 
