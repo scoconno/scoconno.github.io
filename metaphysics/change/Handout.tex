@@ -1,83 +1,28 @@
-\documentclass[9pt]{article}
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{graphicx}
+
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
 \usepackage{fancyhdr}
  \pagestyle{fancy}
-\rhead{\textsc{Scott O`Connor}}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Metaphysics}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Zeno 3}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+ \usepackage{longtable,booktabs}
+\tolerance=700
 
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\usepackage[usenames,dvipsnames]{color}
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={The Meaning of Life},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{graphicx,grffile}
-\makeatletter
-\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
-\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
-\makeatother
-% Scale images if necessary, so that they will not overflow the page
-% margins by default, and it is still possible to overwrite the defaults
-% using explicit options in \includegraphics[width, height, ...]{}
-\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{0}
-
-\title{Puzzles of Identity}
-\author{Scott O’Connor}
-
-
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
 
 \begin{document}
-\maketitle
-\section{Background Assumptions}
+\thispagestyle{fancy}
+
+
+\subsection*{Background Assumptions}
 \begin{description}
 \item [Two types of `sameness':] Qualitative similarity \emph{vs.} numerical identity. 
 \begin{itemize} 
@@ -95,7 +40,7 @@
 \end{itemize}
 \end{description}
 
-\section{Four Puzzles} 
+\subsection*{Four Puzzles} 
 \begin{enumerate}
 \item The Ship of Theseus 
 \item Tibbles and Tib 
@@ -104,7 +49,7 @@
 
 \end{enumerate}
 
-\section{Diagnosis of these puzzles}
+\subsection*{Diagnosis of these puzzles}
 
 Each puzzles assumes five incompatible assumptions:\footnote{From `Material  Constitution: A  Reader',  by Michael Rea, Intro.}
 \begin{description}
@@ -129,14 +74,14 @@ Each puzzles assumes five incompatible assumptions:\footnote{From `Material  Con
 \end{itemize}
 \end{description}
 
-\section{Why are these assumptions incompatible?} 
+\subsection*{Why are these assumptions incompatible?} 
 
 Our Strategy: We assign the names `\emph{a}' and `\emph{b}' to arbitrary objects. We assume  that \emph{a} and \emph{b} are composed of the same parts. We then show that under some of these assumptions, \emph{a} and \emph{b} are identical, but under other assumptions \emph{a} and  \emph{b} are not identical. Rea explains: 
 \begin{quote}The problem is that for any composite object \emph{a} we can (generally) identify an object \emph{b} that constitutes it and \emph{b} is essentially related to its parts in a way that \emph{a} is not. [However] the  Identity Assumption tells us that \emph{a} is identical with \emph{b}, the Necessity Assumption tells us that \emph{a} and \emph{b} could not have been distinct; hence, \emph{a} and \emph{b} are not essentially related to their parts in different ways. (Rea, pxxviii.) 
 \end{quote}
 NB: When we speak of the parts that compose an object, we mean all the parts of  that object. We are not speaking about partial composition.
 
-\subsection*{Application to Lumpl/Goliath} 
+\subsubsection*{Application to Lumpl/Goliath} 
 \begin{enumerate}
 \item By the existence assumption, there exists a statue and there exists parts of that  statue (the \emph{p}s). 
 \item By the essentialist assumption, since the \emph{p}s compose the statue, then there  exists an object \emph{a} such that the parts of \emph{a} essentially compose a statue. 
@@ -148,7 +93,7 @@ NB: When we speak of the parts that compose an object, we mean all the parts of 
 \item Therefore, Goliath and Lumpl are and are not identical. 
 \end{enumerate}
 
-\subsection*{An abstract version of the argument}
+\subsubsection*{An abstract version of the argument}
 
 \begin{enumerate}
 \item By the existence assumption, there exists an F and there exists parts (\emph{p}s) that compose this object. 
@@ -172,7 +117,7 @@ NB: When we speak of the parts that compose an object, we mean all the parts of 
 
 
 
-\section{Responses} 
+\subsection*{Responses} 
 These five assumptions cannot all be true together. At least one assumption must be  false. If we can identify which assumption or assumptions are false, then we can  identify how to solve the puzzles. 
 
 

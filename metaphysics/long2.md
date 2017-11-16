@@ -46,4 +46,4 @@ Assume that higher spatial dimensions exist. Your essay should do the following:
 
 ---
 
-**Prompt 3:** As charitably and forcefully as you can, present a reconstruction of Zeno’s arrow paradox. How does the at-at theory of motion purport to solve this paradox? Is that solution successful? Give reasons for your answer. 
+**Prompt 3:** Set out as forcefully as you can the paradox of increase (also called the debtor's paradox). How might David Lewis use the existence of temporal parts to solve the paradox? What is the biggest difficulty for this proposed solution? Can the difficulty be overcome? Give reasons for your answer.  

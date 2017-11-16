@@ -1,46 +1,34 @@
 ---
 layout: default
-title: Research Essay 1 
+title: Short Essay 
 ---
 
-### Prompt 
+### Introduction
 
-How might David Lewis use the existence of temporal parts to solve the paradox of increase (also called the debtor's paradox)? What is the biggest difficulty for this proposed solution? Can the difficulty be overcome? Give reasons for your answer. 
 
-### Further Instruction 
+The year is 2040 and you receive a summons; you are being sued for unpaid student loans. Apparently, someone with the same name as you took out loans while studying at New Jersey City University twenty-five years ago. You are furious! Same name or not, you are not that person who borrowed money for their studies. You will fight the law suit by using the Debtor's Paradox (also called the Paradox of Increase) to prove that you are not identical to the student who borrowed that money. 
 
-This essay covers material from Michael Rea's 'Problem of Change' (on my website) plus the following two readings from the reader:  
 
-1.  Quine, ‘Identity, Ostension, and Hypostasis'
-2.  Lewis, `In Defense of Stages: Postscript B to “Survival and
-    Identity”'
+### Task
+Write a letter to the courts and loan company using the Debtor's Paradox to argue that you are not identical to the person who borrowed the money and so are not required to repay them. 
 
-I have not supplied you with readings that deny the existence of temporal parts. This is by design. For this essay, you must identify, read, and use one scholarly article that presents an objection to Lewis. Note that a scholarly article is not equivalent to an encyclopedia entry, though you are welcome to use the encyclopedias listed on my website to identify a scholarly article. A scholarly article is one that is published in a peer reviewed journal like *Mind*, *The Philosophical Review*, *Nous*, *Philosophical Studies*, etc. You should begin your search by using [http://philpapers.org](http://philpapers.org). After that, you will need to visit the library, or, at least, spend time using the online library research tools. 
 
 ### Word Count
 
-1250--1500 words. Writing less than 1250 or more than 1500 words will lose you points. 
-
-
-### Plagiarism
-
-Please review the plagiarism policy on the syllabus. It is critical that you prepare your assignment by yourself. I will be checking for significant overlaps between submissions as well as checking answers against Wikipedia, internet search results, standard essay sites, etc. If you include material in your essay without citing it, you will receive 0 for the assignment. A second violation will result in a 0 for the course, a report to the Dean, and a petition for a note to be added to your permanent academic record. 
+500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
 
 ### Due Date
+
 Please consult the syllabus and course website for the due date.
 
 ### Late Submissions
 
-Per the policies outlined in the syllabus, late work will not be accepted. As the policies also state, there are no make-ups. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early. 
+Per the policies outlined in the syllabus, late work will not be accepted. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early.
+
+### Plagiarism
+
+Please review the plagiarism policy on the syllabus. It is critical that you prepare your assignment by yourself. Use only the textbook and handouts—it will take you less time to work through these materials than to find and read other sources. I will be checking for significant overlaps between submission as well as checking answers against Wikipedia, internet search results, standard essay sites, etc. If you include material in your essay without citing it, you will receive 0 for the assignment. A second violation will result in a 0 for the course, a report to the Dean, and a petition for a note to be added to your permanent academic record.
 
 ### Format
-Please submit your paper through Blackboard as a word file. 
 
-### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
-
-### Resources
-Please find links to writing resources [here](/Teaching/Resources/)
-
-
-
+Submit your work by first clicking on the relevant assignment in Blackboard. Click on ‘browse computer’ and upload your document as a .doc, .rtf, or .pdf file. Please use ‘attach document’. Do not send it to me by e-mail or through Blackboard’s messaging application.
