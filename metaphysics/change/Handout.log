@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 NOV 2017 16:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 NOV 2017 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -209,37 +209,37 @@ File: omsppl.fd
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 54.
+(Font)              <7> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 54.
+(Font)              <5> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 57.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 58.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 58.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 58.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 65.
  [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2] [3] [4]
 (./Handout.aux) ) 
 Here is how much of TeX's memory you used:
- 2077 strings out of 492995
- 27880 string characters out of 6132704
- 89382 words of memory out of 5000000
- 5602 multiletter control sequences out of 15000+600000
+ 2076 strings out of 492995
+ 27872 string characters out of 6132704
+ 89374 words of memory out of 5000000
+ 5601 multiletter control sequences out of 15000+600000
  24116 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,11n,43p,526b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,11n,43p,526b,402s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.en
 c}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/
 local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/t
 exlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Handout.pdf (4 pages, 68589 bytes).
+Output written on Handout.pdf (4 pages, 67319 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
