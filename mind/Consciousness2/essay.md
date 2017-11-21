@@ -37,11 +37,7 @@ Per the policies outlined in the syllabus, late work will not be accepted. Any r
 ### Format
 Please submit the file as a docx, rtf, or pdf. 
 
-### Grading
-Please find the rubric and explanation of it [here](/Grading).
 
-### Resources
-Please find links to writing resources [here](/Resources).
 
 
 
