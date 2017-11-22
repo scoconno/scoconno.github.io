@@ -29,7 +29,7 @@ First, it is important to properly understand the distinction between what are c
 1. "I am eating sugar"
 2. "I should not sugar."
 
-1 is a descriptive fact. 2 is a normative fact. 2 describes something that is happening, I am currently eating sugar. It does not say whether it is good or bad to eat sugar. It just says that I'm doing it. 2, on the other hand, does not say that I am in fact eating sugar. It says that I should avoid doing so. 2 can be true even if I never eat sugar. 1 is true only if I am, in fact, eating sugar. 
+1 is a descriptive fact. 2 is a normative fact. 1 describes something that is happening, I am currently eating sugar. It does not say whether it is good or bad to eat sugar. It just says that I'm doing it. 2, on the other hand, does not say that I am in fact eating sugar. It says that I should avoid doing so. 2 can be true even if I never eat sugar. 1 is true only if I am, in fact, eating sugar. 
 
 Morality is part of normativity. Moral judgements are about (i) how a person should act and (ii) what kind of character a person should have. Consider these two claims: 
 
