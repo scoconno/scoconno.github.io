@@ -7,10 +7,10 @@ title: Final Project
 
 You have two options for completing the final assigment: 
 
-1. 1 long essay(1000–1250words) on one of modules 4–6 (see below);or
+1. 1 long essay(1000–1250words) on one of modules 4–6 (see below); or
 2. Two of the assigned short essays that you did not complete during the semester. If you have completed 7 of the required short essays, you can re-write 2. If you have completed 6, you can re-write 1 and submit whichever you have not attempted.
-	+ **NB:** You cannot re-write a submitted paper if you have completed five or fewer short essay. 
-3. Philosophy majors and minors are encouraged to completed the long essay.
+	+ **NB:** You cannot re-write a submitted paper if you have completed five or fewer short essays. 
+3. Philosophy majors and minors are encouraged to complete the long essay.
 
 ## Long Essay 2
 
@@ -31,8 +31,7 @@ You should devote significant time to researching your topic. Start early. Ask t
 
 **Prompt 1:** ## Introduction
 
-Why does the existence of higher spatial dimensions pose a threat to Internalism with respect to incongruent counterparts? 
-
+Explain as forcefully as you can why the existence of higher-spatial dimensions poses a threat to Kant's argument for Absolute Space. What is the best response available to Kant? Does this response succeed? Give reasons for your answer. 
 
  
 ---
