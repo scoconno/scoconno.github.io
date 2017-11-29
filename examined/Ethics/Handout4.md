@@ -7,7 +7,7 @@ title: Virtue Ethics
 
 
 
-![alt text](/Teaching/Examined/Ethics/Slide1.jpg)
+![alt text](Slide1.jpg)
 
 
 The first two theories we have discussed are action orientated. Each agrees that the morality of an action in no way depends on the character of the actor. On these views, being a good person is irrelevant to the morality of your action. Virtue ethics is a radically different view:

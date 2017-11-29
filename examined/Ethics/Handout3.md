@@ -7,7 +7,7 @@ title: Deontology
 ## Deontology
 
 
-![alt text](/Teaching/Examined/Ethics/Slide1.jpg)
+![alt text](Slide1.jpg)
 
 Recall again our diagram. The consequentialist, we have seen, claims that the effects, and only the effects, are relevant in determining the morality of our actions. They deny that any facts about the person are relevant. On the one hand, Deontologist agree that the morality of our actions has nothing to with the intentions, beliefs, conscience of the actor. But they also deny that effects have anything to do with the morality of our actions. They protest that consequentialism ignores a core feature of morality; we have a duty to do the right thing and a responsibility to avoid the wrong thing regardless of the consequences. Actions, on this view, are right or wrong independently of their effects, production of happiness, people's aims, or their desires and feelings. 
 

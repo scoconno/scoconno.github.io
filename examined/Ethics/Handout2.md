@@ -8,7 +8,7 @@ title: Consequentialism
 ## Consequentialism
 
 
-![alt text](/Teaching/Examined/Ethics/Slide1.jpg)
+![alt text](Slide1.jpg)
 
 
 Consequentialists claim that morality depends completely on the effects of our actions. They say that the actor side of the diagram is irrelevant as is the intrinsic nature of their acts. 
