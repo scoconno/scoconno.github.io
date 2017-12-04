@@ -3,7 +3,7 @@ layout: mindweekly
 title: Animal Consciousness
 ---
 
-Congratulations! You have reached the final topic of the course, animal consciousness. This module is structured differently from those that went before. It will occupy us for the next two weeks. Our interest is animal consciousness and our goal will be for each of you to write a convincing that some animal of your choice does have consciousness. 
+Congratulations! You have reached the final topic of the course, animal consciousness. This module is structured differently from those that went before. It will occupy us for the next two weeks. Our interest is animal consciousness and our goal will be for each of you to write a convincing essay that some animal of your choice does have consciousness. 
 
 This will be a fairly independent module. Instead of giving you detailed notes and very specific readings, I am assigning an encyclopedia entry that you will use as a spring board for your own research. I also include a couple of optional readings and several relevant videos (see below). Why this alternative structure? I want you think about what is most characteristic of consciousness, and I want to give you the freedom to focus on an animal of your choice. Of course, I will be available to answer all of your questions along the way. 
 

@@ -1,27 +1,34 @@
 ---
 layout: mindweekly
-title: Essay
+title: Signature Assignment
 ---
   
 
-### Task
+### Introduction
 
-Compare and contrast the Higher Order Perception and Higher Order Thought theories of Consciousness. Which theory seems more plausible to you? Give reasons for your answer. 
+It is a live question what animals, if any, have consciousness, and, if any do, what that consciousness might be like. In your signature assignment for this course, you will put forward as forcefully as you can an argument that some animal of your choice does have consciousness. 
+
+### Task
 
 Your paper must include the following parts:     
 
-1. Explain the Higher Order Perception theory of consciousness in your own words. Use simple examples. 
-2. Explain the Higher Order Thought theory of consciousness in your own words. Use simple examples. 
-3. Identify and explain the central difference between these two theories. 
-4. Conclude by stating which theory seems most plausible. Do this by raising some problem for one of these theories that is not a problem for the other.
-	   
+1. Explain what you take to be most important feature of consciousness, e.g., phenomenal consciousness, or self-consciousness, or the neural correlates of consciousness, etc. These are just a few possibilities. More are discussed [here](https://plato.stanford.edu/entries/consciousness-animal/).   
+2. Explain why, according to you, this is the most important feature of consciousness. 
+3. Identify some animal that you think has this feature of consciousness. Provide ample evidence that this creature does have consciousness in this way. 
+4. Consider one objection to your claim that your chosen creature is conscious in the way described. 
+5. Respond to this objection. 
 
-**NB:** Failure to include any of these parts will result in a loss of points. 
+**Important Notes**
+
+1. Failure to address any of these tasks will result in a loss of points. 
+2. The encyclopedia entry [here](https://plato.stanford.edu/entries/consciousness-animal/) offers an introduction to the topic. Identify 2-3 readings that seem interesting to you and pursue them.  
+3. You will research your chosen animal. You can ask a librarian for help if you are unable to find relevant material. 
+4. Include citations and a full bibliography. Pick your favored citation style. 
 
 
 ### Word Count
 
-Your essay must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
+The body of your essay must be 1000--1250 words long. Essays shorter than 1000 words or longer than 1250 words will lose points. The bibliography, header, etc., does not count towards the word count. 
 
 ### Plagiarism
 
