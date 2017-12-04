@@ -18,7 +18,7 @@ Your paper must include the following parts:
 4. Consider one objection to your claim that your chosen creature is conscious in the way described. 
 5. Respond to this objection. 
 
-**Important Notes**
+### Further Instruction 
 
 1. Failure to address any of these tasks will result in a loss of points. 
 2. The encyclopedia entry [here](https://plato.stanford.edu/entries/consciousness-animal/) offers an introduction to the topic. Identify 2-3 readings that seem interesting to you and pursue them.  
