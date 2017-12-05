@@ -223,5 +223,5 @@ Please have a conversation with a recent winner of the Loebner prize [here](http
 
 **Week 16**
 + **No class**
-+ [Signature Assignment](Applied/essay) due 12/19/17
++ [Signature Assignment](Applied/Essay) due 12/19/17
 
