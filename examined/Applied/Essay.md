@@ -4,7 +4,7 @@ title: Signature Assignmnet
 ---
 
 
-### Introduction 
+## Introduction 
 
 Our course began by investigating the meaning of life. We asked whether our lives have any external value that is not robbed by our inevitable death. Tolstoy was initially depressed at the apparent futility of our lives and considered suicide. The meaning of life then is intimately connected to questions about mortality and death. In this final part of the course, you will be investigating one of the following ethical questions about death (your choice!)
 
@@ -25,7 +25,7 @@ Our course began by investigating the meaning of life. We asked whether our live
 8. Should people have children if they learn that the Earth will be unable to support life in the very near future, either due to a changing climate, or a meteor, etc? 
 
 
-### Task 
+## Task 
 The questions listed above are all hot topics in the United States. To answer your question, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that society. To complete the assignment, you will do the following three things: 
 
 Task 1:  
@@ -39,18 +39,18 @@ Task 3:
 
 
 
-### Word Count
+## Word Count
 750--1500 words. Essays shorter than 750 words or longer than 150 words will lose points. 
 
 
 
-### Plagiarism
+## Plagiarism
 
 Please review the plagiarism policy on the syllabus. It is critical that you prepare your assignment by yourself. Use only the textbook and handouts---it will take you less time to work through these materials than to find and read other sources. I will be checking for significant overlaps between submission as well as checking answers against Wikipedia, internet search results, standard essay sites, etc. If you include material in your essay without citing it, you will receive 0 for the assignment. A second violation will result in a 0 for the course, a report to the Dean, and a petition for a note to be added to your permanent academic record. 
 
 
 
-### Late Submissions
+## Late Submissions
 
 Per the policies outlined in the syllabus, late work will not be accepted. As the policies also state, there are no make-ups or extra credit opportunities. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or commitments, then you should start this paper early and submit it early. 
 
