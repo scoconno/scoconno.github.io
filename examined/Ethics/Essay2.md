@@ -39,11 +39,3 @@ Per the policies outlined in the syllabus, late work will not be accepted. Any r
 
 Please review the plagiarism policy on the syllabus. It is critical that you prepare your assignment by yourself. Use only the textbook and handouts---it will take you less time to work through these materials than to find and read other sources. I will be checking for significant overlaps between submission as well as checking answers against Wikipedia, internet search results, standard essay sites, etc. If you include material in your essay without citing it, you will receive 0 for the assignment. A second violation will result in a 0 for the course, a report to the Dean, and a petition for a note to be added to your permanent academic record. 
 
-## Format
-Please submit the file as a Microsoft Word file through Blackboard.
-
-## Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
-
-## Resources
-Please find links to writing resources [here](/Teaching/Resources/)
