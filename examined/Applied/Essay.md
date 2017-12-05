@@ -1,13 +1,8 @@
 ---
 layout: default
-title: Project
+title: Signature Assignmnet
 ---
 
-## Signature Assignment (Final Project)
-
-### Special Submission Instruction
-+ Presentation slides must be submitted through **Blackboard**.
-+ The full paper must be submitted through NJCU's Tk20 site to earn a final grade. Details are here: [http://www.njcu.edu/general-education/signature-assignment-information-students](http://www.njcu.edu/general-education/signature-assignment-information-students) 
 
 ### Introduction 
 
@@ -29,33 +24,23 @@ Our course began by investigating the meaning of life. We asked whether our live
 
 8. Should people have children if they learn that the Earth will be unable to support life in the very near future, either due to a changing climate, or a meteor, etc? 
 
-9. Alternative student question approved by the instructor over Blackboard by April 24th.  
 
 ### Task 
 The questions listed above are all hot topics in the United States. To answer your question, you need to think both about the effects your issue has on society as a whole as well as the effect it has on individuals within that society. To complete the assignment, you will do the following three things: 
 
 Task 1:  
-: After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life costs and benefits to that person, their friends, and their families. What would the benefits and costs have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (600–800 words)
+: After researching articles at www.nj.com, identify some specific individual who has been affected by your chosen issue. Detail the real life costs and benefits to that person, their friends, and their families. What would the benefits and costs have been if the event had not occurred? Back up your answer with evidence from the newspaper articles. (250-–500 words)
 
 Task 2:
-: After researching articles at www.nj.com from the last 5 years, outline the major costs and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major costs and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (600–800 words)
+: After researching articles at www.nj.com from the last 5 years, outline the major costs and benefits of the current policy governing your chosen issue for society as a whole. What are the likely major costs and benefits for society as a whole if the  policy is changed? Provide full citations to the newspaper articles. (250–-500 words)
 
 Task 3:
-: Given the information that you presented in the first two parts of your paper, state your answer to your chosen question and explain how the information from the first two parts of the paper influenced your answer. (400–600 words)
-
-### Presentation
-Each of you will give an in class presentation on your chosen topic before the final submission of the paper. Each presentation must include four slides as follows: 
-+ Slide 1: introduce your question. Define any relevant terms in the question and say a little about why it is interest. 
-+ Slide 2: summary of task 1. 
-+ Slide 3: summary of task 2. 
-+ Slide 4: summary of task 3. 
-
-**NB:** Don't fill your slides with text. Pictures, graphs, a few bullet points are much easier to follow. The slides will then be used to structure your presentation. 
-
-### Grade Breakdown
+: Given the information that you presented in the first two parts of your paper, state your answer to your chosen question and explain how the information from the first two parts of the paper influenced your answer. (250–-500 words)
 
 
-This paper is worth 20 points towards your final grade. 5 points will be awarded towards the presentation and 15 points toward the final draft. 
+
+### Word Count
+750--1500 words. Essays shorter than 750 words or longer than 150 words will lose points. 
 
 
 
@@ -69,12 +54,5 @@ Please review the plagiarism policy on the syllabus. It is critical that you pre
 
 Per the policies outlined in the syllabus, late work will not be accepted. As the policies also state, there are no make-ups or extra credit opportunities. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or commitments, then you should start this paper early and submit it early. 
 
-### Format
-Please submit the file as either a word file or simple .rtf file will also suffice.
 
-### Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
-
-### Resources
-Please find links to writing resources [here](/Teaching/Resources/)
 
