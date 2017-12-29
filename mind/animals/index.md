@@ -10,7 +10,7 @@ This will be a fairly independent module. Instead of giving you detailed notes a
 You will complete this module by doing two things: 
 
 1. Complete the quiz on the one assigned encyclopedia entry by Mon, 12/11. 
-2. Complete the signature assignment by Mon, 12/11. Find details [here](sig).
+2. Complete the signature assignment by Mon, 12/18. Find details [here](sig).
 
 
 ### Reading
