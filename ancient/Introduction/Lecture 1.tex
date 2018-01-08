@@ -1,28 +1,26 @@
-\documentclass[10 pt]{article}
+\documentclass[oneside]{article}
+\usepackage{graphicx}
+\usepackage[final]{pdfpages}
 
-\usepackage{fontspec}
-\defaultfontfeatures{Mapping=tex-text}
-\setmainfont{Minion Pro}
-
-%\usepackage{graphicx}
-%\usepackage{fullpage}
-\usepackage{pdfpages}
-\usepackage{lastpage, fancyhdr}
-\pagestyle{fancy}
-\lhead{Scott O'Connor}
-\chead{Phil 234} 
-\rhead{\emph{Overview}}
-\lfoot{}
-\cfoot{\thepage\space of \pageref{LastPage}} 
-\rfoot{}
-
-\thispagestyle{empty}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Ancient Philosophy}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Overview}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+ \usepackage{longtable,booktabs}
+\tolerance=700
 
 
 \begin{document}
-\author{Phil 234}
-\title{Overview}
-\maketitle
+
 \section*{Chronology of Major Historical Events}
 \begin{itemize}
 \item{c. 12th Century BCE: Trojan War, North Turkey,  semi-mythical, the last year is recounted in Homer's \emph{Iliad}}

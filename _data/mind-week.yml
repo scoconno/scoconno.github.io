@@ -1,58 +1,58 @@
 - title: Week 1. Introduction
   folder: introduction
-  content: "09/04"
+  content: "1/16"
   
 - title: Week 2. Personal Identity 1
   folder: personal
-  content: "09/11"
+  content: "1/22"
 
 - title: Week 3. Personal Identity 2
   folder: personal2
-  content: "09/18"
+  content: "1/29"
 
 - title: Week 4. Substance Dualism
   folder: dualism
-  content: "09/25"
+  content: "2/5"
 
 - title: Week 5. Behaviorism
   folder: behaviorism
-  content: "10/02"
+  content: "2/12"
 
 - title: Week 6. Mind as Brain
   folder: identity
-  content: "10/09"
-  
-- title: Week 7. Physicalism 1
-  folder: physicalism
-  content: "10/16"
-  
-- title: Week 8. Physicalism 2
-  folder: physicalism2
-  content: "10/23"
-  
-- title: Week 9. Mental Causation
+  content: "2/19"
+
+- title: Week 7. Mental Causation
   folder: causation
-  content: "10/30"
+  content: "2/26"  
   
-- title: Week 10. Mind as Computer 1
+ - title: Week 8. Mind as Computer 1
   folder: functionalism
-  content: "11/6"
+  content: "3/12"
   
-- title: Week 11. Mind as Computer 2
+- title: Week 9. Mind as Computer 2
   folder: functionalism2
-  content: "11/13"
+  content: "3/19" 
+  
+- title: Week 10. Physicalism 1
+  folder: physicalism
+  content: "3/26"
+  
+- title: Week 11. Physicalism 2
+  folder: physicalism2
+  content: "4/2"
   
 - title: Week 12. Consciousness 1
   folder: consciousness
-  content: "11/20"
+  content: "4/9"
   
 - title: Week 13. Consciousness 2
   folder: consciousness2
-  content: "11/27"
- 
-- title: Week 14. Animal Consciousness
-  folder: animals
-  content: "12/04"
+  content: "4/16"
+
+#- title: Week 14. Animal Consciousness
+#  folder: animals
+#  content: "12/04"
   
 #- title: Week 15. Animal Consciousness
 #  folder: physicalism
