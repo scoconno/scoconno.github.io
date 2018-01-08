@@ -1,0 +1,79 @@
+\documentclass[]{article}
+
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={Short Essay 2},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\title{Short Essay 2}
+\date{}
+
+\begin{document}
+\maketitle
+
+\subsection{Short Essay 2}\label{short-essay-2}
+
+\subsubsection{Prompt}\label{prompt}
+
+In the \emph{Apology}, Socrates defends himself against a number of
+charges. Clearly outline these charges, then discuss, in detail, how he
+defends himself against \emph{one} of them.
+
+\subsubsection{Further Instruction}\label{further-instruction}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Submit your answer as a MS Word file through the relevant link on
+  Blackboard.
+\item
+  Please write 250-500 words. No more. No less.
+\item
+  Make sure to complete both parts of this assignment. One part should
+  explain the charges against Socrates. The second should explain
+  Socrates' defense against one and only one of these charges.
+\item
+  Submit your responses by Mon. @ 1pm.
+\end{itemize}
+
+\end{document}
