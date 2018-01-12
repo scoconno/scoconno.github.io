@@ -3,7 +3,6 @@ layout: default
 title: Ancient
 ---
 
-## Phil 234: Ancient Philosophy 
 
 ### Introduction
 
@@ -20,23 +19,13 @@ Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find 
 + [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
 + [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
 
-### Assignments
-All assignments are due through Blackboard. See the links in the 'assignment' pages for the Blackboard site for this course. Those links include information on when the assignments are due. You can also find the dates on the [syllabus](Syllabus.pdf). Recall that you must complete 3 out of 5 short essays, and 2 out of 3 long essays. 
 
-+ [Short Essay 1](/Teaching/Ancient/Assignments/Short1) 
-+ [Short Essay 2](/Teaching/Ancient/Assignments/Short2) 
-+ [Long Essay 1](/Teaching/Ancient/Assignments/Long1)
-+ [Short Essay 3](/Teaching/Ancient/Assignments/Short3)
-+ [Short Essay 4](/Teaching/Ancient/Assignments/Short4)
-+ [Long Essay 2](/Teaching/Ancient/Assignments/Long2)
-+ [Short Essay 5](/Teaching/Ancient/Assignments/Short5)
-+ [Long Essay 3](/Teaching/Ancient/Assignments/Long3)
  
 
 
 ### Additional Reading
 
-+ [*The Republic*](Republic.pdf)
+
 + [*Euthyphro* ](http://classics.mit.edu/Plato/euthyfro.html) for week 2. If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
 
 ### Handouts
@@ -50,8 +39,13 @@ All assignments are due through Blackboard. See the links in the 'assignment' pa
 
 ### Greek Links ##
 
++ [A movie about Socrates.](https://www.youtube.com/watch?v=SY-mgZbuxBA) Hit the 'cc' button for subtitles. 
++ [The trial of Socrates](https://www.youtube.com/watch?v=380KSdkV6zY)
 + [A nice documentary on Ancient Greece](https://www.youtube.com/watch?v=-dwWocwd160)
-+ [An interactive site](http://www.ancientgreece.co.uk/)
++ [Another nice documentary about Greece](https://www.youtube.com/watch?v=g2z3RXyt0u0)
++ [An interactive site about Greece](http://www.ancientgreece.co.uk/)
 + [An interactive version of Raphael's *School of Athens*](http://agutie.homestead.com/files/school_athens_map.html)
 + [The Acropolis reconstructed](https://www.youtube.com/watch?v=DMccsbWFAok)
++ [Sophocles' *Antigone*](https://www.youtube.com/watch?v=8bSnnufOx80&list=PLjAYlUiAhOZ5xJhxtxojqCKFnZs5-lzCh)
++ [A documentary about Aristotle](https://www.youtube.com/watch?v=JN8ortM4M3o)
 
