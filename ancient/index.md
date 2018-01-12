@@ -4,7 +4,6 @@ title: Ancient Philosophy
 ---
 
 
- 
 
 
 ## Course Information
@@ -26,7 +25,7 @@ Week 1: Introduction
 + [Notes](Introduction/Lecture 1.pdf)
 
 Week 2: The *Euthyphro*
-+ [*Euthyphro* ](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
++ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
 + [Notes](Notes/Euthyphro/Lecture4.pdf)
 
 
