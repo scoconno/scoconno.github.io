@@ -13,14 +13,14 @@ While you are my student, the appropriate way to address me is as Dr. O'Connor. 
 
 ## Mechanics
 
-There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. One exception is the final week, which will become live a few days earlier. In the module for each week, there will be two links:  
+There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. One exception is the final week, which will become live earlier. In the module for each week, there are two links:  
 
 1. Materials
 2. Essay or Quiz  
 
-The materials link will take you to a dedicated page for the link. You will find extensive notes, which you should read thoroughly. I also include readings not in the textbook. Since some of the material is tricky, I try to include some combination of short stories, videos, and podcasts. I recommend the following work schedule for each week: 
+The materials link will take you to a dedicated page for the week's topic. It contains extensive notes, which you should read thoroughly. I also include readings not in the textbook. Since some of the material is tricky, I try to include some combination of short stories, videos, and podcasts. I recommend the following work schedule for each week: 
 
-1. Read the assigned pages from the textbook (or the relevant papers). On this first read, skim and get the basic idea. Don't stress if you struggle to understand the material on this first. 
+1. Read the assigned pages from the textbook (or the relevant papers). On this first read, skim and get the basic idea. Don't stress if you struggle to understand the material on this first read. 
 2. Read my notes. 
 3. Read the short stories, watch the videos, listen to the podcasts (whatever I have assigned). 
 4. Re-read the assigned pages for the week. This time read them carefully and take detailed notes. 
@@ -33,7 +33,7 @@ The materials link will take you to a dedicated page for the link. You will find
 Please find details about the textbook on the syllabus. I will photocopy some readings for weeks 1 and 2, but you will need the textbook from week 3 onwards. The book is available online and in the campus bookstore. The textbook I chose is a compromise between quality and price. Some others are easier, but much more expensive. This means that some of the chapters in this textbook are less accessible than I would like. I will remedy this by providing supplemental reading and videos on the website. 
 
 ## Late work and extra credit
-Students sometimes ask to submit work late or ask for a make-up opportunity. I used to receive many of these requests and found it difficult to adjudicate them. I also want to treat my students equally and am frustrated by students who expect special treatment. But, students do get sick. Life does get in the way. So, here is what I do instead of accepting late work and offering extra credit: I assign more essays and quizzes than are needed to complete the course. There is an assignment every week, either a quiz or essay. You don't have to do all of them. Check the syllabus for full details. So, if you miss an assignment, then just complete the following week's work. You can afford to do this a few times. Again, check the syllabus. 
+Students sometimes ask to submit work late or ask for a make-up opportunity. I used to receive many of these requests and found it difficult to adjudicate them. I also want to treat my students equally and am frustrated by students who expect special treatment. But, students do get sick. Life does get in the way. So, here is what I do instead of accepting late work and offering make-ups: I assign more essays and quizzes than are needed to complete the course. There is an assignment every week, either a quiz or essay. You don't have to do all of them. Check the syllabus for full details. So, if you miss an assignment, then just complete the following week's work. You can afford to do this a few times. Again, check the syllabus. 
 
  If you are still unable to complete the required number of assignments due to illness, personal problems, etc, then you should withdraw from the course. NJCU also offers medical withdrawals for students who miss the ordinary withdrawal dates. So, moral of the story: I will teach you the material and help you complete the assignments, but I will not entertain requests for extra credit or accept late work. Please don't ask. 
 
