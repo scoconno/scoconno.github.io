@@ -1,57 +1,35 @@
 ---
-layout: default
-title: Ancient
+layout: course
+title: Ancient Philosophy
 ---
 
-## Phil 234: Ancient Philosophy 
-
-### Introduction
-
-Welcome to the course website for *A Survey of Ancient Philosophy*. You'll find here the syllabus, links, announcements, and occasional notes. For now, please make yourself familiar with this site, purchase/rent the textbook, and take a look at the syllabus.  
 
 
 
-### Course Information
-+ [Syllabus](Syllabus.pdf)
-+ [Grading Information](/Teaching/Grading/)
-+ [Resources](/Teaching/Resources/)
-+ [Contact Information](/Contact)
-+ [Office Hours](/Contact/Office)
-+ [Blackboard](http://blackboard.njcu.edu) (for submitting assignments)
-+ [Academic Skills Workshop](http://www.njcu.edu/counselingcenter/academic-skills-workshops/)
+## Course Information
 
-### Assignments
-All assignments are due through Blackboard. See the links in the 'assignment' pages for the Blackboard site for this course. Those links include information on when the assignments are due. You can also find the dates on the [syllabus](Syllabus.pdf). Recall that you must complete 3 out of 5 short essays, and 2 out of 3 long essays. 
+Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360 for the honors program and PHIL 234 for the philosophy department. The two sections overlap, but differ significantly. Please click on the syllabus for the section for which you are enrolled: 
 
-+ [Short Essay 1](/Teaching/Ancient/Assignments/Short1) 
-+ [Short Essay 2](/Teaching/Ancient/Assignments/Short2) 
-+ [Long Essay 1](/Teaching/Ancient/Assignments/Long1)
-+ [Short Essay 3](/Teaching/Ancient/Assignments/Short3)
-+ [Short Essay 4](/Teaching/Ancient/Assignments/Short4)
-+ [Long Essay 2](/Teaching/Ancient/Assignments/Long2)
-+ [Short Essay 5](/Teaching/Ancient/Assignments/Short5)
-+ [Long Essay 3](/Teaching/Ancient/Assignments/Long3)
- 
-
-
-### Additional Reading
-
-+ [*The Republic*](Republic.pdf)
-+ [*Euthyphro* ](http://classics.mit.edu/Plato/euthyfro.html) for week 2. If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
-
-### Handouts
-
-+ [Week 1: Introduction](Notes/Introduction/Lecture 1.pdf)
-+ [Week 2: *Euthyphro*](Notes/Euthyphro/Lecture4.pdf)
-+ [Week 3: *Meno*](Notes/Meno/Meno.pdf)
-+ [Week 4: *Apology*](Notes/Apology/Lecture5.pdf)
++ [HON 360 Syllabus](Syllabus.pdf)
++ [PHIL 234 Syllabus](SyllabusM.pdf)
++ [Ancient Philosophy Resources](resources)
++ [How to answer Gobbets](Guide.pdf)
 
 
 
-### Greek Links ##
+## Additional materials and notes
 
-+ [A nice documentary on Ancient Greece](https://www.youtube.com/watch?v=-dwWocwd160)
-+ [An interactive site](http://www.ancientgreece.co.uk/)
-+ [An interactive version of Raphael's *School of Athens*](http://agutie.homestead.com/files/school_athens_map.html)
-+ [The Acropolis reconstructed](https://www.youtube.com/watch?v=DMccsbWFAok)
+The syllabus details our schedule of readings from the course texts. I include here additional readings that you might find useful, occassional videos & podcasts, and notes. I normally post the notes only after the deadline for the reading questions/gobbets has passed. 
+
+Week 1: Introduction
++ [Notes](Introduction/Lecture 1.pdf)
+
+Week 2: The *Euthyphro*
++ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
++ [Notes](Notes/Euthyphro/Lecture4.pdf)
+
+
+
+
+
 
