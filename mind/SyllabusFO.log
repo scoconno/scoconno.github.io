@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  8 JAN 2018 13:17
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  15 JAN 2018 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1493,7 +1493,7 @@ LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
 (Font)              scaled to size 6.40002pt on input line 60.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 10.68604pt on input line 71.
+(Font)              scaled to size 10.68604pt on input line 72.
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1502,51 +1502,51 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 98.
+(Font)              <7> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 98.
+(Font)              <5> on input line 103.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
-(Font)              scaled to size 9.84024pt on input line 98.
+(Font)              scaled to size 9.84024pt on input line 103.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 110.
+(Font)              scaled to size 9.84024pt on input line 109.
  [2]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 143.
-
-Overfull \hbox (16.33888pt too wide) in paragraph at lines 152--153
+(Font)              scaled to size 9.84024pt on input line 148.
+ [3]
+Overfull \hbox (16.33888pt too wide) in paragraph at lines 157--158
 \TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
 ]http://scottoconnor.org/contact/[][]. 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-[4]
+[5]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 196.
+(Font)              scaled to size 8.85622pt on input line 201.
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--228
+Underfull \hbox (badness 10000) in paragraph at lines 233--233
 []|\TU/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 194--228
+Overfull \hbox (50.65942pt too wide) in alignment at lines 199--233
  [] [] [] 
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 228--259
+Overfull \hbox (50.65942pt too wide) in alignment at lines 233--264
  [] [] [] 
  []
 
-[5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+[6] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
  (./SyllabusFO.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 275.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 275.
 Package logreq Info: Writing requests to 'SyllabusFO.run.xml'.
 \openout1 = `SyllabusFO.run.xml'.
 
@@ -1560,4 +1560,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  50i,11n,117p,10376b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SyllabusFO.pdf (6 pages).
+Output written on SyllabusFO.pdf (7 pages).
