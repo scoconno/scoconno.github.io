@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  15 JAN 2018 15:16
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  15 JAN 2018 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1523,30 +1523,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-[5]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 201.
+(Font)              scaled to size 8.85622pt on input line 200.
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--233
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 199--233
+Overfull \hbox (50.65942pt too wide) in alignment at lines 198--232
  [] [] [] 
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 233--264
+Overfull \hbox (50.65942pt too wide) in alignment at lines 232--263
  [] [] [] 
  []
 
-[6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
+[5] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 274.
  (./SyllabusFO.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 275.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 275.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
 Package logreq Info: Writing requests to 'SyllabusFO.run.xml'.
 \openout1 = `SyllabusFO.run.xml'.
 
@@ -1554,10 +1553,10 @@ Package logreq Info: Writing requests to 'SyllabusFO.run.xml'.
 Here is how much of TeX's memory you used:
  32778 strings out of 493005
  585203 string characters out of 6134596
- 1263140 words of memory out of 5000000
+ 1265140 words of memory out of 5000000
  36512 multiletter control sequences out of 15000+600000
  4633 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  50i,11n,117p,10376b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SyllabusFO.pdf (7 pages).
+Output written on SyllabusFO.pdf (6 pages).
