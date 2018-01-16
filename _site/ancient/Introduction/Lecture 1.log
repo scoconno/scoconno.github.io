@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  3 JAN 2018 14:14
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  15 JAN 2018 22:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -40,18 +40,11 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: xetex.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count87
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -64,15 +57,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count88
-\calc@Bcount=\count89
+\calc@Acount=\count87
+\calc@Bcount=\count88
 \calc@Adimen=\dimen105
 \calc@Bdimen=\dimen106
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count90
+\calc@Ccount=\count89
 \calc@Cskip=\skip45
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/eso-pic/eso-pic.sty
@@ -81,6 +74,12 @@ Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 ))
@@ -90,9 +89,8 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -104,13 +102,13 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 \AM@pagewidth=\dimen107
 \AM@pageheight=\dimen108
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2017/01/14 v0.5h Pdfpages driver for pdfTeX (AM)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2017/01/14 v0.5h Pdfpages driver for XeTeX (AM)
 )
 \AM@pagebox=\box26
 \AM@global@opts=\toks15
 \AM@toc@title=\toks16
-\c@AM@survey=\count91
+\c@AM@survey=\count90
 \AM@templatesizebox=\box27
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/mdwtools/mdwlist.sty
@@ -122,6 +120,11 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
@@ -141,16 +144,16 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTright=\skip56
 \LTpre=\skip57
 \LTpost=\skip58
-\LTchunksize=\count92
+\LTchunksize=\count91
 \LTcapwidth=\dimen109
 \LT@head=\box28
 \LT@firsthead=\box29
 \LT@foot=\box30
 \LT@lastfoot=\box31
-\LT@cols=\count93
-\LT@rows=\count94
-\c@LT@tables=\count95
-\c@LT@chunks=\count96
+\LT@cols=\count92
+\LT@rows=\count93
+\c@LT@tables=\count94
+\c@LT@chunks=\count95
 \LT@p@ftn=\toks17
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -165,12 +168,12 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \cmidrulesep=\dimen117
 \cmidrulekern=\dimen118
 \defaultaddspace=\dimen119
-\@cmidla=\count97
-\@cmidlb=\count98
+\@cmidla=\count96
+\@cmidlb=\count97
 \@aboverulesep=\dimen120
 \@belowrulesep=\dimen121
-\@thisruleclass=\count99
-\@lastruleclass=\count100
+\@thisruleclass=\count98
+\@lastruleclass=\count99
 \@thisrulewidth=\dimen122
 )
 (./Lecture 1.aux)
@@ -184,6 +187,8 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
@@ -191,78 +196,20 @@ LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Try loading font information for T1+ppl on input line 22.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
-) (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count101
-\scratchdimen=\dimen123
-\scratchbox=\box32
-\nofMPsegments=\count102
-\nofMParguments=\count103
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count104
-\MPscratchDim=\dimen124
-\MPnumerator=\count105
-\makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks19
-) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-\AtBeginShipoutBox=\box33
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+\AtBeginShipoutBox=\box32
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-
 (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-))
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 99.
+
+)
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 24.
 LaTeX Font Info:    Try loading font information for OMS+ppl on input line 26.
@@ -282,116 +229,61 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
 (Font)              Font shape `T1/ppl/b/sc' tried instead on input line 51.
- [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1
 
 ]
-Overfull \hbox (2.38705pt too wide) in paragraph at lines 65--65
+Overfull \hbox (2.387pt too wide) in paragraph at lines 65--65
 []\T1/ppl/m/n/10 Plato: 428/27--348 BCE (``stu-dent'' of Socrates; founded the 
 Academy
  []
 
 [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 90.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 90.
- <apha.png, id=13, 440.64626pt x 495.8525pt>
-File: apha.png Graphic file (type png)
- <use apha.png>
-Package pdftex.def Info: apha.png used on input line 98.
-(pdftex.def)             Requested size: 440.64517pt x 495.85129pt.
-
-Overfull \hbox (95.64517pt too wide) in paragraph at lines 98--99
+File: apha.png Graphic file (type QTm)
+ <use  "apha.png" >
+Overfull \hbox (95.64516pt too wide) in paragraph at lines 98--99
 [] 
  []
 
-<text.pdf, id=14, 614.295pt x 794.97pt>
-File: text.pdf Graphic file (type pdf)
- <use text.pdf>
-Package pdftex.def Info: text.pdf used on input line 100.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: text.pdf Graphic file (type pdf)
- <use text.pdf>
-Package pdftex.def Info: text.pdf used on input line 100.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: text.pdf Graphic file (type QTm)
+<use  "text.pdf" >
+File: text.pdf Graphic file (type QTm)
+ <use  "text.pdf" >
+File: text.pdf Graphic file (type QTm)
+ <use  "text.pdf"  page1>
+File: text.pdf Graphic file (type QTm)
 
-<text.pdf, id=17, page=1, 614.295pt x 794.97pt>
-File: text.pdf Graphic file (type pdf)
- <use text.pdf, page 1>
-Package pdftex.def Info: text.pdf, page1 used on input line 100.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: text.pdf Graphic file (type pdf)
+<use  "text.pdf"  page1> [3] [4]
+File: text.pdf Graphic file (type QTm)
+ <use  "text.pdf"  page1>
+File: text.pdf Graphic file (type QTm)
 
-<use text.pdf, page 1>
-Package pdftex.def Info: text.pdf, page1 used on input line 100.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [3] [4 <./apha.png>]
-File: text.pdf Graphic file (type pdf)
- <use text.pdf, page 1>
-Package pdftex.def Info: text.pdf, page1 used on input line 100.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: text.pdf Graphic file (type pdf)
+<use  "text.pdf"  page1>
+File: text.pdf Graphic file (type QTm)
+ <use  "text.pdf"  page1> [5]
+File: map.pdf Graphic file (type QTm)
+ <use  "map.pdf" >
+File: map.pdf Graphic file (type QTm)
 
-<use text.pdf, page 1>
-Package pdftex.def Info: text.pdf, page1 used on input line 100.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: text.pdf Graphic file (type pdf)
- <use text.pdf, page 1>
-Package pdftex.def Info: text.pdf, page1 used on input line 100.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [5 <./text.pdf>]
-<map.pdf, id=42, 614.295pt x 794.97pt>
-File: map.pdf Graphic file (type pdf)
- <use map.pdf>
-Package pdftex.def Info: map.pdf used on input line 107.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: map.pdf Graphic file (type pdf)
- <use map.pdf>
-Package pdftex.def Info: map.pdf used on input line 107.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<use  "map.pdf" >
+File: map.pdf Graphic file (type QTm)
+ <use  "map.pdf"  page1>
+File: map.pdf Graphic file (type QTm)
+ <use  "map.pdf"  page1>
+File: map.pdf Graphic file (type QTm)
 
-<map.pdf, id=45, page=1, 614.295pt x 794.97pt>
-File: map.pdf Graphic file (type pdf)
- <use map.pdf, page 1>
-Package pdftex.def Info: map.pdf, page1 used on input line 107.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: map.pdf Graphic file (type pdf)
-
-<use map.pdf, page 1>
-Package pdftex.def Info: map.pdf, page1 used on input line 107.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: map.pdf Graphic file (type pdf)
- <use map.pdf, page 1>
-Package pdftex.def Info: map.pdf, page1 used on input line 107.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: map.pdf Graphic file (type pdf)
- <use map.pdf, page 1>
-Package pdftex.def Info: map.pdf, page1 used on input line 107.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
-File: map.pdf Graphic file (type pdf)
-
-<use map.pdf, page 1>
-Package pdftex.def Info: map.pdf, page1 used on input line 107.
-(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [6 <./map.pdf>] (./Lecture 1.aux) ) 
+<use  "map.pdf"  page1>
+File: map.pdf Graphic file (type QTm)
+ <use  "map.pdf"  page1>
+File: map.pdf Graphic file (type QTm)
+ <use  "map.pdf"  page1>
+[6] (./Lecture 1.aux) ) 
 Here is how much of TeX's memory you used:
- 3399 strings out of 492995
- 47116 string characters out of 6132704
- 115964 words of memory out of 5000000
- 6887 multiletter control sequences out of 15000+600000
- 21461 words of font info for 35 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 39i,18n,43p,346b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/e
-nc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/
-uplb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.
-pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "Lecture 1.pdf" (6 pages, 215274 bytes).
-PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2711 strings out of 493005
+ 36504 string characters out of 6134596
+ 105707 words of memory out of 5000000
+ 6655 multiletter control sequences out of 15000+600000
+ 18036 words of font info for 27 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 37i,18n,43p,521b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on Lecture 1.pdf (6 pages).
