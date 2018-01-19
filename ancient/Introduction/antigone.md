@@ -12,9 +12,3 @@ Nearly half a century later, in 399 BC, Socrates was put to death for following 
 
 
 
-Greeko Russian War
-- battle of marathon, 26 miles. He runs and shouts 'nike', which means victory. 
-
--431 to 404 BCE = pelopennesia war. Athens wants control over the area. 
-
-Pelopennesia war
