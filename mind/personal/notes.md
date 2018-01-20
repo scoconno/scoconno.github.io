@@ -5,19 +5,19 @@ title: Notes
 
 ## Introduction
 
-Compare a picture of you taken yesterday to a picture taken of you as a baby. Are the people depicted in the photographs the same person? They certainly seem different. One is a small baby, just a few pounds in weight. The person from yesterday is heavier, taller, etc. That person can also think, read, and do all the things that adults can do but babies cannot.  But, while they appear different, they also seem the same in some deeper way, e.g., the person who is the mother to that baby is also the mother to that adult. So, are they the same person? 
+Compare a picture of you taken yesterday to a picture taken of you as a baby. Are the people depicted in the photographs the same person? They certainly seem different. One is a small baby, just a few pounds in weight. The other is heavier, taller, able to think, read, and do all the things that adults can do but babies cannot.  But, while they appear different, they are, somehow, the same person. The person who is the mother to that baby is also the mother to that adult. Our first topic concerns how this might be so; how could that adult be identical to that baby?  
 
 English can mislead us when trying to answer questions about identity. The words 'identity', 'identical', 'similar', and 'same' are ambiguous; they can be used to describe different relations. And whenever a word can be used in several ways, we need to disambiguate those uses to answer questions that contain them. For instance, if a person told you that they left their car near the bank, they could mean they left it near the money bank or the river bank. It's obviously important to identify which one they mean. 
 
-'Same' (and our other words) can also be used in different ways. On the one hand, it can be used to speak about *qualitative similarity*. Qualitative similarity is something that distinct objects enjoy by sharing similar features. For instance, two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger bread men made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But these are *two* cookies. You eat two cookies if you eat both of them.
+'Identity' can also be used in different ways. On the one hand, it can be used to speak about *qualitative similarity*. Qualitative similarity is something that distinct objects enjoy by sharing similar features. For instance, two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger bread men made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But these are *two* cookies. You eat two cookies if you eat both of them.
 
 
-We can also words like 'same' and 'identity' to talk about what is called *numerical identity*, the relation that each thing holds to itself and nothing else. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Suppose you know that Superman and Clark Kent were in the room. You would make a mistake if you counted them as two people; there is just one person there. Similarly, if the ginger bread man is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both. 
+'Identity' can also be used to talk about *numerical identity*, the relation that each thing holds to itself and nothing else. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Suppose you know that Superman and Clark Kent are in the room. You would make a mistake if you counted them as two people; there is just one person there. Similarly, if the ginger bread man is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both of them. 
 
-Numerical identity is a relation that has three important features. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
+When characterizing properties and relations, it is important to identify their formal features. Numerical identity has three such features. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
 
 + A relation R is **reflexive** if and only if everything bears R to itself.
-	+ Example 1: everything is the *same height* as itself. The relation of same height is a reflexive relation.
+	+ Example 1: everything is the *same height* as itself. *Same height* is a reflexive relation.
 	+ Example 2: *being shorter than* is not a reflexive relation. Ted cannot be shorter than himself. 
 
 + A relation R is **symmetric** if and only if, if x is related by R to y, then y is related by R to x.
@@ -27,6 +27,8 @@ Numerical identity is a relation that has three important features. It is *refle
  + A relation R is **transitive** if and only if, if x is related by R to y, and y is related by R to z, then x is related by R to z.
 	+ Example 1: if Susan is shorter than Sarah, and Sarah is shorter than Hannah, then Susan is shorter than Hannah. *Shorter than* is a transitive relation.
 	+ Example 2: if John loves Mary and Mary loves Susan, it does not follow that John loves Susan. *Loving someone* is not a transitive relation. 
+
+Numerical identity has all of these features. Each thing is identical to itself, e.g., Susan is identical to herself. And identity is obviously symmetrical: if Superman is identical to Clark Kent, then Clark Kent is identical to Superman. And identity is also a transitive relation: if x = y, and y = z, then x = z. 
 
 Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weights, made of different cells, have different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you; and if that baby is identical to some teenager, then you too are identical to that teenager. 
 
@@ -38,7 +40,7 @@ In order to convince her, they need to prove that there will exist a person afte
 
 ## Puzzling about Identity 
 
-It seems obvious that you are numerically identical to that baby despite the many qualitative differences between you. Why is this puzzling?   In the Star Trek episode assigned this week (see the main page), there is a terrible accident with some futuristic equipment, a transporter device. A transporter works by scanning and de-materializing your body in one spot before re-materializing you at some different spot. But in our episode, the transporter malfunctions. After de-materializing one person, it subsequently re-materializes what appears to be two versions of that person. While a piece of fiction, this example helps illustrate something philosophically interesting (philosophers often use thought experiment to test and refine their theories, raise questions, etc.). Allow '=’ for ‘numerically identical to’ and allow the following names for our various characters in the episode:
+It seems obvious that you are numerically identical to that baby despite the many qualitative differences between you. Why is this puzzling?   In the Star Trek episode assigned this week (see the main page), there is a terrible accident with some futuristic equipment, a transporter device. A transporter works by scanning and de-materializing your body in one spot before re-materializing you at some different spot. But in our episode, the transporter malfunctions. After de-materializing one person, it subsequently re-materializes what appears to be two versions of that person. While a piece of fiction, this example helps illustrate something philosophically interesting (philosophers often use thought experiments to test and refine their theories, raise questions, etc.). Allow '=’ for ‘numerically identical to’ and allow the following names for our various characters in the episode:
 + “Riker” is the person who beams onto the planet 8 years ago.
 + “William” is the person who materialized on Potemkin ship after Riker was de-materialized.
 + “Thomas” is the person who materialized on the planet after Riker was de-materialized.
@@ -112,22 +114,22 @@ So, according to this theory, William is identical to whoever has a soul identic
 
 ![image](rikersoul.jpg)
 
-The success of this view requires that there exist souls. Later in the course, we will discuss a view that the mind is identical to the soul and talk in detail about what souls are meant to be. For now, let us note the following few details about them.  
+The success of this view requires that there exist souls. Later in the course, we will discuss the view that the mind is identical to the soul and talk in detail about what souls are meant to be. For now, let us note the following few details about them.  
 
 First, souls are supposedly *immaterial*. What does this mean? Bodies are extended in three dimensions. They have height, width, etc. In contrast, souls have no extension. Souls have no height or weight. Bodies are also basic bits of matter or composed of basic bits of matter, where bits of matter are governed by all the various laws that we study in physics. In contrast, souls are neither basic bits of matter nor composed of basic bits of matter. Thus, they are immune from all those laws that we study in physics. 
 
 ![image](Slide1.jpg)
 
-Second, souls are supposedly the *seat of consciousness*. What does this mean? For any thought and experience, there is some entity that does the thinking and experiencing. For instance, if a wish for ice-cream occurs on Monday at noon, there must be some entity that is doing the wishing. If souls are the seat of consciousness, then it is souls and not the body that is doing that wishing. The same goes for perceiving, remembering, fearing, etc. The soul is what is properly doing each of these things. 
+Second, souls are supposedly the *seat of consciousness*. What does this mean? For any thought and experience, there is some entity that does the thinking and experiencing. For instance, if a wish for ice-cream occurs on Monday at noon, there must be some entity that is doing that wishing on Monday at noon. If souls are the seat of consciousness, then it is souls and not the body that is doing that wishing. The same goes for perceiving, remembering, fearing, etc. The soul is what is properly doing each of these things. 
 
 The same soul view does seem plausible. Our bodies undergo many changes, but our souls do not. It is more like a passenger in an ever changing vessel. Since the soul is not changing--it cannot get larger, for instance--it seems plausible that sameness of soul is what personal identity consists in. It seems plausible that you are identical to that baby because you and that baby have identical souls. 
 
 The same soul view also allows for the possibility of survival after our bodily death. What is required for such survival is the persistence of our souls, which seems possible given that souls are not themselves material.
 
 ## Objections to the Same Soul View
-We will discuss souls in more detail later in the course and consider arguments for and against their existence. For now, I want to raise some problems for the claim that personal identity consists in sameness of soul; regardless of whether souls exists, there are problems with the claim that our identity is secured by the persistence of our souls. 
+We will discuss souls in more detail later in the course and consider arguments for and against their existence. For now, I want to raise some problems for the claim that personal identity consists in sameness of soul; regardless of whether souls exist, there are problems with the claim that our identity is secured by the persistence of our souls. 
 
-Consider again what the same soul view claims and let's use SSV for short to refer to the view.
+Consider again what the same soul view claims and let's use 'SSV' to refer to the view.
 
 SSV:
 : A person A at one time is identical to a person B at a later time   if and only if the soul of A is identical to the soul of B.
@@ -136,7 +138,7 @@ We are interested in the truth, in finding out which claims are true and which a
 
 Suppose that we know that person A and person B are identical. To test SSV, we could investigate whether the souls of A and B are identical; this would at least provide some evidence for SSV. But how could we ever know that two souls are identical? We cannot use our perceptive capacities. We cannot see, hear, touch, taste, or smell souls. So, it's impossible to use these capacities to determine if the souls of A and B are identical to one another.
 
-Is there any other way to determine if the souls of A and B are identical? Some believe that there is indirect evidence for the view that sameness of soul correlates with sameness of person. Each of us has different sets of personality traits and characteristics. I laugh at puns. You may not. I avoid the sun. You may seek it out. All of our various personal traits, the quirks and characteristics, may correlate with sameness of soul; perhaps we know that soul A is identical to soul B because A and B have the same personality traits. If this were the case, we could test the claim that personal identity consists in sameness of soul. If we know that A and B, persons exhibiting the same personality, are identical, then we are on good grounds for believing that their identity is explained by the identity of their souls. Laid out as an argument, the view says the following: 
+Is there any other way to determine if the souls of A and B are identical? Some believe that there is indirect evidence for the view that sameness of soul correlates with sameness of person. Each of us has different sets of personality traits and characteristics. I laugh at puns. You may not. I avoid the sun. You may seek it out. All of our various personality traits, our quirks and characteristics, may correlate with sameness of soul; perhaps we know that soul A is identical to soul B because A and B have the same personality traits. If this were the case, we could test the claim that personal identity consists in sameness of soul. If we know that A and B, persons exhibiting the same personality, are identical, then we are on good grounds for believing that their identity is explained by the identity of their souls. Laid out as an argument, the view says the following: 
 
 -   P1. Same psychology entails same soul.
 
@@ -153,7 +155,7 @@ Consider a scenario in which a series of souls flow into and out of the same bod
 In this scenario, different souls continually replace one another in the same body. Perhaps the souls are paying visitors interested in seeing out of a material being's eyes. As the souls are exchanged, there is no change in which psychological traits are exemplified; the creature acts, reacts, and speaks in exactly the same way. Since souls can be exchanged without a corresponding change in psychological traits, same psychology does not entail same soul.
 
 
-*...to be continued...*  
+*...to be continued next week...*  
 
 
 
