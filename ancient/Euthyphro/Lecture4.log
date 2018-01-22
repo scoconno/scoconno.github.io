@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  20 JAN 2018 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  22 JAN 2018 15:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -105,33 +105,33 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 25.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 30.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 32.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 32.
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 45.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 49.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 52.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 52.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 52.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 54.
  [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
 
  []
 
@@ -143,14 +143,14 @@ Here is how much of TeX's memory you used:
  4404 multiletter control sequences out of 15000+600000
  23057 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,43p,1092b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,11n,43p,843b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/
 8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/l
 ocal/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Lecture4.pdf (4 pages, 77957 bytes).
+Output written on Lecture4.pdf (4 pages, 77893 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
