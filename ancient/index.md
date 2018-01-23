@@ -30,7 +30,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Notes 1](Euthyphro/Lecture4.pdf)
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
 
-
+**Week 3: *Meno*
++ [Gobbet 1](Meno/gobbet)
 
 
 
