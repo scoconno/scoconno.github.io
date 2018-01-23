@@ -30,8 +30,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Notes 1](Euthyphro/Lecture4.pdf)
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
 
-**Week 3: *Meno*
-+ [Gobbet 1](Meno/gobbet)
+**Week 3: *Meno***
++ [Gobbet 1:](Meno/gobbet) See last week's link for an example and [here](Guide.pdf) for a guide. Expect to spend up to **6 hours per week** completing the reading and gobbets. 
 
 
 
