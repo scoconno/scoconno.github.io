@@ -1,6 +1,6 @@
 ---
 layout: ancientweekly
-title: Gobbet 1
+title: Gobbet 2
 ---
 
 "Either I do not corrupt the young or, if I do, it is unwillingly,"
