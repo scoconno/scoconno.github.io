@@ -52,7 +52,7 @@ Suppose, now, we ask, "Why do the gods love X?''. There are two possible answers
 
 ## Conclusion 
 
-S has shown that pious # to be loved by the gods. At best, these two strictly correlate with one another. But don't get too bogged down in this specific argument; perhaps you are unsure how exactly S argues that pious # to be loved by the gods. The general point you want to take away from this week is that S believes an adequate definition of X must satisfies three conditions: 
+S has shown that pious # to be loved by the gods. At best, these two strictly correlate with one another. But don't get too bogged down in this specific argument; perhaps you are unsure how exactly S argues that pious # to be loved by the gods. The general point you want to take away from this week is that S believes an adequate definition of X must satisfy three conditions: 
 
 **X is defined as P if and only if:**
 
