@@ -30,7 +30,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Notes 1](Euthyphro/Lecture4.pdf)
 + [Notes 2](Euthyphro/Euthyphro2.pdf)
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
-+ [Notes from the end of class:](addendum.md) we ran out of time! Please see a short description of how Socrates argues that pious $\neq$ to be loved by the gods.
++ [Notes from the end of class:](Euthyphro/addendum.md) we ran out of time! Please see a short description of how Socrates argues that pious $\neq$ to be loved by the gods.
 
 **Week 3: *Meno***
 + [Gobbet 1:](Meno/gobbet) See last week's link for an example and [here](Guide.pdf) for a guide. Expect to spend up to **6 hours per week** completing the reading and gobbets. 
