@@ -1,0 +1,149 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6500 64-bit) (preloaded format=xelatex 2018.1.23)  24 JAN 2018 14:20
+entering extended mode
+**./Euthyphro2.tex
+(Euthyphro2.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\soconnor\AppData\Roaming\MiKTeX\2.9\tex\latex\mdwtools\mdwlist.sty
+Package: mdwlist 1996/05/02 1.1 Various list-related things
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(C:\Users\soconnor\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count87
+\LTcapwidth=\dimen103
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count88
+\LT@rows=\count89
+\c@LT@tables=\count90
+\c@LT@chunks=\count91
+\LT@p@ftn=\toks14
+)
+(C:\Users\soconnor\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen104
+\lightrulewidth=\dimen105
+\cmidrulewidth=\dimen106
+\belowrulesep=\dimen107
+\belowbottomsep=\dimen108
+\aboverulesep=\dimen109
+\abovetopsep=\dimen110
+\cmidrulesep=\dimen111
+\cmidrulekern=\dimen112
+\defaultaddspace=\dimen113
+\@cmidla=\count92
+\@cmidlb=\count93
+\@aboverulesep=\dimen114
+\@belowrulesep=\dimen115
+\@thisruleclass=\count94
+\@lastruleclass=\count95
+\@thisrulewidth=\dimen116
+)
+(Euthyphro2.aux)
+\openout1 = `Euthyphro2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 19.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 46.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 55.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 55.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 55.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 55.
+ [1
+
+]
+Missing character: There is no ’ in font pplr8t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[2] [3] (Euthyphro2.aux) ) 
+Here is how much of TeX's memory you used:
+ 821 strings out of 427839
+ 8682 string characters out of 3152538
+ 68606 words of memory out of 3000000
+ 4828 multiletter control sequences out of 15000+200000
+ 18036 words of font info for 27 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 33i,11n,43p,729b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on Euthyphro2.pdf (3 pages).

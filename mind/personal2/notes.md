@@ -31,9 +31,9 @@ Our first two theories stated that there is something, either a soul or body, th
 
 Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you attend to when watching the engine is identical to the owner of the train you are attending to when watching the final carriage. Suppose, now, we ask in virtue of what are these trains identical to one another? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train cars are one and the same train by virtue of the fact that they are connected to one another---just notice the locks where each car connects with one another. 
 
-When I claim that the cars are the same by virtue of being appropriately connected, I have subtly changed the focus of our initial investigation. The individual *train cars* are not numerically identical to one another; the engine is not identical to the coal car. And if by 'same train', I mean 'train car', the various trains cars are not numerically identical to one another. But I don't mean this when asking whether the cars are identical trains. What I mean to ask is whether the train that the engine is part of is numerically identical to the train that the final carriage is part of. Likewise, I can ask whether the body that has my left hand as a part is numerically identical to the body that has my right hand as a part. When I ask this, I am not asking whether my left and right hands are identical to one another. I am asking whether they are parts of bodies that are numerically identical to one another. 
+When I claim that the cars are the same by virtue of being appropriately connected, I have subtly changed the focus of our initial investigation. The individual *train cars* are not numerically identical to one another; the engine is not identical to the coal car. And if by 'same train', I mean 'train car', the various trains cars are not numerically identical to one another. But I don't mean this when asking whether the cars are identical trains. What I mean to ask is whether the train that the engine is part of is numerically identical to the train that the final carriage is part of. Likewise, when I ask whether my left hand and right hands are the same body, I am not asking whether my left and right hands are identical to one another. I am asking whether the body that my left hand is part of is numerically identical to the body that my right hand is part of. 
 
-Asked in this way, what we would like to know is whether the train cars compose one and the same train, are they parts of the same train. To answer this question, we must decide whether the carriages are appropriately related to one another so as to compose a whole train. Likewise, instead of asking in virtue of what the various stages of person's life are identical to one another, we can ask in virtue of what all these stages compose one and the same person. On this view, the baby and adult are numerically distinct person stages, but they  are stages of one and the same person as it weaves its way through time. 
+Asked in this way, what we would like to know is whether the train cars compose one and the same train. Are they parts of the same train? To answer this question, we must decide whether the carriages are appropriately related to one another so as to compose a whole train. Likewise, instead of asking in virtue of what the various stages of person's life are identical to one another, we can ask in virtue of what all these stages compose one and the same person. On this view, the baby and adult are numerically distinct person stages, but they  are stages of one and the same person as it weaves its way through time. 
 
 ## Psychological Continuity--Version 1
 Just as some connection between the train cars explains why they compose some one train, so too there must be some connection between person stages if they are to compose some one person. In his 'Essay on Human Understanding' John Locke articulated one famous answer: 
@@ -47,11 +47,11 @@ Memory Continuity:
 
 This proposal seems plausible if we notice a difference between two types of memories. First, there are *factual memories*. These are memories that some event occurred. They can be shared by several people, e.g., many remember President Obama’s inauguration in 2008 and many remember President Obama handing over the reigns of power to President Trump in 2016. 
 
-Factual memories, memories that many can share, differ from *personal memories*. These are the memories of experiencing the event itself. Such memories cannot be shared by many people because personal experiences, are, well, personal. For example, only President Obama has the personal memory of *being inaugurated* at his 2008 inauguration. Only he knows what it was like for *him* to be inaugurated (even though many (factually) remember that he was inaugurated). Similarly, only President Obama can have a personal memory of being the one handing over the reigns of power to President Trump (although many have the factual memory of that same event). 
+Factual memories, memories that many can share, differ from *personal memories*. These are the memories of experiencing the event itself. Such memories cannot be shared by many people because personal experiences are, well, personal. For example, only President Obama has the personal memory of *being inaugurated* at his 2008 inauguration. Only he knows what it was like for *him* to be inaugurated (even though many (factually) remember that he was inaugurated). Similarly, only President Obama can have a personal memory of being the one handing over the reigns of power to President Trump (although many have the factual memory of that same event). 
 
 ![image](leo.jpg)
 
-So, consider the image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he has personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view, then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
+So, consider this image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he has personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view, then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
 
 ## Objections to Version 1
 
@@ -88,7 +88,7 @@ F, our oldest stage, remembers what the slightly younger stage, E, experienced. 
 
 So, F may not remember what A experienced, but F is connected to A via a chain of person stages where each stage remembers what the immediately preceding stage experienced. Hence, F is identical to A. 
 
-Version 2 obviously is immune to our objection to Version 1. That objection attacked the claim that later stages must remember every experience of every early stage for all those stages to compose one and the same person. That was unrealistic. But version 2 does not require the older stages to remember every experience of every earlier stage. It requires only that there me an appropriate chain as described above. 
+Version 2  is immune to our objection to Version 1. That objection attacked the claim that later stages must remember every experience of every early stage for all those stages to compose one and the same person. That was unrealistic. But version 2 does not require the older stages to remember every experience of every earlier stage. It requires only that there Be an appropriate chain as described above. 
 
 
 ## Objections to Version 2
@@ -106,9 +106,9 @@ So, the second version of the psychological continuity theory requires that the 
 It might be tempting to distinguish genuine from fake memories by appeal to the people who have the memories in the following way:  
 
 + If two persons A and B both have an experience as though
-they remember the experiences of some person C, then the memory of A (or B) is genuine and not fake only if A (or B) is identical to C.
+  they remember the experiences of some person C, then the memory of A (or B) is genuine and not fake only if A (or B) is identical to C.
 
-On this view, what makes a memory genuine is that the person who has the memory is identical to the person who had the relevant experience, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who had the experience of eating the salad. But if we try to distinguish genuine from fake memories in this way *and* use memory to explain personal identity, then we commit a simple logical mistake, namely it is circular to make both of these claims:
+On this view, what makes a memory genuine is that the person who has the memory is identical to the person who had the relevant experience, e.g., my memory of eating a salad last night is a genuine one because I am identical to the person who ate the salad. But if we try to distinguish genuine from fake memories in this way *and* use memory to explain personal identity, then we commit a simple logical mistake, namely it is circular to make both of these claims:
 
 1.  A = C because A really remembers what C experiences.
 
@@ -122,7 +122,7 @@ The Bible may very well contains truths about God's existence. But, you cannot p
 
 Finally, the psychological continuity view perhaps most obviously fails if we return to the case of Riker again: 
 
-![image](Rikerquest.jpg)
+![image](Riker.jpg)
 
 Both Thomas and William seem to have genuine memories of Riker's experiences. Both remember what it was like to step on to that malfunctioning transporter 8 years previously. Both have the same personal memories of Riker's childhood. If the psychological continuity view is correct, then at least one of Thomas or William's memories must be, in fact, fake (since it cannot be the case that both Thomas and William are identical to Riker). But we have no good reason to think that both men's memories are fake. Each were caused in the right way and each seems to have as much claim on Riker's previous life as the other. 
 
