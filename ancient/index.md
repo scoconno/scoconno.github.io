@@ -35,6 +35,6 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 3: *Meno***
 + [Gobbet 1:](Meno/gobbet) See last week's link for an example and [here](Guide.pdf) for a guide. Expect to spend up to **6 hours per week** completing the reading and gobbets. 
-
++ [Video explanation of proof that knowledge is innate.](https://www.youtube.com/watch?v=95GjK0p582g)
 
 

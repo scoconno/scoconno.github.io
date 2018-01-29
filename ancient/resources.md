@@ -13,6 +13,7 @@ title: Ancient Greek Philosophy Resources
 ## Films
 
 + [A movie about Socrates.](https://www.youtube.com/watch?v=SY-mgZbuxBA) Hit the 'cc' button for subtitles. 
++ [BBC documentary about Socrates](https://www.youtube.com/watch?v=eCrn-1jUOP8)
 + [The trial of Socrates](https://www.youtube.com/watch?v=380KSdkV6zY)
 + [A nice documentary on Ancient Greece](https://www.youtube.com/watch?v=-dwWocwd160)
 + [Another nice documentary about Greece](https://www.youtube.com/watch?v=g2z3RXyt0u0)
