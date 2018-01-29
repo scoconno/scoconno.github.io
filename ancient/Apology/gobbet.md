@@ -1,16 +1,18 @@
 ---
 layout: ancientweekly
-title: Gobbet 2
+title: Gobbet 
 ---
+There are three passages this week. They are from *Apology*. Please complete **all three** and submit through the relevant link on Blackboard. Please also read the excerpt from Aristophanes, *Clouds*
 
-"Either I do not corrupt the young or, if I do, it is unwillingly,"
+**Passage 1**
 
-“I thought to myself: I am wiser than this man; neither of us probably knows anything that is really good, but he thinks he has knowledge, when he has not, while I, having no knowledge, do not think I have.”
+For my part, I thought to myself as I left, “I’m wiser than that person. For it’s likely that neither of us knows anything fine and good, but he thinks he knows something he doesn’t know, whereas I, since I don’t in fact know, don’t think that I do either. At any rate, it seems that I’m wiser than he in just this one small way: that what I don’t know, I don’t think I know.” (21d).
 
- "whenever I succeed in disproving another person's claim to wisdom in a given subject, the bystanders assume that I know everything about that subject myself." Line 23a
+**Passage 2**
+What’s that, Meletus? Are you so much wiser at your age than I at mine, that you know bad people do something bad to whoever’s closest to them at the given moment, and good people something good? Am I, by contrast, so very ignorant that I don’t know even this: that if I do something bad to an associate, I risk getting back something bad from him in return? And is the result, as you claim, that I do so very bad a thing intentionally? (25d-e)
 
-“It’s not from wealth that virtue comes, but from virtue money, and all the other things become good for human beings, both in private and in public life.” (30b)
+**Passage 3**
+But again, if I say it’s the greatest good for a man to discuss virtue every day, and the other things you’ve heard me discussing and examining myself and others about, on the grounds that the unexamined life isn’t worth living for a human being, you’ll believe me even less when I say that (38a).
 
-“Men of Athens, I honor and love you; but I shall obey God rather than you, and while I have life and strength I shall never cease from the practice and teaching of philosophy... Understand that I shall never alter my ways, not even if I have to die many times
 
-“He could not harm me, for I do not think it is permitted that a better man be harmed by a worse” 
+
