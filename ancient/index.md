@@ -19,7 +19,7 @@ Welcome to the course website for *Ancient Philosophy*.  There are two sections 
 
 ## Additional materials and notes
 
-The syllabus details our schedule of readings from the course texts. I include here additional readings that you might find useful, occassional videos & podcasts, and notes. I normally post the notes only after the deadline for the reading questions/gobbets has passed. 
+The syllabus details our schedule of readings from the course texts. I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally post the notes only after the deadline for the reading questions/gobbets has passed. **All assignments can be found by clicking the relevant link in Blackboard.**
 
 **Week 1: Introduction**
 + [Notes 1](Introduction/Lecture 1.pdf)
@@ -33,8 +33,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Notes from the end of class:](Euthyphro/addendum.md) we ran out of time! Please see a short description of how Socrates argues that pious $\neq$ to be loved by the gods.
 
 
-**Week 3: *Meno***
-+ [Gobbet 1:](Meno/gobbet) See last week's link for an example and [here](Guide.pdf) for a guide. Expect to spend up to **6 hours per week** completing the reading and gobbets. 
+**Week 3: Socratic Epistemology**
++ [Notes](Meno/Meno.pdf) 
 + [Video explanation of proof that knowledge is innate.](https://www.youtube.com/watch?v=95GjK0p582g)
 
-
+**Week 4: Socrates' Trial and Defense**
