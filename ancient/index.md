@@ -27,14 +27,15 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 2: The *Euthyphro***
 + [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
-+ [Notes 1](Euthyphro/Lecture4.pdf)
-+ [Notes 2](Euthyphro/Euthyphro2.pdf)
++ *Notes*
+	+ [Notes 1](Euthyphro/Lecture4.pdf)
+	+ [Notes 2](Euthyphro/Euthyphro2.pdf)
+	+ [Notes from the end of class:](Euthyphro/addendum.md) we ran out of time! Please see a short description of how Socrates argues that pious # to be loved by the gods.
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
-+ [Notes from the end of class:](Euthyphro/addendum.md) we ran out of time! Please see a short description of how Socrates argues that pious $\neq$ to be loved by the gods.
 
 
 **Week 3: Socratic Epistemology**
 + [Notes](Meno/Meno.pdf) 
-+ [Video explanation of proof that knowledge is innate.](https://www.youtube.com/watch?v=95GjK0p582g)
++ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
 
 **Week 4: Socrates' Trial and Defense**
