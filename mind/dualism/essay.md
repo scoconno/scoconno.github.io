@@ -16,6 +16,8 @@ Write a **letter**--it should have an address, salutation, etc.--- to the King o
 
 **NB:** Failure to include either of these elements in your letter will result in a loss of points. 
 
+Please find a sample response [here](sample.pdf).
+
 ### Word Count
 
 Your essay must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
