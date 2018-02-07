@@ -39,3 +39,9 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
 
 **Week 4: Socrates' Trial and Defense**
+
++ *Notes*
+	+ [Notes 1](Apology/Lecture5.pdf)
+
++ [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
+
