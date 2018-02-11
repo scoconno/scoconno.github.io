@@ -42,6 +42,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 + *Notes*
 	+ [Notes 1](Apology/Lecture5.pdf)
+	+ [Notes 2](Apology/2.pdf)
 
 + [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
 
