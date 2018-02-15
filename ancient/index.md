@@ -46,3 +46,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 + [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
 
+**Week 5: Escape or die?**
+
++ *Notes*
+	+ [Notes 1](Crito/crito.pdf)
+	+ [Notes 2](Phaedo/phaedo.pdf)
