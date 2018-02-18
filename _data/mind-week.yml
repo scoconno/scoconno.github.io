@@ -14,13 +14,13 @@
   folder: dualism
   content: "2/5"
 
-# - title: Week 5. Behaviorism
-#  folder: behaviorism
-#  content: "2/12"
+- title: Week 5. Behaviorism
+  folder: behavior
+  content: "2/12"
 
-#  - title: Week 6. Mind as Brain
-#  folder: identity
-#  content: "2/19"
+- title: Week 6. Mind as Brain
+  folder: identity
+  content: "2/19"
 
 #- title: Week 7. Mental Causation
 #  folder: causation
