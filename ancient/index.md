@@ -51,3 +51,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 + *Notes*
 	+ [Notes 1](Crito/crito.pdf)
 	+ [Notes 2](Phaedo/phaedo.pdf)
+
+**Week 6: Socrates' End**
+
++ *Notes*
+	+ [Notes 1](Phaedo/phaedo2.pdf) 
