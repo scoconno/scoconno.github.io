@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 MAR 2018 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  12 MAR 2018 18:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Lecture2.tex
-(./Lecture2.tex
+**Lecture.tex
+(./Lecture.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -84,8 +84,8 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count95
 \@thisrulewidth=\dimen116
 )
-(./Lecture2.aux)
-\openout1 = `Lecture2.aux'.
+(./Lecture.aux)
+\openout1 = `Lecture.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -103,50 +103,60 @@ LaTeX Font Info:    Try loading font information for T1+ppl on input line 19.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 22.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 37.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 25.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <12> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 47.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 45.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 47.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 47.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 47.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 47.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 53.
  [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-]
-Overfull \hbox (6.8963pt too wide) in paragraph at lines 48--50
-[]\T1/ppl/m/n/10 The guardians must have cer-tain phys-i-cal char-ac-ter-is-tic
-s like strength. 
+] [2]
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 96.
+
+Overfull \hbox (5.41615pt too wide) in paragraph at lines 99--100
+[]\T1/ppl/m/n/10 It may be pos-si-ble to re-describe [P4] as con-flict be-tween
+ non-simultaneous
  []
 
-[2] [3] [4] (./Lecture2.aux) ) 
+[3] (./Lecture.aux) ) 
 Here is how much of TeX's memory you used:
- 806 strings out of 492995
- 8736 string characters out of 6132704
- 63556 words of memory out of 5000000
- 4402 multiletter control sequences out of 15000+600000
- 21461 words of font info for 35 fonts, out of 8000000 for 9000
+ 812 strings out of 492995
+ 8798 string characters out of 6132704
+ 62556 words of memory out of 5000000
+ 4406 multiletter control sequences out of 15000+600000
+ 23057 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,11n,43p,590b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvi
-ps/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb
-8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Lecture2.pdf (4 pages, 67827 bytes).
+ 34i,11n,43p,436b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8
+r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Lecture.pdf (3 pages, 84132 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 39 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
