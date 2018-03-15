@@ -57,13 +57,13 @@ The syllabus details our schedule of readings from the course texts. I include h
 + *Notes*
 	+ [Notes 1](Phaedo/phaedo2.pdf) 
 
-**Week 7: Plato's Republic 1
+**Week 7: Plato's Republic 1**
 
 + *Notes*
 	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
 	+ [Justice in the City](Republic1/Lecture2.pdf)
 
-**Week 8: Plato's Republic 2
+**Week 8: Plato's Republic 2**
 
 + *Notes*
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
