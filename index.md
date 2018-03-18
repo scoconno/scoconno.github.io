@@ -10,5 +10,3 @@ I am an assistant professor of philosophy at [New Jersey City University](http:/
 
 
 
-
-
