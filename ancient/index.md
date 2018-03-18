@@ -67,3 +67,4 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 + *Notes*
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
+	+ [Justice is good in itself](Republic2/Lecture1.pdf)  

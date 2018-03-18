@@ -3,6 +3,18 @@ layout: page
 title: Ancient Greek Philosophy Resources
 ---
 
+## General Encyclopedias
+
++ [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu)
++ [Internet Encyclopedia of Philosophy](https://www.iep.utm.edu)
+
+## Introductory textbooks
+
++ [Ancient Philosophy: A Contemporary Introduction,](Shields2.pdf) Shields
++ [Aristotle,](Shields.pdf) Shields
++ [The Routledge Guidebook to Aristotle's Nicomachean Ethics,](Ethics.pdf) Hughes
++ [The Routledge Guidebook to Plato's Republic,](Pappas.pdf) Pappas
+
 
 ## Podcasts
 
