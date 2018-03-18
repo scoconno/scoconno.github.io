@@ -5,23 +5,23 @@ title: Essay
 ---
 ## Introduction
 
-Turing believed that the ability to pass the Turing Test was both necessary and sufficient for mentality. You will be challenging both these claims (see below). I do not want you to read anything other than the textbook and the materials I have included on the website. Do watch the videos I included there too. Include citations and reference, but feel free to pick your citation format.  
+Turing believed that being able to pass the Turing Test was both necessary and sufficient for being able to think. One way to evaluate this claim is to examine the depiction of artificial intelligence in movies and TV shows. For this assignment, you will discuss what you think is the most advanced artificial intelligence in either a movie or TV show. Since I have already assigned Blade Runner, you cannot use that movie for this assignment--either the original or recently releases sequel.  
+
+
 
 ## Task
 
-Your paper should have 4 distinct parts. Each part should receive at least one good paragraph: 
+In your paper, you must do the following four things: 
 
-1. State what it would be for the Turing Test to provide a necessary condition for mentality. 
-2. Set out a reason to believe that the Turing Test does not provide a necessary condition for mentality.
-3. State what it would be for the Turing Test to provide a sufficient condition for mentality. 
-4. Set out a reason to believe that the Turing Test does not provide a sufficient condition for mentality. 
+1. Identify the relevant TV show or movie. Describe the artificially intelligent character. Is it a robot? An operating system? What is the movie/TV show about and what role does this character have in it? 
+1. With reference to your chosen character, explain the claim that being able to pass the Turing Test is a necessary condition for being able to think. 
+2. With reference to your chosen character, explain the claim that being able to pass the Turing Test is a sufficient condition for being able to think. 
+4. Set out the evidence that your chosen character would pass the the Turing Test. 
 	   
 
-**NB:** Failure to complete any of these tasks will result in a loss of points. 
-
-## Sample Essay
-
-Find a sample essay response [here](TuringSample.pdf).  Notice how thoroughly they explain what it means for the Turing Test to provide a necessary and sufficient condition for mentality. Your paper should be similarly detailed, but you need to demonstrate that you fully understand the topic. Do not quote from this sample or paraphrase it. Use your own examples. Your work must be your own. 
+**Important Notes**
+1. Failure to complete any of these tasks will result in a loss of points. 
+2. You must thoroughly explain Turing's claim that being able to pass the Turing Test is necessary and sufficient for being able to think. Watch the videos from the website and read my notes from this week and last week. Use your own examples. 
 
 
 ## Word Count
