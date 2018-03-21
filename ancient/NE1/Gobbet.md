@@ -5,7 +5,7 @@ title: Gobbet
 
 ## Nicomachean Ethics, Book 1.1-8, Book 2.1-6 
 
-You should read the following chapters very carefully. All other can be skimmed: 
+You should read the following chapters very carefully. All others can be skimmed: 
 
 1. Book 1, ch.1-2
 2. Book 1, ch.7
