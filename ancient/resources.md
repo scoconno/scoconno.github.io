@@ -22,7 +22,7 @@ title: Ancient Greek Philosophy Resources
 + [Philosophy Bites](http://philosophybites.com/ancient_philosophy/)
 + [A list of further podcasts](https://ancientphilosophynow.wordpress.com/podcasts/)
 
-## Films
+## Media
 
 + [A movie about Socrates.](https://www.youtube.com/watch?v=SY-mgZbuxBA) Hit the 'cc' button for subtitles. 
 + [BBC documentary about Socrates](https://www.youtube.com/watch?v=eCrn-1jUOP8)
@@ -32,6 +32,25 @@ title: Ancient Greek Philosophy Resources
 + [The Acropolis reconstructed](https://www.youtube.com/watch?v=DMccsbWFAok)
 + [Sophocles' *Antigone*](https://www.youtube.com/watch?v=8bSnnufOx80&list=PLjAYlUiAhOZ5xJhxtxojqCKFnZs5-lzCh)
 + [A documentary about Aristotle](https://www.youtube.com/watch?v=JN8ortM4M3o)
++ [Augustine of Hippo](https://mubi.com/films/augustine-of-hippo)
+
+## Some Relevant Popular Culture
+
++ [Alexander.](https://mubi.com/films/alexander-the-ultimate-cut) There are a few scenes with Aristotle. 
++ [Alexander the Great.](https://mubi.com/films/alexander-the-great) An older depiction of Alexander.
++ [Agora.](http://www.imdb.com/title/tt1186830/) A nice depiction of Hypatia, one of the most celebrated female scholars of antiquity. 
++ [Jason and the Argonauts](https://mubi.com/films/jason-and-the-argonauts)
++ [Troy](https://mubi.com/films/troy)
++ [Gladiator](https://mubi.com/films/gladiator)
++ [Immortals](https://mubi.com/films/immortals)
++ [Clash of the Titans 2010](https://mubi.com/films/clash-of-the-titans-2010)
++ [Clash of the Titans](https://mubi.com/films/clash-of-the-titans)
++ [Wrath of the Titans](https://mubi.com/films/wrath-of-the-titans)
++ [Hercules](https://mubi.com/films/hercules-2014)
++ [300](https://mubi.com/films/-300)
++ [300: Rise of an Empire](https://mubi.com/films/300-rise-of-an-empire)
++ [The 300 Spartans](https://mubi.com/films/the-300-spartans)
+
 
 ## Websites
 

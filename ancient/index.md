@@ -68,3 +68,11 @@ The syllabus details our schedule of readings from the course texts. I include h
 + *Notes*
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
 	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+
+**Week 9: Plato's Republic 3**
+
++ [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
+
+**Week 10: Aristotle**
+
++ [Alexander and Aristotle](https://www.youtube.com/watch?v=w6UGTvRbdUs)
