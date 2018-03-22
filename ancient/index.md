@@ -72,6 +72,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 **Week 9: Plato's Republic 3**
 
 + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
++ [Notes on the tyrant](Republic3/lecture2.pdf)
 
 **Week 10: Aristotle**
 
