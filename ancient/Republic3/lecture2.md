@@ -57,16 +57,19 @@ or more slaves, and his wife and children out of the city and deposit him with h
 
 ### Second argument 580c-583b
 
-1. Each part of the soul has a kind of pleasure, a kind of appetite and a kind of rule. 
-2. Thus, there are three kinds of individuals:
-	1. the philosophic
-	2. the victory- and honor-loving.
-	3. money-loving
-2. Each type of person insists that her/his life is most pleasant.
-3. Only the philosophical person has experience of all 3 types of pleasure.
-4. Only philosophical person has experience with knowledge.
-5. The judgment of which life is better requires reasoning, which is the tool of the philosopher. 
-C. Therefore, the verdict of the philosophical individual should be accepted.
+1. Each part of the soul has a distinct kind of pleasure, a kind of appetite and a kind of rule. 
+2. Each part of the soul is motivated by its distinctive kind of desire.
+	1. Reason desires knowledge and truth.
+	2. Spirit desires honor, power, and fame.
+	3. Appetite desires (i) food, drink, sex, rest, and (ii) wealth and money as a means to these. 
+2. Different type of people are dominated by different parts.
+	1. The philosopher has (i) fully experienced the pleasure of learning and understands the genuine value of wisdom, (ii) has fully experienced the pleasures of honor and rightly judges its limited value, (ii) has fully experienced the pleasures of wealth and rightly judges its very limited value. 
+	2. The honor lover (i) does not really understand the value of learning wisdom and says it is valueless since it does not bring distinction, (ii) has experienced pleasure from honor, victory, strife, but mistakenly thinks honor is the highest value, (iii) thinks that pleasure of money is simply vulgar and grasps that wealth is of limited value.
+	3. The wealth lover (i) lacks experience with value of learning or wisdom and says it is valueless since it does not bring wealth, (ii) lacks experience with value of honor or position and says it is valueless since it does not bring wealth, (iii) has experienced pleasure from wealth and gain, and mistakenly thinks wealth is highest value
+4. Each type of person believes their life is most pleasant.
+4. Only the philosopher, the one ruled by reason, has experience of all three types of pleasure. 
+C1. Therefore, the philosopher is the most reliable judge of which life is most please.
+C2. Therefore, the philosopher's life is the most pleasant. 
 
 
 ### Third argument 583b-585a
