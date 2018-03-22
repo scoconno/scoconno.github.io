@@ -14,7 +14,7 @@ Welcome to the course website for *Ancient Philosophy*.  There are two sections 
 + [PHIL 234 Syllabus](SyllabusM.pdf)
 + [Ancient Philosophy Resources](resources)
 + [How to answer Gobbets](Guide.pdf)
-+ [Extra Credit Assignments](extra)
++ [Extra Credit Assignment 1](extra)
 
 
 
