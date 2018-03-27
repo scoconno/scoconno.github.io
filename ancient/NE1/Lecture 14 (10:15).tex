@@ -1,168 +1,108 @@
-% !TEX encoding = UTF-8 Unicode
-% !TEX TS-program = xelatex
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Ancient Philosophy}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Nicomachean Ethics 1}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+ \usepackage{longtable,booktabs}
+\tolerance=700
 
-\documentclass[11pt]{article}
-\usepackage{fontspec}
-\defaultfontfeatures{Mapping=tex-text}
-\usepackage{xunicode}
-\usepackage{xltxtra}
-\usepackage{verbatim}
-\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
-\geometry{letterpaper} % or letter or a5paper or ... etc
-%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
-\usepackage{mathrsfs}
-\usepackage{bbding}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{natbib}
-\usepackage{stmaryrd}
-%\usepackage{mathpartir}
-\usepackage{txfonts}
-\usepackage{graphicx}
-\usepackage{fullpage}
-\usepackage{hyperref}
-\usepackage{amssymb}
-\usepackage{epstopdf}
-\usepackage{fontspec}
-%\setmainfont{Hoefler Text}
-\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
-\usepackage{hyperref}
-\usepackage{lastpage, fancyhdr}
-%\usepackage{setspace}
-\pagestyle{fancy}
-\lhead{}
-\chead{} 
-\rhead{}
-\lfoot{}
-\cfoot{\thepage\space of \pageref{LastPage}} 
-\rfoot{}
-\footskip=30 pt
-\headsep=20pt
-\thispagestyle{empty}
-\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
-\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
-\usepackage{polyglossia}
-\setdefaultlanguage{english}
-\setotherlanguage{greek}
-\newfontfamily\greekfont{Gentium Plus}
-\newcommand{\gk}[1]{\textgreek{#1}}
-\newcommand{\gloss}[1]{(\textgreek{#1})}
 
-\usepackage{covington}
-\usepackage{fixltx2e}
-\usepackage{graphicx}
 \begin{document}
+\thispagestyle{fancy}
 
-%\maketitle
-\thispagestyle{empty}
-\begin{center} \LARGE{PHIL 321\\ Lecture 14: Aristotle's \emph{Nicomachean Ethics}, Book I}\\ \vspace*{2mm}
-\large{10/15/2013}\end{center}
-\thispagestyle{empty}\vspace*{3mm}
-\vspace*{-8mm}
+\section*{Introduction}
+Aristotle is our focus for the next three week. We begin with a brief examination of his account of the best life. As well as characterizing his view, our primary goal will be to reflect on how far his style and method diverges from Plato. For instance, we will see that A's account of the best life relies heavily on his natural philosophy. The basic idea of the \emph{Ethics} might be expressed as follows: 
+
+\begin{enumerate}
+\item[A.] There is a final human good. \item[B.] Human beings have functions (erga).\item[C.] The human ergon is an activity of the soul involving reason.\item[D.] The final good depends on the perfection of this activity
+\end{enumerate}
 
 \section*{The highest good (chs. 1 \& 2)}
 
-\noindent [1] Every craft (\emph{techn\^{e}}), investigation (\emph{methodos}), action (\emph{praxis}), and decision (\emph{prohairesis}) aims at some good (in what follows we will focus on actions)
-\vspace*{2mm}
+A's investigations normally follow a pattern: a question is asked, various answers are surveyed, a \emph{test} is developed to decide between the answers, the answers are adjudicated. The \emph{Nicomachean Ethics} begins by arguing for what we may take as an obvious point: all of our lives aim at some end, at some goal we wish, even if unconsciously, to realize. Call this \emph{the highest good}. A will ask what this highest good is, survey some options, develop a test to identify the correct option, and then apply that test.
 
-\noindent [2] Thus, the good (\emph{to agathon}) is that at which everything aims
+\begin{enumerate}
+\item  Every craft (\emph{techn\^{e}}), investigation (\emph{methodos}), action (\emph{praxis}), and decision (\emph{prohairesis}) aims at some good (in what follows we will focus on actions)
 
-\begin{itemize}\item{Is this an invalid step?}\end{itemize}
+\item Thus, the good (\emph{to agathon}) is that at which everything aims
+\item  Ends (telos) are the goods aimed for in purposeful action. They differ in being. Some  are actions or activities themselves. Some are the products that result from the actions or activities that aim at (producing) them.
 
-\noindent [3] Ends (``\emph{telos},'' i.e. the goods aimed for in purposeful action) differ in being
-\begin{itemize}\item{[2a] actions or activities themselves, or}\item{[2b] products that result from the actions or activities aim at (producing) them}\end{itemize}
-
-\noindent [4] Ends may be \emph{hierarchically structured}: one end (e.g. bridles) can be pursued for the sake of another (e.g. horse-riding)
+\item Ends may be \emph{hierarchically structured}: one end (e.g. bridles) can be pursued for the sake of another (e.g. horse-riding)
 \begin{itemize}\item{In such a case, the superordinate end is more \emph{choiceworthy} than the subordinate end}\item{The superordinate end also sets the conditions for when the subordinate end is accomplished well (e.g. the value of a bridle \emph{qua} bridle is determined by the ``needs'' of horse-riding)}\end{itemize}
 
-\noindent [5] If there is some end we pursue \emph{only} for itself and for which we pursue all our other ends, this end with be the \emph{highest} good (or, simply, \emph{the} good) 
+\item If there is some end we pursue \emph{only} for itself and for which we pursue all our other ends, this end with be the \emph{highest} good (or, simply, \emph{the} good) 
 
-\vspace*{2mm}
+\item If there were no highest good, then our desires would be empty and futile (1094a21-2) 
 
-\noindent [6] There must be some limit to the ends we choose for the sake of something else, otherwise our desires would be ``empty and futile'' (1094a21-2)
-\begin{itemize}\item{[P1] If there were no highest good, then our desires would be empty}\item{\underline{[P2] But, our desires are not empty}}\item{[C] There is a highest good}\end{itemize}
+\item But, our desires are not empty and futile. 
+\item[C] There is a highest good. 
+\end{enumerate}
+What is this highest good that we all seek? Aristotle claims that everyone agrees that ``happiness'' (\emph{eudaimonia}) is the \emph{name} of the HG, but they disagree about what happiness is (some say pleasure, others wealth, others honor, others thinking) (ch. 4 1095a18-25)
 
-\noindent [7] If we knew what this highest good was, we could order our lives correctly
-\vspace*{2mm}
+%\item There must be some limit to the ends we choose for the sake of something else, otherwise our desires would be ``empty and futile'' (1094a21-2)
+%\begin{itemize}\item{[P1] If there were no highest good, then our desires would be empty}\item{\underline{[P2] But, our desires are not empty}}\item{[C] There is a highest good}\end{itemize}
 
-\noindent [8] Aristotle maintains that when we are discussing the HG we can't expect the same level of precision as when we are doing, say, mathematics (ch. 3 1094b13-27)
-\vspace*{2mm} 
 
-\noindent [9] A claims that everyone agrees that ``happiness'' (\emph{eudaimonia}) is the \emph{name} of the HG, but disagree about what happiness is (some say pleasure, others wealth, others honor, others thinking) (ch. 4 1095a18-25)
-\vspace*{2mm}
+%\item If we knew what this highest good was, we could order our lives correctly
+% Aristotle maintains that when we are discussing the HG we can't expect the same level of precision as when we are doing, say, mathematics (ch. 3 1094b13-27)
 
-\noindent [10] People generally develop their conception of the HG from the lives they live, and there are three main kinds of lives: gratification, political activity, study (ch. 5 1095b14-16)
 
-\section*{Formal criteria for the highest good (ch. 7)}
 
-\noindent [A] \textbf{Choiceworthy}: The HG must be good or valuable in some way
-\vspace*{1mm}
+%\noindent [10] People generally develop their conception of the HG from the lives they live, and there are three main kinds of lives: gratification, political activity, study (ch. 5 1095b14-16)
 
-\noindent [B] \textbf{End}: The HG must be an end
-\vspace*{1mm}
+\section*{Methodological points from Book 1}
+\begin{itemize}\item Ethics as Aristotle conceives it is part of political science (I.2).\item One should not seek too much exactness in ethics (I.3).\item Ethical argument should appeal to common beliefs (endoxa) (I.4).\item Forming correct ethical beliefs depends on correct habituation (I.4).\item Contra Socrates and Plato, `good' does not denote a single property (I.6).
+\end{itemize}
 
-\noindent [C] \textbf{Complete}: X is \emph{more complete} than Y if (a) X is pursued for X and (b) Y is pursued for something else, Z\\\hspace*{24mm}X is complete without qualification if X is pursued \emph{only} for itself (1097a)
-\vspace*{1mm}
 
-\noindent [D] \textbf{Self-sufficient}: All by itself makes a life choiceworthy and lacing nothing (1097b)\\\hspace*{26mm}NB: This does \emph{not} necessarily mean that the value of a life that has the HG can't be increased;\\\hspace*{26mm} It could mean that a life with the HG doesn't need anything more to make it choiceworthy\\\hspace*{26mm} as a life
-\vspace*{2mm}
+\section*{Book 1.7}
 
-\noindent Happiness seems to meet these criteria (but, again, we don't know what, exactly, happiness is)
-\vspace*{-3mm}
+In ch.7 A identifies various formal features of the highest good and argues that happiness meets these criteria (but, again, we don't know what, exactly, happiness is). If happiness meets the criteria for the highest good, concrete proposals for the nature of happiness must also meet these criteria. 
 
-\section*{``\emph{Ergon}'' argument (``\emph{ergon}'' often rendered as ``function,'' ``characteristic activity,'' or ``work'')}
+\begin{description}
+\item[Most choiceworthy:] The HG must not merely be good and valuable, it cannot be one good among many.
+\item[Complete:]  X is \emph{more complete} than Y if (a) X is pursued for X and (b) Y is pursued for something else, Z. But HG is is complete without qualification, i.e., HG is pursued \emph{only} for itself (1097a).
+\item[Self-sufficient:] Possessing the HG all by itself makes a life lacking in nothing (1097b)
+\begin{itemize}
+\item NB: This does \emph{not} necessarily mean that the value of a life that has the HG can't be increased. It could mean that a life with the HG doesn't need anything more to make it choice-worthy as a life.
+\end{itemize}
+\end{description}
 
-\noindent [P1] The good for something that has a function and (characteristic) action depends on its work
-\vspace*{1mm}
 
-\noindent [P2] The parts of a human have a function; so a human as a whole should have a special function
-\vspace*{1mm}
+\section*{The Function Argument}
 
-\noindent [P3] The ``lives'' of nutrition and perception are not unique to humans
-\vspace*{1mm}
+So, happiness is the highest good. It is choice-worthy, an end by which we can order our actions, complete, and self-sufficient. But this does not yet tell us what happiness is. If anything, it tells us some marks of happiness. But these marks are useful. Suppose someone claimed that being wealthy is the nature of happiness. Well, wealth is choice-worthy and it is an end. But it certainly is not self-sufficient; a person who possesses wealth is not guaranteed to possess everything else that makes life choice-worthy. A wealthy person's life could still lack in something. 
 
-\noindent [P4] A life expressing reason (of two kinds) is remaining possibility for human special function
-\vspace*{1mm}
+So, what is happiness? Aristotle's answer comes in his (in)famous ergon argument. The word `ergon' can be translated as `function'. Perhaps a better translation is `work' (or perhaps `activity'). The idea will be that things have characteristic work or functions. An eye's characteristic work is seeing. A knife's characteristic work is cutting.
 
-\noindent \underline{[P5] ``Life'' understood as activity (as opposed to capacity) is more properly life}
-\vspace*{1mm}
+\begin{enumerate}
+\item[P1] For any F, where F is a kind with a function, the good of an F = performing the function of Fs well.\item[P2] The function (ergon) of any living being x is determined by x's unique and  characteristic activity (1097b23)
+\item[P3] The parts of a human have a function; so a human as a whole should have a special function
+\item[P4] The ``lives'' of nutrition and perception are not unique to humans\item[P5] The unique and characteristic activity of human beings is reasoning (1098a3) (``Life'' understood as activity (as opposed to capacity) is more properly life).\item[P6] So the HG = performing activity of the rational part of the soul well.\item[P7] An F performs its function well when F acts in accordance with virtue (1098a7-12).\item[C] Therefore, the HG = activity of the soul expressing reason in a virtuous manner.  
+\end{enumerate}
+In our next class, we will discuss what A means by `expressing reason in a virtuous manner.' Here I note a few additional constraints on happiness.\begin{itemize}
+\item It requires activity based on virtue in a \emph{complete} life (ch. 9 1100a)
+\item requires external goods (ch. 8 1099b)
+\item It must be the best, finest, and most pleasant (life) (ch. 8 1099a)
+\end{itemize}
 
-\noindent [C1] The human function is the soul's activity expressing reason
-\vspace*{3mm}
+%\section*{Problems}
 
-\noindent\underline{[P7] The function of an X is the same in kind as the function of a good F; the latter accomplishes its function \emph{well}}
-\vspace*{-3mm}
+%\noindent [1] Has A shows us that there is one highest good (is the argument in section 1.4 sound)?
+%\vspace*{2mm}
 
-\noindent [C2] Given C1 and P7, the good for humans is accomplishing C1 well
-\vspace*{3mm}
+%\noindent [2] Why believe that the work of a human being is what is \emph{special} or \emph{unique} to human beings?
+%\vspace*{2mm}
 
-\noindent \underline{[P8] A function is completed well when its completion expresses its proper virtue}
-\vspace*{1mm}
-
-\noindent [C3] Given C1, C2, and P8, the human good is the soul's activity which expresses virtue
-\vspace*{2mm}
-
-\noindent Happiness is a life [i.e. the soul's activity] based on [i.e. expressing] virtue (in chs. 8-9, A canvasses how this candidate gels with other ideas about happiness)
-\vspace*{-3mm}
-
-\section*{Additional constraints on happiness (chs. 8 \& 9)}
-
-\noindent [E] It requires activity based on virtue in a \emph{complete} life (ch. 9 1100a)
-\vspace*{2mm}
-
-\noindent [F] It requires external goods (ch. 8 1099b)
-\vspace*{2mm}
-
-\noindent [G] It must be the best, finest, and most pleasant (life) (ch. 8 1099a)
-\vspace*{-3mm}
-
-\section*{Problems}
-
-\noindent [1] Has A shows us that there is one highest good (is the argument in section 1.4 sound)?
-\vspace*{2mm}
-
-\noindent [2] Why believe that the work of a human being is what is \emph{special} or \emph{unique} to human beings?
-\vspace*{2mm}
-
-\noindent [3] Why should we think that accomplishing the human work well is productive of, or identical with, happiness (e.g. does it meet constraint G)?
+%\noindent [3] Why should we think that accomplishing the human work well is productive of, or identical with, happiness (e.g. does it meet constraint G)?
 
 \end{document}
