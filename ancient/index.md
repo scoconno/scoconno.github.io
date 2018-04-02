@@ -78,3 +78,6 @@ The syllabus details our schedule of readings from the course texts. I include h
 **Week 10: Aristotle**
 
 + [Alexander and Aristotle](https://www.youtube.com/watch?v=w6UGTvRbdUs)
++ *Notes*
+	+ [Nicomachean Ethics 1](NE1/Lecture.pdf)
+	+ [Nicomachean Ethics 2](NE2/Lecture.pdf)
