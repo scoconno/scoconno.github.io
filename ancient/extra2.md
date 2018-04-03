@@ -1,6 +1,6 @@
 ---
 layout: ancientweekly
-title: Extra Credit 1
+title: Extra Credit 2
 
 ---
 
