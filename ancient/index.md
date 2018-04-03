@@ -15,6 +15,7 @@ Welcome to the course website for *Ancient Philosophy*.  There are two sections 
 + [Ancient Philosophy Resources](resources)
 + [How to answer Gobbets](Guide.pdf)
 + [Extra Credit Assignment 1](extra1)
++ [Extra Credit Assignment 2](extra2)
 
 
 
