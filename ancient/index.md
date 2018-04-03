@@ -76,9 +76,13 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
 + [Notes on the tyrant](Republic3/lecture2.pdf)
 
-**Week 10: Aristotle**
+**Week 10: Aristotle's Ethics**
 
 + [Alexander and Aristotle](https://www.youtube.com/watch?v=w6UGTvRbdUs)
 + *Notes*
 	+ [Nicomachean Ethics 1](NE1/Lecture.pdf)
 	+ [Nicomachean Ethics 2](NE2/Lecture.pdf)
+
+**Week 11: Aristotle's Physics**
+
++ [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
