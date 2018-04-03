@@ -1,63 +1,31 @@
-% !TEX encoding = UTF-8 Unicode
-% !TEX TS-program = xelatex
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Ancient Philosophy}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Physics 1}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{\today}}
+ \usepackage{longtable,booktabs}
+\tolerance=700
 
-\documentclass[11pt]{article}
-\usepackage{fontspec}
-\defaultfontfeatures{Mapping=tex-text}
-\usepackage{xunicode}
-\usepackage{xltxtra}
-\usepackage{verbatim}
-\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
-\geometry{letterpaper} % or letter or a5paper or ... etc
-%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
-\usepackage{mathrsfs}
-\usepackage{bbding}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{natbib}
-\usepackage{stmaryrd}
-%\usepackage{mathpartir}
-\usepackage{txfonts}
-\usepackage{graphicx}
-\usepackage{fullpage}
-\usepackage{hyperref}
-\usepackage{amssymb}
-\usepackage{epstopdf}
-\usepackage{fontspec}
-%\setmainfont{Hoefler Text}
-\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
-\usepackage{hyperref}
-\usepackage{lastpage, fancyhdr}
-%\usepackage{setspace}
-\pagestyle{fancy}
-\lhead{}
-\chead{Lecture 20, Aristotle's \emph{Physics} Book 2\space---\space Handout} 
-\rhead{}
-\lfoot{}
-\cfoot{\thepage\space of \pageref{LastPage}} 
-\rfoot{}
-\footskip=30 pt
-\headsep=20pt
-\thispagestyle{empty}
-\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
-\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
-\usepackage{polyglossia}
-\setdefaultlanguage{english}
-\setotherlanguage{greek}
-\newfontfamily\greekfont{Gentium Plus}
-\newcommand{\gk}[1]{\textgreek{#1}}
-\newcommand{\gloss}[1]{(\textgreek{#1})}
 
-\usepackage{covington}
-\usepackage{fixltx2e}
-\usepackage{graphicx}
 \begin{document}
+\thispagestyle{fancy}
 
-%\maketitle
-\thispagestyle{empty}
-\begin{center} \LARGE{PHIL 321\\ Lecture 20: Aristotle's \emph{Physics}, 2.3-9}\\ \vspace*{2mm}
-\large{11/5/2013}\end{center}
-\thispagestyle{empty}\vspace*{3mm}
-\vspace*{-8mm}
+\section*{Aristotle's \emph{Physics}}
+
+\begin{quote}
+We think we understand a thing simpliciter . . . whenever we think we are aware both that the explanation because of which the object is is its explanation, and that it is not possible for this to be otherwise (\emph{Posterior Analytics} 70b9).
+\end{quote}
+
+
 
 \section*{Aristotle's distinction between natural and artificial things (from 2.1)}
 
@@ -103,7 +71,6 @@ E.g.: health of walking; health of purging, slimming, drugs, instruments; the go
 \vspace*{2mm}
 
 \noindent In Chs. 8 and 9 we learn that A thinks final \emph{aitiai} are relevant not only in the explanation of human behavior (e.g. Bob runs for the sake of health) but in nature as a whole
-\newpage
 
 \noindent The things that occur in nature always or for the most part happen for the sake of ends (e.g. organisms develop the parts they do in the way that they do for the good of the organism: in plants, leaves grow \emph{for the sake of} protecting the fruit; hearts contract for the sake of pumping blood (which, in turn, is done for the sake of maintaining the organism); rain falls in the patterns it does for the sake of nourishing the soil)
 \vspace*{1mm}
