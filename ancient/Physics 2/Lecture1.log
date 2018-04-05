@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  2 APR 2018 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  4 APR 2018 23:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -104,48 +104,48 @@ LaTeX Font Info:    Try loading font information for T1+ppl on input line 19.
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 22.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 31.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 33.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 33.
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 35.
 
-Overfull \hbox (3.36252pt too wide) in paragraph at lines 33--33
+Overfull \hbox (3.36252pt too wide) in paragraph at lines 35--35
 []\T1/ppl/b/n/14.4 The four \T1/ppl/b/it/14.4 aitiai \T1/ppl/b/n/14.4 (``causes
 ,'' ``ex-pla-na-tions,'' ``be-causes'') 
  []
 
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 64.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 64.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 64.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 64.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 48.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 64.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 48.
 [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 86.
+(Font)              <7> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 86.
+(Font)              <5> on input line 72.
 
 [2] [3] (./Lecture1.aux) ) 
 Here is how much of TeX's memory you used:
- 811 strings out of 492995
- 8805 string characters out of 6132704
+ 812 strings out of 492995
+ 8811 string characters out of 6132704
  62554 words of memory out of 5000000
  4406 multiletter control sequences out of 15000+600000
- 22448 words of font info for 36 fonts, out of 8000000 for 9000
+ 23057 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,11n,43p,495b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,11n,43p,495b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/b
 ase/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cms
@@ -154,7 +154,7 @@ y10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 /usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/l
 ocal/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Lecture1.pdf (3 pages, 86442 bytes).
+Output written on Lecture1.pdf (3 pages, 87627 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
