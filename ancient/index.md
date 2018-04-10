@@ -86,3 +86,6 @@ The syllabus details our schedule of readings from the course texts. I include h
 **Week 11: Aristotle's Physics**
 
 + [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
++ [Notes](Physics2/Lecture1.pdf)
+
+**Week 12: Aristotle's Psychology**
