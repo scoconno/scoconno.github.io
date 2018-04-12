@@ -89,3 +89,5 @@ The syllabus details our schedule of readings from the course texts. I include h
 + [Notes](Physics2/Lecture1.pdf)
 
 **Week 12: Aristotle's Psychology**
+
++ [Notes](DA/Lecture.pdf)
