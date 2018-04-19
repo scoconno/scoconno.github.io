@@ -1,142 +1,128 @@
-\documentclass[]{article}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\setcounter{secnumdepth}{0}
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
 
-\date{}
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{verbatim}
+\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
+\usepackage{stmaryrd}
+%\usepackage{mathpartir}
+\usepackage{txfonts}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{fontspec}
+%\setmainfont{Hoefler Text}
+\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{hyperref}
+\usepackage{lastpage, fancyhdr}
+%\usepackage{setspace}
+\pagestyle{fancy}
+\lhead{}
+\chead{Epicurus 1} 
+\rhead{}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+\footskip=30 pt
+\headsep=20pt
+\thispagestyle{empty}
+\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
 
+\usepackage{covington}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
 \begin{document}
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+%\maketitle
+\thispagestyle{empty}
+\begin{center} \LARGE{Ancient Philosophy\\ Epicurus}\\ \vspace*{2mm}
+\large{Scott O'Connor}\end{center}
+\thispagestyle{empty}\vspace*{3mm}
 
-\section{Epicurus}
+\section*{Introduction}
 
 Epicurus founded a community in Athens called ``the Garden''. Men and
-women, free persons, and slaves, were all equal.
-
-He claimed that the goal of philosophy was to provide a guide to living
+women, free persons, and slaves, were all equally accepted. He claimed that the goal of philosophy was to provide a guide to living
 well. In this, he was in agreement with Socrates and Plato. However, he
-offered a particular view as to what made a life well lived.
+offered a very different view as to what made a life well lived. According to Epicurus, one should maximize pleasures and minimize pains. You should accept pains that lead to greater pleasures. You should reject pleasures that lead to greater pains. Our entry point will be his views about death. 
 
-According to Epicurus, one should maximize pleasures and minimize pains.
-You should accept pains that lead to greater pleasures. You should
-reject pleasures that lead to greater pains.
-
-\subsubsection{Death}\label{death}
+\section*{Death}\label{death}
 
 \begin{quote}
 ``For there is nothing terrible in life for the man who has truly
-comprehended that there is nothing terrible in not living.'' 1. Nothing
-is good or bad for one except sense experience, i.e.~feelings of
-pleasure and pain. 2. The dead don't have any sense experiences. 3.
-Therefore nothing is good or bad for the one who is dead. 4. Therefore
-the state of being dead is not (good or) bad for the one who is dead. 5.
-If x is not bad for one when it is present, then there is no rational
-ground, before it is present, to fear its future presence. 6. Therefore
-no living person has any rational ground to fear his future state of
-being dead.
-\end{quote}
+comprehended that there is nothing terrible in not living.''
+ \end{quote}
+Epicurus believes that most pain in life comes from fearing death. He asks us to distinguish the pain of death  from the pain of anticipating death. He argues that being dead is not itself painful, and he subsequently argues that we should feel no pain in anticipating death.  Understanding death makes life enjoyable because it takes away the craving for immortality.
 
-Problem comes from fearing/anticipating death. Not from death itself.
 
-Death is deprivation of sensation, therefore a deprivation of something
-good. Understanding death makes life enjoyable because it takes away the
-craving for immortality.
 
-Distinguish the pain of death vs.~the pain of anticipating death.
+\begin{enumerate}
+\item Nothing is good or bad for one except sense experience, i.e.~feelings of pleasure and pain. 
+\item The dead don't have any sense experiences. 
+\item Therefore, nothing is good or bad for the one who is dead. 
+\item Therefore, the state of being dead is not (good or) bad for the one who is dead. 
+\item If X is not bad for one when it is present, then there is no rational
+ground, before it is present, to fear its future presence. 
+\item Therefore, no living person has any rational ground to fear his future state of being dead.
+\end{enumerate}
 
-Letter to Menoeceus. Maybe have someone read aloud the first paragraph.
 
-\subsubsection{Ethics\#\#\#\textbf{Epicurean Hedonism (hêdonê =
-pleasure):}1. Eudaimonist framework2. Happiness = ataraxia, freedom from
-disturbance:}\label{ethicsepicurean-hedonism-huxeadonuxea-pleasure1.-eudaimonist-framework2.-happiness-ataraxia-freedom-from-disturbance}
+
+
+\section*{Hedonism}
+Our first  premise relies on Epicurus' general account of the good life. 
 
 \begin{quote}
-``The unwavering contemplation of these {[}distinctions among desires{]}
-enables one to refer every choice and avoidance to the health of the
-body and the freedom of the soul from disturbance {[}ataraxia{]}, since
-this is the goal of the blessed life''.
-\end{quote}
+Pleasure is the starting point and goal of living blessedly (\emph{LM} 128).\end{quote}
 
-\subsubsection{Pleasure}\label{pleasure}
-
-\begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Static/katastematic pleasure consists in the absence of pain, want and
-  desire, e.g., freedom from hunger, thirst. + Kinetic pleasures: always
-  involve a change in one's psychic state, valuable as a means to
-  achieving static pleasure (e.g., quenching one's thirst).
-\item
-  ataraxia consists in static pleasure, understood as the absence of
-  pain (33, 60).
-\item
-  Adaptive conception of happiness: ataraxia achieved by (1) satisfying
-  desires, (2) eliminating them. Thus, in order to be happy, one ought
-  to change desires so that one only wants things that are easy to get.
-  \textbf{Types of Desire}
-\end{itemize}
-
-Because of the close connection of pleasure with desire-satisfaction,
-Epicurus devotes a considerable part of his ethics to analyzing
+\begin{quote}
+ The removal of all feeling of pain is the limit of the magnitude of pleasures. Wherever a pleasurable feeling is present, for as long as it is present, there is neither a feeling of pain nor a feeling of distress, nor both together (\emph{PD} III).\end{quote}
+So, according to Epicurus, happiness is what he calls \emph{ataraxia}, which means, roughly, freedom from disturbance. Epicurus' basic idea is that pleasure consists in the absence of the disturbances and discomfort of desires. Because of the close connection of pleasure with desire-satisfaction, Epicurus devotes a considerable part of his ethics to analyzing
 different kinds of desires. If pleasure results from getting what you
 want (desire-satisfaction) and pain from not getting what you want
 (desire-frustration), then there are two strategies you can pursue with
 respect to any given desire: you can either strive to fulfill the
 desire, or you can try to eliminate the desire. For the most part
 Epicurus advocates the second strategy, that of paring your desires down
-to a minimum core, which are then easily satisfied.
+to a minimum core, which are then easily satisfied. Epicurus distinguishes between three types of desires:
 
-Epicurus distinguishes between three types of desires:
+%There are two ways ataraxia can be achieved, either by satisfying
+ %them, or by eliminating them. One can eliminate them by changing them altogether. The approach one takes  will depend on the type of desire. 
+ 
+ %Thus, in order to be happy, one ought to change desires so that one only wants things that are easy to get.
 
-\begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  natural and necessary desires:
+
+%Epicurus investigates the nature of pleasure and draws some important distinction.  
+%\begin{description}
+%\item[Static pleasure] consists in the absence of pain, want and desire, e.g., freedom from hunger, thirst. 
+%\item[ Kinetic pleasures] always  involves a change in one's psychic state, valuable as a means to  achieving static pleasure (e.g., quenching one's thirst).
+%\end{description}
+
+%\item ataraxia consists in static pleasure, understood as the absence of pain (33, 60).
+%\item Adaptive conception of happiness: ataraxia achieved by (1) satisfying desires, (2) eliminating them. Thus, in order to be happy, one ought  to change desires so that one only wants things that are easy to get.
+ 
+
+
+
+
+
+\begin{enumerate}
+\item Natural and necessary desires:
 
   \begin{itemize}
-  \itemsep1pt\parskip0pt\parsep0pt
   \item
     Examples of natural and necessary desires include the desires for
     food, shelter, and the like.
@@ -151,13 +137,10 @@ Epicurus distinguishes between three types of desires:
   \item
     Epicurus says that one should try to fulfill these desires.
   \end{itemize}
-\item
-  natural but non-necessary desire:
+\item Natural but non-necessary desire:
 
   \begin{itemize}
-  \itemsep1pt\parskip0pt\parsep0pt
-  \item
-    An example of a natural but non-necessary desire is the desire for
+  \item An example of a natural but non-necessary desire is the desire for
     luxury food. Although food is needed for survival, one does not need
     a particular type of food to survive.
   \item
@@ -171,14 +154,12 @@ Epicurus distinguishes between three types of desires:
   \item
     By eliminating the pain caused by unfulfilled desires, and the
     anxiety that occurs because of the fear that one's desires will not
-    be fulfilled in the future, the wise Epicurean attains tranquility,
+    be fulfilled in the future, the Epicurean attains tranquility,
     and thus happiness.
   \end{itemize}
-\item
-  vain and empty desires:
+\item  Vain and empty desires:
 
   \begin{itemize}
-  \itemsep1pt\parskip0pt\parsep0pt
   \item
     Vain desires include desires for power, wealth, fame, and the like.
   \item
@@ -187,12 +168,11 @@ Epicurus distinguishes between three types of desires:
     it is always possible to get more, and the more one gets, the more
     one wants.
   \item
-    These desires are not natural to human beings, but inculcated by
-    society and by false beliefs about what we need; e.g., believing
+    These desires are not natural to human beings, but they are inculcated by  society and by false beliefs about what we need; e.g., believing
     that having power will bring us security from others.
   \item
     Epicurus thinks that these desires should be eliminated.
   \end{itemize}
-\end{itemize}
+\end{enumerate}
 
 \end{document}
