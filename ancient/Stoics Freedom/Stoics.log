@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  25 APR 2018 21:07
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  25 APR 2018 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Lecture 23 (11:14).tex"
-(./Lecture 23 (11:14).tex
+**Stoics.tex
+(./Stoics.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -725,8 +725,8 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (./Lecture 23 (11:14).aux)
-\openout1 = `"Lecture 23 (11:14).aux"'.
+) (./Stoics.aux)
+\openout1 = `Stoics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
@@ -744,8 +744,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 45.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 45.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 45.
@@ -865,9 +864,9 @@ LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
 
-(./Lecture 23 (11:14).out) (./Lecture 23 (11:14).out)
+(./Stoics.out) (./Stoics.out)
 \@outlinefile=\write3
-\openout3 = `"Lecture 23 (11:14).out"'.
+\openout3 = `Stoics.out'.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
@@ -905,21 +904,21 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
- (./Lecture 23 (11:14).aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 130.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
+ (./Stoics.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 167.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
  21995 strings out of 493005
- 397134 string characters out of 6134596
- 455675 words of memory out of 5000000
+ 396978 string characters out of 6134596
+ 456661 words of memory out of 5000000
  25785 multiletter control sequences out of 15000+600000
  9906 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 35i,11n,66p,10398b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 35i,11n,66p,10384b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Lecture 23 (11:14).pdf (2 pages).
+Output written on Stoics.pdf (2 pages).
