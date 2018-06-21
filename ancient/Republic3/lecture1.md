@@ -1,3 +1,8 @@
+---
+layout: ancientweekly
+title: Intro
+---
+
 
 ## Introduction
 
@@ -6,7 +11,10 @@ Glaucon wanted Socrates to show not only that justice was good in itself, but al
 The four main species of injustice (see 445c) are timocracy, oligarchy, democracy, tyranny. Corresponding to each type of these city are the timocratic soul, oligarchic soul, democratic soul, and tyrannical soul (544a, d–e).
 
 1.  The aristocratic soul, ruled by its rational part, is concerned with what is best for each part of the soul in relation to the whole.
-1.	The timocratic (538-9) soul, ruled by its spirited part, is concerned with honor and victory.2.	The oligarchic soul is a lover of money above everything else (553ff); it is concerned with being able to satisfy its necessary appetites.  3.	The democratic soul (559-61) is ruled by unnecessary appetites.4.	The tyrannical soul (556-576) is enslaved to appetites. It constantly feels the need to satisfy this desire and never manages to fill it fully.   
+1.	The timocratic (538-9) soul, ruled by its spirited part, is concerned with honor and victory.
+2.	The oligarchic soul is a lover of money above everything else (553ff); it is concerned with being able to satisfy its necessary appetites.  
+3.	The democratic soul (559-61) is ruled by unnecessary appetites.
+4.	The tyrannical soul (556-576) is enslaved to appetites. It constantly feels the need to satisfy this desire and never manages to fill it fully.   
 
 **General strategy:**
 
@@ -94,7 +102,7 @@ https://www.youtube.com/watch?v=cnzo9qXLFUo
 
 
 *Soul*
-+ The greatest dictatorship in the city arises out of the greatest anarchy (564a). In the soul, the democratic person’s refusal to judge among desires brings one of those desires, lust (erôs), to outgrow all the rest (572e–573a). 
++ The greatest dictatorship in the city arises out of the greatest anarchy (564a). In the soul, the democratic person’s refusal to judge among desires brings one of those desires, lust (erôs), to outgrow all the rest (572e–573a). 
 + Plato separates unnecessary desires into the law-abiding and the lawless (571b). The worst of the lawless desires is lust, especially monstrous lust for forbidden persons, foods, and deeds (574e–575a). 
 + Unlike the oligarch’s greed, this transgressive lewdness has nothing to do with self-control. It rules the soul wildly – indeed, it emerges as the dominant commitment of the tyrannical soul not by virtue of any deliberation on the person’s part but because it has out-shouted every other desire. It comes to dominate by being the most uncontrollable desire and not because it is suited to controlling; thus its rule is of all states the least recognizable as rule.
 
