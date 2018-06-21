@@ -1,4 +1,7 @@
-
+---
+layout: ancientweekly
+title: Stoics
+---
 
 # Stoics #
 
