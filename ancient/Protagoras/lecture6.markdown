@@ -1,3 +1,8 @@
+---
+layout: ancientweekly
+title: Protagoras
+---
+
 # Plato's Protagoras #
 
 
