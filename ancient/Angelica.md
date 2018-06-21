@@ -1,4 +1,10 @@
-## Angelica: Alternative Assignment
+---
+layout: ancientweekly
+title: Alternative
+---
+
+
+
 
 **Day 1:**
 Metropolitan Museum of Art, Greek exhibition: Greek art tells us how the Greeks saw themselves. What do you think they want to communicate about being Greek with this art? 
