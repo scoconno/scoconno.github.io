@@ -1,3 +1,8 @@
+---
+layout: ancientweekly
+title: Antigone
+---
+
 In the middle of the 5th century BC Sophocles wrote his Antigone. It describes a conflict between the conscience of an individual and the demands of the state and the law.
 
 Two brothers, Eteocles and Polyneices, are leaders of the opposite sides in Thebes' civil war. Both die fighting each other for the throne. Creon, the new ruler of Thebes, has decided that Eteocles will be honored and Polyneices will be in public shame, i.e., his body will not be sanctified by holy rites and will lie unburied on the battlefield, prey for carrion animals like worms and vultures, the harshest punishment at the time.
