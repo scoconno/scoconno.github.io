@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: ancientweekly
 title: Ancient Greek Philosophy Resources
 ---
+
 
 ## General Encyclopedias
 
