@@ -1,3 +1,8 @@
+---
+layout: ancientweekly
+title: Domestic
+---
+
 ## Domestic Trip
 
 Location: Washington, DC, Annapolis, MD, and surrounding areas. 
