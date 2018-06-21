@@ -1,3 +1,9 @@
+---
+layout: ancientweekly
+title: Final paper
+---
+
+
 ## Description of the Tyrant
 
 S has distinguished between necessary and unnecessary desires and pleasures. 
