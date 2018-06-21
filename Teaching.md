@@ -4,12 +4,22 @@ title: Teaching
 
 --- 
 
-## Recent & Upcoming Courses
+
+### Fall 2018
+
++ Phil 236: Self: Mind, online
++ Phil 140: The Examined Life (2 sections)
++ Phil 208: Great Philosophers
 
 
-### Spring 2018, tentative, no times scheduled
 
-+ Phil 236: Self: Mind, online (2 sections)
+### Summer II 2018
+
++ Phil 236: Self, Mind, online
+
+### Spring 2018
+
++ Phil 236: Self: Mind, online 
 + Phil 211: A Survey of Ancient Philosophy
 + Honors: A Survey of Ancient Philosophy (with trip to Greece)
 
