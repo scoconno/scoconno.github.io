@@ -8,18 +8,16 @@ title: Contact
 + Office: Karnoutsos Hall 606
 + [Office hours](office/)
 + E-mail: <soconnor@njcu.edu>
-+ Response Time: I answer messages on weekdays within 48 hours of receiving them. If you do not receive a response within that time frame, please send the message again. 
++ Response Time: I answer messages on weekdays within 48 hours of receiving them. If you do not receive a response within that time frame, please send me the message again. 
 
 ---
 
 ## For Students 
-If you are enrolled in a course, please use the Blackboard messaging app. That app allows me keep track of all messages for a particular course and is easier to use than email. It also allows me to easily comply with the Federal Law concerning the privacy of student education records (FERPA).
+If you are enrolled in a course, please check the syllabus before contacting me. Many students contact me with questions that are already answered in the relevant syllabus. If you do contact me, please use the Blackboard messaging app. That app allows me to keep track of all messages for a particular course and is easier to use than email. It also allows me to easily comply with the Federal Law concerning the privacy of student education records (FERPA). If you are not currently enrolled in my course, please email me. 
 
-If you are not currently enrolled in my course,  email is the only way to contact me. Do not telephone the office. They will not give you my private number and I am unlikely able to take your call in my office. I will not reply to voicemails. 
+## General email etiquette 
 
-Please check the syllabus before contacting me. If it is covered in the syllabus, I likely won’t respond. If you would like a response, please adhere to these basic etiquette guidelines:
-
-+ If you must use email, use your NJCU email account. To comply with Federal Law I will not respond to non-NJCU email addresses. 
++ If you must use email, use your NJCU email account. To comply with Federal Law, I will hesitate to respond to non-NJCU email addresses. 
 	+ Find out how to set up your NJCU email on iPhone, iPad, or iPod Touch [here.](https://support.office.com/en-us/article/Set-up-email-on-iPhone-iPad-or-iPod-Touch-b2de2161-cc1d-49ef-9ef9-81acd1c8e234#BKMK_WorkOrSchool)
 	+ Find out how to set up your NJCU email on an Android phone or tablet [here.](https://support.office.com/en-us/article/Set-up-email-on-an-Android-phone-or-tablet-886db551-8dfa-4fd5-b835-f8e532091872#BKMK_O365SetUp) 
 + Keep the body of your message brief and to the point. If it’s longer than a paragraph, consider arranging a meeting during office hours to discuss your issue instead.
