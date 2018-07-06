@@ -19,6 +19,4 @@ title: Physicalism
 ## Notes
 + [Notes](notes)
 
-## Assignments
-+ [Essay](essay)
 

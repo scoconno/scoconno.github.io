@@ -18,8 +18,4 @@ title: Consciousness 2
 ### Notes
 + [Notes](notes)
 
-### Assignments
-+ [Essay](essay)
-
-
 

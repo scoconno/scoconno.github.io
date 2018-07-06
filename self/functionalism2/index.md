@@ -22,6 +22,3 @@ title: Problems with Functionalism
 + [A reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M) This experiment challenges Turing's claim that passing the Turing Test is sufficient for intelligence. 
  
  
-### Assignments
-+ [Essay](essay)
- 

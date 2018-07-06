@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  6 JUL 2018 13:06
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  6 JUL 2018 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1603,17 +1603,12 @@ Underfull \hbox (badness 1221) in paragraph at lines 205--205
  []
 
 
-Underfull \hbox (badness 3179) in paragraph at lines 210--210
-[]\TU/MinionPro(0)/m/n/10 **“Sensations and Brain Processes”, J.J.C.
- []
-
-
 Overfull \hbox (94.93854pt too wide) in paragraph at lines 193--232
  [][] 
  []
 
 [4]
-Overfull \vbox (39.42702pt too high) has occurred while \output is active []
+Overfull \vbox (7.42787pt too high) has occurred while \output is active []
 
 
 [5]
@@ -1631,7 +1626,7 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  34327 strings out of 492970
  624609 string characters out of 6133938
- 1392836 words of memory out of 5000000
+ 1391836 words of memory out of 5000000
  38087 multiletter control sequences out of 15000+600000
  531257 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
