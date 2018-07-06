@@ -1,6 +1,6 @@
 ---
 layout: mindweekly
-title: Mind as Computer
+title: Functionalism
 ---
 
 This week we are considering the view that what it is to have a mind is to be able to perform sufficiently complex computations. On this view, minds are merely very complex computers.  To introduce you to the topic, please have a conversation with this [program](http://www.mitsuku.com). 
