@@ -7,8 +7,8 @@ title: Self-Mind
 # Course Information
 
 
-+ [Syllabus](SyllabusFO.pdf)
-+ [Philosophy of Mind Resources](/mind/resources)
++ [Syllabus](Syllabus.pdf)
++ [Philosophy of Mind Resources](/self/resources)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
