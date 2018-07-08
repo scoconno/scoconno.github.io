@@ -16,7 +16,7 @@ There is a dedicated module for each week. You will find these under 'weeks' in 
 1. Materials
 2. Essays and Quizzes  
 
-The materials link will take you to a dedicated page for the week's topic. It contains extensive notes, which you should read thoroughly. I also include readings not in the textbook. Since some of the material is tricky, I try to include some combination of short stories, videos, and podcasts. The assignment links are self-explanatory.
+The materials link will take you to a dedicated page for the week's topic. It contains extensive notes, which you should read thoroughly. I also include readings not in the textbook. Since some of the material is tricky, I try to include some combination of short stories, videos, and podcasts. The assignment links are self-explanatory. These are due on the Sunday of the assigned week at midnight. One exception is the final week. 
 
 ### Work Schedule
 Taking an online course is a lot of fun, but it also requires care. Compared to an in-person course, you have far more ownership over your time. You get to choose when to study and how to study, and, in some respects, you are on your own (though I'm here as a guide). Nevertheless, I recommend the following work schedule for each week: 
