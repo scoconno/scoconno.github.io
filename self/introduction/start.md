@@ -66,13 +66,13 @@ If a link is broken, please contact me and I will fix it promptly.
 
 
 
-## Topic Introduction
+## What is the philosophy of mind? 
 
 Minds are curious sorts of thing. We readily distinguish those things that have them from those that do not. Pet owners regularly gush over their little darlings, claiming that little Fido is *excited* when outside, or furry Penny, my cat, *dislikes* being picked up. In making these claims, pet owners are attributing mentality to animals; they assume their pets have desires, emotions, experience pleasure and pain, etc. It seems likely that non-human creatures do experience things like pain and pleasure, but it is difficult to decide which do and which do not. One reason that it is difficult is because we attribute mentality to creatures based on their behavior, but entities without minds can mimic such behavior. For instance, many think that cats and dogs enjoy a mental life because they behave as if they are aware of their environment. But if this is reliable evidence that animals have minds, then it shows us that automatic cars, robotic vacuum cleaners, and oysters have minds too: these things also behave as if they are aware of their surroundings. 
 
 Should we be so confident that our pets have minds? Perhaps they merely mimic our behavior and are more like a robotic car than a young child. Or should we be so confident that robotic cars do not have minds? Perhaps an artificially intelligent creature could be sufficiently complex to enjoy mentality too. In order to answer questions like these, we need to know what it is to have a mind, which is the guiding question of this course. This claim rests on a more general principle: in order to know that some being has a property P, we need to know what P is and we need to know the conditions that must be satisfied to possess P. I can only know that Oprah Winfrey has the property of being a Golden Globe winner if I know what Golden Globe winners are and what it takes to be one. Similarly, we can only know that our pets have minds and that robots do not if we can determine what minds are and what it takes to possess one. 
 
-## What is the philosophy of mind? 
+
 
 Philosophers have no special claim to the study of the mind. Many disciplines ask what it is to have a mind and claim to make progress in answering that question, e.g., psychology, cognitive science, neuroscience, etc. What does philosophy have to offer in addition to these disciplines? It might be surprising that the philosopher has anything to offer: if you wanted to learn about cells, you would ask the cell biologist, not the philosopher. If you want to learn about neurons, you would ask the neuroscientist, not the philosopher. Why is the mind any different? 
 
