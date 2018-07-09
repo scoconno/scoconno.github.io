@@ -6,7 +6,7 @@ title: Personal Identity
 
 
 ## Reading
-+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
++ ['A Dialog on Personal Identity and Immortality',](Perry.pdf) J. Perry
 
 ## Notes 
 + [Star Trek, Second Chances](http://www.dailymotion.com/video/x53w3ti), the notes refer to the case described in this episode.
