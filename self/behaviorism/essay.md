@@ -17,7 +17,7 @@ Write the **legal brief** to the court. You can find a sample legal brief [here]
 
 1. Question: what is the case about? One sentence. 
 2. Short Answer: A one sentence summary of your case. 
-3. Facts: A detailed list of *some* of Koko's most human like behaviors, i.e., bodily movements and physical responses. Again, watch some of this documentary [here.](https://www.youtube.com/watch?v=8oh1uhrdc6w) 
+3. Facts: A detailed list of *some* of Koko's most human like behaviors, i.e., bodily movements and physical responses.  
 	1. NB: Behaviors are bodily movements and physical responses. If you describe Koko's behaviors by using mental terms, you will have failed this part of the assignment. For instance, if you say that Koko was happy when she saw the cat, then you will have used the word 'happy', which is not a word for a bodily movement or physical response. Describe only the movements and responses.
 1. Discussion: this should have two parts:
 	1. An explanation of logical behaviorism and the argument for it.   
