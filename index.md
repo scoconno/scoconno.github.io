@@ -12,3 +12,12 @@ I received my PhD from [Cornell University](http://philosophy.cornell.edu) in 20
 
 
 
+
+
+
+
+
+
+
+
+
