@@ -5,9 +5,9 @@ title: Essay
 ---
 ### Introduction
 
-What a case! You have never seen one like it in all these years of  working for the Gothic Knight Law Firm. A gorilla called Koko? Your clients want you to petition the courts for emancipation. That will be tough. You need to convince the courts that keeping Koko in captivity is as bad as keeping a human being in captivity. The case raises all kinds of tricky philosophical issues, but you settle on a strategy. Logical behaviorism is a theory of mind that shows Koko to enjoy mentality as much as any human being does. You first need to take a careful note of behaviors that most resemble those of a human being. Observation in hand, you can then use use logical behaviorism to prove that she has a mind. 
+What a case! You have never seen one like it in all these years of  working for the Gothic Knight Law Firm. A gorilla called Koko? Your clients want you to petition the courts for emancipation. That will be tough. You need to convince the courts that keeping Koko in captivity is as bad as keeping a human being in captivity. The case raises all kinds of tricky philosophical issues, but you settle on a strategy. Logical behaviorism is a theory of mind that shows Koko to have a mind as much as any human being does. You first need to take a careful note of behaviors that most resemble those of a human being. Observation in hand, you can then use use logical behaviorism to prove that she has a mind. 
 
-You can watch Koko here: [https://www.youtube.com/watch?v=8oh1uhrdc6w](https://www.youtube.com/watch?v=ADySPfNHs60&frags=pl%2Cwn)
+You can watch videos of Koko [here.](https://www.youtube.com/user/kokoflix)
 
  
 
