@@ -6,7 +6,7 @@ title: Notes
 
 ## Pre-cursor
 
-This note uses the concept of numerical identity, a concept that was first introduced when we discussed personal identity. The note below assumes you understand what 'numerical identity' means. If you cannot remember, or if you would like a reminder, then please read the note that explains the concept [here](http://www.scottoconnor.org/mind/personalidentity/notes/).
+This note uses the concept of numerical identity, a concept that was first introduced when we discussed personal identity. The note below assumes you understand what 'numerical identity' means. If you cannot remember, or if you would like a reminder, then please read the note that explains the concept [here](http://www.scottoconnor.org/self/personalidentity/notes/).
 
 ## Introduction
 The behaviorist defines a mental state in terms of physiological responses and bodily movements. Pain, on their view, just is a characteristic set of such responses and movements. A radically different view defines mental states in terms of brain states. A brain state is what is *going on* in your brain, more specifically a set of neurons firing in some characteristic pattern. A mental state is a state or condition some mind might be in, e.g., seeing, or thinking, being in pain, etc. So, thoughts, pains, desires, beliefs, etc., are all mental states. The mind-brain identity theory claims that each mental state is identical to some brain state, e.g., pain is identical to some neurons, in particular c-fibres, firing in some particular way. The view is called both the *mind-brain identity theory*, the *psycho-neural identity theory*, and even just *identity theory*,  
