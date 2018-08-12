@@ -1,0 +1,190 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
+
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{verbatim}
+\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
+\usepackage{stmaryrd}
+%\usepackage{mathpartir}
+\usepackage{txfonts}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{fontspec}
+%\setmainfont{Hoefler Text}
+\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{hyperref}
+\usepackage{lastpage, fancyhdr}
+%\usepackage{setspace}
+\pagestyle{fancy}
+\lhead{}
+\chead{Lecture 24, Stoic Epistemology\space---\space Handout} 
+\rhead{}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+\footskip=30 pt
+\headsep=20pt
+\thispagestyle{empty}
+\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{greek}
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\gk}[1]{\textgreek{#1}}
+\newcommand{\gloss}[1]{(\textgreek{#1})}
+
+\usepackage{covington}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\begin{document}
+
+%\maketitle
+\thispagestyle{empty}
+\begin{center} \LARGE{PHIL 321\\ Lecture 24: Stoic Epistemology}\\ \vspace*{2mm}
+\large{11/19/2013}\end{center}
+\thispagestyle{empty}\vspace*{3mm}
+\vspace*{-8mm}
+
+\noindent Sample question: What test does Aristotle propose for determining whether an end which is choice worthy for the sake of something else is \emph{also} choice worthy in itself?
+
+\section*{Background}
+
+\noindent The Stoics divided philosophy into three parts: Ethics, Physics, and Logic
+\vspace*{2mm}
+
+\noindent ``Logic'' contains what we think of now as logic, but also epistemology, philosophy of language, grammar, and other related fields
+\vspace*{2mm}
+
+\noindent\textbf{Epistemological shift}
+
+\noindent Plato and Aristotle seem primarily focused on the question ``What is \emph{epist\^{e}m\^{e}}?''
+\vspace*{2mm}
+
+\noindent The Hellenistics become concerned with the question ``Is \emph{epist\^{e}m\^{e}} possible?''
+\vspace*{2mm}
+
+\noindent Their basic worry can be put as follows: 
+\vspace*{2mm}
+
+\emph{epist\^{e}m\^{e}} is so important to our lives; indeed, whether our lives go poorly or well may depend entirely on whether we have episteme or not; plato and aristotle talked a lot about what episteme is, and they talked to some degree about how it would in theory be obtained; but they didn't address the worry whether it is possible for humans to obtain it
+\vspace*{2mm}
+
+\noindent in fact the kind of picture they develop invites the worry
+\vspace*{2mm}
+
+\noindent so, the Stoics thought that there must be some beliefs which, given the way they are formed, have some special status: they can't count as \emph{epist\^{e}m\^{e}} full bore; but they aren't mere opinions either; and that state is ``katalepsis''; as cicero says, the Stoics placed this state ``between'' knowledge and ignorance
+
+
+\section*{A basic skeptical argument (\emph{HP} 267, \S60)}
+
+\noindent The Stoics (and Epicureans) were empiricists---i.e. they think that all our knowledge and concepts ultimately derive from the senses; they differ in how they respond to this kind of skeptical argument:
+\vspace*{2mm}
+
+\noindent [P1] Some sense-impressions are true, some false
+\vspace*{1mm}
+
+\noindent\underline{[P2] It is not possible to distinguish true from false sense-impressions}
+\vspace*{1mm}
+
+\noindent [C] Nothing can be known
+\vspace*{2mm}
+
+\noindent The Epicureans reject [P1] (i.e. they think that all sense-impressions are true)
+\vspace*{2mm}
+
+\noindent The Stoics reject [P2], they thus have to give an account of what the ``criterion of truth'' is; i.e. some mechanism for reliably discriminating true from false impressions. This is the ``cataleptic impression.''
+
+\section*{Impressions}
+
+\noindent An impression is an alteration of the mind [= ``leading part of the soul''] caused:
+\vspace*{2mm}
+
+i) by an external object via the senses; or
+\vspace*{1mm}
+
+ii) by an internal object via the reason of imagination of the subject
+\vspace*{2mm}
+
+\noindent The two kinds of animal have different kinds of impressions:
+\vspace*{2mm}
+
+i) non-human animals and children have only non-rational impressions
+\vspace*{1mm}
+
+ii) adult humans (and gods) have only rational impressions (i.e. impressions with propositional content)
+\vspace*{2mm}
+
+\noindent A rational impression is a thought---either one caused:
+\vspace*{2mm}
+
+i) by an external object (e.g. ``This is red''), or
+\vspace*{1mm}
+
+ii) a complex internal `object' (e.g. ``Pleasure is not good'')
+\vspace*{2mm}
+
+\noindent Thoughts are constituted by two aspects:
+\vspace*{2mm}
+
+\textbf{P}: propositional content---the aspect of a thought that can be expressed by a proposition, \&
+\vspace*{1mm}
+
+\textbf{R}: Representational content---the aspect of a thought which represents \textbf{P} in a determinate way
+\vspace*{2mm}
+
+\noindent\textbf{NB: impressions are individuated by R; there can be indefinitely many impressions with content P (e.g. through different senses, from different angles, and so on)}
+
+
+\section*{Cataleptic Impressions}
+
+\noindent The Stoics think that, although we \emph{cannot} discriminate true impressions from false impressions \emph{in general}, there is a sub-set of true impressions which \emph{can} be reliably discriminated from false impressions: \emph{cataleptic impressions}
+\vspace*{2mm}
+
+\noindent A cataleptic impression is an impression which meets the following conditions: (\emph{HP} 112, \S46; 126-7, \S227-373)
+\vspace*{2mm}
+
+[1] It comes from what is
+\vspace*{1mm}
+
+[2] It is stamped and impressed in accordance with what is
+\vspace*{1mm}
+
+[3] It is such as could not come about from what is not
+\vspace*{2mm}
+
+\noindent This means that the cataleptic impression is:
+\vspace*{2mm}
+
+[1*] True, because its \textbf{P} corresponds to the state of affairs it represents
+\vspace*{1mm}
+
+[2*] Representationally accurate---i.e. it represents the relevant state of affairs with all the features it has which are perceptible by the sense which is causally involved
+\vspace*{1mm}
+
+[3*] Cannot be false, because the representational content is such that it could \emph{only} be caused by the state of affairs it represents as obtaining
+\vspace*{2mm}
+
+\noindent Thus the Stoics think that we have some impressions that are so representationally rich that the only way they could have come about is by being caused in the appropriate way, and hence that their \textbf{P} is guaranteed by that \textbf{R}  
+
+\section*{Problems}
+
+\noindent Do the Stoics think that there are impressions which we can ``tell'' are undoubtedly true by some kind of infallible mark which we ``read off'' such impressions
+\vspace*{2mm}
+
+\noindent Or, do they mean merely that there are some impressions which are of this kind, irrespective of whether a particular subject can tell which they are or not?
+
+\end{document}
