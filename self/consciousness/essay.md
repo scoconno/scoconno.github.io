@@ -6,7 +6,7 @@ title: Essay
 
 ### Task
 
-Compare and contrast the Higher Order Perception and Higher Order Thought theories of Consciousness. Which theory seems more plausible to you? Give reasons for your answer. 
+Compare and contrast the Higher Order Perception and Higher Order Thought theories of Consciousness. Which theory seems more plausible to you? Give reasons for your answer. (Demonstrate that you have used the assigned reading. Since my notes are merely supplemental to the reading, they do not provide sufficient information for you to complete these assignments; quote the readings and not my notes.)
 
 Your paper must include the following parts:     
 
