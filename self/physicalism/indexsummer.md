@@ -12,7 +12,8 @@ title: Physicalism
   + ['What Mary Didn't Know',](Jackson.pdf) F. Jackson 
 
 ## Notes
-+ [Notes](notes)
++ [Notes 1](notes)
++ [Notes 2](/self/physicalism2/notes)
 
 ## Videos
 + Required
@@ -29,6 +30,4 @@ title: Physicalism
 ## Podcasts
 + [Frank Jackson on What Mary Knew](http://hwcdn.libsyn.com/p/4/4/6/446346944c84176f/Frank_Jackson_on_What_Mary_Knew.mp3?c_id=3656392&expiration=1491757499&hwt=660df0718abf741846fb4ed0de27c37d)
 
-## Assignments
-+ Quiz 
 
