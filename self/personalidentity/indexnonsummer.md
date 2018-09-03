@@ -4,7 +4,8 @@ title: Personal Identity
 ---
 
 ## Reading
-+ ['A Dialog on Personal Identity and Immortality',](http://www.humanscience.org/docs/Perry%20(1978)%20A%20Dialogue%20on%20Personal%20Identity%20and%20Immortality.pdf) J. Perry
++ ['A Dialog on Personal Identity and Immortality',](Perry.pdf) J. Perry
+
 
 ## Notes 
 

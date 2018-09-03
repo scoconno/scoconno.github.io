@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  3 AUG 2018 17:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  30 AUG 2018 15:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1508,6 +1508,11 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
+Overfull \hbox (19.71704pt too wide) in paragraph at lines 92--93
+\TU/MinionPro(0)/m/n/10 mation about the General Education Program see [][]http
+s://www.njcu.edu/department/general-
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1516,44 +1521,44 @@ LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
 (Font)              scaled to size 9.84024pt on input line 114.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
 (Font)              scaled to size 9.84024pt on input line 116.
- [2]
+[2]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 151.
+(Font)              scaled to size 9.84024pt on input line 149.
 
-Overfull \hbox (16.33888pt too wide) in paragraph at lines 160--161
+Overfull \hbox (16.33888pt too wide) in paragraph at lines 158--159
 \TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
 ]http://scottoconnor.org/contact/[][]. 
  []
 
 [3] [4]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 200.
+(Font)              scaled to size 8.85622pt on input line 199.
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--215
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 []|\TU/MinionPro(0)/m/n/10 – **‘A Confession’, Tolstoy, pp.13–55
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--218
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 []|\TU/MinionPro(0)/m/n/10 – **‘A Confession’, Tolstoy, pp.55–93
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 198--231
+Overfull \hbox (50.65942pt too wide) in alignment at lines 197--230
  [] [] [] 
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 231--262
+Overfull \hbox (50.65942pt too wide) in alignment at lines 230--261
  [] [] [] 
  []
 
 [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
  (./Syllabus2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 269.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 269.
 Package logreq Info: Writing requests to 'Syllabus2.run.xml'.
 \openout1 = `Syllabus2.run.xml'.
 

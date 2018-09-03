@@ -50,15 +50,12 @@ I occasionally have students report that their computer crashes one minute befor
 
 1. Read the syllabus carefully. Course policies vary by professors, sometimes significantly. I don't allow make-ups, but other professors do. You need to understand the policies that govern this course and understand what is required of you.  
 
-2. Read my introduction to the course content below. 
+2. Read my introduction to the course content. 
 
 3. Familiarize yourself with Blackboard and the course website.
 
 3. Contact me if you have questions about the policies. 
 
-4. Complete our first topic by clicking 'materials' in week 1 in Blackboard. 
-
-5. Complete the assignments. 
 
 ## Broken links
 
@@ -66,40 +63,7 @@ If a link is broken, please contact me and I will fix it promptly.
 
 
 
-## What is the philosophy of mind? 
 
-Minds are curious sorts of thing. We readily distinguish those things that have them from those that do not. Pet owners regularly gush over their little darlings, claiming that little Fido is *excited* when outside, or furry Penny, my cat, *dislikes* being picked up. In making these claims, pet owners are attributing mentality to animals; they assume their pets have desires, emotions, experience pleasure and pain, etc. It seems likely that non-human creatures do experience things like pain and pleasure, but it is difficult to decide which do and which do not. One reason that it is difficult is because we attribute mentality to creatures based on their behavior, but entities without minds can mimic such behavior. For instance, many think that cats and dogs enjoy a mental life because they behave as if they are aware of their environment. But if this is reliable evidence that animals have minds, then it shows us that automatic cars, robotic vacuum cleaners, and oysters have minds too: these things also behave as if they are aware of their surroundings. 
-
-Should we be so confident that our pets have minds? Perhaps they merely mimic our behavior and are more like a robotic car than a young child. Or should we be so confident that robotic cars do not have minds? Perhaps an artificially intelligent creature could be sufficiently complex to enjoy mentality too. In order to answer questions like these, we need to know what it is to have a mind, which is the guiding question of this course. This claim rests on a more general principle: in order to know that some being has a property P, we need to know what P is and we need to know the conditions that must be satisfied to possess P. I can only know that Oprah Winfrey has the property of being a Golden Globe winner if I know what Golden Globe winners are and what it takes to be one. Similarly, we can only know that our pets have minds and that robots do not if we can determine what minds are and what it takes to possess one. 
-
-
-
-Philosophers have no special claim to the study of the mind. Many disciplines ask what it is to have a mind and claim to make progress in answering that question, e.g., psychology, cognitive science, neuroscience, etc. What does philosophy have to offer in addition to these disciplines? It might be surprising that the philosopher has anything to offer: if you wanted to learn about cells, you would ask the cell biologist, not the philosopher. If you want to learn about neurons, you would ask the neuroscientist, not the philosopher. Why is the mind any different? 
-
-The study of cells and neurons is different from the study of mind in one important way. A cell is a target that we can agree upon; it is something that can be seen under a microscope and it is relatively clear what questions need to be answered in order to understand what it is. Even though we might disagree about the nature of a cell, at least we know we are talking about the very same things. The mind is not like this. There is no agreement about what questions we should ask about the mind or even how we should go about answering them. Should we focus merely on the way brains process information? Must we also understand how a person represents their environment to themselves? What exactly are those questions that must be asked about the mind? How can we even be sure that our disagreements are about the same thing? Perhaps the neuroscientist and the psychologist are referring to two different things with the word 'mind', with the result that their disagreement about the nature of the mind is an empty one; they are not pointing to the same thing and disagreeing about what it is. 
-
-It is here that philosophy plays one role. Philosophers identify and clarify those questions that must be answered if we are to fully understand the nature of the mind. They do this by first seeking to identify the marks of mentality, the features that seem to distinguish the mental from the non mental. If successful, this will help all parties investigating the nature of the mind to focus their attention on the same phenomena. 
-
-So, what are these features?  A good place to start is by noticing that there are a vast variety of mental phenomena, or 'mental states'. 'Mental state' is a phrase you will hear a lot in this class. Roughly, you should think of them as states of the mind as opposed to states of the body. For instance, the thought of ice-cream on a hot day is a mental state, a state you are in when thinking about ice-cream. The acid in your stomach digesting that ice-cream is a state of your body. It is not a mental state, a state of your mind. All of your beliefs, desires, emotions, thoughts, etc., are mental states; they are states of your mind.  
-
-There are various distinctions we can draw amongst these mental states. First, there are a large group of mental states that we might call phenomenal or qualitative states. Amongst these are included  1) sensations like pains, itches, tickles, etc., and 2) perceptions like smell, taste, etc. So, when you feel an itch, that itch is a mental state, a state of your mind. When you see an ice-cream cone, that seeing is one mental state. When you taste the ice-cream, that tasting is a different mental state. When you feel the ice-cream running down your fingers, that feeling is yet another mental state, etc. 
-
-Perceptions and sensations have some interesting differences. Perception primarily serves to provide information about the world, about something other than our body (though it can provide information about our body too). Sensations, on the other hand, seem primarily to give us information about our body. They tell us, for instance, that some tissue is damaged. Despite all these differences, though, these two types of states seem similar in one important respect, each has its own distinctive feel. There is a feel to pain that makes pain the mental state it is. There is a different feel to seeing green that makes it the particular mental state it is. 
-
-Philosophers are interested in these 'feels'. We will look at two related questions. The first is whether they are something physical; would a person who knew every physical fact about a person's experience of red thereby know what it is was like to see red? The question has large implications about the nature of mind, about whether the mind is purely physical. A second question is how we have access to these 'feels'. How am I aware of the itchiness of my itch and the discomfort of a sun burn? Some have claimed that we must possess something like an internal eye, a scanner whose job it is to detect these various qualitative aspects of our experiences. Others scoff at the suggestion, pointing out that we discover no internal eye upon dissecting the brain.
-
-A second group of mental states are called 'propositional attitudes'. This is a technical phrase, one of the many phrases that we'll be learning in this course, though I will use as few as possible. Propositional attitudes correspond roughly to the different types of thoughts that we can have. Contemplating the nature of ice-cream and hoping for ice-cream are different thoughts. And while they are different from one another, these two thoughts seem more similar to one another than they do to tasting ice-cream or seeing ice-cream. Propositional attitudes and phenomenal experiences are very different from one another, and any adequate theory of mind needs to explain both these types of phenomena; a theory that explains only one will not thereby explain the other. Why are these different? It seems that entities could have propositional attitudes without having  sensations. A computer, for instance, might feasibly be taken as having propositional attitudes, as having thoughts, but not having sensations. In contrast, some organisms may have sensations but not have thoughts. An oyster, for instance, might feel pain, but it may not have the ability to think about its pain or anything else. 
-
-This is just a sample of the distinctions that philosophers draw about the mind; noting subtle differences between clusters of similar phenomena is something philosophers are particularly good at. It is useful to draw these distinctions in studying the mind. For instance, does having a mind require that we have sensations, perceptions, and thoughts? Or could something have a mind if it only had, say, sensation? And is it important to, say, having consciousness that one can be aware of their sensations, perceptions, and thoughts? Or could I have sensations that I am unaware of?  These set of questions will entertain us in the second half of the course. 
-
-
-## Mind-body problem
-
-A second question that philosophy hopes to answer is called the mind-body problem. The problem arises because the mind and brain are intimately connected but that connection is difficult to explain. Every mental change correlates with some physical change in the brain. Or, as philosophers like to say, mental states supervene on brain states. This means that whenever our mental states change, so too do our brain states. If you have the taste of ice-cream in your mouth replaced by the taste of orange juice, there will be some corresponding change in states of your brain. 
-
-But how can we explain this correlation? Our brain states are neural states, states in which various neurons are firing. Neurons, in turn, are ultimately composed of the most fundamental bits of matter. So, when we enjoy listening to a piece of music, this enjoyment correlates with some sequence of neural firing. But the enjoyment and neural firing seem very different from one another; enjoyments don't seem to be made up of bits of matter, for instance. So, how can they be so intimately connected? This is called the mind-body problem and has received much attention, both historically and in contemporary investigations of the mind. We will be looking at a variety of views, ranging from the suggestion that mental states are identical to brain states to the suggestion that the mind and brain are two different type of substances altogether. Each view has problems.
-
-This question, like many in the study of mind, does not yet have a satisfactory answer. But don't despair! Many areas of inquiry have taken centuries to advance. We shouldn't be surprised that the secrets of the mind are also taking a very long time to unlock. The goal of this course is to teach you about some of the most exciting questions about the mind that are being asked and studied; it cannot teach you the answers that have yet to be found. 
 
 
 
