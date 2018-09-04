@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Scott O'Connor</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2018-07-28T15:33:24-04:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2018-09-04T17:06:51-04:00</updated>
+ <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
