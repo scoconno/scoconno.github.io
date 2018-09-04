@@ -1,36 +1,25 @@
 ---
-layout: default
+layout: course
 title: The Examined Life
 
 ---
 
-# Phil 140: The Examined Life
-
-
-## Course Information
-+ [Syllabus](Syllabus.pdf)
-+ [Grading information](/resources/grading/)
-+ [Essay check list](/resources/check)
-+ [Resources](/resources/)
-+ [Contact information](/contact)
-+ [Office hours](/contact/office)
-+ [Blackboard](http://blackboard.njcu.edu) 
+# Course Information
++ Syllabus
+	+ M&W Section: [Syllabus](Syllabus.pdf)
+	+ M only section: [Syllabus](Syllabus2.pdf)
++ [General Education at NJCU](http://www.njcu.edu/department/general-education)
++ [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
 ## Withdrawal Dates
 
-|         |     | 
+|         	 |     | 
 | :-------------: | ------------- | 
-| September 11 | Final day to drop course(s) for 100% refund of tuition online through self-service on GothicNet or at the Registrar’s Office, 9:00 a.m. to 7:00 p.m. Canceled courses are dropped by computer for 100% refund. |
-| October 2 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
-| November 1  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
+| Sept 10 | Final day to drop course(s) for 100% refund of tuition online through self-service on GothicNet or at the Registrar’s Office, 9:00 a.m. to 7:00 p.m. Canceled courses are dropped by computer for 100% refund. |
+| Oct 10 | Final day to withdraw from a course(s) for a 50% refund of tuition with a “W” grade(s) at the Registrar’s Office, H-214. |
+| Nov 1  | Final Day to withdraw from a course(s) for a “W” grade(s) at the Registrar’s Office, H-214.|
 
 
-## More philosophy? 
-
-+ [What you can do with a philosophy major](http://whatcanidowiththismajor.com/major/philosophy/)
-+ [Mid-career median salary for philosophy majors is $81,000](http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html)
-+ [More reasons to study philosophy here](http://www.njcu.edu/philosophyreligion/why-philosophy)
-+ NJCU offers a minor in philosophy & religion, a major in philosophy, and a new interdisciplinary minor in ethics. More details will be available on the [Department of Philosophy & Religion's website](http://www.njcu.edu/department/philosophy-religion).
 
 
 
@@ -39,7 +28,9 @@ title: The Examined Life
 Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. Consult the syllabus for a full list of what is required for each week. Note that essays are on a prior week's topic, e.g., essay 1 posted under week 2 concerns the material from week 1. 
 
 
-**Week 1**  
+**9/3 & 9/10**  
+
+*Part 1*
 
 + [Notes](Intro/Notes/)
 + [Reading](/examined/Intro/ch1.pdf)--please purchase the book by next week.
@@ -47,11 +38,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ [The Matrix](https://www.youtube.com/watch?v=zE7PKRjrid4)
 	+ [Allegory of the Cave](https://www.youtube.com/watch?v=h55X9LJTAg4)
 
----
+*Part 2* 
 
-**Week 2**
-
-+ [Essay 1](Intro/Essay)
 + *Notes* 
 	+ [Notes](CT/Handout)
 	+ [Answer key](CT/Answers) 
@@ -64,7 +52,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 	
-**Week 3**	
+**9/17**	
 
 + [Notes](Meaning/Handout)
 + [Optional reading](Meaning/Confession.pdf)
@@ -74,9 +62,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 	
-**Week 4**
+**9/24**
 
-+ [Essay 2](Meaning/Essay)
 + *Notes*
 	+ [Notes 1](Meaning/Handout2)
 	+ [Notes 2](Meaning/Handout3)	
@@ -86,7 +73,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 
-**Week 5**
+**10/1**
 	
 + [Notes](God/Handout1)
 + Readings
@@ -97,19 +84,20 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 
-**Week 6**
+**10/8**
 
-+ [Essay 3](God/Essay1) 
-	+ [Sample response 1](God/sample1.pdf)
-	+ [Sample response 2](God/sample.pdf)
 + [Notes](God/Handout2)
 + Videos
 	+ [The Ontological Argument](https://www.youtube.com/watch?v=FmTsS5xFA6k)
 	+ [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
++ Essay samples 
+	+ [Sample response 1](God/sample1.pdf)
+	+ [Sample response 2](God/sample.pdf)
+
 
 ---
 
-**Week 7**
+**10/15**
 
 + [Notes](God/Handout3)
 + ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
@@ -118,9 +106,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 
-**Week 8**
+**10/22**
 
-+ [Essay 4](God/Essay2)
 + [Notes](FreeWill/Handout1)	
 + *Videos* 
 	+ [Free-will video](http://www.wi-phi.com/video/problem-free-will)
@@ -130,7 +117,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 	
-**Week 9**
+**10/29**
 
 + [Notes](FreeWill/Handout2)
 + ['Please Don’t Tell Me How The Story Ends’,](http://creationdemonstration.blogspot.com/2013/03/please-dont-tell-me-how-story-ends.html) Thomas Davis
@@ -147,9 +134,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 	
-**Week 10**
+**11/5**
 
-+ [Essay 5](FreeWill/Essay) 
 + [Notes](/mind/dualism/notes)
 + [‘Life after Life’,](Mind/Life.pdf) Thomas Davis
 + Optional Reading: [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes
@@ -157,7 +143,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 
 ---
 
-**Week 11**
+**11/12**
 Please have a conversation with a recent winner of the Loebner prize [here](http://www.mitsuku.com). 
 
 + Notes
@@ -178,9 +164,8 @@ Please have a conversation with a recent winner of the Loebner prize [here](http
 
 ---
 
-**Week 12**
+**11/19**
 
-+ [Essay 6](Mind/Essay) 	
 + [Notes](Ethics/Handout)
 + *Reading*
 	+ ['Kirinyaga’, ch.1](Ethics/Kirinyaga.pdf) Mike Resnik
@@ -190,7 +175,7 @@ Please have a conversation with a recent winner of the Loebner prize [here](http
 
 ---
 
-**Week 13**
+**11/26**
 
 + *Notes*
 	+ [Notes](Ethics/Handout2)
@@ -200,7 +185,7 @@ Please have a conversation with a recent winner of the Loebner prize [here](http
 
 ---
 
-**Week 14**
+**12/3**
 
 + *Notes*	
 	+ [Notes 1](Ethics/Handout3)
@@ -215,13 +200,7 @@ Please have a conversation with a recent winner of the Loebner prize [here](http
 
 ---
 
-**Week 15**
-+ **No class**
-+ [Essay 7](Ethics/Essay2) 
+**12/10**
++ Continued
 
----
-
-**Week 16**
-+ **No class**
-+ [Signature Assignment](Applied/Essay) due 12/19/17
 

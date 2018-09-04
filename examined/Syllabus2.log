@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  4 SEP 2018 12:05
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  4 SEP 2018 12:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1549,16 +1549,16 @@ Overfull \hbox (50.65942pt too wide) in alignment at lines 197--230
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 230--261
+Overfull \hbox (50.65942pt too wide) in alignment at lines 230--262
  [] [] [] 
  []
 
 [5] [6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (./Syllabus2.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 269.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 269.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 270.
 Package logreq Info: Writing requests to 'Syllabus2.run.xml'.
 \openout1 = `Syllabus2.run.xml'.
 
