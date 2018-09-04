@@ -6,8 +6,8 @@ title: The Examined Life
 
 # Course Information
 + Syllabus
-	+ M&W Section: [Syllabus](Syllabus.pdf)
-	+ M only section: [Syllabus](Syllabus2.pdf)
+	+ M Section: [Syllabus](Syllabus.pdf)
+	+ M&W only section: [Syllabus](Syllabus2.pdf)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
