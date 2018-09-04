@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  30 AUG 2018 15:02
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  4 SEP 2018 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1553,7 +1553,7 @@ Overfull \hbox (50.65942pt too wide) in alignment at lines 230--261
  [] [] [] 
  []
 
-[5] [6]
+[5] [6] [7]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
  (./Syllabus2.aux)
@@ -1566,10 +1566,10 @@ Package logreq Info: Writing requests to 'Syllabus2.run.xml'.
 Here is how much of TeX's memory you used:
  32778 strings out of 493005
  585186 string characters out of 6134596
- 1266155 words of memory out of 5000000
+ 1267155 words of memory out of 5000000
  36512 multiletter control sequences out of 15000+600000
  4633 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  50i,11n,117p,10375b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Syllabus2.pdf (6 pages).
+Output written on Syllabus2.pdf (7 pages).
