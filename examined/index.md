@@ -36,7 +36,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + [Reading](/examined/Intro/ch1.pdf)--please purchase the book by next week.
 + *Videos* 
 	+ [The Matrix](https://www.youtube.com/watch?v=zE7PKRjrid4)
-	+ [Allegory of the Cave](https://www.youtube.com/watch?v=h55X9LJTAg4)
+	+ [Allegory of the Cave](https://www.youtube.com/watch?v=_dlmsULpgjI)
 
 *Part 2* 
 
