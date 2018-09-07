@@ -5,16 +5,37 @@ title: Notes
 
 ## Introduction
 
-Compare a picture of you taken yesterday to a picture taken of you as a baby. Are the people depicted in the photographs the same person? They certainly seem different. One is a small baby, just a few pounds in weight. The other is heavier, taller, able to think, read, and do all the things that adults can do but babies cannot.  But, while they appear different, they are, somehow, the same person. For instance, the mother of that baby is also the mother of that adult, the inheritance promised to that baby is inheritance that adult is entitled to, the first steps of that baby were the first steps of that adult, etc. Our first topic concerns how this is possible; how could that adult be identical to that baby?  
+Compare a picture of you taken yesterday to a picture taken of you as a baby. Are the people depicted in the photographs the same person? They certainly seem different. One is a small baby, just a few pounds in weight. The other is heavier, taller, able to think, read, and do all the things that adults can do but babies cannot.  But, while they appear different, they are surely the same person. The mother of that baby is also the mother of that adult, the inheritance promised to that baby is inheritance that adult is entitled to, the first steps of that baby were the first steps of that adult, etc. Our first topic concerns how this is possible; how could that adult be the same person as that baby?  
 
 English can mislead us when trying to answer questions about identity because the words 'identity', 'identical', 'similar', and 'same' are ambiguous; they can be used to describe different relations. And whenever a word can be used in several ways, we need to disambiguate those uses to answer questions that contain them. For instance, if a person told you that they left their car near the bank, they could mean that they left it near the money bank or the river bank. It's obviously important to identify which kind of bank they mean. 
 
-'Identity' can also be used in different ways. On the one hand, it can be used to speak about *qualitative similarity*. Qualitative similarity is something that distinct objects enjoy by sharing similar features. For instance, two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger bread men made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But they are *two* cookies. You eat two cookies if you eat both of them.
+'Identity' and 'same' can also be used in different ways. On the one hand, they can be used to speak about *qualitative similarity*. Consider this picture:
 
+![image](chairs.jpg)
 
-'Identity' can also be used to talk about *numerical identity*, the relation that each thing holds to itself and nothing else. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Suppose you know that Superman and Clark Kent are in the room. You would make a mistake if you counted them as two people; there is just one person there. Similarly, if the ginger bread man is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both of them. You eat just one. 
+Are the chairs depicted in this picture the same? Are they identical? If we mean to ask whether these chairs are qualitatively similar, then the answer is 'yes'. Qualitative similarity is something that distinct objects enjoy by sharing similar features. These two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger breadmen made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But they are *two* cookies. You eat two cookies if you eat both of them. Things can be more or less qualitatively similar. The two chairs are very similar because they share very many qualities. But now consider this picture: 
 
-When characterizing properties and relations, it is important to identify their formal features. Numerical identity has three such features. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
+![image](cat.jpg)
+
+The lion and the cat are qualitatively similar because they have some features in commoon, but they are not as similar as the two chairs above; they don't share as many properties as the two chairs share. Nevertheless, we would all agree that the lion and the cat are the same if we mean they share some features in common. 
+
+'Identity' and 'same' can also be used to talk about *numerical identity*, the relation that each thing holds to itself and nothing else. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Consider this picture: 
+
+![image](Superman.jpg)
+
+Are Superman and Clark Kent the same person? They are qualitatively similar because they share some features. But they are the same person in a different way too: there is just one person who happens to have two names. You would make a mistake if you counted them as two people. If only Superman and Clark Kent are in a room, there is only still one person in that room. Similarly, if the gingerbread man is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both of them. You eat just one. 
+
+Our interest in personal identity is an interest in numerical identity. Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weights, made of different cells, have different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you; and if that baby is identical to some teenager, then you too are identical to that teenager. So, the adult and baby in those pictures are only slightly qualitatively similar, but they are still numerically identical. Our interest is how this possible. 
+
+Why care?  Numerical identity undergirds many of our moral and social institutions. The social security number assigned to that baby belongs to whoever is numerically identical to her. Being only qualitatively similar does not suffice. That would mean a twin could get that baby's social security. Similarly, the prison sentence delivered to a defendant should only be served by prisoners identical to that defendant. Suppose a prisoner is in the tenth year of a prison sentence for a crime committed by a person that they are only qualitatively similar to. What an injustice that would be! They would be serving a sentence for a crime that they did not commit. 
+
+Numerical identity is also important for questions about survival after death. In the dialog assigned for this week, there are three participants, Gretchen Weirob, a philosophy professor;  Sam Miller, a chaplain and longtime friend of Gretchen’s; and Dave Cohen, a former student of Gretchen’s. Gretchen, who is dying in the hospital, challenges Sam to prove to her that survival after the death of her body is possible. If Sam can do that, Gretchen says that she will be comforted. Sam and Dave consider various arguments for the claim that persons can survive the death of their body, but Gretchen remains unconvinced. In order to convince her, they need to prove that there will exist a person after her bodily death that is numerically identical to the sick woman conversing with them in the hospital. In other words, Gretchen, G, our sick philosopher, survives if and only if there is some person F at a time after her body has died such that G is identical to F. F can't be merely similar to G. G survives only if F is numerically identical to G. 
+
+This should be obvious. You may hear someone claim that they will live on in the thoughts and memories of others after they die. They may even claim that they will never really die as long as someone remembers them. But this is a sloppy way of talking. In order for you to exist in the future, there must be a future person that you are numerically identical to. And while I hope many remember you after you pass away, you are not numerically identical to any memory. So even if you are remembered after you die, you do not continue to exist by being remembered.  
+
+## Puzzling about Identity 
+
+It seems obvious that you are numerically identical to that baby you came from despite the many qualitative differences between you. Why is this puzzling? Before I introduce the puzzle, I need to discuss three features of the numerical identity relation. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
 
 + A relation R is **reflexive** if and only if everything bears R to itself.
 	+ Example 1: everything is the *same height* as itself. *Same height* is a reflexive relation.
@@ -28,34 +49,26 @@ When characterizing properties and relations, it is important to identify their 
 	+ Example 1: if Susan is shorter than Sarah, and Sarah is shorter than Hannah, then Susan is shorter than Hannah. *Shorter than* is a transitive relation.
 	+ Example 2: if John loves Mary and Mary loves Susan, it does not follow that John loves Susan. *Loving someone* is not a transitive relation. 
 
-Numerical identity has all of these features. Each thing is identical to itself, e.g., Susan is identical to herself. And identity is obviously symmetrical: if Superman is identical to Clark Kent, then Clark Kent is identical to Superman. And identity is also a transitive relation: if x = y, and y = z, then x = z. 
+Numerical identity has all of these features. Each thing is identical to itself, e.g., Susan is identical to herself. And identity is obviously symmetrical: if Superman is identical to Clark Kent, then Clark Kent is identical to Superman. And identity is also a transitive relation: if Clark Kent = Superman, and Superman = Kal-El, then Clark Kent = Kal-El.
 
-Our interest in personal identity is an interest in numerical identity. Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weights, made of different cells, have different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you; and if that baby is identical to some teenager, then you too are identical to that teenager. So, the adult and baby in those pictures are not qualitatively similar in every respect, but they are numerically identical. And our interest is how this possible. 
+These features of the identity relation lead to a variety of puzzles. I discuss one here. In the Star Trek episode assigned this week (see the main page), there is a terrible accident with some futuristic equipment, a transporter device. A transporter works by scanning and de-materializing your body in one spot before re-materializing you at some different spot. But in our episode, the transporter malfunctions. After de-materializing one person, it subsequently re-materializes what appears to be two versions of that person. 
 
-Why care?  Numerical identity undergirds many of our moral and social institutions. The social security number assigned to that baby belongs to whoever is numerically identical to her. Being only qualitatively similar does not suffice. That would mean a twin could get that baby's social security. Similarly, the prison sentence delivered to a defendant should only be served by prisoners identical to that defendant. Suppose a prisoner is in the tenth year of a prison sentence for a crime committed by a person that they are only qualitatively similar to. What an injustice that would be! They would be serving a sentence for a crime that they did not commit. 
+![image](Riker.jpg)
 
-Numerical identity is also important for questions about survival after death. In the dialog assigned for this week, there are three participants, Gretchen Weirob, a philosophy professor;  Sam Miller, a chaplain and longtime friend of Gretchen’s; and Dave Cohen, a former student of Gretchen’s. Gretchen, who is dying in the hospital, challenges Sam to prove to her that survival after the death of her body is possible. If Sam can do that, Gretchen says that she will be comforted. Sam and Dave consider various arguments for the claim that persons can survive the death of their body, but Gretchen remains unconvinced. In order to convince her, they need to prove that there will exist a person after her bodily death that is numerically identical to the sick woman conversing with them in the hospital. In other words, Gretchen, G, our sick philosopher, survives if and only if there is some person F at a time after her body has died such that G is identical to F. F can't be merely similar to G. G survives only if F is numerically identical to G. 
-
-This should be obvious. You may hear someone claim that they will live on in the thoughts and memories of others after they die. They may even claim that they will never really die as long as someone remembers them. But this is a sloppy way of talking. In order for you to exist in the future, there must be a future person that you are numerically identical to. And while I hope many remember you after you pass away, you are not numerically identical to any memory. So even if you are remembered after you die, you do not continue to exist.  
-
-## Puzzling about Identity 
-
-It seems obvious that you are numerically identical to that baby despite the many qualitative differences between you. Why is this puzzling?   In the Star Trek episode assigned this week (see the main page), there is a terrible accident with some futuristic equipment, a transporter device. A transporter works by scanning and de-materializing your body in one spot before re-materializing you at some different spot. But in our episode, the transporter malfunctions. After de-materializing one person, it subsequently re-materializes what appears to be two versions of that person. While a piece of fiction, this example helps illustrate something philosophically interesting (philosophers often use thought experiments to test and refine their theories, raise questions, etc.). Allow '=’ for ‘numerically identical to’ and allow the following names for our various characters in the episode:
+While a piece of fiction, this example helps illustrate something philosophically interesting (philosophers often use thought experiments to test and refine their theories, raise questions, etc.). Allow '=’ for ‘numerically identical to’ and allow the following names for our various characters in the episode:
 + “Riker” is the person who beams onto the planet 8 years ago.
 + “William” is the person who materialized on Potemkin ship after Riker was de-materialized.
 + “Thomas” is the person who materialized on the planet after Riker was de-materialized.
 
-![image](Rikerquest.jpg)
-
 
 What happened to Riker after the accident?  Did he continue to exist as Thomas, or as William, or as both? Both of the following seem plausible:
 
-1. Riker = Thomas 
-2. Riker = William 
++ 1. Riker = Thomas 
++ 2. Riker = William 
 
 If we ignore William for a moment, none of us would doubt 1, that Thomas is identical to Riker, to the man who beamed down to the plant several years ago. If we ignore Thomas for a moment, none of us would doubt 2, that William is identical to Riker. But given the transitivity of identity, if 1 and 2 are true, then the following must also be true: 
 
-3. Thomas = William
++ 3. Thomas = William
 
 3 says that Thomas and William are numerically identical to one another. Again, if Riker is identical to Thomas and Riker is identical to William, then Thomas and William are identical to one another. But this is clearly false, which is easy to demonstrate with the following simple example: in the episode, Councilor Troy kissed Thomas. If 3 is true, if Thomas is identical to William, then Troy also kissed William. But William was in a different part of the ship when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas.
 
