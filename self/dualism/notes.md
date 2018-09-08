@@ -20,6 +20,7 @@ Descartes' skepticism motivated him to reexamine many central tenants in mathema
 
 > Descartes went far beyond the Copernican hypothesis that our Sun lies at the center of the universe with the Earth moving about it. He contended that the Earth is one among many planets, revolving around many different suns distributed throughout the cosmos. He further proposed that the whole universe is made of one kind of matter, which follows one set of laws. He invented the concept of a single universe, filled with matter having a few describable properties and governed by a few laws of motion. While others, including ancient atomists and Stoics, had sketched part of this new picture, Descartes’ vision of a unified physics governed by a few laws of motion was far richer and more detailed. Its combination of breadth and unity was unprecedented in his earlier work with Beeckman, or in the works of Copernicus, Galileo, or Kepler. This unified vision set the framework for Newton’s subsequent unification of mechanics and astronomy.” (Hatfield (2003), 18)
 
+
 ## Descartes' substance dualism
 
 Our interest is Descartes' contributions to the philosophy of mind, most especially his argument for substance dualism. His argument is so famous that the position is also called 'Cartesian Dualism' after Descartes. His view can be summarized with the following four claims:  
@@ -157,61 +158,4 @@ We are said to know something ''directly'' when the knowledge is not based on ev
 6. Hence, I am not identical with my body.”
 
 > Should the soul of a prince, carrying with it the consciousness of the prince’s past life, enter and inform the body of a cobbler, as soon as deserted by his own soul, everyone sees he would be the same person with the prince, accountable only for the prince’s action.... Had I the same consciousness “that I saw the ark and Noah’s flood, as that I saw an overflowing of the Thames last winter, or as that I write now, I could no more doubt that I who write this now, that saw the Thames overflowed last winter, that viewed the flood at the general deluge, was the same self ... than that I who write this am the same myself now whilst I write ... that I was yesterday. (Locke)
-
-## Problems with Substance Dualism
-
-### Problems with the Cogito
-
-There are several problems with the Cogito, Descartes' main argument that he exists and is a thinking being. The most pressing is a concern about whether the argument assumes what it seeks to prove. Recall that Descartes argues as follows: 
-
-1. I am thinking. 
-2. Therefore, I exist.
-
-The premise, 'I am thinking' seems to presuppose that the subject of the thought exists. Since the subject of the thought is 'I', the premise then assumes the conclusion, i.e., it assumes that I exist. An argument that assumes what it is trying to prove is obviously circular. And recall that Descartes is supposed to be testing whether he can doubt his own existence. He is begging the question if he argues, ‘I exist, therefore I cannot doubt that I exist.’
-
-We might try save Descartes by reformulating the argument in a non-question begging way:
-
-1.  There is a thought
-2.  Therefore,  I exist
-
-The evil demon certainly cannot deceive us about whether there is thought, so we can be certain about the first premise. This argument also avoids begging the question in the way the argument above does not. However, the argument is invalid. We  cannot infer from the fact that there is someone doing P, that we are that person  doing P. Compare: 
-
-1. There is swimming. 
-2. Therefore, I am swimming.
-
-We can infer that someone is *swimming* from the first premise, but we cannot infer that we are the person doing the swimming. Similarly, even if we can infer from the fact that a thought  exists that *someone* is thinking, we cannot infer that we are the ones thinking that thought. 
-
-So, the main problem for Descartes is that his argument at most proves that someone exsts, but it does not prove that he is that existing person. 
-
-### Problems with Causal Interaction
-
-While the above objection focused on Descartes' method in arguing for substance dualism, there are independent reasons for thinking that substance dualism is problematic. Consider how the mind and body causally influence one another. Our decision to throw the ball causes our limbs to move. The cat biting our finger causes our mind to feel pain. But how does this mental causation work? Think of an easy case of causation, say the movement of a pool ball as it is struck by another. One pool ball brings about an effect in another pool ball by, in part, touching it. Does all causation involve contact? Contact requires surfaces, so if causation involves contact, how could the mind, which doesn't have a surface according to Descartes, touch the body that does have a surface? Descartes answers in his sixth Meditation as follows: 
-
-> The mind is not immediately affected by all parts of the body, but only by the brain, or perhaps just by one small part of the brain.... Every time this part of the brain is in a given state, it presents the same signals to the mind, even though the other parts of the body maybe in a different condition at the time.... For example, when the nerves in the foot are set in motion in a violent and unusual manner, this motion, by way of the spinal cord, reaches the inner parts of the brain, and there gives the mind its signal for having a certain sensation, namely the sensation of a pain as occurring in the foot. This stimulates the mind to do its best to get rid of the cause of the pain, which it takes to be harmful to the foot.
-
-So, Descartes identifies the pineal gland as the seat of the soul, as that place where the soul and mind directly interact. The soul causes the pineal gland to move some bodily fluids in the nerves; the various motions of this fluid apparently cause the bodily parts to then move. So, the soul does not directly cause the hand to move. The soul interacts with the pineal gland and it is the pineal gland that directly causes the hand to move. 
-
-Princess Elisabeth of Bohemia challenged Descartes to explain:
-
-> how the mind of a human being, being only a thinking substance, can determine the bodily spirits in producing bodily actions. For it appears that all determination of movement is produced by the pushing of the thing being moved, by the manner in which it is pushed by that which moves it, or else by the qualification and figure of the surface of the latter. Contact is required for the first two conditions, and extension for the third. [But] you entirely exclude the latter from the notion you have of the soul, and the former seems incompatible with an immaterial thing.
-
-Here is the argument presented more formally: 
-
-+ P1. For anything to cause a physical object to move, or cause any change in one, there must be a transfer of momentum from the cause to the physical object.
-+ P2. If an object imparts momentum to another, it must have mass and velocity.
-+ P3. An unextended mind outside physical space has neither mass nor velocity.
-+ C. Therefore, an unextended mind cannot cause a physical body to move. 
-
-The problem is an acute one. Descartes recognized that the soul cannot directly moved the body. So, he argued that the soul effects the pineal gland, which in turn moves the body. But that begs the question: how does the soul interact with the pineal gland? If the soul causes the pineal gland to do something, the soul must transfer momentum to the pineal gland. And it is as difficult to explain how the soul does that to the pineal gland as it is to explain how it might directly effect the rest of the body, i.e., if it cannot effect the body, then it should not be able to effect the pineal gland either.  
-
-## Varieties of Dualism
-Recall that Descartes thinks that the mind and body are discrete substances; they are each the subjects of various features and are not themselves features of anything else. On this view, we really do have minds. It is, if you like, a separate thing in itself with its own nature. 
-
-While substance dualism receives little current support, a different form of dualism does have contemporary defenders. This different form of dualism is called property dualism. It denies that there are physical and mental substances; all substances on this view have physical properties. But it claims that there are, nevertheless, mental properties of physical substances. What does this mean? 
-
-Consider the properties of being a bachelor and being an unmarried man. These are one and the same property. How about the property of having a shape and having a size? These are obviously distinct properties that co-occur together. Anything which has a shape has a size and vice versa. But they are not identical properties. Many today think that the mind is better characterized as properties had by some substance, in particular, properties had by the physical body we possess. Consider the mental property of 'being in a state of pain', or the activity like 'thinking about Descartes'. These are properties, understood broadly, that inhere in some substance, e.g., the brain. Whenever these properties occur in the brain, there is some other feature/property that occurs in the brain, i.e., some c-fibre fires when you experience pain. 
-
-What is the relationship between these physical and mental properties? Are they identical just as the properties of being a bachelor and being an unmarried man are identical? Or are they distinct like shape and size are distinct? 
-
-While many deny that the mind is a non-physical substance, there are still those who argue that mental properties and physical properties are distinct, that a C-fibre firing and the feeling of pain are numerically distinct (even if they always occur together). So even if substance dualism is no longer in favor, the question about whether the mind and body are still somehow distinct is very much a live one. That question has become this: are mental properties numerically distinct from physical properties? Or are there only physical properties? 
 
