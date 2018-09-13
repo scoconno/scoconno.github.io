@@ -3,9 +3,6 @@ layout: course
 title: The Examined Life
 ---
 
-![image](banner.jpeg)
-
-
 # Course Information
 + Syllabus
 	+ M Section: [Syllabus](Syllabus.pdf)
@@ -13,7 +10,7 @@ title: The Examined Life
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
-## Withdrawal Dates
+# Withdrawal Dates
 
 |         	 |     | 
 | :-------------: | ------------- | 
@@ -25,7 +22,7 @@ title: The Examined Life
 
 
 
-## Materials for each week
+# Materials for each week
 
 Links to notes, assignments, readings not in the textbook, and optional videos & readings are below. Consult the syllabus for a full list of what is required for each week. Note that essays are on a prior week's topic, e.g., essay 1 posted under week 2 concerns the material from week 1. 
 
