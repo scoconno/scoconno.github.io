@@ -26,7 +26,9 @@ Welcome to the course website for *Great Philosophers*!
 
 The syllabus details our schedule of readings from the course text. I include here additional readings, occasional videos & podcasts, and any notes that I decide would be useful. **All assignments can be found by clicking the relevant link in Blackboard.**
 
+**[Theaetetus](/reading/Theaetetus.pdf)** Please purchase the text. You can print the relevant pages from this translation before you do so.
+
 **Week 2**
 
-+ [Theaetetus](/reading/Theaetetus.pdf)
-+	M. F. Burnyeat, [‘Examples in Epistemology: Socrates, Theaetetus and G. E. Moore’](reading/examples.pdf), Philosophy 52 (1977), 381- 96
++	M.F. Burnyeat, [‘Examples in Epistemology: Socrates, Theaetetus and G. E. Moore’](reading/examples.pdf), Philosophy 52 (1977), 381-96
++   M.F. Burnyeat, ['Socratic midwifery, Platonic inspiration'](reading/midwife.pdf) 

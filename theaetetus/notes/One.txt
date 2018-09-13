@@ -1,0 +1,53 @@
+---
+layout: default
+title: 142a-148b
+---
+
+We learn from the preamble that Theaetetus was about sixteen when he met with Socrates, but their conversation is recounted by people who meet him before his death. This sets the dialog in 339BC. We are also told it happened just before Socrates' death, so the original dialog occurred sometime before 399BC.
+
+Socrates asks Theaetetus, 'What is knowledge?' His interest, in part, in asking this question is explained by who he is talking to: Theodorus is a great mathematician. Theaetetus is studying geometry, astronomy, music, and arithmetic under Theodorus. To learn a subject is to become wiser (or perhaps more expert) in that subject, for example, to learn geometry involves becomes wiser about geometry (145d). Wisdom is the same as knowledge, assumes Socrates (1453). Thus, learning involves acquiring knowledge about what one does not know. While left unsaid, it seems that Socrates is concerned with whether Theaetetus is acquiring knowledge about geometry, astronomy, etc. And, while he talks primarily with Theaetetus, the student, his likely target is Theodorus, the teacher. Is Theodorus really passing on any knowledge to his students? This is a question that Socrates regularly worries about. Do students really acquire any knowledge from their teachers? Do teachers who claim to possess knowledge about some subject really possess that knowledge? 
+
+The dialog proceeds by Theaetetus proposing different answers and Socrates refuting him. Theaetetus's first attempt consists in saying that knowledge is geometry and cobbling, but Socrates rejects this quickly: 
+
+1. Cobbling is knowledge of the making of shoes.
+2. Carpentering is the knowledge of the making of wooden furniture. 
+3. 1 and 2 are examples of what knowledge is of (or about). 
+4. Examples of what knowledge is of (or about) is not an adequate account of the nature of knowledge. 
+
+Why does Socrates believe 4? He gives an example as evidence. Suppose we ask, `what is clay?' and answer as follows: 
+
++ Clay of the potters
++ Clay of the stove-makers
++ Clay of the brick-makers
+
+We have attempted to explain the nature of clay by identifying various clays used by various craftsmen. But this is inadequate. Why? 
+
+> Socrates: Absurd to begin with, I suppose, to imagine that the person
+who asked the question would understand anything from our answer when we say 'clay', whether we add that it is dollmakers' clay or any other craftsman's. Or do you think that anyone can understand the name
+of a thing when he doesn't know what the thing is? (147a-b) 
+
+Cobbling is knowledge of making shoes. I can only understand what cobbling is, knowledge of making shoes, if I understand what knowledge is. Geometry is knowledge of shapes. I can only understand what geometry is if I understand what knowledge is. Does Theodorus have knowledge of shapes? 
+
+## Priority of Knowledge
+
+Socrates asks a simple question, 'what is X?', about many different things. In the*Euthyphro*, he asks 'what is piety?', but other dialogs find him asking 'what is justice?', 'what is courage?', 'what is wisdom?, 'what is love?', 'what is beauty?', etc.
+
+A **Socratic definition** is an answer to a "what is X?'' question. These definitions are not of words, but of things. Socrates wants to know the nature of, say, beauty itself and not just what the word 'beauty' means. In a similar way, physicists investigating the nature of matter are not interested in what the word 'matter' means. If they were, they could just consult a dictionary. They are interested in the nature of that stuff in the world, the nature of matter itself.  A Socratic definition, then, is a true description of the nature of the thing to be defined. For instance, 'H2O' is true description of the nature of water and not just our thoughts about water. 
+
+The **priority of definition**:  on order to know what qualities X possesses, you must know the essence of X, i.e., you must know the Socratic definition of X. 
+
+Such definitions have the following features: 
+
+1. They are **General**: everything which is X is also AB. If clay is defined as earth mixed with liquid, then everything which is clay must also be earth mixed with liquid. 
+
+2. They are **Univocal**: everything which is AB is also X. If clay is defined as earth mixed with liquid, then everything which is earth mixed with liquid must also be clay. 
+
+
+## The Problem with Examples
+
++ (A) that if you know you are correctly predicating a given term 'T' you must 'know what it is to be T' in the sense of being able to give a general criterion for a thing's being T;
+
++ (B) Thus it is no use to try to arrive at the meaning of 'T' by giving examples of things that are T.
+
+Suppose I want to define 'sport'. I think I can do so by stating examples of sports: football, basketball, volleyball. But if I am successful, I must know that these are examples of sport.. If I don't know they are examples of sport, how can I know that the examples I use to build my definition are, in fact, the right examples? 
+
