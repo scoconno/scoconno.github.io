@@ -1,8 +1,10 @@
 ---
 layout: course
 title: The Examined Life
-
 ---
+
+![image](banner.jpeg)
+
 
 # Course Information
 + Syllabus
