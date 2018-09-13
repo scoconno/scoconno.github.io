@@ -6,7 +6,7 @@ title: Research
 
 ### Publications ###
 
-+ 'On Persistence in Aristotle', *Ergo*, *forthcoming*  
++ (2018) ['On Persistence in Aristotle',](https://quod.lib.umich.edu/e/ergo/12405314.0005.020?view=text;rgn=main) *Ergo*, vol. 5(20)  
 
 + (2017) ['The Eleatic Challenge in Aristotle's *Physics* I.8',](https://www.degruyter.com/view/j/rhiz.2017.5.issue-1/rhiz-2017-0002/rhiz-2017-0002.xml) *Rhizomata*, vol. 5(1), pp. 25--50
 
