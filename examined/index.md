@@ -54,6 +54,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	
 **9/17**	
 
++ [Chapter 9:](Meaning/ch9.pdf) copyright restrictions prohibit me from posting any more of the textbook.
 + [Notes](Meaning/Handout)
 + [Optional reading](Meaning/Confession.pdf)
 + *Videos*
@@ -64,6 +65,7 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	
 **9/24**
 
++ [Chapter 9:](Meaning/ch9.pdf) copyright restrictions prohibit me from posting any more of the textbook.
 + *Notes*
 	+ [Notes 1](Meaning/Handout2)
 	+ [Notes 2](Meaning/Handout3)	
