@@ -3,6 +3,8 @@ layout: default
 title: Pessimism
 ---
 
+![image](hopper.jpg)
+
 # Does life have any meaning? 
 
 ##  Personal Note
