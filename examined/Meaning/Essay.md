@@ -38,7 +38,14 @@ Please consult the syllabus for the due date.
 
 Per the policies outlined in the syllabus, late work will not be accepted. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early. 
 
+## Format
+Please submit the file as a docx, rtf, or pdf. 
 
+## Grading
+Please find the rubric and explanation of it [here](/resources/grading/).
+
+## Resources
+Please find links to writing resources [here](/resources/).
 
 
 
