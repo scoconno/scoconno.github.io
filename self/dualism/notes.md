@@ -108,7 +108,7 @@ Since we can be certain that we think, we might also be certain about some facts
 
 ## Substance Dualism Again
 
-Descartes' “cogito” argument, “I think, therefore I exist”, convinces him that he can be absolutely certain that he exists and that he is “A thinking thing”, “a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions.” Since he knows he is a thinking being, he now asks whether this thinking being could be identical to a body, i.e., is it his body that is thinking or is his mind a separate substance from his body? He will argue that a thinking thing cannot be identical to a body and so will conclude that the body and mind are distinct from one another. All of his arguments turn on identifying some feature that the mind has but the body does not. In general: to show that X ≠ Y, all we need do is find a single property P such that X has P but Y lacks it, or Y has P but X lacks it. Such a property P can be called a differential property for X and Y. Refer to the textbook for a full discussion of the argument below. 
+Descartes' “cogito” argument, “I think, therefore I exist”, convinces him that he can be absolutely certain that he exists and that he is “A thinking thing”, “a thing that doubts, understands, affirms, denies, is willing, is unwilling, and also imagines and has sensory perceptions.” Since he knows he is a thinking being, he now asks whether this thinking being could be identical to a body, i.e., is it his body that is thinking or is his mind a separate substance from his body? He will argue that a thinking thing cannot be identical to a body and so will conclude that the body and mind are distinct from one another. All of his arguments turn on identifying some feature that the mind has but the body does not. In general: to show that X ≠ Y, all we need do is find a single property P such that X has P but Y lacks it, or Y has P but X lacks it. Such a property P can be called a differential property for X and Y. Refer to the textbook for a full discussion of the arguments below. Each turn on identifying a feature that the body has and the soul does not, or vice versa.   
 
 #### Argument 1
 
@@ -133,7 +133,6 @@ Descartes' “cogito” argument, “I think, therefore I exist”, convinces hi
 We are said to know something ''directly'' when the knowledge is not based on evidence, or inferred from other things we know. When knowledge is direct, like my knowledge of my toothache, it makes no sense to ask, “How do you know?”
 
 
-
 #### Argument 4
 
 1. My essential nature is to be a thinking thing.
@@ -155,7 +154,7 @@ We are said to know something ''directly'' when the knowledge is not based on ev
 3. Hence, from the first premise, it follows that I did not exist in 2001. 
 4. But I existed in 2001. 
 5. Hence, a contradiction, and the supposition must be false. 
-6. Hence, I am not identical with my body.”
+6. Hence, I am not identical with my body.
 
-> Should the soul of a prince, carrying with it the consciousness of the prince’s past life, enter and inform the body of a cobbler, as soon as deserted by his own soul, everyone sees he would be the same person with the prince, accountable only for the prince’s action.... Had I the same consciousness “that I saw the ark and Noah’s flood, as that I saw an overflowing of the Thames last winter, or as that I write now, I could no more doubt that I who write this now, that saw the Thames overflowed last winter, that viewed the flood at the general deluge, was the same self ... than that I who write this am the same myself now whilst I write ... that I was yesterday. (Locke)
+
 
