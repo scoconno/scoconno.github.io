@@ -13,6 +13,7 @@ Welcome to the course website for *Great Philosophers*!
 + [Syllabus](Syllabus.pdf)
 + [Ancient Philosophy Resources](resources)
 
+
 ## Withdrawal Dates
 
 |         	 |     | 
@@ -42,3 +43,12 @@ The syllabus details our schedule of readings from the course text. I include he
 
 + Mi-Kyoung Lee, ['The Secret Doctrine: Plato's Defense of Protagoras in *Theaetetus*](reading/secret.pdf)
 + Mi-Kyoung Lee, ['The Secret Doctrine in Plato's *Theaetetus*](reading/secret1.pdf)
++ Gail Fine, ['Conflicting Appearances'](/reading/fineconf.pdf)
++ Gail Fine, ['Protagorean Relativisms'](/reading/fineprotrel.pdf)
+
+**Week 4**
++ Mi-Kyoung Lee, ['The Secret Doctrine: Plato's Defense of Protagoras in *Theaetetus*](reading/secret.pdf)
+
+**Week 5**
+
++ Gail Fine, ['Plato's Refutation of Protagoras in the *Theaetetus*](reading/fineref.pdf)
