@@ -10,11 +10,12 @@ title: Optimism without God
 
 Recall Tolstoy's question:
 
-> ... My question - that which at the age of fifty brought me to the verge of suicide - was the simplest of questions, lying in the soul of every man from the foolish child to the wisest elder: it was a question without an answer to which one cannot live, as I had found by experience. It was: "What will come of what I am doing today or shall do tomorrow? What will come of my whole life?" (Tolstoy, p.14)[^1]
+> ... My question - that which at the age of fifty brought me to the verge of suicide - was the simplest of questions, lying in the soul of every man from the foolish child to the wisest elder: it was a question without an answer to which one cannot live, as I had found by experience. It was: "What will come of what I am doing today or shall do tomorrow? What will come of my whole life?" 
+
+> Differently expressed, the question is: "Why should I live, why wish for anything, or do anything?" It can also be expressed thus: "Is there any meaning in my life that the inevitable death awaiting me does not destroy? (Tolstoy, p.14)[^1]
 
 [1]: Tolstoy, Leo, `A Confession', 1882
 
-Differently expressed, the question is: "Why should I live, why wish for anything, or do anything?" It can also be expressed thus: "Is there any meaning in my life that the inevitable death awaiting me does not destroy? (Tolstoy, p.14)
 
 Life has meaning only if it has significant value or purpose over time, where this value makes life choice worthy. There are two different ways of understanding this value: 
 
