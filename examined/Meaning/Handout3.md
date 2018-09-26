@@ -10,7 +10,7 @@ title: Optimism without God
 
 Recall Tolstoy's question:
 
->> ... My question - that which at the age of fifty brought me to the verge of suicide - was the simplest of questions, lying in the soul of every man from the foolish child to the wisest elder: it was a question without an answer to which one cannot live, as I had found by experience. It was: "What will come of what I am doing today or shall do tomorrow? What will come of my whole life?" (Tolstoy, p.14)1
+> ... My question - that which at the age of fifty brought me to the verge of suicide - was the simplest of questions, lying in the soul of every man from the foolish child to the wisest elder: it was a question without an answer to which one cannot live, as I had found by experience. It was: "What will come of what I am doing today or shall do tomorrow? What will come of my whole life?" (Tolstoy, p.14)[^1]
 
 [1]: Tolstoy, Leo, `A Confession', 1882
 
@@ -65,9 +65,11 @@ The difficulty with Candidate 1 is that there are many obvious cases of people w
 
 Susan Wolf has offered the following alternative account:
 
-[^2]: 'The Meaning of Lives', Susan Wolf 
+
 
 + **Candidate 2:** A meaningful life is one that is a) actively and at least somewhat b) successfully engaged in a project (or projects) of c) positive value.[^2]
+
+[^2]: 'The Meaning of Lives', Susan Wolf 
 
 Wolf's account has three distinct conditions. She argues for each by contrasting meaningful and meaningless lives. Her example of a meaningless life is 'The Blob', a person who spends every moment in front of a television set, drinking beer and watching situation comedies. Compare the Blob to the life of Iran Deckard in Phillip Dick's *Do Androids Dream of Electric Sheep*, or the soma consuming citizens of Aldous Huxley's, *A  Brave New World*, or the television watchers of Ray Bradbury's *Fahrenheit 451*, or the citizens of The Capitol in Suzanne Collins' *The Hunger Games*. These are all examples of people who live lives that are subjectively pleasant but, nevertheless,  meaningless.
 
