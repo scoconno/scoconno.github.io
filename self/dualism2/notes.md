@@ -58,7 +58,7 @@ While the above objection focused on Descartes' method in arguing for substance 
 
 The first type of case involves one mental state causing another mental. Suppose, for instance, your desire for chocolate causes you to desire the money to buy chocolate. Here one desire is the cause of another desire. The problems that face Descartes concern the second and third phenomena. The second occurs whenever any bodily changes cause changes to our mental states, e.g., stubbing our toe causes pain, a feather across our skin causes a tickle, etc. The third occurs whenever our mental states cause a change in our bodies, e.g., our desire for chocolate causes us to walk to the store, our feeling of itchiness cause us to scratch ourselves, etc. Every time we act on a choice, a mental state is causing something physical to happen. For example, when I choose to stand up, my choice causes my body to move. When I fear my hand is too close to the fire, my fear causes my hand to move away. But how does this mental causation work? 
 
-![image](elis.jpeg)
+![image](elis.jpg)
 
 
 Princess Elisabeth of Bohemia challenged Descartes to explain:
