@@ -7,7 +7,7 @@ title: Essay
 
 ## Introduction 
 
-You are a religious leader concerned about the teaching of evolutionary biology in high schools. You think that only God could explain the existence of life. The local school board is accepting public submissions on the issue. 
+You are a religious leader concerned about the teaching of evolutionary biology in high schools. You think that only God could explain complexity in nature, and so you send an a letter to the school board arguing that religion, and not evolutionary biology, should be thought to students learning about the origin and existence of life. 
 
 
 ## Task
