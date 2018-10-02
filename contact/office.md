@@ -12,7 +12,7 @@ Please send me a brief message through Blackboard with 24 hours notice if you in
 **Availability:** 
 1. Monday: 11:10am--11:40am
 2. Tuesday: 10:00am--1:00pm 
-3. Wednesday: 11:10am--12:40am 
+3. Wednesday: 11:10am--12:40pm 
 4. By appointment in person.
 5. By appointment online: I am available for video conferences. Please send me a Blackboard message for details. 
 
