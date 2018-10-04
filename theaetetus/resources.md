@@ -1,5 +1,5 @@
 ---
-layout: ancientweekly
+layout: default
 title: Ancient Greek Philosophy Resources
 ---
 
