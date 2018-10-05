@@ -5,7 +5,7 @@ title: Essay
 
 ## Introduction
 
-That Descartes! You hired him as your personal tutor. You are Queen Christina of Sweden and he should be happy with that position. But his argument with Princess Elisabeth of Bohemia is causing a diplomatic mess. In a series of highly public letters, she has argued against his substance dualism, which she claims is unable to accommodate the obvious fact that minds interact with bodies. He has responded vigorously and now even the King of France has taken an interest. He's far too powerful to ignore, so you decide to write a letter to him to explain the Elisabeth's objection to Descartes and Elisabeth. 
+That Descartes! You hired him as your personal tutor. You are Queen Christina of Sweden and he should be happy with that position. But his argument with Princess Elisabeth of Bohemia is causing a diplomatic mess. In a series of highly public letters, she has argued against his substance dualism, which she claims is unable to accommodate the obvious fact that minds interact with bodies. He has responded vigorously and now even the King of France has taken an interest. He's far too powerful to ignore, so you decide to write a letter to him to explain Elisabeth's objection. 
 
  
 ## Task
