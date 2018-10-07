@@ -94,6 +94,9 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + Videos
 	+ [The Ontological Argument](https://www.youtube.com/watch?v=FmTsS5xFA6k)
 	+ [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
+	+ Wireless Philosophy's presentation of the cosmological argument: 
+		+ [Part 1:](https://www.youtube.com/watch?v=2zS1HiuWPMA)
+		+ [Part 2:](https://www.youtube.com/watch?v=mBMAMIFw9n4)
 
 ---
 
