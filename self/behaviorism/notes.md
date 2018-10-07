@@ -22,11 +22,13 @@ But how does anyone else know that you have experiences, thoughts, and feeling? 
 
 <div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/JaZNdPGbZfbMY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-trek-data-JaZNdPGbZfbMY">via GIPHY</a></p>
 
-Is the person depicted experiencing anything? Do they have thoughts, feelings, or emotions? If so, what are they? We do not have direct access to their thoughts and emotions; I cannot see their joy. What I can see is some facial movement. Eyebrows raise, a mouth opens, the head moves forward, etc. I *infer* that the person feels joy based upon these observations; I normally find people behaving like this when they feel joy. In this module, we will be discussing *philosophical behaviorism*, the view that there is no internal mental life whatsoever. According to this view, all there is to the mind are observable behaviors like these.
+Is the person depicted experiencing anything? Do they have thoughts, feelings, or emotions? If so, what are they? We do not have direct access to their thoughts and emotions; I cannot see their joy. What I can see is some facial movement. Eyebrows raise, a mouth opens, the head moves forward, etc. I *infer* that the person feels joy based upon these observations; I normally find people behaving like this when they feel joy. In general, our mental states seem correlated with our behaviors and attending to these behaviors seems to be how we judge what mental states others are in. A person in pain tends to wince and groan. A person that is excited tends to speak in a higher pitch and have dilated pupils. 
+
+
 
 ## Behaviors
 
-Students sometimes struggle with behaviorism because they struggle to understand what exactly is meant by 'behavior'. After all, you might think that you have seen people behave excitedly, or nervously, or happily, etc. But excitement, nervousness, happiness, etc., are not behaviors (assuming these are internal mental states). They might correlate with behaviors, but you never directly see anyone else's excitement, nervousness, etc. Why? 
+In this module, we will be discussing *philosophical behaviorism*, the view that there is no internal mental life whatsoever. According to this view, all there is to the mind are observable behaviors. Students sometimes struggle with behaviorism because they struggle to understand what exactly is meant by 'behavior'. After all, you might think that you have seen people behave excitedly, or nervously, or happily, etc. But excitement, nervousness, happiness, etc., are not behaviors (assuming these are internal mental states). They might correlate with behaviors, but you never directly see anyone else's excitement, nervousness, etc. Why? 
 
 For our purposes, there are two types of behavior, **physiological responses** and **bodily movements**. Physiological responses are automatic reactions to a stimulus, e.g., pupil dilation, sweating, etc. We are often unaware of many of these instinctive responses, e.g., flaring our nostrils, grinding our teeth, etc. Sometimes we can become aware of them, and sometimes we can stop. But, no matter how much control you have,  we all automatically undergo various observable physical changes to stimuli.
 
@@ -34,13 +36,12 @@ A bodily movement, on the other hand, is an observable motion of some or all par
 
 ![image](movements.jpg)
 
-If there are others near you, carefully watch how they are behaving. Can you see any kind, shameful, prideful, or calm behavior? If you answered 'yes', then re-read our definition of behaviors. What you can see are their physiological responses and bodily movements. You cannot see 'kindness'.  You might think you do because you associate various physiological responses and bodily movements with kindness.  
-
-Our mental states seem correlated with our behaviors and attending to these behaviors seems to be how we judge what mental states others are in. A person in pain tends to wince and groan. A person that is excited tends to speak in a higher pitch and have dilated pupils. 
+If there are others near you, carefully watch how they are behaving. Can you see any kind, shameful, prideful, or calm behavior? If you answered 'yes', then re-read our definition of behaviors. What you can see are their physiological responses and bodily movements. You cannot see 'kindness'.  You might think you do because you associate various physiological responses and bodily movements with kindness.  But this is not the same as directly seeing their mental states.
 
 
 
-These correlations between mental states and behaviors, both physiological responses and bodily movements, are the basis of some significant discoveries and positions in modern psychology and philosophy of mind. The focus of this section is on one such position, namely, *behaviorism*, in particular, a certain kind of behaviorism that says, roughly, that all there is to the mind is observable behaviors. 
+
+
 
 
 

@@ -82,6 +82,9 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	+ ['Design for Living',](God/Des.pdf) Michael J. Behe	
 + Videos
 	+ [Crash Course](https://www.youtube.com/watch?v=7e9v_fsZB6A)
++ Essay samples 
+	+ [Sample response 1](God/sample1.pdf)
+	+ [Sample response 2](God/sample.pdf)
 
 ---
 
@@ -91,10 +94,6 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + Videos
 	+ [The Ontological Argument](https://www.youtube.com/watch?v=FmTsS5xFA6k)
 	+ [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
-+ Essay samples 
-	+ [Sample response 1](God/sample1.pdf)
-	+ [Sample response 2](God/sample.pdf)
-
 
 ---
 
