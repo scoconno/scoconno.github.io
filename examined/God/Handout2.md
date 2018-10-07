@@ -24,11 +24,12 @@ While the argument is difficult, at the core is the following simple thought: th
 ## Summary of argument
 
 1. Assume that God exists only as an idea in the mind.
-1. God is a being than which none greater can be imagined (that is, the greatest possible being that can be imagined).
-3. A being that exists as an idea in the mind and in reality is, other things being equal, greater than a being that exists only as an idea in the mind.
-4. Thus, a being greater than God can be imagined, namely, a being that is like God in every way but also exists in reality. (From 1&3)
-5. God is and is not the greatest possible being that can be imagined. (From 2&4)
-6. Therefore, God exists, i.e., our assumption in Premise 1 is false (From 5)
+1. God is the greatest possible being that can be imagined (you cannot imagine a greater being).
+3. A being that exists as an idea in the mind and in reality is greater than a being that exists only as an idea in the mind.
+4. We can imagine a being that is like God in all respects but also imagine that being exists.
+4. Thus, a being greater than God can be imagined, namely, a being that is like God in every way but also exists in reality...(from 1-4)
+5. God is and is not the greatest possible being that can be imagined...(from 2&5)
+6. Therefore, God exists, i.e., our assumption in Premise 1 is false...(from 6)
 
 
 ## Notes on the argument 
@@ -45,7 +46,7 @@ We know that P5 is false. It is impossible for something to be both mortal and i
 
 + C. It is not the case that Socrates is immortal, i.e., P1 is false. 
 
-The Ontological Argument works in a similar way. We first assume that God does not exist in reality, but only in the mind. We then show that this ultimately leads to an impossible result, namely, that God is and is not the greatest possible being that can be imagined. Since that impossible results follows on from earlier premises, we know that one of the earlier premises must be false. The Theist claims that the mistake was Premise 1, which says that God exists only as an idea in the mind. Premise 1 is the core claim of Atheism. Atheists accept that they can form an idea of God, but they deny that anything in reality corresponds to this idea. 
+The Ontological Argument works in a similar way. We first assume that God does not exist in reality but only in the mind. We then show that this ultimately leads to an impossible result, namely, that God is and is not the greatest possible being that can be imagined. Since that impossible result follows on from earlier premises, we know that one of the earlier premises must be false. The Theist claims that the mistake was Premise 1, which says that God exists only as an idea in the mind. Premise 1 is the core claim of Atheism. Atheists accept that they can form an idea of God, but they deny that anything in reality corresponds to this idea. 
 
 Since the argument is valid and the conclusion false, at least one premise must also be false. But why think that the fault is premise 1? The Theist argues that all other premises are true. 
 
@@ -54,11 +55,17 @@ Since the argument is valid and the conclusion false, at least one premise must 
 
 + Premise 3 says that existing is a feature something can have and also that existing is a good feature to have. Compare this to the claim that being strong is a feature and also a good one to have. When we imagine God, then, we should imagine a being that possesses all the great making features, existing in reality being one of these features. Premise 3 is the most controversial premise. See the textbook for further discussion.
 
-+ Premise 4 follows from Premises 1&3. If God does not exist in reality, but existing in reality is a great making feature, then we can easily imagine a being that is greater than God. 
++ Premise 4 asks us to imagine a being that has every great making feature. Since we imagine that being as existing in reality, we are not imagining God according to the Atheist. We are imagining a being that has all God's features *and* has the property of existing in reality. 
 
-+ Premise 5 follows from Premises 2&4. It cannot be true both that God is the greatest possible being we can imagine and also that we can imagine a greater possible being. 
++ Premise 5 follows from our earlier premises. If God does not exist in reality but existing in reality is a great making feature, then we can easily imagine a being that is greater than God. 
 
-+ 6 states our conclusion. It may not be obvious how 6 follows from the premises. The core idea is that it is impossible for you to imagine that God does not exist. If you try, then you will be involved in the contradiction stated in 5. 
++ Premise 6 follows from Premises 2&5. The Atheist has to accept that  God is and is not the greatest possible being we can imagine. 
+
++ Since our premises have generated the contradiction stated in 6, we know one premise is a mistake. Our conclusion that this mistake was Premise 1; we were mistaken to think that God exists only as idea in the mind. 
+
+
+Do you think this argument fails? If so, you have to show one of two things, either that it contains an infelicitous inference or that it contains a false premise. If there is a mistake, where is it? 
+
 
 
 ## The Cosmological Argument ##
