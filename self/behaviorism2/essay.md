@@ -10,7 +10,7 @@ title: Essay
 
 What a case! You have never seen one like it in all these years of  working for the Gothic Knight Law Firm. It's about a gorilla called Koko held in captivity. Animal rights activists argue that Koko should be released. The core of their argument is the behaviorist thesis that mental states are identical to behaviors. Koko behaves as if she has mental states, so they argue that she really does have mental states. 
 
-You have been contracted by the owners of the facility holding Koko to argue against the animal rights activists. You write a memo arguing that Koko's behavior does not prove she has mental state. Your strategy is to show that the animal rights activists are unable to say how Koko's behaviors correlate with various mental states without making assumptions about what other mental states Koko has, e.g., they cannot say that  Koko's facial expressions when seeing a kitten count as joy without saying that Koko believes kittens are fun---this appeals to some other mental state and is not merely a behavior description of joy. 
+You have been contracted by the owners of the facility holding Koko to argue against the animal rights activists. You write a memo arguing that Koko's behavior does not prove she has mental states. Your strategy is to show that the animal rights activists are unable to say how Koko's behaviors correlate with various mental states without making assumptions about what other mental states Koko has, e.g., they cannot say that  Koko's facial expressions when seeing a kitten count as joy without saying that Koko believes kittens are fun---this appeals to some other mental state and is not merely a behavior description of joy. 
 
 You can watch videos of Koko [here.](https://www.youtube.com/user/kokoflix)
 
@@ -23,7 +23,7 @@ Write the **memo** explaining your strategy.  Your memo must include the followi
 1. A detailed discussion of *some* of Koko's most human like behaviors, i.e., bodily movements and physical responses.  
 	1. *NB:* Behaviors are bodily movements and physical responses. If you describe Koko's behaviors by using mental terms, you will have failed this part of the assignment. For instance, if you say that Koko was happy when she saw the cat, then you will have used the word 'happy', which is not a word for a bodily movement or physical response. Describe only the movements and responses.
 1. A summary of the animal activists claim that these behaviors are identical to some mental states---discuss some concrete examples of those mental states which are meant to be identical to these behaviors. 
-2. A detailed explanation of the Kim's argument against behaviorism in the section *Difficulties with Behavioral Definitions* in chapter 3. 
+2. A detailed explanation of Kim's argument against behaviorism in the section *Difficulties with Behavioral Definitions* in chapter 3. 
 
 	   
 **NB:** Failure to include any of these elements will result in a loss of points. 
