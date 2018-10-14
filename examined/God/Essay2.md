@@ -3,11 +3,13 @@ layout: default
 title: Essay 
 ---
 
+**NB: This essay examines your understanding of chapter 2.3 *God and the Problem of Evil***
+
 ## Introduction
 
-You are a court official. Your job is to keep detailed records of what everyone says in court. You are working on an unusual case. The plaintiff, named Ted, lost his fishing boat during a terrible hurricane. The insurance company refused to compensate Ted because they claimed the hurricane was an 'act of God'.
+Your boat!  A terrible hurricane destroyed your fishing boat, your ownly source of income. You paid decent money to insure that boat, but now insurance company is refusing to compensate you, because they claim that hurricanes are 'acts of God' that are not covered by the policy.
 
-Ted sues the insurance company. He argues that the hurricane and its evils prove that an all good, all powerful, all knowing God does not exist at all. And, since such a God does not exist, the insurance company cannot claim that the hurricane was an act of God. Thus, he claims, the insurance company should compensate him.
+What nonsense! You sue the insurance company and argue in court that God does not exist, and so God could not be the cause of the hurricane. Your argument that the existence of evil proves that an all good, all powerful, all knowing God does not exist at all. Thus, the insurance company should compensate you.
 
 ## Task
 
