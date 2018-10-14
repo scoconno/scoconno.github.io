@@ -19,7 +19,6 @@ title: God
 
 
 
-
 ### Assignments
 
 + [Essay 1](SW2)

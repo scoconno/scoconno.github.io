@@ -105,6 +105,8 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 + [Notes](God/Handout3)
 + ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
 + Videos
+	+ [Stephen Fry]((https://www.youtube.com/watch?v=-suvkwNYSQo)
+	+ [Wireless Philosophy](https://youtu.be/9pRzyioUKp0)
 	+ [Crash Course](https://www.youtube.com/watch?v=9AzNEG1GB-k)
 
 ---
