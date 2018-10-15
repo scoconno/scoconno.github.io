@@ -15,7 +15,7 @@ What nonsense! You sue the insurance company and argue in court that God does no
 
 Write the transcript of your closing statement (speech). This should be a word to word report of what you intend to say. 
 
-	+ A closing statement is a speech the lawyer makes to the court. They address the jurors, the judge, the audience. You must write this as a **speech!** Points will be deducted if you do not follow this part of the prompt. 
++ A closing statement is a speech the lawyer makes to the court. They address the jurors, the judge, the audience. You must write this as a **speech!** Points will be deducted if you do not follow this part of the prompt. 
 
 The transcript must include the following: 
 
