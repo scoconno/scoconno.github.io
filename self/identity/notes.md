@@ -4,14 +4,20 @@ title: Notes
 
 ---
 
-## Pre-cursor
+**NB: These notes are a supplement to ch. 4 of the textbook. They are not comprehensive. This is by design. Read the textbook first.**
 
-This note uses the concept of numerical identity, a concept that was first introduced when we discussed personal identity. The note below assumes you understand what 'numerical identity' means. If you cannot remember, or if you would like a reminder, then please read the note that explains the concept [here](http://www.scottoconnor.org/self/personalidentity/notes/).
+## Precursor
+
+This note uses the concept of numerical identity, a concept that was first introduced when we discussed personal identity. The note below assumes you understand what 'numerical identity' means. If you cannot remember, or if you would like a reminder, please read the note that explains the concept [here](http://www.scottoconnor.org/self/personalidentity/notes/).
 
 ## Introduction
-The behaviorist defines a mental state in terms of physiological responses and bodily movements. Pain, on their view, just is a characteristic set of such responses and movements. A radically different view defines mental states in terms of brain states. A brain state is what is *going on* in your brain, more specifically a set of neurons firing in some characteristic pattern. A mental state is a state or condition some mind might be in, e.g., seeing, or thinking, being in pain, etc. So, thoughts, pains, desires, beliefs, etc., are all mental states. The mind-brain identity theory claims that each mental state is identical to some brain state, e.g., pain is identical to some neurons, in particular c-fibres, firing in some particular way. The view is called both the *mind-brain identity theory*, the *psycho-neural identity theory*, and even just *identity theory*,  
+The behaviorist defines a mental state in terms of physiological responses and bodily movements. On this view, pain just is a characteristic set of such responses and movements. A radically different view defines mental states in terms of brain states, defines the mind as merely being the brain. A brain state is what is *going on* in your brain, more specifically a set of neurons firing in some characteristic pattern. A mental state is a state or condition your mind is in, e.g., seeing, thinking, pain, etc. Pains, desires, beliefs, etc., are all mental states. The mind-brain identity theory claims that each mental state is identical to some brain state, e.g., pain is identical to some neurons, in particular c-fibres, firing in some particular way. The view is called both the *mind-brain identity theory*, the *psycho-neural identity theory*, and even just *identity theory*,  
 
-How should we understand this view? There is clearly a correlation between mental states and brain states. Hit the brain, change the mind. When we engage in various mental activities, parts of the brain light up. Consider what happens in vision: 
+How should we understand this view? There is clearly a correlation between mental states and brain states. When you stub your toe, the physical damage detected by your brain correlates with a feeling of pain: 
+
+<div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/ptoePfGy5pouk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/energy-treasure-stubs-ptoePfGy5pouk">via GIPHY</a></p>
+
+The correlation between mental states and brain states is clear and studied by the natural sciences. Consider what happens in vision: 
 
 ![image](Reflect.jpg)
 
@@ -35,27 +41,36 @@ Third, the optic nerve transmits information about the wavelengths detected in t
 
 Finally, specific neurons are activated by each wavelength. When they activate, they fire in a particular pattern, e.g., there are short or long intervals between each firing. Compare this to clapping your hands. Assume that the intensity remains constant. You can clap at different speeds and patterns. Similarly, neurons fire at different rates and patterns. Various patterns correlate with different mental states.
 
-There is an abundance of evidence for such a correlation. See the video on the main page for this week about the technology being developed to read thoughts from brain activities. The scientists have discovered that when you think of, say, the letter 'A', a particular neuron fires in a certain way. Since they can detect that firing, they can infer that your are thinking about the letter. Eventually, these machines will be able to read more complex thoughts by detecting the relevant brain activity associated with those thoughts. There is much to be said about the science behind this view, but, fortunately, we need not focus on those details here. All we need observe is that defenders of the view think that each mental state is identical to some central neural processes, namely, a set of neurons firing in some characteristic way. 
+There is an abundance of evidence for such a correlation. See the video on the main page for this week about the technology being developed to read thoughts from brain activities. The scientists have discovered that when you think of, say, the letter 'A', a particular neuron fires in a certain way. Since they can detect that firing, they can infer that you are thinking about the letter. Eventually, these machines will be able to read more complex thoughts by detecting the relevant brain activity associated with those thoughts. There is much to be said about the science behind this view, but, fortunately, we need not focus on those details here. All we need observe is that defenders of the view think that each mental state is identical to some central neural processes, namely, a set of neurons firing in some characteristic way. 
 
 ## Mind-Brain Correlations
 
 So, the mind and brain are clearly interconnected. If you suffer a brain injury, your mental states will change. If you feel fear, your brain too will change. In other words, our mental states correlate with brain states. Putting this a bit more formally:
 
 Mind-Brain Correlation Thesis:
-: For each type M of mental event that occurs to an organism o, there exists a brain state of kind B (M’s “neural correlate” or “substrate”) such that M occurs to o at time t if and only if B occurs to o at t. (See Kim, ch.4)
+: For each type M of mental event that occurs to an organism o, there exists a brain state of kind B (M’s “neural correlate” or “substrate”) such that M occurs to o at time t if and only if B occurs to o at t. (Kim, ch.4)
 
-This says that there is a certain *type* of mental state, say, fearing, such that this type of mental state always occurs with some *type* of brain state, e.g., some characteristic firing of c-fibres. This correlation between brain states and mental states is strict. Whenever you have a certain type of mental state, you should have a certain type of brain state. Whenever you have a certain type of brain state, you should have a certain type of mental state. If there is such a correlation, no change in the mind can occur unless there is a change in the brain, and *vice versa*. This has the obvious upshot that the mind cannot exist independently of the brain. 
+This says that there is a certain *type* of mental state, say, fearing, such that this type of mental state always occurs with some *type* of brain state, e.g., some characteristic firing of c-fibres. This correlation between brain states and mental states is strict. Whenever you have a certain type of mental state, you should have a certain type of brain state. Whenever you have a certain type of brain state, you should have a certain type of mental state. If there is such a correlation, no change in the mind can occur unless there is a change in the brain, and vice versa. This has the obvious upshot that the mind cannot exist independently of the brain. 
 
-The mere fact that mental and physical states are correlated does not entail that they are identical. Every enclosed figure that has three equal angles is also an enclosed figure with only three sides of equal length, and *vice versa*. But having three equal angles and three equal sides are not identical features, even though they strictly correlate with one another.
+The mere fact that mental and physical states are correlated does not entail that they are identical. Every enclosed figure that has three equal angles is also an enclosed figure with only three sides of equal length, and vice versa. But having three equal angles and three equal sides are not identical features, even though they strictly correlate with one another.
 
-So what explains the mind-brain correlation thesis? Why are mental states and brain states correlated with one another? Different explanations could be offered. Perhaps they are correlated because one is the cause of the other. Or perhaps they are correlated because they have a common cause. The mind-brain identity theory claims that the correlation is explained by the fact that mental states are identical to brain states. 
+So what explains the mind-brain correlation thesis? Why are mental states and brain states correlated with one another? Different explanations could be offered. Perhaps they are correlated because they interact with one another. This was Descartes' view. He might claim: 
 
-The claim that mental states are identical to brain states provides a neat and easy explanation for mind brain correlation.  Consider the property of being water and the property of being H20. Whenever something has the property of being water it also has the property of being H20. This correlation, the fact that both properties always co-occur, is explained just by the fact that these are not two properties at all. The property of being water and the property of being H2O are one and the same property. Likewise, the mind-brain identity theory claims that property of being in a certain mental state is identical to the property of being in a certain brain state. There is no surprise that both properties co-occur; they are one and the same property, so of course they co-occur. 
+
+On Descartes' view the mind and brain are numerically distinct, but they are correlated because of how they interact with one another. Another view, popular in the time after Descartes, denies that the mind and brain interact with one another but explain their correlation by appeal to God. On this view, God causes you to feel pain whenever you are in the relevant brain state. Similarly, God causes your hand to move whenever you will your arm to move. While it offers a different explanation of mind brain correlation than Descartes does, this view agrees that mental states and brain states are numerically distinct from one another. 
+
+The mind-brain identity theory offers a different explanation for these correlations. It claims that the correlation is explained by the simple fact that mental states are identical to brain states. This provides a neat and easy explanation for mind brain correlation.  Consider the property of being water and the property of being H20. Whenever something has the property of being water it also has the property of being H20. This correlation, the fact that both properties always co-occur, is explained just by the fact that these are not two properties at all. The property of being water and the property of being H2O are one and the same property. Similarly, why do Superman and Clark Kent always visit exactly the same locations at exactly the same times? The answer is simple. They are numerically identical, so  obviously one turns up wherever and whenever the other does. Likewise, the mind-brain identity theory claims that the property of being in a certain mental state is identical to the property of being in a certain brain state. There is no surprise that both properties co-occur; they are one and the same property, so of course they co-occur. The mind-brain identity theory, then, denies the following claim: 
+
++ C-fibres firing in my brain are the cause of my feeling pain. 
+
+And the theory defends this claim: 
+
++ C-fibres firing in my brain = my feeling pain
 
 
 ## Argument for Mind-Brain Identity Theory
 
-One argument for the mind-brain identity theory is an argument  from simplicity. The argument arises from an application of **Occam's razor**. Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham.  Ockham was the village in the English county of Surrey where he was born. The Latin version of the principle comes in a variety of forms: 
+One argument for the mind-brain identity theory is an argument  from simplicity. The argument arises from an application of **Occam's razor**. Occam's (or Ockham's) razor is a principle attributed to the 14th century logician and Franciscan friar William of Ockham. (Ockham was the village in the English county of Surrey where he was born.) The Latin version of the principle comes in a variety of forms: 
 
 > Pluralitas non est ponenda sine neccesitate.
 > Frustra fit per plura quod potest fieri per pauciora.
@@ -97,16 +112,16 @@ If, on the other hand, A and B vary in even one property, then A and B are not n
 
 ### Property 1: mental states are such that I can be certain of them
 
-We have direct and private access of our mental states; I can easily and reliably know when I am in a pain state---it feels really sore! I can also reliably know when I am having an experience as of a red bicycle--there is an image of a red bicycle before me (even though I might be dreaming, hallucinating, etc.) It seems that our mental states are such that we can be certain that we are in them. But this is not a property of brain states. I have no idea what is happening in my brain right now. Do you? What neurons are firing as you read this page? What is their characteristic pattern? This is something that neuroscientists can now discover with the help of sophisticated machines, but people knew the contents of their mind well before they knew anything about brains or neurons. So, the argument against the mind-brain identity theory is this: 
+We have direct and private access of our mental states; I can easily and reliably know when I feel pain---it feels really sore! I can also reliably know when I'm seeing a red bicycle--there is an image of a red bicycle before me (even though I might be dreaming, hallucinating, etc.) It seems that our mental states are such that we can be certain that we are in them. But this is not a property of brain states. I have no idea what is happening in my brain right now. Do you? What neurons are firing as you read this page? What is their characteristic pattern? This is something that neuroscientists can now discover with the help of sophisticated machines, but people knew the contents of their mind well before they knew anything about brains or neurons. So, the argument against the mind-brain identity theory is this: 
 
 1. I can be certain of my mental states (e.g., pain).
 2. I cannot be certain of my brain states.
 3. Therefore, mental states have properties (of being such that I can be certain of them) that brain states lack.
 4. Therefore, mental states are not identical to brain states.
 
-The argument appears straightforward, but raises a very difficult question about Leibniz's Law: does it apply to *intensional* properties like 'belief', 'knowledge', etc. Consider Lois Lane before she learns that Superman and Clark Kent are identical. Lois Lane believes that Superman saves the city. So, Superman has the property of being believed by Lois Lane to have saved the city. Does Clark Kent have that property? If he is identical to Superman, then he should also have that property. But Lois Lane doesn't think that Clark Kent saved the city!
+The argument appears straightforward but raises a very difficult question about Leibniz's Law: does it apply to *intensional* properties like 'belief', 'knowledge', etc. Consider Lois Lane before she learns that Superman and Clark Kent are identical. Lois Lane believes that Superman saves the city. So, Superman has the property of being believed by Lois Lane to have saved the city. Does Clark Kent have that property? If he is identical to Superman, then he should also have that property. But Lois Lane doesn't think that Clark Kent saved the city!
 
-So, Leibniz Law has a problem. If it includes properties of being believed to be a certain way, then it is obviously false. But the Law shouldn't include those properties; the beliefs that we have about something shouldn't affect what that thing is or is not identical to. So, perhaps Leibniz's Law should be formulated as stating that if A and B are identical, then A and B have the same intrinsic properties, where intrinsic properties do not involve beliefs about it. 
+So, Leibniz's Law has a problem. If it includes properties of being believed to be a certain way, then it is obviously false. But the Law shouldn't include those properties; the beliefs that we have about something shouldn't affect what that thing is or is not identical to. So, perhaps Leibniz's Law should be formulated as stating that if A and B are identical, then A and B have the same intrinsic properties, where intrinsic properties do not involve beliefs about it. 
 
 When Leibniz's Law is reformulated in this way, our first argument against the mind-brain identity theory falls flat: the fact that I know or believe different things about mental states and brain states is irrelevant to questions about their identity. 
 
@@ -118,11 +133,13 @@ Some other arguments against the mind-brain identity theory are harder to escape
 2. No brain states are green.
 3. Therefore, my after-image is not identical to any brain state. 
 
-If my after-image was identical to a brain state, then the properties of the after-image must also be properties of the brain state. One property of the after-image is that it is green. But this is not a property of the brain state correlated with that image! 
+If my after-image were identical to a brain state, then the properties of the after-image must also be properties of the brain state. One property of the after-image is that it is green. But this is not a property of the brain state correlated with that image! 
 
 This argument assumes that the after-image is literally green, and I will leave you to decide whether you think that it is true. If it is not literally green, then the argument fails. If it is literally green, then the argument succeeds. 
 
 ### Property 3: Multiple Realizability 
+
+<div style="width:100%;height:0;padding-bottom:48%;position:relative;"><iframe src="https://giphy.com/embed/SZzKe0HhRlthC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shark-shortfin-mako-SZzKe0HhRlthC">via GIPHY</a></p>
 
 The multiple realizability thesis states that a single mental kind can be realized by many distinct physical kinds. Sharks feel pain, but sharks do not have c-fibres. Their brains are just very different from humans. An alien made of different stuff than we are might still experience pain. A very sophisticated robot might too experience pain. This poses a problem for the mind-brain identity theory:
 

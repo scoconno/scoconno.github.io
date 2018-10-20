@@ -4,7 +4,7 @@ title: Mind Brain Identity Theory
 ---
 
 ### Reading
-+ Textbook, ch.4
++ Textbook, ch.4. Skip 'Explanatory Arguments for Pscyhoneural Identity' from pp.102--110.
 + ['They're Made Out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson
 
 ### Videos
