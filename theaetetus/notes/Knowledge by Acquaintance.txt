@@ -1,0 +1,9 @@
+Knowledge by Acquaintance vs Knowledge by Description
+
+Russell 
+
+ a person is acquainted with an object when they stand in a “direct cognitive relation to the object, i.e. when [the subject is] directly aware of the object itself” (Russell 1910, p. 108).
+ 
+> we have acquaintance with anything of which we are directly aware, without the intermediary of any process of inference or any knowledge of truths” (Russell 1912, p. 46). 
+
+To have knowledge by acquaintance, according to Russell, occurs when the subject has an immediate or unmediated awareness of some propositional truth. Knowledge by description, by contrast, is propositional knowledge that is inferential, mediated, or indirect.

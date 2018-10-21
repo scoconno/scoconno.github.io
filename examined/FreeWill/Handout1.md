@@ -8,7 +8,7 @@ title: Free Will
 ## Introduction
 
 
-You likely think that you have control of your own destiny, that you have power over your future. You are free, you might think, to choose what to eat, who to date, and what career to pursue. It certainly does appear that way. When trying to decide between chocolate cake and a salad, it seems that I really do have it in my power to eat either of those things. If I eat the cake, I still could have eaten the salad and *vice versa*. 
+You likely think that you have control of your own destiny, that you have power over your future. You are free, you might think, to choose what to eat, who to date, and what career to pursue. It certainly does appear that way. When trying to decide between chocolate cake and a salad, it seems that I really do have it in my power to eat either of those things. If I eat the cake, I still could have eaten the salad, and vice versa. 
 
 Many things that seem a certain way are not that way. Some of you, like me, may have believed passionately in the existence of Santa Clause when you were children. You later came to learn that you were mistaken. In this module, we will be considering whether our belief in free will might be like a belief in Santa Clause, wholly mistaken. If we do not have free will, then it was not in my power to eat the salad even though I thought that it was. 
 
@@ -29,7 +29,7 @@ The problem is that Causal Determinism seems to jar with a fairly ordinary sense
 Free Will:
 : An agent, S, freely chooses to do F at time *t1* if and only if it was S's power at time *t1* to bring either F or not F about. 
 
-Suppose Mike Tyson force feeds me some cake. No-one would claim that I ate that cake freely. Since it was not in my power to not eat the cake, the eating was not in my power at all. Similarly, if you were forced to take a job, or forced to take a course, and it was not in your power to do otherwise, you would not be taking that job or pursuing that course of your own free will. If you don't have the power to do otherwise, then it was never in your power in the first place. The problem is that Causal Determinism seems to say that it is never in our power to do otherwise: 
+Suppose Mike Tyson force feeds me some cake. No one would claim that I ate that cake freely. Since it was not in my power to not eat the cake, the eating was not in my power at all. Similarly, if you were forced to take a job, or forced to take a course, and it was not in your power to do otherwise, you would not be taking that job or pursuing that course of your own free will. If you don't have the power to do otherwise, then it was never in your power in the first place. The problem is that Causal Determinism seems to say that it is never in our power to do otherwise: 
 
 *Argument Against Free Will*
 

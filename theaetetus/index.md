@@ -65,6 +65,7 @@ The syllabus details our schedule of readings from the course text. I include he
 
 **Week 8**
 
-+ Gail Fine, ['False Belief in the "Theaetetus"](reading/finefalsebel.pdf)
++ Bertrand Russell, ['Knowledge by Acquaintance and Knowledge by Description'](reading/ber.pdf)
++ Gail Fine, ['False Belief in the "Theaetetus" '](reading/finefalsebel.pdf)
 
 
