@@ -58,3 +58,13 @@ The syllabus details our schedule of readings from the course text. I include he
 + Myles Burnyeat, ['Protagoras and Self-Refutation in Plato's *Theaetetus*'](reading/bursr.pdf)
 + E. Emilsson, ['Plato's Self-Refutation Argument in *Theaetetus* 171A-C Revisited'](reading/emil.pdf)
 + Alex Long, ['Refutation and Relativism in *Theaetetus*'](reading/long.pdf)
+
+**Week 7**
+
++ No additional papers
+
+**Week 8**
+
++ Gail Fine, ['False Belief in the "Theaetetus"](reading/finefalsebel.pdf)
+
+

@@ -1,4 +1,4 @@
-## Narrow vs Broad Protagoreanism
+ Narrow vs Broad Protagoreanism
 
 Protagoras believes the following claims ('p' stands for a proposition): 
 
