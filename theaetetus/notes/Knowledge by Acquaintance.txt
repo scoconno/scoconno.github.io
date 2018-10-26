@@ -1,9 +1,51 @@
-Knowledge by Acquaintance vs Knowledge by Description
 
-Russell 
 
- a person is acquainted with an object when they stand in a “direct cognitive relation to the object, i.e. when [the subject is] directly aware of the object itself” (Russell 1910, p. 108).
- 
-> we have acquaintance with anything of which we are directly aware, without the intermediary of any process of inference or any knowledge of truths” (Russell 1912, p. 46). 
+## Doxa
 
-To have knowledge by acquaintance, according to Russell, occurs when the subject has an immediate or unmediated awareness of some propositional truth. Knowledge by description, by contrast, is propositional knowledge that is inferential, mediated, or indirect.
+The Greek word, doxa, can be translated as 'belief', 'judgment', 'opinion'. None are quite right. 
+
+## Argument that false belief is not possible
+
+1. For any x, either one knows x or one does not know x.
+2. For any x such that one has a belief about x, either one knows x or
+   one does not know x.
+3. It is impossible for one both to know and not to know the same thing.
+4. If one has a false belief that x is y, either
+   1.  one knows x and y; or
+   2. one knows x or y, but not both; or
+   3. one knows neither x nor y.
+5. None of (4) (1)-(3) is possible.
+6. Therefore there is no false belief.[^1]
+
+[^1]: From Fine (1979) p.71
+
+## Knowledge by Acquaintance vs Knowledge by Description
+
+Bertrand Russell argues that a person is acquainted with an object when they stand in a..
+
+>  direct cognitive relation to the object, i.e. when [the subject is] directly aware of the object itself. (Russell 1910, p. 108)
+
+> we have acquaintance with anything of which we are directly aware, without the intermediary of any process of inference or any knowledge of truths. (Russell 1912, p. 46) 
+
+**Knowledge by acquaintance:**knowledge that occurs when the subject has an immediate or unmediated awareness of some propositional truth. 
+
+**Knowledge by description:** propositional knowledge that is inferential, mediated, or indirect.
+
+Russell accepts **foundationalism**. On his version of this view: 
+
+1. Knowledge by acquaintance is foundational and not dependent on any other knowledge. 
+2. Knowledge by description is dependent upon, inferred from, knowledge by acquaintance.
+
+Russell writes: 
+
+> Every proposition which we can understand must be composed wholly of constituents with which we are acquainted. (Russell 1912, p. 58)
+
+Acquaintance entails complete total knowledge about the thing we know by acquaintance. 
+
+> We shall say we have acquaintance with anything of which we
+> are directly aware ... no further knowledge of [such a thing] is even
+> theoretically possible. (Russell 1912, pp.46-47)
+
+Acquaintance confers total knowledge. Either one is acquainted with something, and so knows all there is to know about it, or else one is not acquainted with it, and so has total ignorance. 
+
+## Let's retry 4 in the argument above and assume Plato has acquaintance in mind

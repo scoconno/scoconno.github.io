@@ -4,41 +4,39 @@ title: Essay
 ---
 
 
+**NB: this prompt concerns ch.5. Your grade will be determined, in part, by 
+how well you demonstrate your engagement and understanding of that chapter.**
+
 ## Introduction
 
-You are a psychologist for the NJ court system. Your job is to psychologically assess defendants. You must determine whether they committed the crime of their own free will. You primarily ask why the person has the character traits they have and ask whether their behavior is determined by those character traits. You interview their friends, family, and colleagues. You find out whatever you can about their upbringing and how it shaped the person they are today. You then write a short report to the judge outlining your findings. The odd twist is that today you are determined to prove that the defendant's character is responsible for their action and that they had **no control** over having that character. 
+You are a psychologist for the NJ court system. Your job is to psychologically assess defendants, in particular, you must determine whether they committed the crime of their own free will. You primarily ask why the person has the character traits they have and ask whether their behavior is determined by those character traits. You interview their friends, family, and colleagues. You find out whatever you can about their upbringing and how it shaped the person they are today. You then write a short report to the judge outlining your findings. 
 
+The defendant you have most recently assessed  demonstrated a pattern of behavior consistent with their character and investigation of their background clearly shows that they had  no control over that character; you conclude that they did not perform the action freely.
 
-## Purpose
-
-The purpose of this assignment is to teach you about free will and compatibilism. 
 
 ## Task
 
-Write the psychological report outlining your results about the defendant.The report must have the following parts: 
+**Pick any criminal case by looking at old newspapers. NJ.com and nytimes.com are good places to start. Pick a case that was sufficiently well covered that you can easily find details about the accused.**
+
+Write a letter to the judge outlining your results. The letter must have the following parts: 
 
 1. A description of the crime.
 	+ Identify some crime and prepare the psychological report of the defendant for the court. 
-	+ You can find a case by looking at old newspapers. NJ.com and nytimes.com are good places to start. 
 	+ Include details about the crime, the victim, and the behavior of the defendant. Make details up if you need to.
 2. A description of the defendant's personality.
 	+ Explain the defendant's main character traits. 
 	+ Use anecdotes that illustrate these traits. 
 3. An argument that the defendant's upbringing caused them to have these character traits: 	 
-	+ Do this by summarizing your interviews with the defendant's family and friends. Provide examples from the defendant's childhood that shaped their character.
+	+ Do this by summarizing your interviews with the defendant's family and friends. Make details up if you need to.
+	+ Provide examples from the defendant's childhood that shaped their character. Make details up if you need to.
 4. An argument that the crime was caused by the defendant's character. 
-	+  Identify which character traits caused the defendant to commit the crime. 
+	+  Identify which character traits caused the defendant to commit the crime. **I want to see that you understand how a trait could cause behavior.**
 
 
 **NB:** Failure to include any of these parts will lose you points.
 
 ## Word Count 
 Your dialog must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
-
-
-
- 
-
 
 ## Plagiarism
 
