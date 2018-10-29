@@ -67,5 +67,13 @@ The syllabus details our schedule of readings from the course text. I include he
 
 + Bertrand Russell, ['Knowledge by Acquaintance and Knowledge by Description'](reading/ber.pdf)
 + Gail Fine, ['False Belief in the "Theaetetus" '](reading/finefalsebel.pdf)
++ Ackrill, J., 1966. “Plato on False Belief: Theaetetus 187–200.” The Monist 50(3): 383–402
+
+**Week 9**
+
++ Woolf, R, ['A Shaggy Soul Story: How Not to Read the Wax Tablet Model in Plato’s Theaetetus.'](reading/shaggy.pdf)
 
 
+**Week 10**
+
++ Myles Burnyeat and Jonathan Barnes, ['Socrates and the Jury: Paradoxes in Plato’s Distinction Between Knowledge and True Belief.'](reading/burbar.pdf)
