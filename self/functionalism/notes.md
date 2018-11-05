@@ -9,15 +9,15 @@ title: Notes
 Let us take stock. We have reviewed three theories of mind so far: 
 
 Dualism:
-: mental states are separate from brain states. For instance, dualists claim that pain is not identical to any brain state. 
+: mental states are separate from brain states, e.g., pain is not identical to any brain state. 
 
 Behaviorism: 
-: mental state are identical to sets of behaviors and physiological responses. For instance, the behaviorist claims that pain is identical to some behavior like grimacing and groaning. 
+: mental state are identical to sets of behaviors and physiological responses, e.g., pain is identical to some behavior like grimacing and groaning. 
 
 Identity Theory:
-: mental states are identical to brain states. For instance, identity theorists claim that pain is identical to some brain state like c-fibers firing. 
+: mental states are identical to brain states, e.g., pain is identical to some brain state like c-fibers firing. 
 
-We saw that dualists struggle to explain mental causation, to explain how the mind causes our bodies to move. We saw that the identity theorist has little difficulty explaining mental causation, but does struggle to explain how all the properties of our minds could really be properties of our brain. And we saw that the behaviorist struggles to explain several features of mentality, including how mental states figure in the explanation of our behaviors. 
+We saw that dualists struggle to explain mental causation, to explain how the mind causes our bodies to move. We saw that the identity theorist has little difficulty explaining mental causation but does struggle to explain how all the properties of our minds could really be properties of our brain. And we saw that the behaviorist struggles to explain several features of mentality, including how mental states figure in the explanation of our behaviors. 
 
 ## Functionalism
 Our final theory of mind is called **functionalism**. It is currently the most popular of the various theories of mind. Functionalism hopes to accommodate the strengths of all our previous theories while avoiding their weaknesses. We will define functionalism as follows: 
@@ -45,7 +45,7 @@ Which of these two definitions states the true nature of the heart? A functional
 
 Each item is composed of different materials. Some are composed of tissues. Others are composed of metals and plastics. But each of these entities can pump oxygenated blood to the tissues and deoxygenated blood to the lungs; you could have an artificial heart. According to the functionalist, since each plays the role described in the functional definition of a heart, they are each hearts. So regardless of what it is made of, it is a heart if it does the job of a heart. 
 
-You shouldn't find this too surprising. A person counts as occupying a position at a company if they do the work associated with that position. They do not count as occupying the position because they have blood and tissue as parts, or because they have a certain height, weight, or appearance. Such considerations do not define a job; it's the work that defines the job and people of varying heights, weights, and appearance can often do the work of the very same job. 
+You shouldn't find this surprising. A person counts as occupying a position at a company if they do the work associated with that position. They do not count as occupying the position because they have blood and tissue as parts, or because they have a certain height, weight, or appearance. Such considerations do not define a job; it's the work that defines the job and people of varying heights, weights, and appearance can often do the work of the very same job. 
 
 The functionalist thinks that we need to be similarly careful when investigating the nature of the mind to distinguish between functional and physical descriptions of mental states. The identity theorist, for instance, really thinks that mental states are defined by some physical description; they think that a mental state is identical to some brain state. But the functionalist disagrees. They think that the nature of a mental state is the job it plays; the nature of a mental state is defined by a functional role and not what constitutes it. 
 

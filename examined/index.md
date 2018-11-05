@@ -141,7 +141,9 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 	
 **11/5**
 
-+ [Notes](/mind/dualism/notes)
++ Notes
+	+ [Part 1](/self/dualism/notes)
+	+ [Part 2](/self/dualism2/notes)
 + [‘Life after Life’,](Mind/Life.pdf) Thomas Davis
 + Optional Reading: [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes
 + *Videos*: [Are we minds or bodies?](https://www.youtube.com/watch?v=AMTMtWHclKo)
@@ -152,20 +154,20 @@ Links to notes, assignments, readings not in the textbook, and optional videos &
 Please have a conversation with a recent winner of the Loebner prize [here](http://www.mitsuku.com). 
 
 + Notes
-	+ [Notes 1](/mind/functionalism/notes)
-	+ [Notes 2](/mind/functionalism2/notes)
+	+ [Notes 1](/self/functionalism/notes)
+	+ [Notes 2](/self/functionalism2/notes)
 + Reading
 	+ ['They're Made out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson. You can also watch the [video version](https://www.youtube.com/watch?v=7tScAyNaRdQ)
 + Optional Reading
-	+ ['Computing Machinery and Intelligence',](/mind/functionalism/turing.pdf) A.M.Turing
-	+ ['Is the Brain's Mind a Computer Program?',](/mind/functionalism2/SearleBrain.pdf) J. Searle
-	+ ['Troubles with Functionalism',](/mind/functionalism2/Block.pdf) N. Block 	
+	+ ['Computing Machinery and Intelligence',](/self/functionalism/turing.pdf) A.M.Turing
+	+ ['Is the Brain's Mind a Computer Program?',](/self/functionalism2/SearleBrain.pdf) J. Searle
+	+ ['Troubles with Functionalism',](/self/functionalism2/Block.pdf) N. Block 	
 + Videos
 	+ [One explanation of the Turing Test](https://www.youtube.com/watch?v=1uDa7jkIztw)
 	+ [Another explanation of the Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
-	+ [Necessary and Sufficient Conditions:](https://www.youtube.com/watch?v=5LqNm9d2__I)   
-	+ [A reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M) 
-	+ [AI: Computers and Minds:](https://www.youtube.com/watch?v=7fLNVP5yKt0)  
+	+ [Necessary and Sufficient Conditions](https://www.youtube.com/watch?v=5LqNm9d2__I)   
+	+ [A reconstruction of the Chinese Room Thought Experiment](https://www.youtube.com/watch?v=D0MD4sRHj1M) 
+	+ [AI: Computers and Minds](https://www.youtube.com/watch?v=7fLNVP5yKt0)  
 
 ---
 

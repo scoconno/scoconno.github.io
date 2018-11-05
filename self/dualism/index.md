@@ -5,6 +5,7 @@ title: Substance Dualism
 
 ## Reading
 + ['The Philosophy of Mind',](/self/introduction/kim1and2.pdf) chapter 2. I include chapter 1 as well. You will need to purchase this textbook for future readings. 
++ [Life after Life](/self/dualism/Life.pdf)
 + [*Meditations*, Section 2 and 3,](http://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf) Descartes, optional
 
 ## Notes
