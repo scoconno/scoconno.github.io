@@ -5,8 +5,7 @@ title: Essay
 ---
 ## Introduction
 
-Turing believed that being able to pass the Turing Test was both necessary and sufficient for being able to think. One way to evaluate this claim is to examine the depiction of artificial intelligence in movies and TV shows. For this assignment, you will discuss what you think is the most advanced artificial intelligence in either a movie or TV show.   
-
+Turing believed that only beings that were able to pass the Turing Test were able to think. Searle objected that a being could pass the test and lack the ability to think. One way to adjudicate this disagreement is to examine the depiction of artificial intelligence in movies and TV shows. For this assignment, you will discuss what you think is the most advanced artificial intelligence in either a movie or TV show and present Turing and Searle's opposing positions. 
 
 
 ## Task
@@ -14,14 +13,13 @@ Turing believed that being able to pass the Turing Test was both necessary and s
 In your paper, you must do the following four things: 
 
 1. Identify the relevant TV show or movie. Describe the artificially intelligent character. Is it a robot? An operating system? What is the movie/TV show about and what role does this character have in it? 
-1. With reference to your chosen character, explain the claim that being able to pass the Turing Test is a necessary condition for being able to think. 
-2. With reference to your chosen character, explain the claim that being able to pass the Turing Test is a sufficient condition for being able to think. 
-4. Set out the evidence that your chosen character would pass the Turing Test. 
+1. With reference to your chosen character, explain the claim that only beings that are able to pass the Turing Test are able to think. 
+2. With reference to your chosen character, explain Searle's objection to the claim that every being that passes the Turing Test is able to think. 
+4. Pick a side! With reference to your chosen character, explain why you agree with your chosen side, i.e., if you agree with Searle, why do you agree with Searle? If you agree with Turing, why do you agree with Turing? 
 	   
 
-**Important Notes**
-1. Failure to complete any of these tasks will result in a loss of points. 
-2. You must thoroughly explain Turing's claim that being able to pass the Turing Test is necessary and sufficient for being able to think.  Make sure you understand what necessary and sufficient conditions are; watch the videos if you are unsure. Use your own examples. 
+**NB:** Failure to complete any of these tasks will result in a loss of points. 
+
 
 
 ## Word Count
