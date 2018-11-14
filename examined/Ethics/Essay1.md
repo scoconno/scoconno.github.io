@@ -6,19 +6,12 @@ title: Essay
 
 
 
-This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/Teaching/Examined/Ethics/Kirinyaga.pdf) 
+This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/teaching/examined/Ethics/Kirinyaga.pdf) 
 
 
 ## Introduction
 
 Koriba strangles a newborn child. He claims that the traditions of his people, the Kikuyu, say it is morally required of him to do so. Maintenance is concerned. They send Barbara Eaton to investigate. 
-
-## Purpose
-The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others.
-
-1. Charitably explaining arguments about issues of public importance.
-2. Understanding that there are different cultural norm and how those norms guide different behavior. 
-2. Explaining difficult concepts in your own words.
 
 ## Task
 
@@ -49,8 +42,3 @@ Please review the plagiarism policy on the syllabus. It is critical that you pre
 ## Format
 Please submit the file as a Microsoft Word file through Blackboard.
 
-## Grading
-Please find the rubric and explanation of it [here](/Teaching/Grading/).
-
-## Resources
-Please find links to writing resources [here](/Teaching/Resources/)
