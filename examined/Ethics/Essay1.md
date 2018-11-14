@@ -6,7 +6,7 @@ title: Essay
 
 
 
-This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/teaching/examined/Ethics/Kirinyaga.pdf) 
+This assignment concerns [‘Kirinyaga’, ch. 1, by Mike Resnik](/examined/Ethics/Kirinyaga.pdf) 
 
 
 ## Introduction
