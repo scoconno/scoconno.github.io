@@ -77,3 +77,24 @@ The syllabus details our schedule of readings from the course text. I include he
 **Week 10**
 
 + Myles Burnyeat and Jonathan Barnes, ['Socrates and the Jury: Paradoxes in Plato’s Distinction Between Knowledge and True Belief.'](reading/burbar.pdf)
+
+**Week 11**
+
++ Myles Burnyeat and Jonathan Barnes, ['Socrates and the Jury: Paradoxes in Plato’s Distinction Between Knowledge and True Belief.'](reading/burbar.pdf)
+
+**Week 12**
+
++ Gail Fine, ['Knowledge and Logos in the Theaetetus.'](reading/fineknlo.pdf)
++ Verity Harte, Plato on Parts and Wholes (Oxford, 2002), ch.1
+
+
+
+## Final part
+
++ Burnyeat, M. F. ‘The Material and Sources of Socrates' Dream, Phronesis 1970
++ Burnyeat, M. F.& J. Barnes, ‘Socrates and the Jury’ Proceedings of the Aristotelian Society Supplement 1980
++ Gallop D. ‘Plato and the Alphabet’ Philosophical Review 1963
++ Hicken, W. F. ‘The Character and Provenance of Socrates' Dream,’ Phronesis 1958
++ Hicken, W. F. ‘Knowledge and Forms in Plato's Theaetetus’ Journal Hellenic Studies 1957 and Allen, R.E. Studies in Plato's Metaphysics
++ Ryle, G., ‘Letters and Syllables in Plato’ Philosophical Review 1960
++ Shields, C., ‘The Logos of ”Logos”: Theaetetus 206c-210b,’ Apeiron 1999
