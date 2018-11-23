@@ -1,4 +1,4 @@
-## Wax Tablet Model (taken from Joshua Cline)
+ Wax Tablet Model (taken from Joshua Cline)
 
 > I am going to maintain that we were wrong to agree that it is impossible for a man to be in error through judging that things he knows are things he doesn’t know. In a way, it is possible (191a11-b2).
 
