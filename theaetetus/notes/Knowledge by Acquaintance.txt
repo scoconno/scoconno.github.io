@@ -1,4 +1,8 @@
+---
+layout: mindweekly
+title: Essay
 
+---
 
 ## Doxa
 

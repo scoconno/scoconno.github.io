@@ -1,3 +1,8 @@
+---
+layout: default
+title: Essay
+
+---
 
 **Objections to claim that Knowledge=Perception** 
 

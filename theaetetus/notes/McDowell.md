@@ -1,3 +1,9 @@
+---
+layout: default
+title: Essay
+
+---
+
 Objection to flux doctrine
 
 
