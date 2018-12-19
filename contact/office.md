@@ -2,7 +2,7 @@
 layout: default
 title: Office Hours
 ---
-# Fall 2018, Office Hours
+# Spring 2019
 
 Please send me a brief message through Blackboard with 24 hours notice if you intend to attend office hours. Let me know the purpose of the visit and how best I can prepare for it. For instance, do you want me to read a draft of a paper? If so, please send it to me. Would you like to discuss your progress in the course? If so, I'll calculate your current grade in advance of our meeting. 
 
