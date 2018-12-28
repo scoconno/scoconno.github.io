@@ -1,9 +1,5 @@
----
-author:
-- 'Scott O’Connor'
-date:  
-title: Zeno 2
-...
+Zeno 2
+
 
 ### Motion does not exist
 
