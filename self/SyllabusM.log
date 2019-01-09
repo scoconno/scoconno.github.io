@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  8 JAN 2019 13:19
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  9 JAN 2019 11:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Syllabus.tex
-(./Syllabus.tex
+**SyllabusM.tex
+(./SyllabusM.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/memoir.cls
@@ -1165,8 +1165,8 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )))
-(./Syllabus.aux)
-\openout1 = `Syllabus.aux'.
+(./SyllabusM.aux)
+\openout1 = `SyllabusM.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -1267,20 +1267,20 @@ LaTeX Info: Redefining \nameref on input line 32.
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
-(./Syllabus.out) (./Syllabus.out)
+(./SyllabusM.out) (./SyllabusM.out)
 \@outlinefile=\write6
-\openout6 = `Syllabus.out'.
+\openout6 = `SyllabusM.out'.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `Syllabus.bcf'.
+\openout5 = `SyllabusM.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Syllabus.bbl' not found.
+Package biblatex Info: ... file 'SyllabusM.bbl' not found.
 
-No file Syllabus.bbl.
+No file SyllabusM.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
 .................................................
@@ -1511,15 +1511,15 @@ LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
 (Font)              scaled to size 9.84024pt on input line 105.
  [2]
-LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 150.
- [3]
-Overfull \hbox (16.33888pt too wide) in paragraph at lines 159--160
-\TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
-]http://scottoconnor.org/contact/[][]. 
+Overfull \hbox (2.29033pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/10 Points will not be awarded during weeks 1 & 2. Particip
+ation points will be awarded
  []
 
-[4]
+[3]
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 9.84024pt on input line 150.
+ [4]
 Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
@@ -1527,37 +1527,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--197
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
 (Font)              scaled to size 8.85622pt on input line 202.
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 200--235
+Overfull \hbox (50.65942pt too wide) in alignment at lines 200--236
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 239--239
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
 []|\TU/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 235--267
+Overfull \hbox (50.65942pt too wide) in alignment at lines 236--272
  [] [] [] 
  []
 
-[5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 278.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 278.
- (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 278.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 278.
-Package logreq Info: Writing requests to 'Syllabus.run.xml'.
-\openout1 = `Syllabus.run.xml'.
+[5] [6] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
+ (./SyllabusM.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 283.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 283.
+Package logreq Info: Writing requests to 'SyllabusM.run.xml'.
+\openout1 = `SyllabusM.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  32778 strings out of 493005
- 585169 string characters out of 6134596
- 1266132 words of memory out of 5000000
+ 585186 string characters out of 6134596
+ 1270136 words of memory out of 5000000
  36512 multiletter control sequences out of 15000+600000
  4633 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 50i,11n,117p,10374b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,117p,10375b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Syllabus.pdf (6 pages).
+Output written on SyllabusM.pdf (7 pages).
