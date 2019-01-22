@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  9 JAN 2019 11:00
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  22 JAN 2019 08:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**SyllabusM.tex
-(./SyllabusM.tex
+**Syllabus.tex
+(./Syllabus.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/memoir.cls
@@ -1165,8 +1165,8 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )))
-(./SyllabusM.aux)
-\openout1 = `SyllabusM.aux'.
+(./Syllabus.aux)
+\openout1 = `Syllabus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
@@ -1267,20 +1267,20 @@ LaTeX Info: Redefining \nameref on input line 32.
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
-(./SyllabusM.out) (./SyllabusM.out)
+(./Syllabus.out) (./Syllabus.out)
 \@outlinefile=\write6
-\openout6 = `SyllabusM.out'.
+\openout6 = `Syllabus.out'.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `SyllabusM.bcf'.
+\openout5 = `Syllabus.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'SyllabusM.bbl' not found.
+Package biblatex Info: ... file 'Syllabus.bbl' not found.
 
-No file SyllabusM.bbl.
+No file Syllabus.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
 .................................................
@@ -1494,7 +1494,7 @@ LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
 (Font)              scaled to size 6.40002pt on input line 60.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 10.68604pt on input line 72.
+(Font)              scaled to size 10.68604pt on input line 71.
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1502,62 +1502,72 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 [1
 
 ]
+Overfull \hbox (31.17438pt too wide) in paragraph at lines 94--95
+\TU/MinionPro(0)/m/n/10 ther information about the General Education Program se
+e [][]http://njcu.edu/department/general-
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 103.
+(Font)              <7> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 103.
+(Font)              <5> on input line 99.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
-(Font)              scaled to size 9.84024pt on input line 103.
+(Font)              scaled to size 9.84024pt on input line 111.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 105.
- [2]
-Overfull \hbox (2.29033pt too wide) in paragraph at lines 117--118
+(Font)              scaled to size 9.84024pt on input line 112.
+[2]
+Overfull \hbox (2.29033pt too wide) in paragraph at lines 114--115
 \TU/MinionPro(0)/m/n/10 Points will not be awarded during weeks 1 & 2. Particip
 ation points will be awarded
  []
 
-[3]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 150.
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
-
- []
-
+(Font)              scaled to size 9.84024pt on input line 154.
+[3] [4]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 202.
+(Font)              scaled to size 8.85622pt on input line 195.
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 200--236
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\TU/MinionPro(0)/m/n/10 –**‘Slaughterhouse-Five,’ K. Vonnegut,
+ []
+
+
+Overfull \hbox (64.8858pt too wide) in alignment at lines 193--237
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 244--244
-[]|\TU/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
+Underfull \hbox (badness 2443) in paragraph at lines 240--240
+[]|\TU/MinionPro(0)/m/n/10 –**‘A Survey of Metaphysics’, E.J. Lowe,
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 236--272
+Overfull \hbox (64.8858pt too wide) in alignment at lines 237--274
  [] [] [] 
  []
 
-[5] [6] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
- (./SyllabusM.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 283.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 283.
-Package logreq Info: Writing requests to 'SyllabusM.run.xml'.
-\openout1 = `SyllabusM.run.xml'.
+[5]
+Overfull \hbox (64.8858pt too wide) in alignment at lines 274--281
+ [] [] [] 
+ []
+
+[6] [7]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
+ (./Syllabus.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 291.
+Package logreq Info: Writing requests to 'Syllabus.run.xml'.
+\openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  32778 strings out of 493005
- 585186 string characters out of 6134596
- 1270136 words of memory out of 5000000
+ 585169 string characters out of 6134596
+ 1267127 words of memory out of 5000000
  36512 multiletter control sequences out of 15000+600000
  4633 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 50i,11n,117p,10375b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,12n,117p,10374b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on SyllabusM.pdf (7 pages).
+Output written on Syllabus.pdf (7 pages).
