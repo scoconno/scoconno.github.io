@@ -23,8 +23,15 @@ title: Time
 
 Please refer to the syllabus for a weekly schedule of readings and assignments. Changes will be announced through Blackboard. 
 
+---
+**1/23/19**
 
++ [Heavenly Clockwork,](/Readings/Falk1.pdf) Falk
 
+---
 
+**1/28/18**
 
++ [Years, Minutes, Days,](/Readings/Falk2.pdf) Falk
 
+---
