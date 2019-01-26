@@ -5,7 +5,7 @@ title: Notes
 
 ## Introduction
 
-Compare a picture of you taken yesterday to a picture taken of you as a baby. Are the people depicted in the photographs the same person? They certainly seem different. One is a small baby, just a few pounds in weight. The other is heavier, taller, able to think, read, and do all the things that adults can do but babies cannot.  But, while they appear different, they are surely the same person. The mother of that baby is also the mother of that adult, the inheritance promised to that baby is inheritance that adult is entitled to, the first steps of that baby were the first steps of that adult, etc. Our first topic concerns how this is possible; how could that adult be the same person as that baby?  
+Compare a picture of you taken yesterday to a picture taken of you as a baby. Are the people depicted in the photographs the same person? They certainly seem different. One is a small baby, just a few pounds in weight. The other is heavier, taller, able to think, read, and do all the things that adults can do but babies cannot.  But, while they appear different, they are the same person. The mother of that baby is also the mother of that adult, the inheritance promised to that baby is inheritance that adult is entitled to, the first steps of that baby were the first steps of that adult, etc. Our first topic concerns how this is possible; how could that adult be the same person as that baby?  
 
 English can mislead us when trying to answer questions about identity because the words 'identity', 'identical', 'similar', and 'same' are ambiguous; they can be used to describe different relations. And whenever a word can be used in several ways, we need to disambiguate those uses to answer questions that contain them. For instance, if a person told you that they left their car near the bank, they could mean that they left it near the money bank or the river bank. It's obviously important to identify which kind of bank they mean. 
 
@@ -13,19 +13,21 @@ English can mislead us when trying to answer questions about identity because th
 
 ![image](chairs.jpg)
 
-Are the chairs depicted in this picture the same? Are they identical? If we mean to ask whether these chairs are qualitatively similar, then the answer is 'yes'. Qualitative similarity is something that distinct objects enjoy by sharing similar features. These two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger breadmen made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But they are *two* cookies. You eat two cookies if you eat both of them. Things can be more or less qualitatively similar. The two chairs are very similar because they share very many qualities. But now consider this picture: 
+Are the chairs depicted in this picture the same? Are they identical? If we mean to ask whether these chairs are qualitatively similar, then the answer is 'yes'. Qualitative similarity is something that distinct objects enjoy by sharing similar features. These two chairs are qualitatively similar in virtue of having a similar shape, size, and function. But they are still two chairs; if you buy both, you will have to pay twice the cost of one. Similarly, two ginger breadmen made by the same cookie cutter are qualitatively similar, e.g., they have the same shape, the same weight, the same color, smell, and so on. But they are *two* cookies. You eat two cookies if you eat both of them. 
+
+Things can be more or less qualitatively similar. The two chairs are very similar because they share very many qualities. But now consider this picture: 
 
 ![image](cat.jpg)
 
-The lion and the cat are qualitatively similar because they have some features in commoon, but they are not as similar as the two chairs above; they don't share as many properties as the two chairs share. Nevertheless, we would all agree that the lion and the cat are the same if we mean they share some features in common. 
+The lion and the cat are qualitatively similar because they have some features in common. But they are not as similar as the two chairs above; they don't share as many properties as the two chairs share. Nevertheless, we would all agree that the lion and the cat are the same in the sense that they share some features in common. The upshot is this: entities are qualitatively similar if they share at least one feature. The more features they share, the more qualitatively similar they are.
 
 'Identity' and 'same' can also be used to talk about *numerical identity*, the relation that each thing holds to itself and nothing else. 'Numerical identity' is used when we want to say that there is just one entity to be counted. Consider this picture: 
 
 ![image](Superman.jpg)
 
-Are Superman and Clark Kent the same person? They are qualitatively similar because they share some features. But they are the same person in a different way too: there is just one person who happens to have two names. You would make a mistake if you counted them as two people. If only Superman and Clark Kent are in a room, there is only still one person in that room. Similarly, if the gingerbread man is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both of them. You eat just one. 
+Are Superman and Clark Kent the same person? They are qualitatively similar because they share some features. But they are the same person in a different way too: there is just one person who happens to have two names. You would make a mistake if you counted them as two people. If only Superman and Clark Kent are in a room, there is still only one person in that room. Similarly, if the ginger breadman is numerically identical to the last cookie in the tin, you do not eat two cookies by eating both of them. You eat just one. 
 
-Our interest in personal identity is an interest in numerical identity. Humans obviously change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weights, made of different cells, have different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you; and if that baby is identical to some teenager, then you too are identical to that teenager. So, the adult and baby in those pictures are only slightly qualitatively similar, but they are still numerically identical. Our interest is how this possible. 
+Our interest in personal identity is an interest in numerical identity. Humans change their qualities over time. You and the baby you grew from share few, if any, features. You may have the same color eyes, but you are different sizes, different weights, made of different cells, have different hair lengths, different tastes and dispositions, etc. Nevertheless, you and that baby are numerically identical: you are identical to it and it is identical to you; and if that baby is identical to some teenager, then you too are identical to that teenager. So, the adult and baby in those pictures are only slightly qualitatively similar, but they are still numerically identical. Our interest is how this possible. 
 
 Why care?  Numerical identity undergirds many of our moral and social institutions. The social security number assigned to that baby belongs to whoever is numerically identical to her. Being only qualitatively similar does not suffice. That would mean a twin could get that baby's social security. Similarly, the prison sentence delivered to a defendant should only be served by prisoners identical to that defendant. Suppose a prisoner is in the tenth year of a prison sentence for a crime committed by a person that they are only qualitatively similar to. What an injustice that would be! They would be serving a sentence for a crime that they did not commit. 
 
@@ -35,7 +37,7 @@ This should be obvious. You may hear someone claim that they will live on in the
 
 ## Puzzling about Identity 
 
-It seems obvious that you are numerically identical to that baby you came from despite the many qualitative differences between you. Why is this puzzling? Before I introduce the puzzle, I need to discuss three features of the numerical identity relation. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
+It seems obvious that you are numerically identical to that baby despite your many qualitative differences. Why is this puzzling? Before I introduce the puzzle, I need to discuss three features of the numerical identity relation. It is *reflexive*, *symmetrical*, and *transitive*. I will speak about each in turn: 
 
 + A relation R is **reflexive** if and only if everything bears R to itself.
 	+ Example 1: everything is the *same height* as itself. *Same height* is a reflexive relation.
@@ -72,7 +74,7 @@ If we ignore William for a moment, none of us would doubt 1, that Thomas is iden
 
 3 says that Thomas and William are numerically identical to one another. Again, if Riker is identical to Thomas and Riker is identical to William, then Thomas and William are identical to one another. But this is clearly false, which is easy to demonstrate with the following simple example: in the episode, Councilor Troy kissed Thomas. If 3 is true, if Thomas is identical to William, then Troy also kissed William. But William was in a different part of the ship when the kiss occurred, so it is impossible that Troy kissed him when she kissed Thomas.
 
-We can add to these many more examples. Suppose that William commits a crime. Suppose he steals a ship. Well, if William is identical to Thomas, Thomas too steals the ship. Thomas then is as liable for the theft as William. But this is clearly absurd. The two men can be in different places at the same time; they can perform different actions at the same time; they could even get into a fight at the same time. Thus, they are not numerically identical and 3 is false.  Since 3 is false, we know that our premises, 1 and 2, cannot both be true together. Why? Consider this simple example: 
+We can add to these many more examples. Suppose that William commits a crime. Suppose he steals a ship. Well, if William is identical to Thomas, Thomas too steals the ship. Thomas then is as liable for the theft as William. But this is clearly absurd. The two men can be in different places at the same time; they can perform different actions at the same time; they could even get into a fight with one another at the same time. Thus, they are not numerically identical and 3 is false.  Since 3 is false, we know that our premises, 1 and 2, cannot both be true together. Why? Consider this simple example: 
 
 + P1. All humans are from Mars
 + P2. Socrates is human
@@ -98,7 +100,7 @@ Our first view, the sameness of body view, says the following:
 
 The view is straightforward. It states that Riker is identical to whoever has a body numerically identical to his. The view is made plausible by reflecting on how we normally judge personal identity; I believe that the baby in my apartment is identical to the baby my wife gave birth to because I see that the babies have the same body. 
 
-This view also has clear upshots for questions about immortality: we cannot survive our bodily death. The same body view states that we survive our bodily death only if there exists a person some time after who has a body numerically identical to our own. But, obviously, if our body dies, there cannot be someone in the future whose body is numerically identical to our own. 
+This view also has clear upshots for questions about immortality: we cannot survive our bodily death. The same body view states that we survive our bodily death only if there exists a person some time after our death who has a body numerically identical to our own. But, obviously, if our body dies, there cannot be someone in the future whose body is numerically identical to our own. 
 
 
 ## Objections
