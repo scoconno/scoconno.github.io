@@ -32,6 +32,14 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 **1/28/19**
 
-+ [Years, Minutes, Days,](/Readings/Falk2.pdf) Falk
++ [Years, Months, Days,](/Readings/Falk2.pdf) Falk
 
 ---
+
+**2/4/19**
+
++ [Hours, Minutes, Seconds,](/Readings/Falk3.pdf) Falk
+
+---
+
+
