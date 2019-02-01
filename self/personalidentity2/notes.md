@@ -23,11 +23,11 @@ Psychological Continuity Theory:
 
 In order to introduce our new theory, we need to think again about the question that we are trying to answer--what does personal identity consist in? Our first two answers said that there was something that each of the earlier and later stages of a person share; this one thing is numerically identical between each stage, whether it be soul or body. Our third view denies that some one identical thing shared by each earlier and later stages of a person is required for them to be identical to one another. It claims that the earlier and later stages must enjoy a certain *relationship* to one another. Look at the following image: 
 
-![image](stages.jpg)
+![](stages.jpg)
 
 Our first two theories stated that there is something, either a soul or body, that is shared by each stage. This common thing shared will exist fully at each moment that the person exists. If, for instance, personal identity consists in sameness of soul, then the one same soul will exist fully at each moment that the person exists. Our third theory advises against looking for one same thing that exists fully at each moment that the person exists. Rather, it claims that we should look at the relationship between all the stages of the person. Consider the following image of a train:  
 
-![image](train.jpg)
+![](train.jpg)
 
 Look first at the engine. Now look at the final carriage. Are you looking at one and the same train? They seem the same; the owner of that train you are attending to when watching the engine is identical to the owner of the train you are attending to when watching the final carriage. Suppose, now, we ask in virtue of what are these trains identical to one another? I think we would all agree that their identity is not explained by any one identical feature intrinsic to each. The various train cars are one and the same train by virtue of the fact that they are connected to one another---notice the locks where each car connects with one another. 
 
@@ -51,12 +51,12 @@ Factual memories, memories that many can share, differ from *personal memories*,
 
 The distinction between factual and episodic memory is clearly evidenced in unusual cases. Here's the story of Susie Mckinnon, who has factual memories but not episodic memories: 
 
-![https://www.cbc.ca/player/play/2670406429](susie.jpg)
+![](susie.jpg)
+
+You can hear more about Susie's story [here.](https://www.cbc.ca/player/play/2670406429) If personal identity consists in continuity of memory, it consists in personal memories, in memories that are unique to each of us. 
 
 
-
-
-![image](leo.jpg)
+![](leo.jpg)
 
 Consider this image of Leonardo Di Caprio. Locke proposed that the famous actor is identical to that young boy because he has personal memories of what that boy experienced. If, for instance, the younger Leo spilled a drink during his first audition, only the adult Leo has the personal memory of the younger Leo's experiences. Of course, many others could have a factual memory of that event. But only the adult Leo remembers what it was like to be that younger Leo experiencing the spill. On this view, then, you are identical to your younger self because only you have the personal memories of what that younger person experienced.  
 
@@ -82,7 +82,7 @@ While our first version was implausible, it can be fixed. A more sophisticated v
 
 By 'psychological continuity', we mean that there is a chain of person-stages connected by episodic memory. What does this mean? The idea is that it is not required for you to remember what you ate on your 12th birthday to be identical to your earlier self. All that is required is that you remember some earlier self, say, your 15 your old self, and that 15 year old self remembers eating the cake on your 12th birthday. Consider again our picture depicting personal identity and let us give letters to each of the personal stages. 
 
-![image](letters.jpg)
+![](letters.jpg)
 
 F, our oldest stage, remembers what the slightly younger stage, E, experienced. However, F does not remember what an even younger stage, D, experienced, but E does remember D's experiences. So, on our sophisticated version of the theory, F is identical to D. But F is identical to D not by remembering D's experiences but by remembering E's experiences, who in turn remembers D's experiences. The chain can continue backward as follows:  
 
@@ -100,7 +100,23 @@ Version 2  is immune to our objection to Version 1. That objection attacked the 
 
 ## Objections to Version 2
 
-While our second version is more plausible than our first, it faces its own difficulties. Recall again that our second version relies on a distinction between personal and factual memories; you are identical to your earlier self because you have personal memories of that younger person's experiences. 
+###Objection 1
+While our second version is more plausible than our first, it faces two distinct problems. The first is that continuity of memory does not seem **necessary** for personal identity. That is, it seems that personal identity can be preserved even if memory continuity is not preserved. That this is possible is demonstrated by some very famous cases of amnesia, cases where the links in personal memory have been broken.  
+
+	 Before | After 
+	 :---: | :---:
+	 ![](clive1.jpg) | ![](clive2.jpg)
+
+
+
+
+> His ability to perceive what he saw and heard was unimpaired. But he did not seem to be able to retain any impression of anything for more than a blink. Indeed, if he did blink, his eyelids parted to reveal a new scene. The view before the blink was utterly forgotten. Each blink, each glance away and back, brought him an entirely new view. I tried to imagine how it was for him...Something akin to a film with bad continuity, the glass half empty, then full, the cigarette suddenly longer, the actor’s hair now tousled, now smooth. But this was real life, a room changing in ways that were physically impossible. ('Forevery Today', by Deborah Wearing)
+
+
+###Objection 2
+
+
+ Recall again that our second version relies on a distinction between personal and factual memories; you are identical to your earlier self because you have personal memories of that younger person's experiences. 
 
 Unfortunately, memory is horribly unreliable and contemporary researchers have shown the degrees to which personal memories can be modified and hacked. (See the main page for this week for videos on the topic.) These researchers have shown that there are fake personal memories. I thought I had a personal memory of attending a Michael Jackson concert as a 5 year old, but I discovered from my parents that this was a false memory. I loved Michael Jackson as a child and watched a recorded concert of him over and over. At some stage, I must have convinced myself that I had attended that concert in person and a fake memory was created. But it was fake! 
 
@@ -121,13 +137,13 @@ On this view, what makes a memory genuine is that the person who has the memory 
 
 Claim 1 explain personal identity in terms of genuine memories. But claim 2 explains genuine memory in terms of personal identity. This is an instance of what is called circular reasoning. You can see a famous example of this type of mistake illustrated in this diagram: 
 
-![image](circularity.jpg)
+![](circularity.jpg)
 
 The Bible may very well contains truths about God's existence. But you cannot prove that the Bible contains such truths by claiming that you know the Bible is the word of God because the Bible says so. 
 
 Finally, the psychological continuity view perhaps most obviously fails if we return to the case of Riker again: 
 
-![image](Riker.jpg)
+![](Riker.jpg)
 
 Both Thomas and William seem to have genuine memories of Riker's experiences. Both remember what it was like to step on to that malfunctioning transporter 8 years previously. Both have the same personal memories of Riker's childhood. If the psychological continuity view is correct, then at least one of Thomas or William's memories must be, in fact, fake (since it cannot be the case that both Thomas and William are identical to Riker). But we have no good reason to think that both men's memories are fake. Each were caused in the right way and each seems to have as much claim on Riker's previous life as the other. 
 

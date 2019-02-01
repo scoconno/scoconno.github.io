@@ -4,8 +4,12 @@ title: Personal Identity 2
 ---
 
 ## Reading
-+ ['A Dialog on Personal Identity and Immortality',](Perry.pdf) J. Perry
 
++ Required
+	+ ['A Dialog on Personal Identity and Immortality',](Perry.pdf) J. Perry
++ Optional 
+	+ ['The Man Who Forgot Everything',](m.pdf) Steven Shapin
+	+ ['The Abyss',](a.pdf) Oliver Sacks
 
 ## Notes 
 + [Notes](notes)
