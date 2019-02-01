@@ -100,7 +100,7 @@ Version 2  is immune to our objection to Version 1. That objection attacked the 
 
 ## Objections to Version 2
 
-###Objection 1
+### Objection 1
 While our second version is more plausible than our first, it faces two distinct problems. The first is that continuity of memory does not seem **necessary** for personal identity. That is, it seems that personal identity can be preserved even if memory continuity is not preserved. That this is possible is demonstrated by some very famous cases of amnesia, cases where the links in personal memory have been broken. Consider the tragic case of Clive Wearing: 
 
 ![image](clive2.jpg) ![image](clive1.jpg)
@@ -109,11 +109,11 @@ While our second version is more plausible than our first, it faces two distinct
 One and the same man is depicted in these photographs; they are numerically identical to one another. But they are not connected by any chain of episodic memories. Why? In March, 1985, Wearing suffered from a brain infection--herpes encephalitis. The result was a terrible form of amnesia. Not only has he no personal memories of his past, he cannot form any new memories either. His wife described his case as follows: 
 
 
-> His ability to perceive what he saw and heard was unimpaired. But he did not seem to be able to retain any impression of anything for more than a blink. Indeed, if he did blink, his eyelids parted to reveal a new scene. The view before the blink was utterly forgotten. Each blink, each glance away and back, brought him an entirely new view. I tried to imagine how it was for him...Something akin to a film with bad continuity, the glass half empty, then full, the cigarette suddenly longer, the actor’s hair now tousled, now smooth. But this was real life, a room changing in ways that were physically impossible. ('Forevery Today', by Deborah Wearing)
+> His ability to perceive what he saw and heard was unimpaired. But he did not seem to be able to retain any impression of anything for more than a blink. Indeed, if he did blink, his eyelids parted to reveal a new scene. The view before the blink was utterly forgotten. Each blink, each glance away and back, brought him an entirely new view. I tried to imagine how it was for him...Something akin to a film with bad continuity, the glass half empty, then full, the cigarette suddenly longer, the actor’s hair now tousled, now smooth. But this was real life, a room changing in ways that were physically impossible. ('Forever Today', by Deborah Wearing)
 
 This case, and there are others, show that memory continuity is not necessary for personal identity;  personal identity can continue even in the absence of memory continuity. 
 
-###Objection 2
+### Objection 2
 
 Even if personal identity can be enjoyed in the absence of memory continuity, we might think that memory continuity is **sufficient** for personal identity, i.e., that memory continuity always guarantees  personal identity. But there are also problems for this claim, problems for the claim that you are identical to your earlier self if you have personal memories of that younger person's experiences. 
 
