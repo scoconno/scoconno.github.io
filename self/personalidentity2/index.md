@@ -14,10 +14,14 @@ title: Personal Identity 2
 ## Notes 
 + [Notes](notes)
 
+## Audio
++ [Interview with Susie McKinnon](https://www.cbc.ca/player/play/2670406429)
+
 ## Videos
 + Required
 	+ [Locke on personal identity](https://www.youtube.com/playlist?list=PLtKNX4SfKpzW7-RzDGW1pCDR_JTZhVAbj)
 	+ [Memory problems](https://www.youtube.com/watch?v=PB2OegI6wvI) 
+	+ [Hacking memory](https://www.youtube.com/watch?v=601_pvMuSvo)
 
 ## Assignments--available through Blackboard
 + [Essay 1](essay)
