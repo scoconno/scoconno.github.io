@@ -121,7 +121,9 @@ Unfortunately, memory is horribly unreliable and contemporary researchers have s
 
 [![image](fake.jpg)](https://www.youtube.com/watch?v=601_pvMuSvo)
 
-Fake personal memories, or implanted personal memories, are utilized to good effect in science fiction. 
+Fake personal memories, or implanted personal memories, are utilized to good effect in science fiction. Many stories turn on the idea that a person could come to possess the personal memories of someone else. But, despite having the memories of some other person, they are not identical to that person. Consider this clip for *Implanted*: 
+
+[![image](https://img.youtube.com/watch?v=HblkKJ9LqvE)](https://www.youtube.com/watch?v=HblkKJ9LqvE)
 
 
 
