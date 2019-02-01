@@ -47,7 +47,14 @@ Memory Continuity:
 
 This proposal seems plausible if we notice a difference between two types of memories. First, there are *factual memories*. These are memories that some event occurred. They can be shared by several people, e.g., many remember President Obama’s inauguration in 2008 and many remember President Obama handing over the reigns of power to President Trump in 2016. 
 
-Factual memories, memories that many can share, differ from *personal memories*. These are the memories of experiencing the event itself. Such memories cannot be shared by many people because personal experiences are, well, personal. For example, only President Obama has the personal memory of *being inaugurated* at his 2008 inauguration. Only he knows what it was like for *him* to be inaugurated (even though many (factually) remember that he was inaugurated). Similarly, only President Obama can have a personal memory of being the one handing over the reigns of power to President Trump (although many have the factual memory of that same event). 
+Factual memories, memories that many can share, differ from *personal memories*, which are called **episodic memories**. These are the memories of experiencing the event itself. Such memories cannot be shared by many people because personal experiences are, well, personal. For example, only President Obama has the personal memory of *being inaugurated* at his 2008 inauguration. Only he knows what it was like for *him* to be inaugurated (even though many (factually) remember that he was inaugurated). Similarly, only President Obama can have a personal memory of being the one handing over the reigns of power to President Trump (although many have the factual memory of that same event). 
+
+The distinction between factual and episodic memory is clearly evidenced in unusual cases. Here's the story of Susie Mckinnon, who has factual memories but not episodic memories: 
+
+![https://www.cbc.ca/player/play/2670406429](susie.jpg)
+
+
+
 
 ![image](leo.jpg)
 
