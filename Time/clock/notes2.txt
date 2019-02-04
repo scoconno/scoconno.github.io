@@ -1,0 +1,31 @@
+---
+layout: default
+title: Notes
+---
+
+## Time Zones
+
+These are taken from 'A Geography of Time', p.73: 
+
+The New York Herald in 1883 observed that standard time ``goes beyond the public pursuits of men and enters into their private lives as part of themselves.''
+
+``Let us keep our own noon,'' demanded the prestigious Boston Evening Transcript. 
+
+The Louisville Courier Journal referred to standardization as ``a monstrous fraud,'' ``a compulsory lie,'' and ``a swindle.''
+
+A letter to that newspaper asked, ``if anyone has the authority and right to change the city time without the consent of the people, and what benefit Louisville can derive from it?''
+
+The editors responded that no such authority ruled, and no benefit seemed likely from what was ``only a disguised step towards centralization ...a stab in the dark at our cherished State's rights. 
+
+After they get all our watches and clocks ticking together,'' the editors asked in reflexive alarm, ``will there not be a further move to merge the zone states into districts or provinces?'
+
+
+## Is Time a fictional master?
+
+
+> When I was alive, I believed---as you do---that time was at least as real and solid as myself, and probably more so. I said ``one o'clock'' as though I could see it, and ``Monday'' as though I could find it on a map ... Like everyone else, I lived in a house bricked up with seconds and minutes, weekends and New Year’s Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls. (Peter Beagle, 'The Last Unicorn')
+
+
+
+
+

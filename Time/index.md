@@ -39,6 +39,7 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 **2/4/19**
 
 + [Hours, Minutes, Seconds,](/Readings/Falk3.pdf) Falk
++ [A brief video overview](https://www.youtube.com/watch?v=At5atF4mKiU)
 
 ---
 
