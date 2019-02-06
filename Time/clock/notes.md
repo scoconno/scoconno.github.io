@@ -15,7 +15,7 @@ Minutes and seconds have a far different history. The Babylonians based their co
 
 ![image](degree.png)
 
-Eratosthenes in the third century developed the notion of longitude and latitude. It was later used by Hipparchus to identify any place on the map. Latitude is measured from the equator to 90&deg;  North and 90&deg; South. Longitude is (now) measured  180&deg;s east or west from Greenwich. Longitude and latitude seems to allow a grid that provides a unique location for any point on Earth.  But, obviously, the degrees are too big for any practical purpose. Claudius Ptolemy, 200 years after Hipparchus, divided each degree into 60 parts. He called each division the *pars minuta prima*, or first small part. This is where the word 'minute' comes from. He divided minutes into 60 *pars minuta secunda.* This means second small part and is where our word 'second' derives. 
+Eratosthenes in the third century developed the notion of longitude and latitude. It was later used by Hipparchus to identify any place on the map. Latitude is measured from the equator to 90&deg; north and 90&deg; south. Longitude is (now) measured  180&deg; east or west from Greenwich. Longitude and latitude seems to allow a grid that provides a unique location for any point on Earth.  But, obviously, the degrees are too big for any practical purpose. Claudius Ptolemy, 200 years after Hipparchus, divided each degree into 60 parts. He called each division the *pars minuta prima*, or first small part. This is where the word 'minute' comes from. He divided minutes into 60 *pars minuta secunda.* This means second small part and is where our word 'second' derives. 
 
 Note that minutes and seconds were first used as divisions of degrees. In 1267, Roger Bacon adopted these divisions for the hour. The hour was thus divided into sixty minutes and minutes into sixty seconds. 
 
@@ -25,7 +25,7 @@ It is important that we can measure the passing of time accurately. If someone r
 
 >  A time chart from the Systems and Procedures Association of America, for example, suggests target times for activities like these: open and close file drawer, no selection = .04 seconds; desk, open center drawer = .026 seconds; close center drawer = .027 seconds; close side drawer = .015 seconds; get up from chair = .033 seconds; sit down in chair = .033 seconds; turn in swivel chair = .009 seconds; move in chair to adjoining desk or file (4 ft. max.) = .050 seconds.(Levin, 'The Geography of Time', p.71)
 
-Identify 3-5 practical uses of accurately judging how many hours, minutes, and seconds have passed. 
+Identify 3--5 practical uses of accurately judging how many hours, minutes, and seconds have passed. 
 
 
 ## Longitude
@@ -64,5 +64,33 @@ In 1656, the first pendulum clock is patented by Christian Huygens. The time it 
 [![image](john.jpg)](https://www.youtube.com/watch?v=T-g27KS0yiY)
 
 
+## Atomic Clocks
 
+[![image](atomic.jpg)](https://www.time.gov)
+
+## Standardization 
+
+In 1860, there were 70 time zones in America. This caused significant difficulties with weather forecasting, shipping, trains, etc. Each city and town, in effect, was on its own time. 
+
+![image](rail.jpg)
+
+![image](amtrak.png)
+
+In 1918, the Standard Time Act is passed and establishes four time zones. 
+
+![image](zones.jpg)
+
+## Give us back our time!
+
+These are taken from 'A Geography of Time', p.73: 
+
+> The New York Herald in 1883 observed that standard time ''goes beyond the public pursuits of men and enters into their private lives as part of themselves.''
+
+> ''Let us keep our own noon,'' demanded the prestigious Boston Evening Transcript. 
+
+> The Louisville Courier Journal referred to standardization as ''a monstrous fraud,'' ''a compulsory lie,'' and ''a swindle.'' A letter to that newspaper asked, ''if anyone has the authority and right to change the city time without the consent of the people, and what benefit Louisville can derive from it?'' The editors responded that no such authority ruled, and no benefit seemed likely from what was ''only a disguised step towards centralization...a stab in the dark at our cherished State's rights. After they get all our watches and clocks ticking together,'' the editors asked in reflexive alarm, ''will there not be a further move to merge the zone states into districts or provinces?''
+
+## Is time a fictional master?
+
+> When I was alive, I believed---as you do---that time was at least as real and solid as myself, and probably more so. I said ''one o'clock'' as though I could see it, and ``Monday'' as though I could find it on a map... Like everyone else, I lived in a house bricked up with seconds and minutes, weekends and New Year’s Days, and I never went outside until I died, because there was no other door. Now I know that I could have walked through the walls. (Peter Beagle, 'The Last Unicorn')
 
