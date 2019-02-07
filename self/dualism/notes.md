@@ -4,6 +4,14 @@ title: Notes
 ---
 
 
+
+## Introduction
+
+[![image](frank.jpg)](https://hiphination.org/complete-season-two-episodes/s2-e6-the-self-and-survival/)
+
+Many believe in reincarnation, believe that they will live a new life after this one ends. They point to those who have apparent memories of prior lives as evidence for reincarnation. If reincarnation exists, then human beings are something much more than a body; they can change bodies as if they were changing their clothes. This week our interest is the claim that our minds are immaterial substances, souls, that could, perhaps, move from bodies to bodies.   
+
+
 ## Mind as Immaterial Substance 
 
 What is it to have a mind? If we asked Plato or Aristotle, two Greek philosophers living c.2500 years ago, they would answer that to have a mind is to have a soul. The English word 'soul' translates the Greek work 'psuche' and the latin word 'anima'. You likely recognize 'psuche' if you are a psychology major; 'psychology' roughly translates as 'the science of soul'. Psychologists today do not think that what it is to have a mind is to have a soul, but it is worth thinking about why our predecessors associated soul and mind. We'll do that by focusing on the 17th century philosopher Descartes (1596-1650), who is closely associated with the view. Descartes is such a central figure in the history of philosophy, mathematics, and physics that it is worth sharing a few biographical details with you. Here is a picture: 
@@ -34,21 +42,51 @@ The fourth claim is important. Descartes thinks that there is causal interaction
 
 
 ## Substance
-Descartes believes that there are two kinds of substances, mental and physical ones. But what does Descartes mean by 'substance'? For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly 'what underlies'.  It is used to describe that which possesses qualities, quantities, relations, and activities, but it is not itself possessed by anything else.  We will say that qualities, quantities, relations, and activities *inhere* in substances, where P inheres in S if S somehow possesses or has P, e.g., the color purple inheres in my water bottle because the bottle has that color, my sitting inheres in me because I am doing that sitting, etc. 
+Descartes believes that there are two kinds of substances, mental and physical ones. But what does Descartes mean by 'substance'? For our purposes, 'substance' is closely connected with another Greek word, 'hupokeimenon', which means roughly 'what underlies'.  It is used to describe that which possesses qualities, quantities, relations, and activities, but it is not itself possessed by anything else.  We will say that qualities, quantities, relations, and activities *inhere* in substances, where P inheres in S if S somehow possesses or has P, e.g., the color purple inheres in my water bottle because the bottle has that color, my sitting inheres in me because I am doing that sitting, etc. Consider this picture: 
 
-Substances are different from what inheres in them. For instance, the weight of the stone is different from the stone itself. The motion of the molecule is different from the molecule itself. Motion and weight belong to these substances, but they are not themselves substances. In contrast, the molecule and the stone are substances because they are subjects in which other things inhere but do not themselves inhere in anything else, e.g., the stone is  not a property of anything else, but other things are properties of it.
+![image](stone.gif)
+
+
+
+Let's analyze what's depicted into a substance and what inheres in that substance. We'll start with the latter. These include: color, gray, scratched, weight, size, shape, motion, location, opaque, aging, etc. Everything in this list inheres in, is possessed by, he stone. But the stone does not inhere in anything else. Thus, the stone is a substance. 
+
+Substances are obviously different from what inheres in them. The weight of the stone is different from the stone itself. The motion of a molecule is different from the molecule itself. Motion and weight belong to these substances, but they are not themselves substances. In contrast, the molecule and the stone are substances because they are subjects in which other things inhere but do not themselves inhere in anything else, e.g., the stone is  not a property of anything else, but other things are properties of it.
 
 This contrast between substances and what inheres in them obviously resembles a linguistic contrast between grammatical subjects and predicates, between 'Flipper' and 'swimming' in the sentence 'Flipper is swimming'. But the contrast is more fundamental than the linguistic one. The word 'swimming' could also serve as a grammatical subject, e.g., 'swimming is a pleasant activity'. The word 'Flipper' could also serve as a predicate, e.g., 'the toy belongs to Flipper'. But substances can never inhere in anything else; they can never be possessed by anything else. They are the fundamental bedrock for everything that inheres in them.
 
-Now that we have clarified what the word 'substance' means, let us discuss the phrase 'kind of substance'. Reality comprises dolphins, chairs, trees, atoms, molecules, and many more things beside these. By 'kind of substance', philosophers want to say that apparently disparate substances share some fundamental feature. For instance, many think that all substances are physical substances. By this, they mean that all substances possess physical properties. If this were right, then trees, clouds, dolphin, and molecules share one important feature---they are all physical substances, where being physical means that they all possess physical properties like having a weight, a location, etc. If there were only physical substances, then every substance--every subject in which properties inhere--would be a substance that possesses physical properties. We could never find, on this view, a substance without physical properties. 
+Try identifies the relevant substance and what inheres in it in the following: 
 
-This is not Descartes' view. He argues that reality comprises two radically different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them. Souls, which for Descartes are just minds, are subjects not of physical properties, but of non-physical properties like thinking, sensing, judging, and willing. He believes that these properties inhere in mind, but do not inhere in bodies. Bodies, on the other hand, are extended in space, have weight, undergo nourishment, etc. But, according to Descartes, these properties do not inhere in the mind. Hence, there are two types of substances, bodies and minds. Each type of substance is a subject in which properties inhere, but the properties that inhere in them are radically different. 
+![image](egypt.gif)
+
+Now that we have clarified what the word 'substance' means, let us discuss the phrase 'kind of substance'. Reality comprises dolphins, chairs, trees, atoms, molecules, and many more things beside these. By 'kind of substance', philosophers want to say that apparently disparate substances share some fundamental feature. For instance, many think that all substances are physical substances. By this, they mean that all substances possess physical properties. If this were right, then trees, clouds, dolphin, and molecules share one important feature---they are all physical substances, where being physical means that they all possess physical properties like having a weight, a location, etc. If there were only physical substances, then every substance--every subject in which properties inhere--would be a substance that possesses physical properties. We could never find, on this view, a substance without physical properties. In other words, this view states the following: 
+
++ If x is a substance, then x physical properties.
+
+If this view is correct, then numbers, ghosts, and God are not substances (if they exist at all).
+
+Descartes has a radically different view. He argues that reality comprises two very different kinds of substances, physical (or bodily) substances, and souls (mental substance). These substances have very different features inhering in them. Souls, which for Descartes are just minds, are subjects not of physical properties, but of non-physical properties like thinking, sensing, judging, and willing. He believes that these properties inhere in mind, but do not inhere in bodies. Bodies, on the other hand, are extended in space, have weight, undergo nourishment, etc. But, according to Descartes, these properties do not inhere in the mind. Hence, there are two types of substances, bodies and minds. Each type of substance is a subject in which properties inhere, but the properties that inhere in them are radically different. 
 
 It is important to recognize just how different these two types of substances are. A soul is simple, divine, and immutable. Our bodies are composite and perishable. A soul also seems something that can survive bodily death and decay. A body cannot survive its decay. This shouldn't be that surprising. That which inheres in a substance cannot exist without substances. Color cannot exist without some object that has color. Substance, on the other hand, does not depend for its existence on anything it inheres in. Socrates does not need to inhere in anything for him to exist. Descartes himself wrote: 
 
 > The notion of a substance is just this—that it can exist by itself, that is without the aid of any other substance.
 
 So, just as some chairs could exist without one another, so too a mind and body could exist without one another. 
+
+|        Body         |        Soul        |
+| :-----------------: | :----------------: |
+|      Extension      |    No extension    |
+|       Weight        |     Weightless     |
+|        Shape        |     Shapeless      |
+|      Divisble       |    Indivisible     |
+|        Color        |      No color      |
+|    Changes size     | Cannot change size |
+|       Alters        |    Cannot alter    |
+|    Cannot think     |       Thinks       |
+|   Cannot remember   |     Remembers      |
+|  Cannot deliberate  |    Deliberates     |
+| Cannot feel emotion |   Feels emotions   |
+
+
 
 ## Descartes' argument for substance dualism
 
@@ -62,6 +100,8 @@ The first meditation begins by asking what can be clearly and distinctly perceiv
 
 Descartes' next step is to identify some means/tool that would allow him test all of his beliefs. He suggests skepticism and proceeds to identify which of his beliefs, if any, are immune from doubt given the strongest skeptical challenge. His basic idea is that if he can remain certain in a belief even when it is attacked from many directions, then that belief is a true one. It is akin to how a jury must be confident of the defendant's guilt despite all the arguments of the defense if they are to return a guilty verdict. If the defense makes them even slightly unsure of the defendant's guilt, they are required to return an acquittal. 
 
+![image](jury.gif)
+
 Descartes' first tries to identify a skeptical challenge that is sufficiently strong for this purpose, i.e., a challenge that will pertain to as many of his beliefs as possible. Some candidate challenges can be ruled out. For instance, skepticism about vision only allows us to test our beliefs about perceptible things. Descartes finally settles on the strongest skeptical challenge and then proceeds to reject whatever is open to the slightest doubt. He continues until he has found something certain that can withstand the skeptical challenge.
 
 It will be useful to discuss in some more detail that skeptical challenge that Descartes rejects:  
@@ -72,7 +112,13 @@ It will be useful to discuss in some more detail that skeptical challenge that D
 4.  If I don’t know that I am totally mistaken in my perceptual beliefs, then I don’t know that O (where O is a proposition about perceptual objects).
 5.  I don’t know that O.
 
-The first premise states that if my perceptual capacities trick me on some occasions, then it is possible that they are always tricking me. If, for instance, a person see a green colored chair as red, then it is possible that their eyes always report the wrong colors. This happens, for instance, with certain types of color blindness. Premise 2 is clearly true. Consider driving on a long and empty road on a very hot day. There might appear to you water in the distance, but this is an illusion; your eyes are tricking you. There are many other examples. When you are sick, food may taste sweet that is not sweet. If you have been to a loud concert, you may hear a ringing sound the next morning that is not, in fact, occurring. Premises 1 and 2 entail premise 3: it is possible that each of my perceptual beliefs is false. 
+The first premise states that if my perceptual capacities trick me on some occasions, then it is possible that they are always tricking me. If, for instance, a person see a green colored chair as red, then it is possible that their eyes always report the wrong colors. This happens, for instance, with certain types of color blindness. Premise 2 is clearly true. Consider driving on a long and empty road on a very hot day. There might appear to you water in the distance, but this is an illusion; your eyes are tricking you.
+
+![image](mirage.gif)
+
+
+
+ There are many other examples. When you are sick, food may taste sweet that is not sweet. If you have been to a loud concert, you may hear a ringing sound the next morning that is not, in fact, occurring. Premises 1 and 2 entail premise 3: it is possible that each of my perceptual beliefs is false. 
 
 Premise 4 says that you can only know, say, that the chair is purple if you can rule out the possibility that your eyes are not deceiving you. Think again of a jury: they can only confidently judge that the defendant is guilty if they can rule out the possibility that the defendant is being framed. Similarly, I can only trust what my eyes are telling me if I can rule out the possibility that they are malfunctioning. 
 
@@ -87,6 +133,12 @@ By 'evil demon', Descartes has in mind a creature that is as powerful as God, bu
 'P' is any proposition whatsoever; it is any possible object of belief. Premise 1 says that if you cannot rule out the possibility that you are being deceived, then you do not know P. For instance, can you rule out the possibility that right now you are really in a laboratory and that your experiences of sitting at a computer screen is in fact a false one, an experience created by some evil scientist manipulating your brain? Premise 1 says that if you cannot rule out this possibility, then you cannot know that you are sitting in front of a computer screen. Of course, you very well may be sitting in front of a computer screen. The point is about whether you can be certain that your belief is true. Unless you can rule out the possibility that you are being deceived, then you cannot know for sure that you are sitting in front of the computer screen (even if you are, in fact, sitting in front of that screen). 
 
 This is a suitably strong challenge to test all of Descartes' beliefs, including his beliefs about space, time, etc. He will now proceed to search for those beliefs that he would know to be true even if this skeptical scenario obtained, i.e., he asks whether there might still be things he can be certain of even if he cannot rule out the possibility that there is an evil demon trying to deceive him. 
+
+Here is a brief recap of what this section covered: 
+
+[![image](C:/Users/soconnor/Dropbox/Website/scoconno.github.io/self/dualism/skept.jpg)](https://www.youtube.com/watch?v=PqjdRAERWLc)
+
+
 
 ## I am thinking, therefore I exist
 
