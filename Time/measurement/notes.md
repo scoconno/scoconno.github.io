@@ -41,11 +41,11 @@ Today, our standard clock is based on the rate of decay of cesium. The basic ide
 
 ![image](atomic.gif)
 
-The clock is able to detect the radiation emitted by the cesium and translate it into a measure of time. A tick of the atomic clock is just the period, what is called an oscillation and vibration, of a certain kind of radiation emitted by the cesium. A standard second has been defined as 9,192,631,770 of these periods. If all of this is too complicated, just think of an atomic clock like this: 
+The clock is able to detect the radiation emitted by the cesium and translate it into a measure of time. A tick of the atomic clock is just the period, called an oscillation and vibration, of a certain kind of radiation emitted by the cesium. A standard second has been defined as 9,192,631,770 of these periods. If all of this is too complicated, just think of an atomic clock like this: 
 
 ![image](simple.gif) 
 
-Think of a standard second as 9,192,631,770 shakes of this crystal. A non-standard clock is accurate if it registers the same time as a standard clock, i.e., your wristwatch is accurate only if it says, say, that ten seconds have passed just when the atomic clock says that 10 seconds have passed (where 10 seconds just means 10*9,192,631,770 'shakes'.)
+Think of a standard second as 9,192,631,770 shakes of this crystal. A non-standard clock is accurate if it registers the same time as a standard clock, i.e., your wristwatch is accurate only if it says, say, that 10 seconds have passed just when the atomic clock says that 10 seconds have passed (where 10 seconds just means 10*9,192,631,770 'shakes'.)
 
 But what does it mean for the atomic clock, now our standard, clock to be accurate? Surely, it is accurate only if the durations between the ticks it measures are congruent. But what does it mean for those durations to be congruent other than the clock registers them as congruent? 
 
@@ -55,20 +55,21 @@ Consider the relationship between various measurement devices and what they meas
 
 ![image](dist.jpg) 
 
-We can see the heights we wish to measure. Likewise, we can hear the notes whose pitch we wish to measure. But can we see, hear, or in anyway directly sense the time we use clocks to measure? Consider some simple clocks: 
+We can see the heights we wish to measure. Likewise, we can hear the notes whose pitch we wish to measure. But can we see, hear, touch or in anyway directly perceive the time we use clocks to measure? Consider our some simple clocks: 
 
 ![image](sand.gif)
 
 ![image](pend.gif)
 
-These clocks measure the passage of time, we think, through a certain change. We use the flow of sand, or the swing of the pendulum, to indicate to us that time is passing. If the process is regular, we assume the clocks are ticking along accurately with the flow of time. But how can we know that the process is regular unless we can somehow have direct access to time? Consider again the atomic clock. Of course, we can judge our pendulum clock's accuracy by comparing its time to the time of the atomic clock. But how can we judge the accuracy of the atomic clock without some further process to compare the atomic clock too? 
+These clocks measure the passage of time via a certain change. We use the flow of sand, or the swing of the pendulum, to indicate to us that time is passing. If the process is regular, we assume the clocks are ticking along accurately with the flow of time. But how can we know that the process is regular unless we have direct access to time? Even if judge our pendulum clock's accuracy by comparing its time to the time of the atomic clock, how can we judge the accuracy of the atomic clock without some further process to compare the atomic clock to? 
 
-It seems we could only truly assess the accuracy of the clock if we could survey time itself, not any process or change. 
+
+The problem is this: it seems we could only truly assess the accuracy of a standard clock if we could access time itself, not any process or change, but all we have direct access to are processes and change. This problem has two radically different philosophical answers: 
 
 Conventionalism: 
-: Two given successive intervals of time are congruent because the clock we choose as our standard registers them as congruent. 
+: Two given successive durations are congruent because the clock we chose as our standard registers them as congruent. 
 
 Objectivism: 
-: Two given successive intervals of time are congruent regardless of whether the clock we choose as our standard registers them as congruent. 
+: Two given successive durations are congruent regardless of whether the clock we chose as our standard registers them as congruent. And, while we can have good reasons for judging that two durations are congruent, we cannot really know that they are congruent.
 
-Consider the value of $10. Its value is merely a matter of convention, a convention of what we as society are willing to exchange goods and services for. Consider the fact that 5+5=10. It is matter of convention what words and symbols we use to give these numbers. It is not a matter of convention that the numbers referred to with these symbols have the value they do. Objectivists, say that it is not a matter of convention whether two intervals of time are congruent (though it is obviously a matter of convention what names we give to such intervals). The conventionalist says that congruency is a matter of convention. Once we arrive at the standard clock, nothing else can be said. 
+Consider the value of $10. Its value is merely a matter of convention, a convention of what we as society are willing to exchange goods and services for. Consider the fact that 5+5=10. It is matter of convention what words and symbols we use for these numbers. But it is not a matter of convention that the numbers referred to with these symbols have the value they do. Likewise, objectivists say that it is not a matter of convention whether two durations are congruent (though it is obviously a matter of convention what names we give to various durations of time). The conventionalist says that congruency is a matter of convention. Once we stipulate that a clock is a standard one, nothing else can be said. 
