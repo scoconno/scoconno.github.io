@@ -28,7 +28,7 @@ Accuracy is something different. Intuitively, an accurate clock is one that judg
 
 ## An accurate standard clock
 
-Our standard clock ticks 9,192,631,770 times per second. How did we arrive at that conclusion? Our standard clock is based on the rate of decay of cesium. The basic idea is to use the radiation emitted from this type of atom as that regular process by which to define our standard clock. Here is a depiction of an atomic clock: 
+Our standard clock ticks 9,192,631,770 times per second. Why? Our standard clock is based on the rate of decay of cesium. The basic idea is to use the radiation emitted from this type of atom as that regular process by which to define our standard clock. Here is a depiction of an atomic clock: 
 
 ![image](atomic.gif)
 
