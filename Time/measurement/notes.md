@@ -21,7 +21,7 @@ Synchrony:
 Precision: 
 : A clock is precise if its replicas remain synchronized with one another.  
 
-What about an accurate clock? Intuitively, an accurate clock is one that judges two durations of time as congruent only when they are congruent, i.e., only when they are of the same duration. In practice, clocks are considered accurate only when they are synchronized with the standard clock: 
+Accuracy is something different. Intuitively, an accurate clock is one that judges two durations of time as congruent only when they are congruent, i.e., only when they are of the same duration. In practice, clocks are considered accurate only when they are synchronized with the standard clock: 
 
 + A perfectly **accurate** non-standard clock shows that it is time t just when the standard clock shows that it is time t.  
 
@@ -30,7 +30,7 @@ What about an accurate clock? Intuitively, an accurate clock is one that judges 
 
 Our standard clock ticks 9,192,631,770 times per second. How did we arrive at that conclusion? Our standard clock is based on the rate of decay of cesium. The basic idea is to use the radiation emitted from this type of atom as that regular process by which to define our standard clock. Here is a depiction of an atomic clock: 
 
-![image](atomic.gif]
+![image](atomic.gif)
 
 The clock is able to detect the radiation emitted by the cesium and translate it into a measure of time. A tick of the atomic clock is just the period, what is called an oscillation and vibration, of a certain kind of radiation emitted by the cesium. A standard second has been defined as 9,192,631,770 of these periods. If all of this is too complicated, just think of an atomic clock like this: 
 
