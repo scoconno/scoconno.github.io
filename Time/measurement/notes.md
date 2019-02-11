@@ -25,10 +25,14 @@ Accuracy is something different. Intuitively, an accurate clock is one that judg
 
 + A perfectly **accurate** non-standard clock shows that it is time t just when the standard clock shows that it is time t.  
 
+Every clock measures some process. What process should the standard clock measure? Would the rotation of the Earth suffice? 
 
-## An accurate standard clock
+![image](earth.gif)
 
-Our standard clock ticks 9,192,631,770 times per second. Why? Our standard clock is based on the rate of decay of cesium. The basic idea is to use the radiation emitted from this type of atom as that regular process by which to define our standard clock. Here is a depiction of an atomic clock: 
+
+## The standard clock
+
+Today, our standard clock is based on the rate of decay of cesium. The basic idea is to use the radiation emitted from this type of atom as the regular process by which to define our standard clock. Here is a depiction of an atomic clock: 
 
 ![image](atomic.gif)
 
@@ -38,9 +42,9 @@ The clock is able to detect the radiation emitted by the cesium and translate it
 
 Think of a standard second as 9,192,631,770 shakes of this crystal. A non-standard clock is accurate if it registers the same time as a standard clock, i.e., your wristwatch is accurate only if it says, say, that ten seconds have passed just when the atomic clock says that 10 seconds have passed (where 10 seconds just means 10*9,192,631,770 'shakes'.)
 
-But what does it mean for the atomic clock, now our standard, clock to be accurate? Surely, it is accurate only if the durations between ticks it measures are congruent. But what does it mean for those durations to be congruent other than the clock registers them as congruent? 
+But what does it mean for the atomic clock, now our standard, clock to be accurate? Surely, it is accurate only if the durations between the ticks it measures are congruent. But what does it mean for those durations to be congruent other than the clock registers them as congruent? 
 
-**Diagnosis**
+## Diagnosis
 
 Consider the relationship between various measurement devices and what they measure:
 
