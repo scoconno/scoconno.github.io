@@ -25,10 +25,15 @@ Accuracy is something different. Intuitively, an accurate clock is one that judg
 
 + A perfectly **accurate** non-standard clock shows that it is time t just when the standard clock shows that it is time t.  
 
-Every clock measures some process. What process should the standard clock measure? Would the rotation of the Earth suffice? 
+Every clock measures some process. What process should the standard clock measure? Would any of these suffice? Why not? 
+
+![image](sand.gif)
+
+![image](pend.gif) 
 
 ![image](earth.gif)
 
+Do you have any suggestions? 
 
 ## The standard clock
 
