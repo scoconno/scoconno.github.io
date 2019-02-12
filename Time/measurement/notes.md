@@ -73,3 +73,67 @@ Objectivism:
 : Two given successive durations are congruent regardless of whether the clock we chose as our standard registers them as congruent. And, while we can have good reasons for judging that two durations are congruent, we cannot really know that they are congruent.
 
 Consider the value of $10. Its value is merely a matter of convention, a convention of what we as society are willing to exchange goods and services for. Consider the fact that 5+5=10. It is matter of convention what words and symbols we use for these numbers. But it is not a matter of convention that the numbers referred to with these symbols have the value they do. Likewise, objectivists say that it is not a matter of convention whether two durations are congruent (though it is obviously a matter of convention what names we give to various durations of time). The conventionalist says that congruency is a matter of convention. Once we stipulate that a clock is a standard one, nothing else can be said. 
+
+## Arguments for Conventionalism 
+
+One argument for conventionalism is offered by verificationism, a position in the philosophy of language. The view was often articulated with the slogan of one of its proponents, Schlick, who claimed the following: 
+
+> The meaning of a statement consists in its method of verification.
+
+So also A.J Ayer in ‘Language, Truth and Logic’ claimed: 
+
+> A sentence is only factually significant to a person if he or she knows what observations would lead him to accept the proposition as being true or false...
+
+> No statement which refers to a reality transcending the limits of all possible sense-experience can possible have any literal significance.
+
+The basic idea is that sentences, at least those that are true or false, have clearly identifiable tests of their truth. Consider, for instance, 'the cat is on the mat'. This sentence is either true or false. I might not currently know if the sentence is true. I might be in the coffee shop unaware of what my cat is doing. Nevertheless, I know what observations could settle the matter. If I were to walk into my apartment and observe a grey, 12lb cat, breathing and sitting on a mat, I would know that the sentence is true. If I observe no creature on the mat, the sentence is false. Verificationists claim that sentences are meaningful only if there are possible observable tests of their truth; they even claim that the meaning of a sentence consists in these verification conditions, i.e., consists in these observations that prove the sentence true or false.  
+
+My sentence about the cat was an easy one. The observations that verify it are straightforward and clearly connected to cats and mats. But the observations that verify a sentence can be more elaborate and indirect. For instance, many of the sentences in physics are verified by what you might consider indirect observations. We may not be able to see subatomic particles directly, but we can observe the tracks they make in a cloud chamber like this: 
+
+![image](cloud.gif) 
+
+
+So, the observations that verify sentences about subatomic particles will likely be observations about their effects, i.e., the sentence 'a sub-atomic particle A has P' is verified by some observation about the ionized gas particle in the cloud chamber. 
+
+Don't worry too much about this example from physics. I include it only to stress that verificationism allows for many subtle and indirect observations to verify a sentence; they don't think a term is meaningful only if you can directly see what it refers to.  You might indirectly see its referent by, for instance, seeing what effects the thing has. What is important is that 1) there are some clearly identifiable observations that would verify these sentences, 2) these observations are in principle possible by everyone--something is confirmable only if in principle confirmable by everyone, and 3) the meaning of a sentence consists in the set of these observations that prove it true or false. 
+
+Verificationism has an obvious upshot: if no observation can verify a sentence, the sentence is meaningless. And, by 'meaningless', I mean it is a string of sounds as meaningful as, say, 'blah wah doo efle fople wittle.' That's obviously a non-sensical string of words. If no observation could confirm a sentence, the verificationist claims that sentence is similarly non-sensical. There are interesting questions about how to understand sentences about God according to verificationism. But we can set that aside and focus on the relevance  verificationism has for our topic: 
+
+
++ P1. The meaning of a sentence is given by the conditions that must be verified to obtain if the sentence is true--call these *verification conditions.*
++ P2. If 'the standard clock is accurate' is meaningful, then the sentence has verification conditions. 
++ P3. Verification conditions must be publicly observable.
++ P4. No observation can verify that the standard clock is accurate. 
++ C. Sentences about the accuracy of the standard clock are meaningless, i.e., neither true nor false. 
+
+
+
+
+
+
+
+
+
+
+
+## Arguments for Objectivism
+
+[![image](newton.jpg)](https://www.youtube.com/watch?v=08BFCZJDn9w)
+
+Newton's First and Second Laws:
+1. A body continues in a state of rest or uniform motion unless acted upon by a force.
+2. The acceleration of a body is a function of its mass and the force acting upon it, such that Force = Mass x Acceleration.
+
+Both make implicit reference to congruent durations. Why? 
+
+![image](car.jpg)
+
+Suppose that we base our standard clock on the rotation of the Earth. One 24 hour period passes just when the Earth turns fully on its axis. 1 hour is that duration it takes the Earth to rotate 1/24th of its rotation. Compare two scenarios. 
+
+Scenario 1: our car travel 120 mph for 30 minutes. It has thereby travelled 60 miles. 
+
+Scenario 2: the Earth is hit by a large asteroid and its rate of spin doubles. Suppose an exact replica of the car in exactly similar conditions travels 120 mph for 30 minutes. It has thereby travelled 60 miles. 
+
+Does 60 miles in scenario 1 = 60 miles in scenario 2?   
+ 
+

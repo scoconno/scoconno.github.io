@@ -136,7 +136,7 @@ This is a suitably strong challenge to test all of Descartes' beliefs, including
 
 Here is a brief recap of what this section covered: 
 
-[![image](C:/Users/soconnor/Dropbox/Website/scoconno.github.io/self/dualism/skept.jpg)](https://www.youtube.com/watch?v=PqjdRAERWLc)
+[![image](skept.jpg)](https://www.youtube.com/watch?v=PqjdRAERWLc)
 
 
 
