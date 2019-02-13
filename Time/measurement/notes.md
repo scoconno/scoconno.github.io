@@ -126,7 +126,7 @@ Newton's First and Second Laws:
 
 Both make implicit reference to congruent durations. Why? 
 
-![image](car.jpg)
+![image](car.gif)
 
 Suppose that we base our standard clock on the rotation of the Earth. One 24 hour period passes just when the Earth turns fully on its axis. 1 hour is that duration it takes the Earth to rotate 1/24th of its rotation. Compare two scenarios. 
 
