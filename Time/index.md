@@ -47,9 +47,15 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 **2/11/19**
 
-+ ['The Measure of All Things'](/measurement/a.pdf), Robin Le Poidevin.
-	+ **NB: This is the first chapter of the textbook. You must have your own copy for future week.**
-+ ['The Mystery of Time'](/measurement/bou.pdf), O.K. Bouwsma
++ Reading:
+	+ ['The Measure of All Things'](/measurement/a.pdf), Robin Le Poidevin.
+		+ **NB: This is the first chapter of the textbook. You must have your own copy for future week.**
+	+ ['The Mystery of Time'](/measurement/bou.pdf), O.K. Bouwsma
 + [Notes](/measurement/notes) 
 
 ---
+
+**2/18/19**
+
++ Reading: 
+	+ ['Isaac's Time'](/newton/falk6.pdf), Falk 
