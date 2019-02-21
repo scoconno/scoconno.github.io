@@ -13,14 +13,13 @@ Those closest to us can read us the best. I can easily judge when my wife's thou
 
 This is the problem of other minds; how can I know about the existence of any other minds? How can I know that you, my wife, my brother, or anyone else has a mind? I do know that I ave a mind. Access to my own mind is direct and infallible. What does this mean? Take the following image as representing the access you have to your own mind. 
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ewqFBZw3kGafC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ge-ewqFBZw3kGafC">via GIPHY</a></p>
+![image](sub.gif)
 
 Suppose that the images represent your mental states, represent what is going on inside your own mind. There is currently some deliberation and comprehension of this material; you are reading these notes! There is likely some other visual and auditory information there too. Now suppose that the viewer represents, well, you. It is the entity viewing what is going on inside your mind right now. You witness what is happening inside your mind directly. You don't need to reason it out. You don't need some testimony. You can see it immediately and easily. Notice also that only you have this direct and immediate access to your own mind. Only you can tell that you are hungry by attending directly to what you feel. Nobody else can watch what is happening inside your mind in the way that you can. 
 
 But how does anyone else know that you have experiences, thoughts, and feeling? How do you know this about anyone else? A natural answer is that we know about the existence of other minds because mental states correlate with outward, observable, behavior; I know my brother is troubling over his mortgage because he frowns and clenches his jaw in a certain way. I know my wife is puzzling about how best to cure her patient because she is studying a medical note, scratching her forehead, and biting her lip. Consider this picture:
 
-
-<div style="width:100%;height:0;padding-bottom:84%;position:relative;"><iframe src="https://giphy.com/embed/JaZNdPGbZfbMY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-trek-data-JaZNdPGbZfbMY">via GIPHY</a></p>
+![image](data.gif) 
 
 Is the person depicted experiencing anything? Do they have thoughts, feelings, or emotions? If so, what are they? We do not have direct access to their thoughts and emotions; I cannot see their joy. What I can see is some facial movement. Eyebrows raise, a mouth opens, the head moves forward, etc. I *infer* that the person feels joy based upon these observations; I normally find people behaving like this when they feel joy. In general, our mental states seem correlated with our behaviors and attending to these behaviors seems to be how we judge what mental states others are in. A person in pain tends to wince and groan. A person that is excited tends to speak in a higher pitch and have dilated pupils. 
 
@@ -71,7 +70,7 @@ Consider this example from the textbook: “Paul has a toothache”. This senten
 
 Notice that we have translated the sentence about pain so that we no longer refer to anything that is private, to anything that cannot be observed. If correct, we do not have private and immediate access to our own minds; you do not have special access to your mind because your mind is just the way you behave, which everyone can witness. We should replace the image above of a private theater with this one: 
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/l4FBbYsFifkdlXUZ2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/movie-cinema-the-sandlot-l4FBbYsFifkdlXUZ2">via GIPHY</a></p>
+![image](movie.gif)
 
 Assume the image on the screen represents a person's thoughts, feelings, and emotions. According to behaviorism, these mental states are nothing other than observable behavior. The behavior is something we all have direct access to, and so have direct access to each others' mental states. Again, the behaviorist is not claiming that behavior is a clue to what we feel and think. They claim that there is nothing more to our feelings and thoughts than just the way we behave. 
 
@@ -82,7 +81,11 @@ Philosophical behaviorism is a radical claim. Why accept it? Perhaps the best ar
 
 Spoken language is no different here than other forms of communication. Sign language too only can be used to communicate if we agree about which shapes mean what. Morse code can also be used to communicate if we agree upon which sequences of dots means what. The same goes for even something as simple as traffic lights. They work only because we agree that a green light communicates to us that we are free to travel, while a red indicates we must stop. Language too works only if we agree and know what the various words we use mean and stand for. 
 
-If mental states exist and we can talk about them, then the words referring to mental states must be ones whose meaning we can agree upon. Just as a green light only successfully signals something because we all agree on what it signals, words like 'pain' and 'pleasure' can only communicate something if we all agree upon what they mean. But if mental states exist, they are by their nature accessible only to those that have them; they are not publicly accessible at all. Your pain is *viewable* to you, but it would not be viewable to anyone else. How could we ever then agree upon what a word like 'pain' means?  This is partly why the famous philosopher Ludwig Wittgenstein argues that mental states do not exist. (Watch a short video about the argument [here](https://www.youtube.com/watch?v=x86hLtOkou8).) Wittgenstein argues as follows: 
+If mental states exist and we can talk about them, then the words referring to mental states must be ones whose meaning we can agree upon. Just as a green light only successfully signals something because we all agree on what it signals, words like 'pain' and 'pleasure' can only communicate something if we all agree upon what they mean. But if mental states exist, they are by their nature accessible only to those that have them; they are not publicly accessible at all. Your pain is *viewable* to you, but it would not be viewable to anyone else. How could we ever then agree upon what a word like 'pain' means?  This is partly why the famous philosopher Ludwig Wittgenstein argues that mental states do not exist. Watch a short video about the argument below:
+
+[![image](witt.jpg)](https://www.youtube.com/watch?v=x86hLtOkou8) 
+
+Wittgenstein argues as follows: 
 
 
 > If I say of myself that it is only from my own case that I know what the word “pain” means – must I not say the same of other people too? And how can I generalize the one case so irresponsibly?

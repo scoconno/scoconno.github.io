@@ -13,7 +13,7 @@ Pick any time-piece as your sample watch. It could be a sundial, a water clock, 
 
 1. Find three relevant full text **articles** in the library databases on your chosen clock. These articles must be **peer reviewed**.
 2. Write a full bibliographic record for each article.  
-2. Write a brief annotation for each article. The annotation should include 1) a description of the the type of source, e.g., information about the author, the journal the article appears in, etc., 2) a short summary of how the article relates to your chosen topic--read just enough to figure out the general point of the article. 
+2. Write a brief annotation for each article. The annotation should include 1) a description of the type of source, e.g., information about the author, the journal the article appears in, etc., 2) a short summary of how the article relates to your chosen topic--read just enough to figure out the general point of the article. 
 
 **NB:** Failure to include any of these elements in your submission will result in a loss of points. 
 

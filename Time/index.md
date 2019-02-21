@@ -61,3 +61,4 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 	+ ['Change',](/newton/travels2.pdf) Robin Le Poidevin.
 		+ **NB: Some report not yet having the textbook. I am stretching the licensing rules by providing this second chapter. Please ask your peers if you do no have the book by the end of next week; I really can't post any further chapters.**
 	+ ['Isaac's Time'](/newton/falk6.pdf), Falk 
++ [Notes](/newton/vacua.pdf)
