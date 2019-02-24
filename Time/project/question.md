@@ -22,8 +22,9 @@ In this first part of the project, you will develop a research proposal. Your pr
 
 1. State a manageable research question about time. You must use an interrogative. There should be a question mark. 
 2. Write a 150--250 words to provide background to your question.
-1. Write the references for 3 peer reviewed sources that deals with your topic. 
+3. Write the references for 3 peer reviewed sources that deals with your topic. 
 
+**NB: If I do not approve your proposal, you will need to revise it before moving on to further parts of the capstone.**
 
 ## Further Information 
 
