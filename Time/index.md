@@ -62,3 +62,14 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 		+ **NB: Some report not yet having the textbook. I am stretching the licensing rules by providing this second chapter. Please ask your peers if you do no have the book by the end of next week; I really can't post any further chapters.**
 	+ ['Isaac's Time'](/newton/falk6.pdf), Falk 
 + [Notes](/newton/vacua.pdf)
+
+---
+
+**2/25/19**
+
++ Reading: 
+	+ Follow the syllabus for the relevant textbook chapters. 
+	+ ['In the Beginning'](/beginning/Falk7.pdf), Falk (read as much of the additional chapters as you find interesting). 
++ [Notes](/beginning/Falk7.pdf) 
+
+---
