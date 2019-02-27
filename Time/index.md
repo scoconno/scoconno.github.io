@@ -70,6 +70,7 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 + Reading: 
 	+ Follow the syllabus for the relevant textbook chapters. 
 	+ ['In the Beginning'](/beginning/Falk7.pdf), Falk (read as much of the additional chapters as you find interesting). 
-+ [Notes](/beginning/Falk7.pdf) 
+	+ [National Geographic](https://www.nationalgeographic.com/science/space/universe/origins-of-the-universe/), optional
++ [Notes](/beginning/notes) 
 
 ---
