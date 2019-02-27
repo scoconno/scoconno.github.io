@@ -19,81 +19,54 @@ James Ussher (1580-1655) asked when the Universe was created. His answer: 6:00 p
 
 ![image](bang.gif)
 
-13.7 Billion Year old. 
+But, we now believe that the universe is 13.7 billion years old! 
 
 <iframe allowfullscreen width='640' height='360' src='//assets.nationalgeographic.com/modules-video/latest/assets/ngsEmbeddedVideo.html?guid=00000161-d7f6-dcda-a37f-d7f68e230000' frameborder='0' scrolling='no'></iframe>
 
-Does the beginning and end of the universe imply the beginning and end of time itself?
+## The Beginning of Time? 
 
-Arguments that time had no beginning {#arguments-that-time-had-no-beginning .unnumbered}
-====================================
+Does the beginning (and end of) the universe imply the beginning (and end of) time itself? Should a theist accept that God existed before his act of creation? Should we accept that some period of time existed before the big bang, that the singularity existed for a period of time before the big bang occurred? Recall that an Absolutist about time believes that time exists independently of any process or change. The relationalist denies this. Deciding whether time existed before the universe began, may help decide this debate. 
 
-From the nature of beginning {#from-the-nature-of-beginning .unnumbered}
-----------------------------
+## Arguments that time had no beginning 
 
-Events have beginnings and endings in time. A beginning implies a
-change. If Bob begins to exist, then there was a time when he did not
-exist and a later time when he did exist. So a beginning to time
-suggests that time changed from not-existing to existing.
+### From the nature of beginning 
 
-From the first moment {#from-the-first-moment .unnumbered}
----------------------
+2. If Bob began to exist, then there was one time when he did not exist and a later time when he did exist. 
+3. If time began to exist, then there was one time when time did not exist and a later time when time did exist. 
+4. It is contradictory to claim that there was a time when time did not exist. 
+5. Therefore, time could not have had a beginning. 
 
-It seems that time has a beginning if there was a first moment, or, if
-the past is finite in extent.
+### From the first moment 
 
--   Every moment is (at some time) present.
+Time has a beginning if there was a first moment of time. This argument shows that this is impossible. 
 
--   The present is the boundary between past and future.
+1. Every moment is (at some time) present.
+2. The present is the boundary between past and future.
+3. If there was a first moment of time, it could not have been present--because there can be no past at the beginning of time  (from 2).
+4. There was no first moment of time (from 1 & 3).
+5. Time has no beginning (from P4).
 
--   If there was a first moment of time, it could not have been
-    present - because there can be no past at the beginning of time
-    (from P2).
+### The Principe of Sufficient Reading
 
--   There was no first moment of time (from P1 & P3).
+*The Principle of Sufficient Reason:* states that for everything that occurs at a given moment, there is always an explanation, a cause, of why it occurred at precisely that moment and not at some other moment. In general, if event x causes event y, then x occurs some time before y occurs. 
 
--   Time has no beginning (from P4).
+![image](cause.gif)
 
-PSR {#psr .unnumbered}
----
 
-*The Principle of Sufficient Reason* (PSR) requires that every state of
-the universe has an antecedent cause that explains it. Hence, the
-universe and time should have no beginning.
-
-1.  Flesh out the argument.
-
+1.  Student task: how might this principle be used to argue that time has no beginning? 
 2.  Possible rebuttals?
 
-Time cannot have a beginning {#time-cannot-have-a-beginning .unnumbered}
-============================
+## Argument that time has a beginning 
 
--   If time had no beginning, then an infinite amount of time has
-    already passed.
+1. If time had no beginning, then an infinite amount of time has already passed.
+2. If an infinite amount of time has passed, then it is possible for an infinite series to be completed,
+3. It is not possible for an infinite series to be completed.
+4. An infinite amount of time has not passed (from 1--3).
+5. Therefore, time had a beginning.
 
--   If an infinite amount of time has passed, then it is possible for an
-    infinite series to be completed,
-
--   It is not possible for an infinite series to be completed.
-
--   An infinite amount of time has not passed (from P1--P3).
-
--   Time had a beginning.
-
-<!-- -->
+Questions: 
 
 -   Can an infinite series have no beginning or last member?
+-   Suppose that time is an infinite series with no first member. Then there must be some series of states that has no beginning. The causal explanation goes on forever.
 
--   Suppose that time is an infinite series with no first member. Then
-    there must be some series of states that has no beginning. The
-    causal explanation goes on forever.
 
-A Dilemma {#a-dilemma .unnumbered}
-=========
-
--   If time has a beginning, but no end, then there is an uncaused
-    event, namely, the beginning of the universe.
-
--   If time does not have a beginning, then the past extends
-    indefinitely and there is no finite explanation of the existence of
-    any stage in the universe's history.
