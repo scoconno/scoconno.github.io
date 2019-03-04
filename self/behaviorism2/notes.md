@@ -46,7 +46,7 @@ The basic idea is that sentences, at least those that are true or false, have cl
 
 My sentence about the cat was an easy one. The observations that verify it are straightforward and clearly connected to cats and mats. But the observations that verify a sentence can be more elaborate and indirect. For instance, many of the sentences in physics are verified by what you might consider indirect observations. We may not be able to see subatomic particles directly, but we can observe the tracks they make in a cloud chamber like this: 
 
-![image](C:/Users/soconnor/Dropbox/Website/scoconno.github.io/Time/measurement/cloud.gif) 
+![image](cloud.gif) 
 
 So, the observations that verify sentences about subatomic particles will likely be observations about their effects, i.e., the sentence 'a sub-atomic particle A has P' is verified by some observation about the ionized gas particle in the cloud chamber. 
 
