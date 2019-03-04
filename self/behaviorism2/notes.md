@@ -8,16 +8,23 @@ title: Notes
 ![image](m.gif)
 
 
-
-https://www.youtube.com/watch?v=eriCgClnJzo
-
-https://www.youtube.com/watch?v=IEYsIJoTGuU
-
 Philosophical behaviorism claims that mental states are identical to sets of behaviors (or, more precisely, sets of dispositions to behave). On this view, a mental state like surprise is not some internal and private state, observable directly only to you. Philosophical behaviorism claims that your surprise is merely the way you behave. And by 'behave', we recall that we distinguished two types of behavior,  **physiological responses** and **bodily movements**. Physiological responses are things like pupil dilation, sweating, grinding teeth, raising eyebrows,  etc. A bodily movement, on the other hand, is an observable motion of some or all parts of the body. These include extending and retracting limbs, turning the head from left to right, etc. This image depicts the range of bodily movements that are characteristic of our species. 
+
+
+If philosophical behaviorism is true, then your surprise at, say, winning the lottery is not some feeling. It is merely some set of physiological responses and bodily movements, e.g., the raising of your eyebrows, the lifting of the corners of your lips, etc. Proponents of such a view readily defend the so-called art of reading body-language. A pundit who claimed to know what Melanie Trump felt in this picture would find much sympathy with behaviorism: 
 
 ![image](movements.jpg)
 
-If philosophical behaviorism is true, then your surprise at, say, winning the lottery is not some feeling. It is merely some set of physiological responses and bodily movements, e.g., the raising of your eyebrows, the lifting of the corners of your lips, etc. In this handout, we survey some objections to this claim. 
+Likewise, those who train police officers, interviewers, etc., to interpret body language, may also find behaviorism a very congenial philosophical position. Consider the following two examples: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eriCgClnJzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IEYsIJoTGuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this handout, we survey some objections to philosohpical behaviorism. 
+
+
+
 
 ## Linguistic Problems 
 
