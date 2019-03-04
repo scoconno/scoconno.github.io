@@ -78,7 +78,7 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 **3/3/19**
 
 + Reading:
-  + Following the syllabus for the relevant textbook chapters. 
+  + Follow the syllabus for the relevant textbook chapters. 
   + [Slaughtherhouse Five](flow/S5.pdf)
 + [Notes](/flow/notes.pdf)
 
