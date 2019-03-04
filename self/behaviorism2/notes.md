@@ -7,6 +7,12 @@ title: Notes
 
 ![image](m.gif)
 
+
+
+https://www.youtube.com/watch?v=eriCgClnJzo
+
+https://www.youtube.com/watch?v=IEYsIJoTGuU
+
 Philosophical behaviorism claims that mental states are identical to sets of behaviors (or, more precisely, sets of dispositions to behave). On this view, a mental state like surprise is not some internal and private state, observable directly only to you. Philosophical behaviorism claims that your surprise is merely the way you behave. And by 'behave', we recall that we distinguished two types of behavior,  **physiological responses** and **bodily movements**. Physiological responses are things like pupil dilation, sweating, grinding teeth, raising eyebrows,  etc. A bodily movement, on the other hand, is an observable motion of some or all parts of the body. These include extending and retracting limbs, turning the head from left to right, etc. This image depicts the range of bodily movements that are characteristic of our species. 
 
 ![image](movements.jpg)
