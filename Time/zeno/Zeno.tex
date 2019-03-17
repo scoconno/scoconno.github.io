@@ -1,0 +1,277 @@
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Time}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Zeno 1}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{\footnotesize{}}
+ \usepackage{longtable,booktabs}
+\tolerance=700
+
+
+\begin{document}
+\thispagestyle{fancy}
+
+\section*{Introduction}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Space is infinitely divisible or not infinitely divisible.
+\item
+  If space is infinitely divisible, motion is impossible.
+\item
+  If space is not infinitely divisible, motion is impossible.
+\item[C.]
+  Motion is impossible (from 1-3).
+\end{enumerate}
+
+\section*{Premise 1 - the divisibility of
+space}\label{premise-1---the-divisibility-of-space}
+
+
+If x is infinitely divisible, x can be divided into ever smaller parts
+  \emph{ad infinitum}. This entails that x contains no indivisible parts,
+  i.e., parts that cannot themselves be divided.
+
+  \begin{itemize}
+  \item
+    For example, suppose that a line, L, is infinitely divisible. Lines
+    are divided into line segments. Since L is infinitely divisible, every line segment that is part of L can be
+    divided into further smaller line segments---there is no smallest
+    line segment.
+  \item
+    Think of this process of dividing something out as merely
+    conceptual; we do not need to able to physically make the division.
+  \end{itemize}
+  If x is not infinitely divisible, x is divisible into a finite
+  number of \emph{smallest} parts. This entails that some of x's parts cannot be divided into anything smaller. 
+
+  \begin{itemize}
+  \itemsep1pt\parskip0pt\parsep0pt
+  \item
+    For example, suppose that a line, L, is not infinitely divisible.
+    If L is not infinitely divisible, then L contains a finite number of smallest line segments, i.e., L contains
+    line segments with some smallest extent that cannot be divided into
+    any further line segments.
+  \end{itemize}
+
+\section*{Premise 2}\label{premise-2}
+
+
+\emph{Strategy:} Assume that space is infinitely divisible. We will then argue
+that it is impossible to move from one place to another by (i) showing that doing so requires completing an infinite number of tasks, and (ii) arguing that it is is impossible to complete an infinite number of tasks.
+
+\noindent Zeno argues for (i) and (ii) by using a number of paradoxes. The first is
+called the \emph{Race Course}, which argues that it is impossible to complete
+an arbitrary journey from A to B, i.e., to start at A and move to B. Aristotle describes the paradox as follows:
+
+\begin{quote}
+The first asserts the non-existence of motion on the ground that that
+which is in locomotion must arrive at the half-way stage before it
+arrives at the goal (Aristotle, \emph{Physics,} 239b11).
+\end{quote}
+Here is a simple presentation of the argument: 
+\begin{enumerate}
+\item[A.]  The distance between A and B is infinitely divisible (assumed).
+\item[B.]  A journey from A to B is a series of sub-journeys with no last member:
+  from A to \(\frac{1}{2}AB\), from \(\frac{1}{2}AB\) to
+  \(\frac{3}{4}AB\), and so on.
+\item[C.]  It is impossible to complete a series of sub-journeys with no last
+  member.
+\item[D.]  Completing a journey from A to B requires completing the series of
+  sub-journeys with no last member: from A to \(\frac{1}{2}AB\), from
+  \(\frac{1}{2}AB\) to \(\frac{3}{4}AB\), and so on.
+\item[E.]  It is impossible to complete the journey from A to B.
+\end{enumerate}
+This argument proves that a traveller cannot complete their journey if they are traveling over an infinitely divisible distance. But the fact that we cannot complete our movements does not entail  that we cannot move. Zeno completes his attack on premise 2 with two further paradoxes. 1) An inverted version of the paradox shows us that our traveler cannot
+  begin to move...\textbf{group project!}. The Achilles Paradox shows us that in a race
+  between Achilles and a tortoise, where the tortoise is given a head
+  start, Achilles could never catch-up and pass the tortoise. Simplicius reports the very famous Achilles paradox as follows: 
+\begin{quote}
+The {[}second{]} argument was called ``Achilles,'' accordingly, from the
+fact that Achilles was taken {[}as a character{]} in it, and the
+argument says that it is impossible for him to overtake the tortoise
+when pursuing it. For in fact it is necessary that what is to overtake
+{[}something{]}, before overtaking {[}it{]}, first reach the limit from
+which what is fleeing set forth. In {[}the time in{]} which what is
+pursuing arrives at this, what is fleeing will advance a certain
+interval, even if it is less than that which what is pursuing advanced
+\ldots{} . And in the time again in which what is pursuing will traverse
+this {[}interval{]} which what is fleeing advanced, in this time again
+what is fleeing will traverse some amount \ldots{} . And thus in every
+time in which what is pursuing will traverse the {[}interval{]} which
+what is fleeing, being slower, has already advanced, what is fleeing
+will also advance some amount (Simplicius, \emph{On Aristotle's Physics},
+1014.10).
+\end{quote}
+
+\subsection*{Response 1: Reject C}\label{response-1-reject-c}
+
+Some deny premise C by claiming that as we divide the distances of the
+journey, we should also divide the total time taken, and, further, that
+the sum of these infinite series of decreasingly short time intervals is
+still equal to a finite period of time. These denials assume that the
+Zeno's argument for C is the following:
+
+\begin{enumerate}
+\item[C1.] Completing an infinite series of tasks would take an infinite
+  amount of time.
+\item[C2.] It is not possible to spend an infinite amount of time completing
+ a series of task(s).
+\item[C3.] It is not possible to complete an infinite series of
+  tasks (from C1--C2).
+ \item[C4.] Sub-journeys are tasks.
+ \item[C.] It is impossible to complete a series of sub-journeys with no last
+  member, i.e., an infinite series of sub-journeys (from C4--C5).
+\end{enumerate}
+This argument is valid.  But some who think that this is Zeno's argument for C, deny that the argument is sound because C1 is false. They deny that completing an infinite series of tasks would take an infinite period of time. The idea is that we could complete an infinite series of tasks in a finite period of time if the amount of time to complete each task decreases. For instance,  as we divide the distances between the
+points we travel, we should also divide the time it takes to travel the ever smaller distances; it may take me one hour to travel between A and B, but it won't take me one hour to travel halfway between A and B:
+
+\begin{enumerate}
+\item
+  It takes \(\frac{1}{2}\) the time to run from A to \(\frac{1}{2}AB\)
+  as it does to run from A to B.
+\item
+  It takes \(\frac{1}{4}\) of the time to run from \(\frac{1}{2}AB\) to
+  \(\frac{3}{4}AB\), and so on.
+\item
+  The sum of these decreasing times is finite.\footnote{See `A
+    Contemporary Look at Zeno's Paradoxes', by Wesley Salmon}
+\item
+  Therefore, we can complete an infinite series of sub-journeys in a
+  finite period of time.
+\end{enumerate}
+Let us grant that C1--C4 fail to establish premise C.  Why think that Zeno proves C in this way? If he does, his argument fails. But there is an
+alternative way of defending premise C that is immune to our current objection:  Even if it takes less time to complete each sub-journey, I still need  to first complete each sub-journey before completing the journey that
+  comes after it. If so, I always have one more sub-journey to complete
+  before I can complete the final step.
+
+This argument makes no claim about how much time is required to complete an infinite series of tasks. It relies on the simple observation that completing a series of tasks required completing each task one after the other; I cannot start the second sub-journey until I have completed the first sub-journey. So, in order to complete the journey from A--B, I must complete the very final part of that journey, the very final sub-journey. But there is never a moment at which I have only one more sub-journey to complete. 
+
+\subsection*{Response 2: Reject B}
+
+Recall premise B: 
+\begin{enumerate}
+\item[B.]  A journey from A to B is a series of sub-journeys with no last member:
+  from A to \(\frac{1}{2}AB\), from \(\frac{1}{2}AB\) to
+  \(\frac{3}{4}AB\), and so on.
+  \end{enumerate}
+Aristotle distinguishes between \emph{potential} and \emph{actual} sub-journeys. He agrees that a journey from A to B is a series of potential sub-journeys. So, he agrees with premise B when we add the `potential' qualification. However, Aristotle thinks the premise is false when it is read as claiming that the journey from A to B is a series of actual sub-journeys. On his view, the full journey does not consist of actual parts each of which are sub-journeys. There is only one actual journey, but there are many potential sub-journeys, journeys we could have taken instead of traveling between A and  B. 
+
+How to evaluate this response? Zeno is defining journeys in terms of the distances over which they occur, i.e., he is assuming that whenever a person travels between two points, the journey he takes is defined merely in terms of these two points. Aristotle responds by denying that journeys are individuated in this way (because if they were the problem Zeno raises would be acute). But if journeys are not individuated by the distances over which they occur, how are they individuated? Why is the journey between A and B distinct from the journey between A and C? Aristotle cannot just define the journeys in terms of the relevant points because that is what leads to the paradox. Aristotle owes us, then, an account of actions/activities and a way of individuating them from one another. 
+
+
+\section*{Premise 3}\label{premise-3}
+
+Zeno offers two distinct arguments for premise 3, the Stadium Paradox and the Arrow Paradox. We will discuss the Arrow Paradox in our next session.  The strategy in each case is similar. We will fist assume that space is not infinitely divisible, then prove that certain absurdities follow. If an assumption leads to an absurdity, we know the assumption is false. 
+
+%As an example, suppose someone claimed that vaccines cause autism. We could show that assumption is false if we proved that it entailed something false: 
+
+%\begin{enumerate}
+%\item  Childhood vaccines always cause autism (assumed). 
+%\item If childhood vaccines always cause autism, then every child who gets a vaccine will develop autism. 
+%\item The vast majority of children get vaccinated. 
+%\item Therefore, the vast majority of children have, or will develop, autism (from 1--3). 
+%\end{enumerate}
+%Our conclusion, 4, is false. Since 4 is false, we know that one of the premises that lead to this conclusion is false. The obvious culprit here is 1, which is the premise that we are testing. So, the general point is that we can show that a claim is false if we show that it entails something that is  false. 
+
+
+%\section*{The Stadium Paradox}\label{stadium-paradox}
+
+In the Stadium Paradox, Zeno asks us to assume that motion occurs over distances that are finitely divisible into smallest parts. This means that there are a finite number of distances between any two points; when you walk between A and B, you have traversed a finite number of some smallest distances. He argues that this assumption leads to an absurd conclusion. Aristotle presents this as follows: 
+
+
+
+\begin{quote}
+The fourth argument is that concerning equal bodies which move alongside equal bodies in the stadium from opposite directions---the ones from the end of the stadium, the others from the middle---at equal speeds, in which he thinks it follows that half the time is equal to its
+double\ldots{}. (Aristotle, \emph{Physics}, 239b33).
+\end{quote}
+Suppose these rows of blocks represent some chariots in a stadium. The
+Bs are stationary. The As are moving from left to right. Use `D' for the last block in the row of As. The Cs are moving towards the Bs from right to left. Use `E' to name the middle block in the Cs. Suppose also that the As and Cs are traveling at the same speed. (The letters in each row should be beside each other in T2 and T3.)
+
+\begin{longtable}[c]{@{}lll@{}}
+\toprule
+& T1 &\tabularnewline
+\midrule
+\endhead
+& DAA & --\textgreater{}\tabularnewline
+& BBB &\tabularnewline
+\textless{}-- & CEC &\tabularnewline
+\end{longtable}
+
+\begin{longtable}[c]{@{}rll@{}}
+\toprule
+& T2 &\tabularnewline
+\midrule
+\endhead
+--\textgreater{} & ~ DA & A\tabularnewline
+& BBB &\tabularnewline
+~ ~ C & EC~ & \textless{}--\tabularnewline
+\end{longtable}
+\noindent Compare times 1 and 2. Suppose they are separated by a one minute
+interval of time. In this interval, D has passed one B block and two C blocks. Zeno thinks this is paradoxical. Why? Let us assume the following:
+
+\begin{enumerate}
+\item
+  There is a smallest possible length, \emph{S}
+\item
+  The length of each block is S.
+\item
+  There are no gaps between the blocks.
+\item
+  The blocks move with constant velocity.
+\end{enumerate}
+\noindent It took 1 minute for D to pass two C blocks. It should take 30 seconds to
+pass one C block and become level with E. Suppose D this is true. How many B blocks does D pass after 30 seconds?  Try filling out the diagram below to answer that question.
+
+\begin{longtable}[c]{@{}rll@{}}
+\toprule
+& T3 &\tabularnewline
+\midrule
+\endhead
+--\textgreater{} & DAA &\tabularnewline
+& ? &\tabularnewline
+~ ~ C & EC~ & \textless{}--\tabularnewline
+\end{longtable}
+
+\noindent T3 describes the moment that D and E are level. The paradox arises because of the relationship that D stands in to the Bs at the moment D and E are level. Suppose that someone claims that D has passed \emph{half
+of one B block.} Let this half be called \emph{H}. What is H's length?
+You cannot, on pain of contradiction, claim that H has a length less
+than S. We have assumed that S is the smallest possible length, so H
+cannot be shorter than S. Here is another way of presenting the paradox:
+
+\begin{enumerate}
+\item D travels S distance in 30 seconds. 
+\item S is the shortest possible distance. 
+\item Each block has length-S.
+\item Thus, each B block has length S.
+\item D passes one B block in 1 minute. 
+\item Therefore, D travels S distance and twice S distance in 1 minute. 
+\end{enumerate} 
+Our assumption that the blocks move over a distance that is divisible into a finite number of smallest distances leads to a contradiction. So, Zeno conclude that that the assumption is false. 
+
+\subsection*{Responses}
+
+One response to this paradox is to deny that there really is a T3. The paradox assumes that the length of time between T1 and T2 can be divided in two, i.e., 1 minute is divided into two 30
+second intervals. Suppose that time is also atomic, that there is a
+smallest interval of time, a single quantum of time. Suppose also that
+the motion between T1 and T2 takes a single quantum of time. If this is
+correct, there is no T3 (which was half the interval between T1 and T2.) 
+
+But, paradox still threatens. During a single quantum of time, D and E will
+have passed each other (as is seen in T2), but there is no moment at
+which they are level as is described in T3: since T1 \& T2 are
+separated by the smallest possible interval of time, there can be no moment of time between them---it would be a interval of time smaller than the smallest interval of time. Conversely, if one insisted that there is some moment when they are level, then this shows that our supposed quantum of time was not the shortest finite interval. We could then run the argument again taking into account this supposed new smallest interval.
+
+
+
+
+\end{document}
