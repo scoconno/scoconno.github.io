@@ -75,11 +75,21 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 
-**3/3/19**
+**3/4/19**
 
 + Reading:
   + Follow the syllabus for the relevant textbook chapters. 
   + [Slaughtherhouse Five](flow/S5.pdf)
 + [Notes](/flow/notes.pdf)
+
+---
+
+
+**3/19/19**
+
++ Reading:
+  + Follow the syllabus for the relevant textbook chapters. 
+  + ['The Paradoxes of Motion and the Possibility of Change'](/zeno/LoweZeno.pdf)
++ [Notes](/zeno/Zeno.pdf)
 
 ---
