@@ -18,15 +18,14 @@ This week we are considering the view that what it is to have a mind is to be ab
 
 
 ### Notes
-+ [Notes 1](notes)
-+ [Notes 2](/self/functionalism2/notes)
++ [Notes](notes)
 
 ### Videos
 + Required
 	+ [One explanation of the Turing Test](https://www.youtube.com/watch?v=1uDa7jkIztw)
 	+ [Another explanation of the Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
 	+ [Necessary and Sufficient Conditions:](https://www.youtube.com/watch?v=5LqNm9d2__I) Turing claims that passing the Turing Test is necessary and sufficient for intelligence. This video explains what necessary and sufficient conditions are. 
-	+ [A reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M) This experiment challenges Turing's claim that passing the Turing Test is sufficient for intelligence. 
+
   
 + Optional
 	+ [AI and Personhood](https://www.youtube.com/watch?v=39EdqUbj92U&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=23)
