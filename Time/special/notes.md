@@ -1,49 +1,91 @@
-Special relativity: interstellar form about 1 hour. They talk about 7 hours passing on that planet for eveyrone one hour that passes on Earth. 
+layout: default
+title: Notes
 
 
 
-Two postulates for special relativity
-
-INERTIAL REFERENCE FRAME
-
-An inertial frame of reference is a reference frame in which a body at rest remains at rest and a body in motion moves at a constant speed in a straight line unless acted on by an outside force.
-
-FIRST POSTULATE OF SPECIAL RELATIVITY
-
-The laws of physics are the same and can be stated in their simplest form in all inertial frames of reference.
-
-(only tell you are moving relative). If I'm on a boat that's moving, I can't measure my motion to the boat's motion. 
-
-Now then, from his experiments, Galileo deduced that two observers moving at a constant velocity will get the same results from all mechanical experiments. To make it easier to understand, think of it like this: being inside of a vehicle that is traveling at a constant velocity is the same as being inside a vehicle that is at rest (velocity = 0). To prove this, look at where you are right now. You may think that you are at rest, but the Earth is actually moving at an approximately constant velocity through space around the Sun. You don’t feel a thing while sitting there and reading this, and there is no experiment that you can do here on Earth to determine the Earth’s speed.
-
-Hence, one phrase that is important in relativity is the “reference frame.” In relativity, velocity is not absolute, but rather, velocity depends on where you are making the observation. The point at which you are making your observation is where your reference frame is. A reference frame that is moving at a uniform velocity is called an “inertial reference frame.” Ultimately, Galilean relativity can be summarized by saying that all mechanical laws of physics are valid in inertial reference frames. 
-
-. It can be best understood with this example: you are on a vehicle travelling at 10m/s, then you throw a ball forward at 10m/s. An outside observer will then see the ball to have a velocity of 20m/s. If you threw the ball backwards, the outside observer will then see the ball to have a velocity of 0 i.e., it will appear to stop.
-
-When I look at X, I ask how far did the speed of light travel. 
-
-Two mirrors. The light on my rocket bounces up and then back down to a detector. If we add all the lengths it travels it gets to say, 4 x 10cm. Now, if you observe from Earth and see inside my rocket. Apparently I won't see the light going straight up and down. I'll see it going at an angle. 
-
-Same velocity 
-
-Well, since she is going faster than me, and my light is travelling the same distance as hers, then light must have travelled further for her than it did for me. 
+## Introduction
 
 
-V=m/s
 
-V=100/2
+![image](ein.jpg)
 
-V=200/4
-
-Same velocity, different distance, so it must be different time. From my perspective, you were travelling for 4 seconds, but from your perspective, you were traveling 
-
-SECOND POSTULATE OF SPECIAL RELATIVITY
-
-The speed of light c is a constant, independent of the relative motion of the source.
+In 1905, Albert Einstein published 'On the Electrodynamics of Moving Bodies'. A somewhat innoncent title for an otherwise world changing paper. The paper defends what we now call special relativity, a theory that built on prior discoveries in physics, but, nevertheless, showed that we had fundamental misunderstood the nature of time and space. While this is not a physics class, no class on time would be complete without some discussion of Einstein's radical discoveries. While avoiding the many complications, we will focus on three upshots of his view, (1) time dilation, 2) the relativity of simultaneity, and 3) the twin paradox. 
 
 
-The second postulate states that: “the speed of light in a vacuum is constant in all inertial reference frames.” It simply means that, wherever you look from, you will measure the same speed of light in a vacuum (as long as it moves at a constant velocity). At first, this doesn’t sound so amazing, but when you think of it, it is. For example, if you are in a spaceship travelling at the speed of light and you fire a laser up front, Galilean relativity’s addition of velocities tells us that an observer outside the spaceship will see the laser at twice the speed of light, but Einstein tells us that the observer will still see light travel at light speed. How is that possible? The constancy of the speed of light has two consequences that make it possible, namely, length contraction & time dilation.
 
-Length contraction is the shortening of length of an object travelling at relativistic speeds (speeds that are near the speed of light) relative to an observer outside the object.
+## Relative Velocity
 
-Time dilation, on the other hand, is the slowing down of time at an object moving at relativistic speeds. This is described in the twin paradox. The paradox starts with two twins who are (of course) the same age. One of the twins (twin A) rode a spaceship that travels at relativistic speeds to some distant place. After traveling for some time, twin A returns again at the same speed. Because twin A moved at relativistic speeds, he would be younger than twin B when he comes home (twin A would have experienced a slowing down of time).
+How fast are you moving? Let us recall a basic definition of velocity: 
+
+>  $$ V = \frac{X_1-X_2}{t} ​$$
+
+'V' velocity. '$X_1$' is the initial position of the moving body, '$X_2$' is the final position of the moving body. *'T'* is the time taken. If we subtract the distance between the final and initial position of our moving body, we can simply the formula as follows: 
+
+>  $$ V = \frac{\Delta_x}{t} ​$$
+
+Let's try some simple examples: 
+
+> Sophia runs a race. The distance between the start line and finish line is 400m. It takes 80 seconds for her to complete it. How quickly did she run? 
+>
+> A rocket leaves Earth. Travels for 60 million kilometers before reaching Mars. It travelled for 300 days. How quickly did the rocket travel? 
+
+So, it seems easy to determine if you moved during some period of time. Just examine whether there is any distance between where you were at the beginning of the duration and at its end. But think again Sophia. Suppose that the race occurred on an aircraft carrier that was traveling at full speed. How much distance is there between the point at which Sophia starts her run and the point she ends her run? This is a bit trickier. If we mean points on the aircraft carrier, the answer is 400 m. But if we mean in relationship to the point of departure, the answer is something else: 
+
+![image](run.jpg)
+
+
+
+> Suppose that the ship is traveling at 80 m/s. How far has it travelled by the time Sophia has completed he run? 
+>
+> Suppose also that Sophia is running the same direction the ship is traveling in? How much distance has passed from the location of the ship at the start of her run and the end of her run? 
+
+These are easy questions. They point to the fact we measure how quickly something moves relevant to something else. For instance, are you reading this while sitting on a train? If so, you might think you are moving at the train's speed, e.g., 20 mph. What if you are walking the length of the train as it is in motion? Perhaps you are moving  24 mph, where this is equal to the speed of the train plus the speed of your walking. What If you are sitting in a chair at home? You may be tempted to answer that you are moving 0 mph.  After all, you are not on a moving train or bus. But you are located in something that moves! The Earth is traveling at 67,000 mph around the sun. 
+
+So, how fast are you really moving, and not merely moving in relation to something else?  According to Newton and defenders of absolutism, this question is a legitimate one. For, according to them, space and time exist independently of anything that exists in space and time. If all physical entities were destroyed, space, a kind of empty receptacle, would still exist. So too would time. On such a view, absolute motion and absolute time exists. The distance you really move is a distance in absolute space. But, physics abandoned Newton's notion of absolute space. Even if it were to exist, we cannot measure any absolute distance. All we have empirical access to are physical bodies and the distances between them. This has led in part to physicists since Galileo to think that motion is relative. Consider this ship: 
+
+![image](ship.jpg)   
+
+
+
+How quickly does the table-tennis ball move? According to Galileo, the question can only be answered by asking it relative to some observer. Relative to the table tennis player, the velocity of the ship is irrelevant to answering this question. The ball is moving relevant to the player at, say, 50 mph. But what about those of us on the beach who are watching the ship pass by, and are watching the table tennis players through a window? From our perspective the ball is traveling at 50 mph plus the velocity of the ship, say, 20 mph. So, the ball moves 70 mph relative to us and 50 mph relative to the player on the ship. 
+
+One surprising upshot of Galileo's work was that we can only measure the velocity of something relative to what we have experimental access to. From what you are experiencing right now, you cannot determine the Earth's speed. In a similar way, if you were inside the hull of a windowless ship that was on a smooth sea, you could not tell if the ship was moving or at rest. Suppose you wish to measure how fast the ball is moving. Your answer will not depend on whether the ship is moving. Relative to you, the ball's velocity has nothing to do with what is happening outside the ship. 
+
+
+
+## Things get weird 
+
+By the time Einstein was working, physicists had agreed that the speed of light is a constant, it travels just short of 300 million meters per second. That's fast! The speed of light is commonly referred to know by just *c*. Einstein shows that the simple intuition about relative motion and the fact that time always travel at the same speed has surprising upshots for the nature of time. The Theory of Special Relativity has two postulate: 
+
+First postulate: 
+: The laws of physics are the same and can be stated in their simplest form in all inertial frames of reference.
+
+Second postulate: 
+: The speed of light c is a constant, independent of the relative motion of the source.
+
+By reference frame, we just mean the place that you are making your observation. An inertial reference frame is one that is not acceleration. Einstein asked us how to maintain both postulates when comparing what seems to be the relative velocity of light. Consider this example: 
+
+ ![image](rocket.gif)
+
+Suppose there is one person on the rocket. We have two observers, one on the planet and the other on the rocket. Suppose our rocket pilot shoots a laser in her ship. How fast is the light traveling? Well, we know it must be c. If our rocketeer measures its speed, their result will be c. If the observer on Earth measures that velocity, we might expect it to be greater than c. That's the result of measuring from the beach the table tennis ball's velocity on the ship; we added the result of the sailor and the velocity of the ship. But nothing can travel faster than the speed of light. Our observer on Earth must also get a result of c! So, why is that mysterious? The problem arises if we ask how far the light has travelled. Let us say that from the perspective of the rocketeer, the light has travelled 300 m. For simplicity, let's pretend that light travels at 30 m/s.
+
+>  $$ 30m/s = \frac{300}{t} ​$$
+
+How much time has passed on the rocketeer's clock? 
+
+Now let us ask about the planeteer. How far has the light travelled from their perspective. It clearly has gone further than 300m; if it did, then they would be traveling at the same velocity as the rocket.  
+
+>  $$ V = \frac{600}{t} $$
+
+What values should we provide for t and V? Our intuition is that it should be the same as what we included for the rocketeer. But if we do that, how quickly will the light be traveling from our perspective? Twice the rate that is possible! It just can't go faster than c, which we are pretending is 30m/s. So, we know that the following is true: 
+
+>  $$ 30m/s = \frac{600}{t} $$
+
+What should we provide for t? Odd, right? From the rocketeer's perspective, they have travelled a certain distance in the time registered on their watch. But from the planet bound observer, they have travelled further and more time has passed. 
+
+Here is a simple version of all this:
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AInCqm5nCzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

@@ -93,4 +93,8 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 **3/25/19**
 
 + Reading
-	+ ['Alberts Time',](/special/falke.pdf)
+  + ['Alberts Time',](/special/falke.pdf) Falk
+  + ['On the Electrodynamics of Moving Bodies',](/special/relativity.pdf) Albert Einstein (optional)
+
++ Notes
+
