@@ -84,12 +84,13 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 
+**3/18/19**
 
-**3/19/19**
-
-+ Reading:
-  + Follow the syllabus for the relevant textbook chapters. 
-  + ['The Paradoxes of Motion and the Possibility of Change'](/zeno/LoweZeno.pdf)
-+ [Notes](/zeno/Zeno.pdf)
++ [Zeno's paradoxes](zeno)
 
 ---
+
+**3/25/19**
+
++ Reading
+	+ ['Alberts Time',](/special/falke.pdf)
