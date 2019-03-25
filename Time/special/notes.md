@@ -1,6 +1,7 @@
 layout: default
+mathjax: true
 title: Notes
-
+---
 
 
 ## Introduction
@@ -17,7 +18,7 @@ In 1905, Albert Einstein published 'On the Electrodynamics of Moving Bodies'. A 
 
 How fast are you moving? Let us recall a basic definition of velocity: 
 
->  $$ V = \frac{X_1-X_2}{t} ​$$
+>  $ V = \frac{X_1-X_2}{t} $
 
 'V' velocity. '$X_1$' is the initial position of the moving body, '$X_2$' is the final position of the moving body. *'T'* is the time taken. If we subtract the distance between the final and initial position of our moving body, we can simply the formula as follows: 
 
