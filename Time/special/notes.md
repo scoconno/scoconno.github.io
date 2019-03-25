@@ -1,3 +1,4 @@
+---
 layout: default
 mathjax: true
 title: Notes
