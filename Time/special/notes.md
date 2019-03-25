@@ -12,7 +12,7 @@ title: Notes
 
 ![image](ein.jpg)
 
-In 1905, Albert Einstein published 'On the Electrodynamics of Moving Bodies'. A somewhat innoncent title for an otherwise world changing paper. The paper defends what we now call special relativity, a theory that built on prior discoveries in physics, but, nevertheless, showed that we had fundamental misunderstood the nature of time and space. While this is not a physics class, no class on time would be complete without some discussion of Einstein's radical discoveries. While avoiding the many complications, we will focus on three upshots of his view, (1) time dilation, 2) the relativity of simultaneity, and 3) the twin paradox. 
+In 1905, Albert Einstein published 'On the Electrodynamics of Moving Bodies'. A somewhat innoncent title for an otherwise world changing paper. The paper defends what we now call special relativity, a theory that built on prior discoveries, but, nevertheless, showed that we had fundamentally misunderstood the nature of time and space. While this is not a physics class, no class on time would be complete without some discussion of Einstein's radical discoveries. While avoiding the many complications, we will focus on three upshots of his view, (1) time dilation, 2) the relativity of simultaneity, and 3) the twin paradox. 
 
 
 
@@ -20,9 +20,9 @@ In 1905, Albert Einstein published 'On the Electrodynamics of Moving Bodies'. A 
 
 How fast are you moving? Let us recall a basic definition of velocity: 
 
->  $ V = \frac{X_1-X_2}{t} $
+>  $$ V = \frac{X_1-X_2}{t} $$
 
-'V' velocity. '$X_1$' is the initial position of the moving body, '$X_2$' is the final position of the moving body. *'T'* is the time taken. If we subtract the distance between the final and initial position of our moving body, we can simply the formula as follows: 
+'V' is velocity. '$X_1$' is the initial position of the moving body, '$X_2$' is the final position of the moving body. *'T'* is the time taken. If we subtract the distance between the final and initial position of our moving body, we can simplify the formula as follows: 
 
 >  $$ V = \frac{\Delta_x}{t} ​$$
 
@@ -30,9 +30,9 @@ Let's try some simple examples:
 
 > Sophia runs a race. The distance between the start line and finish line is 400m. It takes 80 seconds for her to complete it. How quickly did she run? 
 >
-> A rocket leaves Earth. Travels for 60 million kilometers before reaching Mars. It travelled for 300 days. How quickly did the rocket travel? 
+> A rocket leaves Earth and travels for 60 million kilometers before reaching Mars. It travelled for 300 days. How quickly did the rocket travel? 
 
-So, it seems easy to determine if you moved during some period of time. Just examine whether there is any distance between where you were at the beginning of the duration and at its end. But think again Sophia. Suppose that the race occurred on an aircraft carrier that was traveling at full speed. How much distance is there between the point at which Sophia starts her run and the point she ends her run? This is a bit trickier. If we mean points on the aircraft carrier, the answer is 400 m. But if we mean in relationship to the point of departure, the answer is something else: 
+So, it seems easy to determine if you moved during some period of time. Just examine whether there is any distance between where you were at the beginning and end of that duration. But think again about Sophia. Suppose she runs her race on an aircraft carrier that was traveling at full speed. How much distance is there between the point at which Sophia starts her run and the point she ends her run? This is a bit trickier. If we mean points on the aircraft carrier, the answer is 400 m. But if we mean in relationship to the point of departure, the answer is something else: 
 
 ![image](run.jpg)
 
@@ -40,7 +40,7 @@ So, it seems easy to determine if you moved during some period of time. Just exa
 
 > Suppose that the ship is traveling at 80 m/s. How far has it travelled by the time Sophia has completed he run? 
 >
-> Suppose also that Sophia is running the same direction the ship is traveling in? How much distance has passed from the location of the ship at the start of her run and the end of her run? 
+> Suppose also that Sophia is running the same direction the ship is traveling in. How much distance has passed from the location of the ship at the start of her run and the end of her run? 
 
 These are easy questions. They point to the fact we measure how quickly something moves relevant to something else. For instance, are you reading this while sitting on a train? If so, you might think you are moving at the train's speed, e.g., 20 mph. What if you are walking the length of the train as it is in motion? Perhaps you are moving  24 mph, where this is equal to the speed of the train plus the speed of your walking. What If you are sitting in a chair at home? You may be tempted to answer that you are moving 0 mph.  After all, you are not on a moving train or bus. But you are located in something that moves! The Earth is traveling at 67,000 mph around the sun. 
 
