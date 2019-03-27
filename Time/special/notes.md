@@ -58,7 +58,7 @@ One surprising upshot of Galileo's work was that we can only measure the velocit
 
 ## Things get weird 
 
-By the time Einstein was working, physicists had agreed that the speed of light is a constant, it travels just short of 300 million meters per second. That's fast! The speed of light is commonly referred to know by just *c*. Einstein shows that the simple intuition about relative motion and the fact that time always travel at the same speed has surprising upshots for the nature of time. The Theory of Special Relativity has two postulate: 
+By the time Einstein was working, physicists had agreed that the speed of light is a constant, it travels just short of 300 million meters per second. That's fast! The speed of light is commonly now referred to as *c*. Einstein shows that the simple intuition about relative motion and the fact that time always travel at the same speed have surprising upshots for the nature of time. The Theory of Special Relativity has two postulate: 
 
 First postulate: 
 : The laws of physics are the same and can be stated in their simplest form in all inertial frames of reference.
@@ -66,29 +66,63 @@ First postulate:
 Second postulate: 
 : The speed of light c is a constant, independent of the relative motion of the source.
 
-By reference frame, we just mean the place that you are making your observation. An inertial reference frame is one that is not acceleration. Einstein asked us how to maintain both postulates when comparing what seems to be the relative velocity of light. Consider this example: 
+By reference frame, we just mean the place that you are making your observation. An inertial reference frame is one that is not accelerating. Einstein asked us how to maintain both postulates when comparing what seems to be the relative velocity of light. Consider this example: 
 
  ![image](rocket.gif)
 
-Suppose there is one person on the rocket. We have two observers, one on the planet and the other on the rocket. Suppose our rocket pilot shoots a laser in her ship. How fast is the light traveling? Well, we know it must be c. If our rocketeer measures its speed, their result will be c. If the observer on Earth measures that velocity, we might expect it to be greater than c. That's the result of measuring from the beach the table tennis ball's velocity on the ship; we added the result of the sailor and the velocity of the ship. But nothing can travel faster than the speed of light. Our observer on Earth must also get a result of c! So, why is that mysterious? The problem arises if we ask how far the light has travelled. Let us say that from the perspective of the rocketeer, the light has travelled 300 m. For simplicity, let's pretend that light travels at 30 m/s.
+Suppose there is one person on the rocket. We have two observers, one on the planet and the other on the rocket. Suppose our rocket pilot shoots a laser in her ship. How fast is the light traveling? Well, we know it must be c. If our rocketeer measures its speed, their result will be c. If the observer on Earth, an Earthling, measures that velocity, we might expect it to be greater than c. After all, when a beach observer measured the velocity of the table tennis ball on the ship, they added the sailor's measurement of that velocity to velocity of the ship. From the beach, it seemed the ball travelled faster than it travelled to the sailor. So, why can't we just add the velocity of the rocket to the velocity the rocketeer measures to determine the velocity of light the rocket's light relative to the Earthling? Because nothing can travel faster than the speed of light! Our Earthling must also get a result of c! The velocity of the light on Earth is exactly the same as the velocity of light on the rocket. So, why is that mysterious? The problem arises if we ask how far the light has travelled. Let us say that from the perspective of the rocketeer, the light has travelled 300 m. For simplicity, let's pretend that light travels at 30 m/s.
 
 >  $$ 30m/s = \frac{300}{t} ​$$
 
 How much time has passed on the rocketeer's clock? 
 
-Now let us ask about the planeteer. How far has the light travelled from their perspective. It clearly has gone further than 300m; if it did, then they would be traveling at the same velocity as the rocket.  
+Now let us ask about the Earthling. How far has the light on the ship travelled from their perspective? It clearly has gone further than 300m; if it did not, then they would be traveling at the same velocity as the rocket. So, let us suppose that the light has travelled 600 m way from them when it has travelled only 300 m away from the rocketeer. How, then, should we fill out the rest of this formula?  
 
 >  $$ V = \frac{600}{t} $$
 
-What values should we provide for t and V? Our intuition is that it should be the same as what we included for the rocketeer. But if we do that, how quickly will the light be traveling from our perspective? Twice the rate that is possible! It just can't go faster than c, which we are pretending is 30m/s. So, we know that the following is true: 
+What values should we provide for t and V? The simple intuition is that the value for t should be exactly the same as the value in the above formula, that 1 second passes on the Earthling's clock just when 1 second passes on the rocketeer's clock. But if the values for t are the same, then the value for V cannot be 30m/s. It must be twice that! But traveling twice the speed of light is impossible. It just can't go faster than c, which we are pretending is 30m/s. So, we know that the following is true from the Earthlings' perspective: 
 
 >  $$ 30m/s = \frac{600}{t} $$
 
-What should we provide for t? Odd, right? From the rocketeer's perspective, they have travelled a certain distance in the time registered on their watch. But from the planet bound observer, they have travelled further and more time has passed. 
+What should we provide for t? Odd, right? The Earthling's watch must register twice as much time passing as the time registered as passing on the rocketeer's watch.  
 
 Here is a simple version of all this:
 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AInCqm5nCzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## The Relativity of Simultaneity 
+
+One surprising upshot of Special Relativity is that whether two events are simultaneous is not an absolute; they may be simultaneous relative to some reference frames but not other. Let's try work this out as a class project: 
+
+
+
+![image](simult.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wteiuxyqtoM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+## The Twin Paradox
+
+
 
