@@ -96,5 +96,13 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
   + ['Alberts Time',](/special/falke.pdf) Falk
   + ['On the Electrodynamics of Moving Bodies',](/special/relativity.pdf) Albert Einstein (optional)
 
-+ Notes
++ [Notes](/special/notes)
+
+___
+
+**4/1/19**
+
++ [Time Travel](timetravel)
+
+---
 
