@@ -64,26 +64,18 @@ If functionalism is correct, then there is some role that each mental state play
 
 So, each mental state will have some input and some output. The job of the mental state is to cause the output given the relevant input. The inputs can include other mental states. For instance, one of the inputs, or conditions, relevant in describing the role of being itchy might be that you are awake, where being awake is a mental state; you can't be itchy if you are asleep. The outputs too can include other mental states. Perhaps one of the outputs of belief is desire, e.g., a belief that eating kale is healthy might cause in you a desire to eat kale. 
 
-Functionalists say that for every functionally defined mental state, there is something that plays the role given in the definition. We will say that any entity that plays the role *realizes* it. Kim's explanation is as follows: 
-
-> F is a functional property (or kind) just in case F can be characterized by a definition of the following form: For something x to have F (or to be an F) = def for x to have some property P such that C(P), where C(P) is a specification of the causal work that P is supposed to do in x.
-
-*And*
-
-> Let F be a functional property defined by a functional definition, as above. Property Q is said to realize F, or be a realizer or a realization of F, in system x if and only if C(Q), that is, Q fits the specification C in x (which is to say, Q in fact performs the specified causal work in system x).
-
-This is less complicated than it appears. Consider some examples: 
+Functionalists say that for every functionally defined mental state, there is something that plays the role given in the definition. We will say that any entity that plays the role *realizes* it. So there are two things to keep clearly before us. The first is the functional definition of whatever we are interested in. The second is the properties something must possess to allow it play the relevant role. Consider some examples: 
 
 + x is a mousetrap if x has some property P such that P enables x to trap and hold or kill mice.
 + x is a bread knife if x has some property P such that P enables x to cut bread. 
 + x is a heart if x has some property P such that P enables x to pump blood. 
 + x is a pain state if x has some property P such that P enables x to detect tissue damage and cause aversive behavior. 
 
-So there are two things to keep clearly before us. The first is the functional definition of whatever we are interested in. The second is the properties something must possess to allow it play the relevant role. In the case of mental states, the functionalist claims that 1) each mental state has a specific functional definition, and 2) brain states have properties that allow them perform the job specified in these description of mental states. But note that 1) and 2) do not entail that brain states are identical to mental states. 1) and 2) only entail that brain states can do the work of mental states, but they leave open whether something other than brain states might also do the work. Consider this image of a function machine: 
+So, in the case of mental states, the functionalist claims that 1) each mental state has a specific functional definition, and 2) brain states have properties that allow them perform the job specified in these description of mental states. But note that 1) and 2) do not entail that brain states are identical to mental states. 1) and 2) only entail that brain states can do the work of mental states, but they leave open whether something other than brain states might also do the work. Consider this image of a function machine: 
 
 ![image](machine.gif)
 
-There is some input and some output. There is also what causes the output given that input. In this case, it is the cogs that play this role. They have those features that allow it realize the role of causing the output given the input. But the role is not the same as the cogs. The cogs do the work, but they aren't identical to that work. We could imagine building the machine with different materials and still ensuring that the output is caused given the relevant input. 
+There is some input and some output. There is also what causes the output given that input. In this case, it is the cogs that play this role. They have those features that allow them realize the role of causing the output given the input. But the role is not the same as the cogs. The cogs do the work, but they aren't identical to that work. We could imagine building the machine with different materials and still ensuring that the output is caused given the relevant input. 
 
 
 ## Argument for Functionalism
@@ -115,6 +107,12 @@ Turing was interested in the question whether machines can think. He observed th
 
 > The idea is that if machines can do as well as humans on certain cognitive, intellectual tasks, then they must be judged no less psychological (“intelligent”) than humans. What, then, are these tasks? Obviously, they must be those that, intuitively, require intelligence and mentality to perform. Turing describes a game, the “imitation game,” to test for the presence of these capacities.
 
+Turing's simple suggestion is that we replace the question whether machines can think with the question whether an imaginable digital computer could cause an interrogator to wrongly identify it to
+the same degree that an ordinary man or woman could? Doings so would require understanding what is being asked, decisions about what to respond, an ability to compose convincing relies, etc. If a computer could do all this, Turing claims: 
+
+> If the interrogator decides wrongly as often when the game is played with the computer as he does when the game is played between a man and a woman, it may be argued that the computer is intelligent.
+
+
 
 
 ## Test 1: Man or Woman
@@ -129,7 +127,7 @@ We will first develop a control test with three players: an interrogator, a man,
 1. Man: mislead the interrogator to make a false identification
 2. Woman: help the interrogator make the correct identification. 
 
-Our interrogators can ask any questions they like. They could ask, for instance, 'are you male or female?'. The man will do whatever he can to make the interrogator judge incorrectly. The woman will do whatever she can to help the interrogator judge correctly. There are no restrictions on the topics of the questions asked; the interrogator can ask anything. 
+Our interrogators can ask any questions they like, from mathematics to poetry, from the weather to chess. They could ask, for instance, 'are you male or female?', 'do you prefer the sound of rain or thunder?', etc. The man will do whatever he can to make the interrogator judge incorrectly. The woman will do whatever she can to help the interrogator judge correctly. There are no restrictions on the topics of the questions asked; the interrogator can ask anything. 
 
 Suppose that we randomly select 1000 people to serve as interrogators and use that to decide how likely it is that someone can make the correct identification. Suppose 70% of our interrogators are tricked by the man; they judge incorrectly. Turing now asks us to replace the man with a machine, a machine which has been programmed to trick the interrogator into making the wrong guesses. If the machine consistently tricks interrogators into misidentifying it or the woman, then Turing claims that the machine is intelligent. In other words, if a machine can cause an interrogator to wrongly identify it to the same  degree that an ordinary human could, then it is as intelligent as an ordinary human. 
 
