@@ -25,7 +25,7 @@ Objection:
 Response:
 : The objection assumes that machines cannot learn. But they can; ask any computer scientists about machine learning! 
 
-##Argument from Various Disabilities
+## Argument from Various Disabilities
 
 > Machines cannot do many things that humans can, e.g., be kind, be resourceful, be beautiful, be friendly, have initiative, have a sense of humor, tell right from wrong, make mistakes, fall in love, enjoy strawberries and cream, make someone fall in love with it, learn from experience, use words properly, be the subject of its own thought, have as much diversity of behavior as a man, do something really new.
 
@@ -119,9 +119,11 @@ Now, suppose that the person who inputs the symbols is a fluent speaker of Chine
 
 It's a clever argument. The thought-experiment models how computer systems work, how they output answers to the questions that we ask of them. But, if Searle doesn't understand Chinese and can still outputs the correct answers, we have little reason to think that a computer system that outputs the correct answer to our questions has understanding. In order for us to present this as a formal argument, let us recall the difference between Strong and Weak AI:
 
-Weak Artificial Intelligence (WAI):: Computers give us a powerful tool to study the mind. Thinking may be modeled by formal symbol systems, such as computer programs.
+Weak Artificial Intelligence (WAI):
+: Computers give us a powerful tool to study the mind. Thinking may be modeled by formal symbol systems, such as computer programs.
 
-Strong Artificial Intelligence (SAI):: Thinking is constituted by the manipulation of formal symbols, such as occurs in a computer program.
+Strong Artificial Intelligence (SAI):
+: Thinking is constituted by the manipulation of formal symbols, such as occurs in a computer program.
 
 WAI does not say that the computers really have a mind. It says only that such machines might resemble minds. It may also provide tools for investigating the mind by, for instance, giving us models that approximate the way the mind operates. But WAI does not say that computers have mental states; it does not state that computers realize mental states. On this view, Siri and Alexa mimic what minds can do, but our iPhones and Amazon devices do not have mental states just by having Siri and Alexa on them.  So, WAI cannot be used to support functionalism. On the other hand, SAI would give strong support for functionalism. If what it is to think just is to manipulate formal symbols, then thinking is a collection of functionally defined states. And, if such functions can be performed by both computers and human brains, then functionalism and Turing will be vindicated. Searle's objection to SAI can be presented as follows: 
 
