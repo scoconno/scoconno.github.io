@@ -6,11 +6,11 @@ title: Mental Causation
 
 ## Introduction
 
-Perhaps the best evidence for the mind-brain identity theory comes from considerations of mental causation, the focus of this note. Mental causation is common place. Every time we act on a choice, a mental state is causing something physical to happen. For example, when I choose to stand up, my choice causes my body to move. When I fear my hand is too close to the fire, my fear causes my hand to move away. Since my body is a physical thing, my fear, a mental state, has moved a physical thing. 
+Mental causation is common place. Every time we act on a choice, a mental state seens to cause something physical to happen. For example, when I choose to stand up, my choice causes my body to move. When I fear my hand is too close to the fire, my fear causes my hand to move away. Since my body is a physical thing, my fear, a mental state, has moved a physical thing. 
 
-Mental causation is important to our concepts of agency, to our idea of performing actions intentionally. An action is not a mere bodily motion like involuntarily blinking your eye. It is something you do intentionally. We can only distinguish mere bodily movement from an action if there exists mental causation, i.e., if there are intentions, mental states, that cause physical movements. For instance, the difference between murder, intentionally killing someone, and accidentally causing death, e.g., tripping while holding a knife and accidentally killing someone. We distinguish murder from accidents by the fact that the murderer intends to kill while our unfortunate tripper does not. If intentions could not move the body, then we could not distinguish a murder from a mere accident.  
+Mental causation is important to our concepts of agency, to our idea of performing actions intentionally. An action is not a mere bodily motion like involuntarily blinking your eye. It is something you do intentionally. We can only distinguish mere bodily movement from an action if there exists mental causation, i.e., if there are intentions, mental states, that cause physical movements. For instance, there is difference between murder, intentionally killing someone, and accidentally causing death, non-intentionally killing someone. We distinguish murder from accidents by the fact that the murderer intends to kill while our unfortunate accident prone person does not. If intentions could not move the body, then we could not distinguish a murder from a mere accident.  
 
-There are strictly four type of phenomena that might constitute an instance of mental causation: 
+There are three type of phenomena that might constitute an instance of mental causation: 
 
 
 + Mental to mental causation, e.g., beliefs lead to another belief
@@ -19,7 +19,6 @@ There are strictly four type of phenomena that might constitute an instance of m
 
 + Mental to physical causation, e.g., beliefs and desires cause actions
 
-+ Physical to physical causation, e.g., heating causes water to boil
 
 Our main interest is mental to physical causation. We would like to know how a mental state can be a link in a causal chain of physical events. It certainly seems that mental states insert themselves into such causal chains, but we will see that is hard to explain how this is so unless mental states are identical to physical states. In light of the problems below, philosophers have defended four basic models of mind-body interaction. These are as follows:
 
@@ -29,14 +28,13 @@ Interactionism:
 Parallelism:
 : the view that the mind and the body act "in parallel," but never casually interact directly. Versions of this view were defended by Malebranche and Leibniz in response to problems they saw with Descartes' substance dualism. In different ways, both claim that God explains why mind and body act in parallel, e.g., God causes your hand to move to the Ben & Jerry's when you desire ice-cream. Your desire is not the cause of the movement. God is. He ensures that your body moves as you wish it to.
 
-Epiphenomenalism:
-: the view that only the body has causal powers, but the mind is causally inert, i.e., the view that mental events cannot cause physical events. Version of this view are defended by those who agree that our minds and bodies are numerically distinct---either different substances or different properties---but deny either that God exists or that he causes our bodies to act in parallel with our wishes. On this view, we are akin to passengers in our bodies unable to influence or control it (even though we might delude ourselves that we can.)
-
-
 Reductionism:
-: the view that the mind just is the body, and so whatever causal efficacy the physical has, the mental also has. This is the view of those who defend the identity theory of the mind. If mental states are identical to psycho-neural states, mental causation is not mysterious at all.  
+: the view that the mind just is the body, and so whatever causal efficacy the physical has, the mental also has. This is the view of those who defend the identity theory of the mind. If mental states are identical to psycho-neural states, mental causation is not mysterious at all.
 
-The main problem we will focus on is called the *causal exclusion argument*, which claims that mind is excluded from playing any causal role if the mental is distinct from the physical. If the argument succeeds, we will either have to accept that the mind is not something distinct from the brain, or, if we insist that they are so distinct, agree with the epiphenomenalist that we have no power over our bodies. Neither option seems a good one! 
+Epiphenomenalism:
+: the view that only the body has causal powers, but the mind is causally inert, i.e., the view that mental events cannot cause physical events. Versions of this view are defended by those who agree that our minds and bodies are numerically distinct---either different substances or different properties---but deny either that God exists or that he causes our bodies to act in parallel with our wishes. On this view, we are akin to passengers in our bodies unable to influence or control it (even though we might delude ourselves that we can.)
+
+The main problem we will focus on is called the *exclusion argument*, which claims that mind is excluded from playing any causal role if the mental is distinct from the physical. If the argument succeeds, we will either have to accept that the mind is not something distinct from the brain, or, if we insist that they are so distinct, agree with the epiphenomenalist that we have no power over our bodies. Neither option seems a good one! 
 
 ## Causation
 To motivate the causal exclusion argument, we need to first talk generally about causation. Causation is standardly taken as a relation that holds between two events, whereby the first event, e1, is the cause of the second event, e2. Examples include: the cue striking the cue ball is the cause of the ball moving, the heat radiating from the heater is the cause of the temperature rising, the wind blowing is the cause of the windmill turning, etc. 
@@ -65,18 +63,18 @@ Causal Closure of the Physical Domain:
 
 This principle is easy. It simply says that if some **physical** event has a cause, it has some (sufficient) **physical** cause. So, if the glass breaking at 10am has a cause, the glass breaking has a sufficient physical cause at 10am. Again, if the water boiling at 2pm has a cause at 2pm, the water boiling has a physical cause at 2pm. Finally, if my leg moving at 9am has a cause, my leg moving has a sufficient physical cause at 9am. It follows from this principle that even if a mental state causes some physical state, there must also be a sufficient physical cause of that physical state, e.g., if my choice causes my body to move, there must also be a sufficient physical cause of body moving such as neurons firing, etc.
 
-Our second principles is called the causal exclusion principle:
+Our second principle is called the causal exclusion principle:
  
 Causal Exclusion Principle:
-: No event has two or more distinct sufficient causes unless it is a genuine case of overdetermination.
+: No event has two or more distinct sufficient causes, all occurring at the same time, unless it is a genuine case of overdetermination.
 
 Causal overdetermination would occur if some event had more than one independently sufficient cause. This is best illustrated with an example. Consider execution by firing squad. Suppose that multiple bullets hit the prisoner at the same time.
 
 ![alt text](bullets.png) 
 
-Which bullet killed the prisoner? It's not an easy question to answer. The prisoner being killed is an event. Call it e2. This event is caused by some other event, e1. What is that event? Each shooter is an expert. Any of them alone could hit the target. If only the left most shooter was there, his shot would have killed the prisoner. This suggests that e1 is the shot fired from the left most shooter. But the right most shooter too is an expert shot. If only he had shot, his shot would have killed the prisoner too. This suggests that e1 is the shot fired from the right most shooter. The same goes for each of our shooters in the picture. Each of their shots is sufficient by themselves for bringing about e2. So, each is a good candidate for e1, the sufficient cause of e2. 
+Which bullet killed the prisoner? It's not an easy question to answer. The prisoner being killed is an event. Call it e2. This event is caused by some other event, e1. What is e1? Each shooter is an expert. Any of them alone could hit the target. If only the left most shooter was there, his shot would have killed the prisoner. This suggests that e1 is the shot fired from the left most shooter. But the right most shooter too is an expert shot. If only he had shot, his shot would have killed the prisoner too. This suggests that e1 is the shot fired from the right most shooter. The same goes for each of our shooters in the picture. Each of their shots is sufficient by themselves for bringing about e2. So, each is a good candidate for e1, the sufficient cause of e2. 
 
-Above we stated that each event has only one sufficient cause. So e2 must have only one event as its cause. Of course, it can be true that e2 has only event as its cause and still be true that something else could have sufficed. For instance, Socrates died from drinking hemlock. The hemlock was the one cause of his death. While this was sufficient for the effect, something else could have played this role if things had gone differently, e.g., the poisoner used arsenic instead. Similarly, our prisoner was killed by only one sufficient cause, but our diagram suggests that there were 5 independently sufficient causes! That is, it seems that each bullet independently killed the prisoner. This, of course, seems counterintuitive. Presumably, it is only one bullet that caused the death. Overdetermination would occur if there were more than one sufficient cause. Overdetermination does not seem possible. 
+Above we stated that each event has only one sufficient cause. So e2 must have only one event as its cause. Of course, it can be true that e2 has only event as its cause and still be true that something else could have sufficed. For instance, Socrates died from drinking hemlock. The hemlock was the one cause of his death. While this was sufficient for the effect, something else could have played this role if things had gone differently, e.g., the poisoner used arsenic instead. The picture depicted above is different. It does not describe a situation where, say, if things had gone differently, the executioner would have used a noose rather than a bullet. It is not a cause where there might have been a different sufficient cause.  Our diagram suggests that there were 5 independently sufficient causes at the very same time! That is, it seems that each bullet independently killed the prisoner. This is counterintuitive. Presumably, it is only one bullet that caused the death. Overdetermination would occur if there were more than one sufficient cause. Overdetermination does not seem possible. 
 
 So, here is our argument against mental causation. 'm' is a mental event like wanting to scratch your head. 'p' is a physical event like your hand scratching your head. 'c' stands for some other physical event. 
 
@@ -88,12 +86,12 @@ So, here is our argument against mental causation. 'm' is a mental event like wa
 
 P1 says that my feeling itchy caused me to scratch my head; the mental state caused a bodily movement. Since any physical event that has a cause must also have a sufficient physical cause, it follows from our first premise that the scratching also has some sufficient physical cause. This sufficient physical cause might be the various neurons that fire when my arm moves to my head and scratches. P3 says that my itch and those neurons firing are numerically distinct. P4 says that mental causation, just like any causation, is not an instance of causal overdetermination. 
 
-P1-P4 entail cannot be all true together. P1--P3 entail that p has two sufficient causes, both m and c (which are distinct from one another). P4 says that such overdetermination is impossible. Since there is a contradiction between P1-P4, at least one of these claims is false. 
+P1-P4 cannot be all true together. P1--P3 entail that p has two sufficient causes, both m and c (which are distinct from one another). P4 says that such overdetermination is impossible. Since there is a contradiction between P1-P4, at least one of these claims is false. 
 
 Which should we reject? The epiphenomenalist claims that we should reject P1. They claim that we erred when assuming that a mental state like itch could cause anything physical. If we reject P1, then we do not face a contradiction. The mind-brain identity theorist rejects P3. They claim that we err in thinking that mental states are anything other than brain states; our itch really just is some set of neurons firing. P2 and P4 are fundamental principles that apply to everything in the physical world. Rejecting either would have ramifications for physics, chemistry, etc. It seems far more likely that the culprit is either P1 or P3. 
 
 ## Epiphenomenalism
-If the argument succeeds, then we must endorse epiphenomenalism or the mind-brain identity theory. The previous note already discussed the problems with the mind-brain identity theory. So, should we just endorse epiphenomenalism? Again, recall that epiphenomenalism says that our mind has no control over the physical. Of course, we believe that our choices can cause our body to move, but the epiphenomenalist thinks we are mistaken. Just as we were mistaken to believe that Santa Claus exists, the epiphenomenalist claims we are mistaken to think that mental causation exists. There are two striking reasons against accepting epiphenomenalism. 
+If the argument succeeds, then we must endorse epiphenomenalism or the mind-brain identity theory. A previous note already discussed the problems with the mind-brain identity theory. So, should we just endorse epiphenomenalism? Again, recall that epiphenomenalism says that our mind has no control over the physical. Of course, we believe that our choices can cause our body to move, but the epiphenomenalist thinks we are mistaken. Just as we were mistaken to believe that Santa Claus exists, the epiphenomenalist claims we are mistaken to think that mental causation exists. There are two striking reasons against accepting epiphenomenalism. 
 
 First, some believe that all existing things share at least one important feature: each existing thing can enter into causal relations, i.e., it can affect or be affected by something else. This is called **Alexander's Dictum**. So, if mental events have no causal powers, then they are in total causal isolation from the rest of the world---they would have no causes, and they would make no difference to anything else since they have no effects. By 'causal power', I mean the ability to either affect something else or be affected by something else. So, here is the argument: 
 
@@ -117,7 +115,6 @@ Second, if epiphenomenalism is true, then we are not truly agents; we are never 
 
 ## Conclusion
 
-We are in a bind! Mental causation seems common place; surely our minds are able to affect our bodies. That is very difficult to deny. But, if our mental states are numerically distinct from our brain states, it is very difficult to explain how the mental could interact with the physical. On the one hand, this seems very good support for the mind-brain identity theory. But we have also discussed the problems for this view. It seems we either must accept the flaws in that theory or face the daunting possibility that mental causation is impossible. Neither option is a pleasing one. Our next module might offer a solution. 
-
+We are in a bind! Mental causation seems common place; surely our minds are able to affect our bodies. That is very difficult to deny. But if our mental states are numerically distinct from our brain states, it is very difficult to explain how the mental could interact with the physical. On the one hand, this seems very good support for the mind-brain identity theory. But we have also discussed the problems for this view. It seems we either must accept the flaws in that theory or face the daunting possibility that mental causation is impossible. Neither option is a pleasing one. 
 
 
