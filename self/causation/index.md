@@ -5,7 +5,6 @@ title: Mental Causation
 
 ### Reading
 + Textbook, ch.7, pp.193--209; 214--217
-+ ['They're Made Out of Meat',](http://www.terrybisson.com/page6/page6.html) Terry Bisson
 + ['Mental Causation',](/self/causation/Yablo.pdf) Sections 1-4,7-8, S.Yablo
 
 
@@ -20,8 +19,5 @@ title: Mental Causation
 ### Notes
 + [Notes](notes)
 
-
-### Assignments
-+ Quiz 4
 
 
