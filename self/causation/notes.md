@@ -37,6 +37,9 @@ Epiphenomenalism:
 The main problem we will focus on is called the *exclusion argument*, which claims that mind is excluded from playing any causal role if the mental is distinct from the physical. If the argument succeeds, we will either have to accept that the mind is not something distinct from the brain, or, if we insist that they are so distinct, agree with the epiphenomenalist that we have no power over our bodies. Neither option seems a good one! 
 
 ## Causation
+
+![image](domino.gif) 
+
 To motivate the causal exclusion argument, we need to first talk generally about causation. Causation is standardly taken as a relation that holds between two events, whereby the first event, e1, is the cause of the second event, e2. Examples include: the cue striking the cue ball is the cause of the ball moving, the heat radiating from the heater is the cause of the temperature rising, the wind blowing is the cause of the windmill turning, etc. 
 
 There are many interesting questions we can ask about causation, about what the relation is, about how one event could ever bring about another, etc. But here we will focus on some common, but not universally accepted, claims about causation. We have already said that causation occurs between two events. Many also agree that for one event e1 to be the cause of event e2, the following must obtain: 
