@@ -6,18 +6,6 @@ title: Mental Causation
 
 ## Introduction
 
-+ All things are everywhere by Nature wrought
-+ In interaction of Nature’s qualities.
-+ The fool, cheated by self, thinks, “This I did”
-+ And “That I wrought”. ('The Bhagavad Gita', ch.3)
-
-> all states of consciousness in us, as in [brutes], are immediately caused by molecular changes of the brain-substance. It seems to me that in men, as in brutes, there is no proof that any state of consciousness is [itself] the cause of change in the motion of the matter [brain] of the organism. (T.H. Huxley, 'On the Hypothesis that Animals are Automata')
-
-> the feeling we call volition is not the cause of a voluntary act, but the symbol of that state of the brain which is the immediate cause of that act. (T.H. Huxley, Collected Essays Vol.I, 1894). 
-
-
-
-
 Mental causation is common place. Every time we act on a choice, a mental state seens to cause something physical to happen. For example, when I choose to stand up, my choice causes my body to move. When I fear my hand is too close to the fire, my fear causes my hand to move away. Since my body is a physical thing, my fear, a mental state, has moved a physical thing. 
 
 Mental causation is important to our concepts of agency, to our idea of performing actions intentionally. An action is not a mere bodily motion like involuntarily blinking your eye. It is something you do intentionally. We can only distinguish mere bodily movement from an action if there exists mental causation, i.e., if there are intentions, mental states, that cause physical movements. For instance, there is difference between murder, intentionally killing someone, and accidentally causing death, non-intentionally killing someone. We distinguish murder from accidents by the fact that the murderer intends to kill while our unfortunate accident prone person does not. If intentions could not move the body, then we could not distinguish a murder from a mere accident.  
@@ -45,6 +33,17 @@ Reductionism:
 
 Epiphenomenalism:
 : the view that only the body has causal powers, but the mind is causally inert, i.e., the view that mental events cannot cause physical events. Versions of this view are defended by those who agree that our minds and bodies are numerically distinct---either different substances or different properties---but deny either that God exists or that he causes our bodies to act in parallel with our wishes. On this view, we are akin to passengers in our bodies unable to influence or control it (even though we might delude ourselves that we can.)
+
+| All things are everywhere by Nature wrought
+| In interaction of Nature’s qualities.
+| The fool, cheated by self, thinks, “This I did”
+| And “That I wrought”. ('The Bhagavad Gita', ch.3)
+
+> all states of consciousness in us, as in [brutes], are immediately caused by molecular changes of the brain-substance. It seems to me that in men, as in brutes, there is no proof that any state of consciousness is [itself] the cause of change in the motion of the matter [brain] of the organism. (T.H. Huxley, 'On the Hypothesis that Animals are Automata')
+
+> the feeling we call volition is not the cause of a voluntary act, but the symbol of that state of the brain which is the immediate cause of that act. (T.H. Huxley, Collected Essays Vol.I, 1894). 
+
+
 
 The main problem we will focus on is called the *exclusion argument*, which claims that mind is excluded from playing any causal role if the mental is distinct from the physical. If the argument succeeds, we will either have to accept that the mind is not something distinct from the brain, or, if we insist that they are so distinct, agree with the epiphenomenalist that we have no power over our bodies. Neither option seems a good one! 
 
