@@ -34,10 +34,10 @@ Reductionism:
 Epiphenomenalism:
 : the view that only the body has causal powers, but the mind is causally inert, i.e., the view that mental events cannot cause physical events. Versions of this view are defended by those who agree that our minds and bodies are numerically distinct---either different substances or different properties---but deny either that God exists or that he causes our bodies to act in parallel with our wishes. On this view, we are akin to passengers in our bodies unable to influence or control it (even though we might delude ourselves that we can.)
 
-| All things are everywhere by Nature wrought
-| In interaction of Nature’s qualities.
-| The fool, cheated by self, thinks, “This I did”
-| And “That I wrought”. ('The Bhagavad Gita', ch.3)
+> All things are everywhere by Nature wrought
+> In interaction of Nature’s qualities.
+> The fool, cheated by self, thinks, “This I did”
+> And “That I wrought”. ('The Bhagavad Gita', ch.3)
 
 > all states of consciousness in us, as in [brutes], are immediately caused by molecular changes of the brain-substance. It seems to me that in men, as in brutes, there is no proof that any state of consciousness is [itself] the cause of change in the motion of the matter [brain] of the organism. (T.H. Huxley, 'On the Hypothesis that Animals are Automata')
 
