@@ -6,10 +6,10 @@ title: Mental Causation
 
 ## Introduction
 
-> All things are everywhere by Nature wrought 
-> In interaction of Nature’s qualities.
-> The fool, cheated by self, thinks, “This I did”
-> And “That I wrought”. ('The Bhagavad Gita', ch.3)
+> All things are everywhere by Nature wrought
+ In interaction of Nature’s qualities.
+ The fool, cheated by self, thinks, “This I did”
+ And “That I wrought”. ('The Bhagavad Gita', ch.3)
 
 > all states of consciousness in us, as in [brutes], are immediately caused by molecular changes of the brain-substance. It seems to me that in men, as in brutes, there is no proof that any state of consciousness is [itself] the cause of change in the motion of the matter [brain] of the organism. (T.H. Huxley, 'On the Hypothesis that Animals are Automata')
 
