@@ -52,6 +52,8 @@ The psychological analysis of time oder:
 : A is earlier than B if and only if A is the content of a memory at the same time that B is the content of a perception.
 
 
+![image](chairs.jpg)
+
 
 ## The Causal Arrow
 
