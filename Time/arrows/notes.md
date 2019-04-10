@@ -22,16 +22,13 @@ Find out here:
 
 ## The Arrow of Time
 
-Must time flow in the direct that it does? In other words, must the events in time follow the course that we normally take them t, e.g., must my retirement happen after my school graduation? The answer seems 'yes'. Our question is why this is so. Why couldn't the events in time flow in the opposite direction than they do? Many think the answer relies on three other arrows: 
+Must time flow in the direct that it does? In other words, must the events in time follow the course that we normally take them t, e.g., must my retirement happen after my school graduation? The answer seems 'yes'. Our question is why this is so. Why couldn't the events in time flow in the opposite direction than they do? Many think the answer relies on three other arrows (see textbook): 
 
 1. the thermodynamic arrow: the direction from order to disorder;
 2. the psychological arrow: the direction from perceptions of events to the memories of those events;
 3. the causal arrow: the direction from cause to effect.
 
-## Natural Laws
-
-
-## Entropy
+## The Thermodynamic Arrow
 
 Second Law of Thermodynamics: 
 : Where any change occurs in an isolated system, entropy either stays constant or increases.
@@ -43,6 +40,13 @@ Second Law of Thermodynamics:
 The thermodynamic analysis of time order: 
 : event A is earlier than event B if and only if the universe is, when B occurs, in a higher state of entropy than it is when A occurs.
 
-## Psychological Arrow
+## The Psychological Arrow
+
+The psychological analysis of time oder: 
+: A is earlier than B if and only if A is the content of a memory at the same time that B is the content of a perception.
+
+
+
+## The Causal Arrow
 
 
