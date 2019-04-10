@@ -28,6 +28,10 @@ Must time flow in the direct that it does? In other words, must the events in ti
 2. the psychological arrow: the direction from perceptions of events to the memories of those events;
 3. the causal arrow: the direction from cause to effect.
 
+
+![image](arrows.jpg)
+
+
 ## The Thermodynamic Arrow
 
 Second Law of Thermodynamics: 
@@ -35,6 +39,8 @@ Second Law of Thermodynamics:
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YM-uykVfq_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![image](ent.jpg)
 
 
 The thermodynamic analysis of time order: 
