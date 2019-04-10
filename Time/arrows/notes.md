@@ -29,7 +29,7 @@ Must time flow in the direct that it does? In other words, must the events in ti
 3. the causal arrow: the direction from cause to effect.
 
 
-![image](arrows.jpg)
+![image](arows.jpg)
 
 
 ## The Thermodynamic Arrow
@@ -48,11 +48,26 @@ The thermodynamic analysis of time order:
 
 ## The Psychological Arrow
 
+![image](memory.jpg)
+
 The psychological analysis of time oder: 
 : A is earlier than B if and only if A is the content of a memory at the same time that B is the content of a perception.
 
 
 ![image](chairs.jpg)
+
+
+
+The modified psychological analysis of time oder: 
+: A is earlier than B if and only if there exists an experience e and a memory of that experience m such that either
+1. A is simultaneous with e and B is simultaneous with m, or
+2. A is simultaneous with e and B is between e and m, or
+3. B is simultaneous with m and A is between e and m, or
+4. A and B are between e and m, and A is between e and B, or
+5. e is between A and B, and B is between e and m, or
+6. A is between e and B, and B is between e and m, or
+7. B is between A and e, but m is not between e and B, or
+8. A is between m and B, but e is not between A and m. 
 
 
 ## The Causal Arrow
