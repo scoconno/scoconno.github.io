@@ -8,7 +8,7 @@ I offer a lengthy description and clarification of what you are being asked to d
 
 + Section 1: raises your question against a shared context, i.e.,  a development and revision of your research proposal. This must be **150-300 words total.** 
 + Section 2: explains one answer from a representative resource defending that answer. This must be **250-500 words total.**
-+ Section 3: explains a different answer from a representative resource defending that answer. This must be **150-500 words total**. 
++ Section 3: explains a different answer from a representative resource defending that answer. This must be **250-500 words total**. 
 + Section 4: bibliography.
 
 **Failure to include any of these sections will result in loss of points.** 
