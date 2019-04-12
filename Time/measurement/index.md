@@ -1,9 +1,12 @@
 ---
 layout: default
-title: The Arrow of Time
+title: The Measurement of Time
 ---
 
-## Time Travel
+## The Measurement of Time
  
-+ [Notes](notes)
-
++ Reading:
+  + ['The Measure of All Things'](a.pdf), Robin Le Poidevin.
+  	+ **NB: This is the first chapter of the textbook. You must have your own copy for future week.**
+  + ['The Mystery of Time'](bou.pdf), O.K. Bouwsma
++ [Notes](notes) 

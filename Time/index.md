@@ -24,42 +24,61 @@ title: Time
 Please refer to the syllabus for a weekly schedule of readings and assignments. Changes will be announced through Blackboard. 
 
 ---
-**1/23/19**
+**1/23/19**: [Heavenly Clockwork,](/Readings/Falk1.pdf) Falk
 
-+ [Heavenly Clockwork,](/Readings/Falk1.pdf) Falk
-
----
-
-**1/28/19**
-
-+ Reading: [Years, Months, Days,](/Readings/Falk2.pdf) Falk
-+ [Notes](calendar/notes) 
 
 ---
 
-**2/4/19**
+**1/28/19**: [The Calendar](calendar) 
 
-+ Reading: [Hours, Minutes, Seconds,](/Readings/Falk3.pdf) Falk
-+ [A brief video overview](https://www.youtube.com/watch?v=At5atF4mKiU)
-+ [Notes](clock/notes)
 
 ---
 
-**2/11/19**
+**2/4/19**: [Hours, Minutes, Seconds](clock) 
 
-+ Reading:
-  + ['The Measure of All Things'](/measurement/a.pdf), Robin Le Poidevin.
-  	+ **NB: This is the first chapter of the textbook. You must have your own copy for future week.**
-  + ['The Mystery of Time'](/measurement/bou.pdf), O.K. Bouwsma
-+ [Notes](measurement/notes) 
 
 ---
 
-+ **2/18/19**: [Time and Change](newton)
-+ **2/25/19**: [Does Time have a Beginning?](beginning)
-+ **3/4/19**: [Does Time Flow?](flow)
-+ **3/18/19**: [Zeno's paradoxes](zeno)
-+ **3/25/19**: [Special Relativity](special)
-+ **4/1/19**: [Time Travel](timetravel)
-+ **4/8/19**: [The Arrows of Time 1](arrows)
-+ **4/15/19**: [The Arrows of Time 2](arrows2)
+**2/11/19**: [The Measurement of Time](measurement) 
+
+
+---
+
+**2/18/19**: [Time and Change](newton)
+
+
+---
+
+**2/25/19**: [Does Time have a Beginning?](beginning)
+
+
+---
+**3/4/19**: [Does Time Flow?](flow)
+
+
+---
+
+**3/18/19**: [Zeno's paradoxes](zeno)
+
+
+---
+
+**3/25/19**: [Special Relativity](special)
+
+
+---
+
+**4/1/19**: [Time Travel](timetravel)
+
+
+---
+
+**4/8/19**: [The Arrows of Time 1](arrows)
+
+
+---
+
+**4/15/19**: [The Arrows of Time 2](arrows2)
+
+
+---
