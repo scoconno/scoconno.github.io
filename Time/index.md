@@ -55,48 +55,11 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 
-**2/18/19**
-
-+ [Time and Change](newton)
-
----
-
-**2/25/19**
-
-+ [Does Time have a Beginning?](beginning)
-
----
-
-**3/4/19**
-
-+ [Does Time Flow?](flow)
-
----
-
-**3/18/19**
-
-+ [Zeno's paradoxes](zeno)
-
----
-
-**3/25/19**
-
-+ [Special Relativity](special)
-
-___
-
-**4/1/19**
-
-+ [Time Travel](timetravel)
-
----
-
-**4/8/19**
-
-+ [The Arrows of Time 1](arrows)
-
----
-
-**4/15/19**
-
-+ [The Arrows of Time 2](arrows2)
++ **2/18/19**: [Time and Change](newton)
++ **2/25/19**: [Does Time have a Beginning?](beginning)
++ **3/4/19**: [Does Time Flow?](flow)
++ **3/18/19**: [Zeno's paradoxes](zeno)
++ **3/25/19**: [Special Relativity](special)
++ **4/1/19**: [Time Travel](timetravel)
++ **4/8/19**: [The Arrows of Time 1](arrows)
++ **4/15/19**: [The Arrows of Time 2](arrows2)
