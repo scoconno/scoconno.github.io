@@ -8,6 +8,7 @@ title: Time
 + Syllabus
 	+ [9:55am section](Syllabus.pdf)
 	+ [12:45pm section](Syllabus1.pdf) 
++ [Capstone Project Assignments](project)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
@@ -22,6 +23,8 @@ title: Time
 ## Materials
 
 Please refer to the syllabus for a weekly schedule of readings and assignments. Changes will be announced through Blackboard. 
+
+
 
 ---
 **1/23/19**: [Heavenly Clockwork,](/Readings/Falk1.pdf) Falk
@@ -80,5 +83,10 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 **4/15/19**: [The Arrows of Time 2](arrows2)
 
+**NB: No class on Wednesday**
+
+---
+
+**4/22/19**: [The Perception of Time 1](perception)
 
 ---
