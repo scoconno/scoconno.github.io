@@ -5,17 +5,16 @@ title: Capstone Stage 4
 
 ## Presentations
 
-Great progress! You have a question. You have identified several sources that are relevant to that question. You have explained the background to your questions and sketched out some standard answers in the literature. Congratulate yourself on how much progress you have already made. 
+Great progress! You asked a question. You identified several sources that are relevant to that question. You have explained the background to your questions and sketched out some standard answers in the literature. Congratulate yourself on how much progress you have already made. 
 
-Now that you have surveyed the literature, it is time for you to form your own opinion on the question. Do you think one of the answers that has been defended is correct? If so, why that one as opposed to another? Do you think there is an ignored alternative? Now is the time for you to advance the conversation. 
+It is now time for your voice, and the oral presentation provides the opportunity to begin that process. I am going to give you very structured instructions.  
 
-I hope that you are beginning to realize that research is a very gradual process. Forming your own views is also a gradual process. Researchers don't come up with something new overnight. They take the germ of an idea, mull over it, talk about it with peers and colleagues, and then slowly develop it. 
-
-Your presentation provides you the opportunity to formulate your views before writing your final paper. Researchers often do present their findings at conferences before publishing them. So too you will be presenting to your colleagues your views on your topic. 
-
-Since you might not have given a presentation before, I am going to give you very structured instructions.  
 
 ## Task
+
+**Time limit:** 6-8 minutes for the presentation. 2-4 minutes for Q&A. 
+
+**Slides**
 
 Compose 6-8 slides. Each slide should contain a striking picture, or quote, or graph, or other visual cue. It can include bullet points of some important claim, but you should minimize the amount of text on the slides. You will be using your slides as cues---do not put the entire text on the slide. The 6 slides must be written as follows (each number corresponds to a slide): 
 
@@ -28,11 +27,14 @@ Compose 6-8 slides. Each slide should contain a striking picture, or quote, or g
 + Slide 8: Conclusion. 
 
 
-## Further instruction 
+## 'Your Voice' 
 
-+ Time limit: 6-8 minutes for the presentation. 2-4 minutes for Q&A. 
+After surveying the literature, you now must state, explain, and defend some judgement on the question and answers given. There are various ways you might do this, and I list just a few. 
 
-
+1. Suppose you think answer 1 is correct and answer 2 is incorrect, or vice versa. You might raise an objection to answer 2 and argue that answer 1 is not immune to that objection. 
+2. Suppose you think answers 1 and 2 are both incorrect. You might state a third answer and argue your third answer is superior. You would do this by showing why your third answer is immune to some problem that besets the alternatives. 
+3. Suppose you think answers 1 and 2 are both correct. You might argue that answers 1 and 2 are not incompatible, and subsequently argue that both 1 and 2 are needed to answer the question. This requires explaining why answers 1 and 2 are not incompatible. 
+4. Suppose you think answers 1 and 2 are both incorrect, but you do not have an alternative. You might argue that we do yet know the answer by showing some insurmountable problems with answers 1 and 2. 
 
 
 
