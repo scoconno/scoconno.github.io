@@ -5,9 +5,9 @@ title: The Perception of Time
 
 ## The Perception of Time
 
-Reading
++ Reading
 
++ [The Experience and Perception of Time](https://plato.stanford.edu/entries/time-experience/), Robin Le Poidevin
  
-
-[Notes](notes)
++ [Notes](notes)
 
