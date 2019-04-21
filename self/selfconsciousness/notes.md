@@ -5,7 +5,22 @@ title: Notes
 
 ## Self-Knowledge
 
-There are mental states we are aware of and mental states that we are not. How is this possible? This is the problem of self-knowledge, of how we can gain knowledge of our minds. The problem arises because of an apparent distinction between **first order mental states**--roughly those states about our body and the external world--and **second order mental states**--roughly, those states about our first order mental states. 
+We have a peculiar capacity to attend to our minds, to shift our awareness to different mental states. To illustrate this capacity, try out a simple yoga technique called yoga nidra described in this video. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1ruq-2Rr7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The technique asks us to shift our awareness to various mental states, and when practiced systematically for long enough, it promises a great degree of mental well being. The technique works by systematically bringing our awareness to all our mental states, whether it is what we are hearing, what we are smelling, how we are breathing, what are body parts feel like, etc. At each step, we try to focus exclusively on some mental state. At the next step, we shift our awareness to a new mental state. The technique is useful for us because it illustrates two important things: 
+
+1. There are mental states we are currently aware of and mental states that we are not currently aware of.
+2. We can become aware of mental states that we are not currently aware of; we can cease to be aware of those that we are currently aware of. 
+
+1 and 2 comprise the phenomenon of self-knowledge, the fact that humans have a capacity to gain insight and knowledge of their own minds. Our interest is how this is possible. How do we become aware of mental states that we were not previously aware of? In other words, how are humans able to use the technique described in this video? 
+
+
+
+## First and second order mental states
+
+Self-knowledge requires that there are both **first order mental states**--roughly those states about our body and the external world--and **second order mental states**--roughly, those states about our first order mental states. This distinction between these two orders of mental states is key to this week's topic, so it is important to get clear on it. 
 
 First order mental states: 
 : States that are not about the mind, including states that are about the external world, e.g., seeing a tree, hearing music, etc. 
@@ -20,7 +35,7 @@ Second order mental states:
 
 The left image in both pictures represents first order mental states, while the right image represents second order mental states. In the first image, the first order mental state is just seeing the dog. The second order mental state is being aware that you are seeing the dog. Notice the crucial difference between being *aware* of **the dog** and being *aware* of your **awareness of the dog**. The distinction between first and second order mental states is intended to capture this difference between our awareness of the world and the fact that we are aware of that awareness. 
 
-Notice that you could be aware of the dog not merely by seeing it. You could have felt it or smelt it. Smelling, seeing, and feeling a dog are all first order mental states; they are all different ways of being aware of something that exists independently of you. But you aren't merely aware of the dog, you are also aware of the way that you are aware of the dog. You can tell that you are seeing and not feeling, or that you are feeling and not smelling it. This awareness of how you are aware of the dog is a second order mental state; it is an awareness of facts about you and not just the dog, e.g., it is an awareness that you are *seeing* the dog.
+Notice that you could be aware of the dog not merely by seeing it. You could have felt it or smelt it. Smelling, seeing, and feeling a dog are all first order mental states; they are all different ways of being aware of something that exists independently of you. But you aren't merely aware of the dog; you are also aware of the way that you are aware of the dog. You can tell that you are seeing and not feeling, or that you are feeling and not smelling it. This awareness of how you are aware of the dog is a second order mental state; it is an awareness of facts about you and not just the dog, e.g., it is an awareness that you are *seeing* the dog.
 
 One more example will hopefully drive home the distinction. Consider driving down a busy road with a friend. While you talk, you successfully stay in your lane and navigate obstacles. In some sense, you must be aware of the road and your surroundings. This awareness is a first order mental state; it is not awareness of your mind. Suppose your friend tells you to focus on the road. You will do that by attending to what you had already somehow been aware of, e.g., you will focus on your seeing of the road, your hearing of the traffic, etc.
 
@@ -32,26 +47,28 @@ By *self-knowledge*, we mean this awareness, these second order mental states, w
 
 *Example 3*: A cat is aware of the fly and chases it around the room. So, some states of the cat count as conscious states. But does it have second order mental states? This depends on whether the cat can be aware of its own mental states, on whether it can be aware that it is perceiving a fly. This is a highly debated question. It clearly is p-conscious of the room. The question is whether it also enjoys a-consciousness.
 
+This chart may help you understand these distinctions:
+
+| External world and our bodies (object) | 1st order mental state          | Second order mental state                                    |
+| -------------------------------------- | ------------------------------- | ------------------------------------------------------------ |
+| My cat                                 | Worrying that my cat needs food | Being aware of my cat worries                                |
+| My cat                                 | Hearing my cat purr             | Being aware of my auditory experience of my cat purring      |
+| A broken foot                          | The pain (in my foot)           | Being aware of the pain in my foot, e.g., being aware that it is a sharp pain |
+| The pothole on the road                | Seeing the pothole              | Being aware that I see a pothole                             |
+
+Our first order mental states include thoughts about the external world and our bodies. Our second order mental states include thoughts about our first order thoughts. To put it another way, your second order mental states are not primarily about the external world or about your body. They are about your own mind. They are directed inwards, towards your own mind. Our theories below are theories about this awareness of our minds, about the nature and source of our second order mental states. They do not try to explain our first order mental sates, i.e., they do not try to explain our low-level awareness of the external world and our bodies.
+
 
 ## The Problem of Self-Knowledge
 
-We do have access to  our first order mental states. Nobody doubts that we do. However, we do not yet understand how we are aware of our own mental states, how we are aware of our own minds. The problem, in part, is that awareness of our first order mental states has two mysterious features: 
+We do have access to  our first order mental states. Nobody doubts that we do. However, we do not yet understand how we are aware of our own mental states, how we are aware of our own minds. The problem, in part, is that second order mental states, the awareness of our first order mental states, have two mysterious features: 
 
-1. Privilege: We have special authority over our mental states. Your belief that you are in a certain mental state has more epistemic weight than any third person judgement about your states, e.g., someone else could judge wrongly as to whether you are in pain, but you cannot judge wrongly as to whether you are in pain. 
+1. Privilege: We have special authority over our first order mental states. Your belief that you are in a certain mental state has more epistemic weight than any third person judgement about your states, e.g., someone else could judge wrongly as to whether you are in pain, but you cannot judge wrongly as to whether you are in pain. 
 2. Peculiarity: the manner by which you know what mental state you are in differs from the manner by which others know which mental state you are in. Others watch your behavior, ask questions, etc., to investigate what you are feeling and thinking. But your knowledge of your own mind is not based on, or inferred from, evidence about other things. Your access to your mind is very different from the access anyone else has to your mind. 
 
-The problem of self-knowledge is this: **How do we become aware of our first-order mental states?** What is this special way we have of coming to know our own minds? What mechanism could give us both privileged and peculiar access to our own minds? 
+The problem of self-knowledge is this: **How do we become aware of our first-order mental states?** What is this special way we have of coming to know our own minds? What mechanism could give us both privileged and peculiar access to our own minds? How are second-order mental states possible? We will compare and contrast two answers. Both say that we become aware of our first order mental states by internally scanning those states, by being in a higher order meta-psychological state. But they characterize this second-order mental state in different ways. 
 
-We will compare and contrast two answers. Both say that we become aware of our first order mental states by internally scanning those states, by being in a higher order meta-psychological state. But they characterize this meta-psychological state in different ways. It is essential to what follows that you understand the following distinction:
-
-| External world and our bodies (object)  | 1st order mental state   | Second order mental state  |
-|---|---|---|
-| Object | Thought of the object   | Awareness of the thought (of the object)  |
-|---|---|---|
-| My cat  | Thinking that my cat needs food   | Reflecting on my cat-thoughts   |
-| A broken foot | The pain (in my foot)   |  Judging my pain as sharp |
-
-Our first order mental states include thoughts about the external world and our bodies. Our second order mental states include thoughts about our first order thoughts. To put it another way, your second order mental states are not primarily about the external world or about your body. They are about your own mind. They are directed inwards, towards your own mind. Our theories below are theories about this awareness of our minds, about the nature and source of our second order mental states. They do not try to explain our first order mental sates, i.e., they do not try to explain our low-level awareness of the external world and our bodies.  
+It is key to what follows that you don't take these theories as explaining our first order mental states, our low-level awareness of the external world and our bodies. The theories below are theories about the nature and source of second order mental states, about the awareness of our own minds (and not our bodies and the external world). Students sometimes struggle to understand this. If you believe that these theories explain how we perceive the external world, then you don't understand them.  
 
 
 
@@ -125,7 +142,7 @@ The claim that a thought is a mental state with conceptual content is best under
 1. Thinking is not limited to a single range of stimuli in the way perception is limited. 
 2. Thinking is just as immediate as perception. 
 3. Thinking does not require an internal sense organ.  
- 
+
 
 ## Against HOT*
 
@@ -134,5 +151,8 @@ The claim that a thought is a mental state with conceptual content is best under
 
 The most significant problem with HOT is its claim that we can only be aware of those things that we have concepts for and thoughts about. If you are only aware of your mental states by thinking about them, then what you are can be aware of is determined by what you can think about (which in turn is limited by the concepts you possess). But I seem to be aware of things that I don't have any concepts for and thus cannot have any thoughts about. For instance, I am aware of my perception of various shades of green; I am aware that I am seeing various shades. However, I may not have the words to describe some of these shades. If HOT were true, I should not have awareness of my perception of those shades that I cannot describe. 
 
+A second problem arises from how we are aware of our thought, of how we are aware of our second order mental states. Recall that HOT claims that we are aware of our first order mental states by having second order mental states about them. But, I also seem to be aware of my second order thoughts, e.g., I say to myself 'stop thinking about whether to eat the chocolate you smell and think instead about class tomorrow'. Here I have a second order thought about the smell of chocolate. But I also have a higher order thought about that second order thought, namely, I think to myself that I should stop having that second order thought. Is this a third order thought? HOT has difficulty answering this question. Watch this video and try identify the first and second order mental states. Notice the thoughts about the second order mental states. What are these? 
 
-A second problem arises from how we are aware of our thought, of how we are aware of our second order mental states. Recall that HOT claims that we are aware of our first order mental states by having second order mental states about them. But, I also seem to be aware of my second order thoughts, e.g., I say to myself 'stop thinking about whether to eat the chocolate you smell and think instead about class tomorrow'. Here I have a second order thought about the smell of chocolate. But I also have a higher order thought about that second order thought, namely, I think to myself that I should stop having that second order thought. Is this a third order thought? HOT has difficulty answering this question. 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-NiJzwdN0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
