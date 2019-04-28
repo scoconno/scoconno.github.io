@@ -144,7 +144,7 @@ The claim that a thought is a mental state with conceptual content is best under
 3. Thinking does not require an internal sense organ.  
 
 
-## Against HOT*
+## Against HOT
 
 
 ![Colors](green.png)

@@ -10,8 +10,8 @@ Please refer to the syllabus for due dates:
 + [Stage 1:](question) research question. 
 + [Stage 2:](annotation) annotated bibliography. 
 + [Stage 3:](literature) literature review. 
-+ [Stage 4:](presentation) oral presentation
-+ Final paper 
++ [Stage 4:](presentation) oral presentation.
++ [Stage 5:](final) final paper.  
 
 ## Grading
 
