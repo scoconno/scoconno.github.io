@@ -15,22 +15,22 @@ Physicalism is the belief that mental events and their properties are entirely p
 
 ## Task 
 
-> Explain and assess one of these objections to Jackson's Knowledge Argument. 
+Explain and assess one of these objections to Jackson's Knowledge Argument. 
 
 This assignment involves three distinct tasks, each with its own sub-task.  
 
 **Task 1:** Formulate Jackson's Knowledge Argument. To do this, you must do the following: 
 
 1. Identify the premises of the Knowledge Argument. 
-2. Explain each premise carefully in your words. Use your own examples. 
-3. Explain why the conclusion of the argument shows physicalism to be false. 
+2. Explain each premise carefully in your own words. Use your own examples. 
+3. Explain the conclusion of the argument. 
 
-**Task 2:** Explain **one** of the objections to Jackson's Knowledge Argument---your choice!** To do this, do the following: 
+**Task 2:** Explain **one** of the objections to Jackson's Knowledge Argument---your choice! To do this, do the following: 
 
 1. Read the entry on the Knowledge Argument in the Stanford Encyclopedia [here](https://plato.stanford.edu/entries/qualia-knowledge) or a different encyclopedia entry [here](http://www.iep.utm.edu/know-arg/). You can also read the relevant entry in the textbook.
 2. Pick **one** of the objections discussed there and explain it.  
 
-**Task 3:** Criticize the objection.** To do this, do the following: 
+**Task 3:** Criticize the objection. To do this, do the following: 
 
 1. Identify the weakest claim made by the objection. 
 2. Explain why that claim is weak in your own words. Use your own examples. 
@@ -43,7 +43,7 @@ This is a standard college level paper. It should be structured accordingly and 
 
 Your essay must be 500--750 words long. The bibliography, title, name, etc., do not count towards the word count. Essays shorter than 500 words will lose points. Essays longer than 750 words will lose points.  I recommend the following structure to your paper:
 
-1. Introduction: 50 words.
+1. Introduction: 100 words.
 2. Task 1: 200-250 words.
 3. Task 2: 200-250 words.
 4. Task 3: 100-150 words.
