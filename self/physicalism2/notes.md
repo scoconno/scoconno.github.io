@@ -132,7 +132,7 @@ But this seems very unrealistic. Mary doesn’t know any of the various qualitat
 
 
 
-##What does Mary know? 
+## What does Mary know? 
 
 Jackson asks us to accept that Mary learns something new when she leaves the room and see red for the first time. The various objections to this claim may not succeed, but they do raise the following question: how should we characterize the knowledge that Mary supposedly acquires? Is it propositional, i.e., can it be expressed in words? It's unclear that it can. How to make sense of this?  One helpful distinction here comes from Bertrand Russell. He asks us to distinguish knowledge by acquaintance from knowledge by description. A person is acquainted with something, according to Russell, when they stand in a.,,
 
