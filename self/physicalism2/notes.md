@@ -132,7 +132,7 @@ But this seems very unrealistic. Mary doesn’t know any of the various qualitat
 
 
 
-##What does Mary know? 
+## What does Mary know? 
 
 
 
