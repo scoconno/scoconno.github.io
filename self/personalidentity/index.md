@@ -9,8 +9,8 @@ title: Personal Identity
 + Required
 	+ ['A Dialog on Personal Identity and Immortality',](Perry.pdf) J. Perry
 + Optional 
-	+ ['The Man Who Forgot Everything',](self/personalidentity2/m.pdf) Steven Shapin
-	+ ['The Abyss',](self/personalidentity2/a.pdf) Oliver Sacks
+	+ ['The Man Who Forgot Everything',](/self/personalidentity2/m.pdf) Steven Shapin
+	+ ['The Abyss',](/self/personalidentity2/a.pdf) Oliver Sacks
 
 ## Notes 
 + [Star Trek, Second Chances](http://www.dailymotion.com/video/x53w3ti), the notes refer to the case described in this episode.
