@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  11 JUN 2019 17:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  18 JUN 2019 21:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1271,10 +1271,6 @@ LaTeX Info: Redefining \nameref on input line 32.
 \@outlinefile=\write6
 \openout6 = `Syllabus.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1283,6 +1279,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Syllabus.bbl' not found.
+
 No file Syllabus.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
@@ -1477,27 +1474,25 @@ Space,Mapping=tex-text,Scale=0.8].
 .................................................
 LaTeX Info: Redefining \ttfamily on input line 41.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 7.8722pt on input line 60.
+(Font)              scaled to size 7.8722pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 7.8722pt on input line 60.
+(Font)              scaled to size 7.8722pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 20.40866pt on input line 60.
+(Font)              scaled to size 20.40866pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 20.40866pt on input line 60.
+(Font)              scaled to size 20.40866pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 18.46902pt on input line 60.
+(Font)              scaled to size 18.46902pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 12.82323pt on input line 60.
+(Font)              scaled to size 12.82323pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 8.90503pt on input line 60.
+(Font)              scaled to size 8.90503pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 22.15572pt on input line 60.
+(Font)              scaled to size 22.15572pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 11.80829pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 6.40002pt on input line 60.
+(Font)              scaled to size 11.80829pt on input line 61.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 10.68604pt on input line 72.
+(Font)              scaled to size 10.68604pt on input line 73.
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1506,69 +1501,60 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 103.
+(Font)              <7> on input line 104.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 103.
+(Font)              <5> on input line 104.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
-(Font)              scaled to size 9.84024pt on input line 103.
+(Font)              scaled to size 9.84024pt on input line 104.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 105.
+(Font)              scaled to size 9.84024pt on input line 106.
  [2]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 150.
+(Font)              scaled to size 9.84024pt on input line 151.
  [3]
-Overfull \hbox (16.33888pt too wide) in paragraph at lines 159--160
+Overfull \hbox (16.33888pt too wide) in paragraph at lines 160--161
 \TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
 ]http://scottoconnor.org/contact/[][]. 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
 
  []
 
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 194.
+(Font)              scaled to size 8.85622pt on input line 195.
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 []|\TU/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 192--227
+Overfull \hbox (50.65942pt too wide) in alignment at lines 193--228
  [] [] [] 
  []
 
 
-Overfull \hbox (50.65942pt too wide) in alignment at lines 227--228
+Overfull \hbox (50.65942pt too wide) in alignment at lines 228--229
  [] [] [] 
  []
 
 [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 240.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 240.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 239.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Syllabus
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 240.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 240.
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32778 strings out of 493005
- 585169 string characters out of 6134596
- 1266021 words of memory out of 5000000
- 36512 multiletter control sequences out of 15000+600000
- 4633 words of font info for 56 fonts, out of 8000000 for 9000
+ 32776 strings out of 493005
+ 585096 string characters out of 6134596
+ 1266132 words of memory out of 5000000
+ 36511 multiletter control sequences out of 15000+600000
+ 4625 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  50i,11n,117p,10374b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
 
