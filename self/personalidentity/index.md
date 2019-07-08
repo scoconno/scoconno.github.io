@@ -13,7 +13,7 @@ title: Personal Identity
 	+ ['The Abyss',](/self/personalidentity2/a.pdf) Oliver Sacks
 
 ## Notes 
-+ [Star Trek, Second Chances](http://www.dailymotion.com/video/x53w3ti), the notes refer to the case described in this episode.
++ [Star Trek, Second Chances](https://www.dailymotion.com/video/x5lsxok), the notes refer to the case described in this episode.
 + [Notes 1](notes)
 + [Notes 2](/self/personalidentity2/notes)
 
