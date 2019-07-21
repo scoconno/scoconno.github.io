@@ -9,7 +9,7 @@ title: Behaviorism
 
 ### Notes
 + [Notes 1](notes)
-+ [Notes 2](self/behaviorism2/notes)
++ [Notes 2](/self/behaviorism2/notes)
 
 
 ### Videos
