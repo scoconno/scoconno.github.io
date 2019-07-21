@@ -23,7 +23,7 @@ Likewise, those who train police officers, interviewers, etc., to interpret body
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IEYsIJoTGuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In this handout, we survey some objections to philosohpical behaviorism. 
+In this handout, we survey some objections to philosophical behaviorism. 
 
 
 
