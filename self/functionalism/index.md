@@ -8,7 +8,7 @@ This week we are considering the view that what it is to have a mind is to be ab
 
 ### Reading
 + Required
-  + Textbook, ch.5, pp. 129--138, 156--159
+  + Textbook, ch.5, pp. 129--138, 156--159, 159--165
   + ['Computing Machinery and Intelligence',](turing.pdf) A.M.Turing
 
 + Optional
@@ -18,14 +18,15 @@ This week we are considering the view that what it is to have a mind is to be ab
 
 
 ### Notes
-+ [Notes](notes)
++ [Notes 1](notes)
++ [Notes 2](/self/functionalism2/notes)
 
 ### Videos
 + Required
 	+ [One explanation of the Turing Test](https://www.youtube.com/watch?v=1uDa7jkIztw)
 	+ [Another explanation of the Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
 	+ [Necessary and Sufficient Conditions:](https://www.youtube.com/watch?v=5LqNm9d2__I) Turing claims that passing the Turing Test is necessary and sufficient for intelligence. This video explains what necessary and sufficient conditions are. 
-
+	+ [Reconstruction of the Chinese Room Thought Experiment:](https://www.youtube.com/watch?v=D0MD4sRHj1M)
   
 + Optional
 	+ [AI and Personhood](https://www.youtube.com/watch?v=39EdqUbj92U&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=23)
