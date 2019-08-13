@@ -7,7 +7,7 @@ title: Consciousness
 
 + Required
   + Textbook, ch.9, pp.263--280
-  + ['What is it like to be a bat?'](Nagel.pdf), pp.435--442, T. Nagel
+  + ['What is it like to be a bat?'](Nagel.pdf), pp.435--442, Nagel, Thomas
 
 ## Notes
 + [Notes](/self/consciousness/notes)
