@@ -12,7 +12,8 @@ title: Physicalism
   + ['What Mary Didn't Know',](Jackson.pdf) F. Jackson 
 
 ## Notes
-+ [Notes](notes)
++ [Notes 1](notes)
++ [Notes 2](/self/consciousness/physicalism2)
 
 ## Videos
 + Required
