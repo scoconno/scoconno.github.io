@@ -10,7 +10,7 @@ title: Consciousness
   + ['What is it like to be a bat?'](Nagel.pdf), pp.435--442, T. Nagel
 
 ## Notes
-+ [Notes](notes)
++ [Notes](/self/consciousness/notes)
 
 ## Videos
 
