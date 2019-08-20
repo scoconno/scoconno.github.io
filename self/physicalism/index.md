@@ -13,7 +13,7 @@ title: Physicalism
 
 ## Notes
 + [Notes 1](notes)
-+ [Notes 2](/self/consciousness/physicalism2/notes)
++ [Notes 2](/self/physicalism2/notes)
 
 ## Videos
 + Required
