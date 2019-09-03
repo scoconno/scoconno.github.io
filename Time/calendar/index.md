@@ -6,4 +6,5 @@ title: The Calendar
 ## The Calendar
 
 + Reading: [Years, Months, Days,](Falk2.pdf) Falk
-+ [Notes](calendar/notes) 
++ [Notes](notes) 
+
