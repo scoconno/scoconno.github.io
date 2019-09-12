@@ -21,9 +21,11 @@ Synchrony:
 Precision: 
 : A clock is precise if its replicas remain synchronized with one another.  
 
-Accuracy is something different. Intuitively, an accurate clock is one that judges two durations of time as congruent only when they are congruent, i.e., only when they are of the same duration. In practice, clocks are considered accurate only when they are synchronized with the standard clock: 
+**Accuracy** is something different. Intuitively, an accurate clock is one that judges two durations of time as congruent only when they are congruent, i.e., only when they are of the same duration. In practice, clocks are considered accurate only when they are synchronized with the standard clock: 
 
 + A perfectly **accurate** non-standard clock shows that it is time t just when the standard clock shows that it is time t.  
+
+## The Standard Clock
 
 Every clock measures some process. What process should the standard clock measure? Would any of these suffice? Why not? 
 
@@ -35,7 +37,7 @@ Every clock measures some process. What process should the standard clock measur
 
 Do you have any suggestions? 
 
-## The standard clock
+## Our current standard clock
 
 Today, our standard clock is based on the rate of decay of cesium. The basic idea is to use the radiation emitted from this type of atom as the regular process by which to define our standard clock. Here is a depiction of an atomic clock: 
 
@@ -47,7 +49,7 @@ The clock is able to detect the radiation emitted by the cesium and translate it
 
 Think of a standard second as 9,192,631,770 shakes of this crystal. A non-standard clock is accurate if it registers the same time as a standard clock, i.e., your wristwatch is accurate only if it says, say, that 10 seconds have passed just when the atomic clock says that 10 seconds have passed (where 10 seconds just means 10*9,192,631,770 'shakes'.)
 
-But what does it mean for the atomic clock, now our standard, clock to be accurate? Surely, it is accurate only if the durations between the ticks it measures are congruent. But what does it mean for those durations to be congruent other than the clock registers them as congruent? 
+But what does it mean for the atomic clock, now our standard, clock to be accurate? Surely, it is accurate only if the durations between the ticks it measures are congruent. But what does it mean for those durations to be congruent other than the fact tje clock registers them as congruent? 
 
 ## Diagnosis
 
@@ -61,7 +63,7 @@ We can see the heights we wish to measure. Likewise, we can hear the notes whose
 
 ![image](pend.gif)
 
-These clocks measure the passage of time via a certain change. We use the flow of sand, or the swing of the pendulum, to indicate to us that time is passing. If the process is regular, we assume the clocks are ticking along accurately with the flow of time. But how can we know that the process is regular unless we have direct access to time? Even if judge our pendulum clock's accuracy by comparing its time to the time of the atomic clock, how can we judge the accuracy of the atomic clock without some further process to compare the atomic clock to? 
+These clocks measure the passage of time via a certain change. We use the flow of sand, or the swing of the pendulum, to indicate to us that time is passing. If the process is regular, we assume the clocks are ticking along accurately with the flow of time. But how can we know that the process is regular unless we have direct access to time? Even if we judge our pendulum clock's accuracy by comparing its time to the time of the atomic clock, how can we judge the accuracy of the atomic clock without some further process to compare the atomic clock to? 
 
 
 The problem is this: it seems we could only truly assess the accuracy of a standard clock if we could access time itself, not any process or change, but all we have direct access to are processes and change. This problem has two radically different philosophical answers: 
@@ -135,5 +137,5 @@ Scenario 1: our car travel 120 mph for 30 minutes. It has thereby travelled 60 m
 Scenario 2: the Earth is hit by a large asteroid and its rate of spin doubles. Suppose an exact replica of the car in exactly similar conditions travels 120 mph for 30 minutes. It has thereby travelled 60 miles. 
 
 Does 60 miles in scenario 1 = 60 miles in scenario 2?   
- 
+
 

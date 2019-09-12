@@ -4,9 +4,11 @@ title: The Measurement of Time
 ---
 
 ## The Measurement of Time
- 
+
 + Reading:
   + ['The Measure of All Things'](a.pdf), Robin Le Poidevin.
-  	+ **NB: This is the first chapter of the textbook. You must have your own copy for future week.**
+  	+ **NB:  You must have your own copy of the textbooks for future weeks.**
   + ['The Mystery of Time'](bou.pdf), O.K. Bouwsma
+  + ['Lesson 4'](lesson4.pdf), Williams
+    + **NB:  You must have your own copy of the textbooks for future weeks.**
 + [Notes](notes) 
