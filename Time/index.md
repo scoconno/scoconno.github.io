@@ -51,7 +51,7 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 
-**Week 5**: [Time and Us](psychology]
+**Week 5**: [Time and Us](psychology)
 
 ---
 
