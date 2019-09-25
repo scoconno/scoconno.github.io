@@ -23,16 +23,17 @@ CAPITALIZED = character
 
 + 2b: The *market for electronic books* **has grown** because *CUSTOMERS* frequently **(prefer)** their convenience and portability. 
 
----
-
 + 4a: The *design of the new roller coaster* **was** more of a (struggle) for the ENGINEERS than had been their expectations. 
 
 + 4b: The *ENGINEERS* **(struggled)** more than *THEY* **(expected)** when designing the new roller coaster. 
 
+---
 
 ### Exercise 3.3
 
 I do not provide answers. 
+
+---
 
 ### Exercise 3.4
 
@@ -41,7 +42,6 @@ I do not provide answers.
 + 2a: *The store's price increases* **led** to (frustration) among its CUSTOMERS.
 
 + 2b: When *WE* **(write)** concisely, *READERS* **(understand)** easily. 
----
 
 4b is clear. 4as is not clear. 
 
@@ -50,8 +50,6 @@ I do not provide answers.
 + 4b: Although *CRITICS* **(claim)** that children who watch a lot of television tend to become less able readers, no one has demonstrated that to be true. 
 
 ---
-
-6a is clear. 6b is not clear. I do not provide the analysis here. 
 
 ### Exercise 3.6. 
 
