@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Lesson 3 answers. 
+title: Lesson 3 
 ---
+
+# Sample Answers
 
 I will provide partial answers to the assignments instead of detailed feedback on your submissions. If you don't receive full points, compare your answers to my own. 
 
 Note that this answer key is partial; I do enough so that you can identify the mistakes you made. If a question could be answered correctly several ways, I offer only one suggestion. 
 
 
-### Key
+## Answer Key
 
 I use the following conventions instead of the ones listed in the book; this is so they appear clearly online. 
 
@@ -17,7 +19,7 @@ I use the following conventions instead of the ones listed in the book; this is 
 CAPITALIZED = character
 (brackets) = action 
 
-### Exercise 3.2
+## Exercise 3.2
 
 + 2a: *Growth in the market for electronic books* **is driven** by the frequent (preference) among CUSTOMERS for their convenience and portability. 
 
@@ -29,13 +31,13 @@ CAPITALIZED = character
 
 ---
 
-### Exercise 3.3
+## Exercise 3.3
 
 I do not provide answers. 
 
 ---
 
-### Exercise 3.4
+## Exercise 3.4
 
 2b is clear. 2a is not clear. 
 
@@ -51,11 +53,11 @@ I do not provide answers.
 
 ---
 
-### Exercise 3.6. 
+## Exercise 3.6. 
 
-+ 2: The president's aides attempted to immunize him from a subpoena from congress. 
++ 2: The president's aides attempted to immunize him from a congressional subpoena. 
 
-+ 4: When you analyzed what I reported, you omitted data that supports your criticism of what I found. 
++ 4: When you analyzed what I reported, you omitted data that supports your criticism. 
 
 + 6: When the class agreed on the reading list, they assumed that they would be tested on only certain sections. 
 
