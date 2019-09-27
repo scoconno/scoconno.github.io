@@ -11,4 +11,5 @@ title: The Measurement of Time
   + ['The Mystery of Time'](bou.pdf), O.K. Bouwsma
   + ['Lesson 4'](lesson4.pdf), Williams
     + **NB:  You must have your own copy of the textbooks for future weeks.**
+    + [Sample answers](answers)
 + [Notes](notes) 
