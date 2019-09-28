@@ -3,7 +3,7 @@ layout: default
 title: Lesson 3 
 ---
 
-# Sample Answers
+# Some sample answers
 
 I will provide partial answers to the assignments instead of detailed feedback on your submissions. If you don't receive full points, compare your answers to my own. 
 
