@@ -14,10 +14,10 @@ Note that this answer key is partial; I do enough so that you can identify the m
 
 I use the following conventions instead of the ones listed in the book; this is so they appear clearly online. 
 
-*Italics* = grammatical subject
-**Bold** = grammatical verb
-CAPITALIZED = character
-(brackets) = action 
++ *Italics* = grammatical subject
++ **Bold** = grammatical verb
++ CAPITALIZED = character
++ (brackets) = action 
 
 ## Exercise 3.2
 
@@ -29,13 +29,9 @@ CAPITALIZED = character
 
 + 4b: The *ENGINEERS* **(struggled)** more than *THEY* **(expected)** when designing the new roller coaster. 
 
----
-
 ## Exercise 3.3
 
 I do not provide answers. 
-
----
 
 ## Exercise 3.4
 
@@ -51,9 +47,9 @@ I do not provide answers.
 
 + 4b: Although *CRITICS* **(claim)** that children who watch a lot of television tend to become less able readers, no one has demonstrated that to be true. 
 
----
 
-## Exercise 3.6. 
+
+## Exercise 3.6
 
 + 2: The president's aides attempted to immunize him from a congressional subpoena. 
 
