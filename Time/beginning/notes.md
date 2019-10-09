@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Notes
+title: The Beginning of Time 
 ---
 
 
-## The Beginning of Time 
+## God's Time
 
 ![image](ussher.gif)
 
@@ -35,6 +35,7 @@ James Ussher (1580-1655) asked when the Universe was created. His answer: 6:00 p
 + Ussher notes that he apples were ripe in the Garden of Eden, so it must have been fall. He suggested the autumn equinox as likely. 
 + *Genesis* suggests each day began in the evening, so he believed the world was created in the evening. 
 
+## The Big Bang
 
 ![image](bang.gif)
 
