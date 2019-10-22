@@ -67,7 +67,7 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 
-**Week 9**: [What does time seem to pass?](perception)
+**Week 9**: [Why does time seem to pass?](perception)
 
 ---
 
