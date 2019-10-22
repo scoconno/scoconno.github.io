@@ -85,8 +85,17 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 
+
 **Week 13**: [The Arrows of Time 2](arrows2)
 
 + **NB: Class is optional on Wednesday**
 
 ---
+
+**Week 14**: Presentations
+
+---
+
+**Week 15**: Presentations
+
++ **NB: No class on Wednesday**
