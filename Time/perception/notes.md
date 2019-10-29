@@ -6,7 +6,7 @@ title: The Perception of Time
 ## Our Experience of Time
 
 
-Watch a clock hand move. We seem to see this movement, an event that lasts some duration of time. But that perception may be illusionary. Many think we cannot perceive the duration of an event, a property that events do seem to have. Instead we seem to experience a sequence of independent and static snapshots of the clock hand's motion. John Locke writes as follows:
+Watch a clock hand move. We seem to see this movement, an event that lasts some duration of time. But that perception may be illusionary. Many think we cannot perceive the duration of an event. Instead, they claim that we experience a sequence of independent and static snapshots of the clock hand's motion. John Locke writes as follows:
 
 > the Body, though it really moves, [nevertheless] seems to stand still, as is evident in the Hands of Clocks, and Shadows of Sun-dials, and other constant, but slow Motions, where though after certain Intervals, we perceive by the change of distance, that it hath moved, yet the Motion itself we perceive not. (John Locke, *An Essay Concerning Human Understanding*, Book II, chapter XIV, §11.)
 
@@ -14,7 +14,7 @@ But it certainly seems like we can experience time:
 
 > [I]t is a notorious fact that we do not merely notice that something *has* moved or otherwise changed; we also often see something *moving* or *changing*. This happens if we look at the second-hand of a watch or look at a flickering flame. These are experiences of a quite unique kind; we could no more describe what we sense in them to a man who had never had such experiences than we could describe a red colour to a man born blind. It is also clear that to see a second-hand *moving* is a quite different thing from “seeing” that an hour-hand *has* moved. (C. D. Broad, *Scientific Thought*, p. 351.)
 
-Distinguish perceiving a duration of time from events that occurring the duration. We certainly cannot perceive the former. Our interest is whether we can perceive the latter. If not, we would like to know why it seems to us like we can experience these durations. Consider the famous blue/gold dress controversy. The interesting question is not what color the dress really is. The interesting question is how and why we experience the dress as having a color that it likely does not have.
+Distinguish perceiving a duration of time from perceiving events that occur throughout that duration. We certainly cannot perceive the former. Our interest is whether we can perceive the latter. If not, we would like to know why it seems to us like we can experience them. Consider the famous blue/gold dress controversy. The interesting question is not what color the dress really is. The interesting question is how and why we experience the dress as having a color that it likely does not have.
 
 
 Our experience of time has several features:
@@ -46,7 +46,7 @@ According to James, we perceive not only what is **now** occurring but also with
 3. How can I be directly aware of the future?
 
 ### Retention Theory
-This view is often defended by empiricists who were generally interested in identifying the origin of all thought in our sense experience. The connection between some thoughts and reality is simple. The origin of my idea of cat comes from seeing cats. Other ideas do not seem to have such a direct connection to what we can experience, e.g., the thoughts about numbers . Empiricists claim that such thoughts are indirectly from what we can experience, e,g, they concern ideas that are formed from from association of ideas whose origin is from directly sensible things.  Succession and duration are meant to be like this.
+This view is often defended by empiricists who were generally interested in identifying the origin of all thought in our sense experience. The connection between some thoughts and reality is simple. The origin of my idea of cat comes from seeing cats. Other ideas do not seem to have such a direct connection to what we can experience, e.g., the thoughts about numbers. Empiricists claim that such thoughts are indirectly from what we can experience, e.g., they concern ideas that are formed from from association of ideas whose origin is from directly sensible things.  Succession and duration are meant to be like this.
 
 > The idea of time is not deriv’d from a particular impression mix’d up with others, and plainly distinguishable from them; but arises altogether from the manner, in which impressions appear to the mind, without making one of the number. Five notes play’d on a flute give us the impression and idea of time; tho’ time be not a sixth impression, which presents itself to the hearing or any other of the senses. (Hume, *Treatise*, pp. 34-5.)
 
@@ -56,7 +56,7 @@ Empiricists claim that we get the idea of succession, of one thing following ano
 
 > “A succession of feelings, in and of itself, is not a feeling of succession.” (William James, *Principles*)
 
-Williams objects that just notifying that ideas succeed one another is insufficient to generate the feeling of time passing.
+Williams objects that just noticing that ideas succeed one another is insufficient to generate the feeling of time passing.
 
 Kant defends an alternative empiricist approach. He claims that I do not only have an experience of the thing before me now, but I also “reproduce in imagination” the things I experienced in the recent past. Unlike James, Kant does not claim we perceive the past or the future. He rather claims that we somehow reproduce them in imagination, e.g., remember the past.
 
@@ -64,10 +64,11 @@ One problem for Kant is to explain how and why I produce memories of being furth
 
 
 *Strength Model*:
-: The time of an event is inferred from information about relations between the event in question, e.g., I infer the 1pm striking of the clock occurred later than the 12:59pm.
+: Memories of events very in strength based on how remote or near they are, where strength can be characterized in terms of vividness and detail.
+
 
 *Inference Model*:
-: Memories of events very in strength based on how remote or near they are, where strength can be characterized in terms of vividness and detail.
+: The time of an event is inferred from information about relations between the event in question, e.g., I infer the 1pm striking of the clock occurred later than the 12:59pm.
 
 
 ## Why do we only perceive the present? ##
