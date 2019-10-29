@@ -16,13 +16,12 @@ But it certainly seems like we can experience time:
 
 Distinguish perceiving a duration of time from perceiving events that occur throughout that duration. We certainly cannot perceive the former. Our interest is whether we can perceive the latter. If not, we would like to know why it seems to us like we can experience them. Consider the famous blue/gold dress controversy. The interesting question is not what color the dress really is. The interesting question is how and why we experience the dress as having a color that it likely does not have.
 
+Two features of our temporal experience need to be explained: 
 
-Our experience of time has several features:
-1. We experience various events in a particular order, e.g., we experience one event as occurring before a different event. Some believe that the length of time we experience an event occurring is determined by the time the correlated brain process occurs. Others claim it is not determined by the time the correlated brain process occurs, but in terms of some other feature of the brain processes.
-2. We experience some events as simultaneous, even if they are not simultaneous. This is especially problematic as we may experience events 1 and 2 as simultaneous with one another, 2 and 3 as simultaneous with another, but 1 and 3 as not simultaneous with one another. This shows that experience of simultaneity is far removed from what, in fact, simultaneity really is.
-3. We experience events to occur not merely at times but also through time, e.g., I experience some events as somehow in the presents as opposed the past.
+1. We seem to experience time as flowing. We experience various events happening one after the other, and we feel that the present is marching ever forward with future events becoming ever closer before receding into the past. 
+2. Experience seems to occur only in the present.
 
-We would like to know how our experiences could have these three features.
+We would like to know how our experiences could have these two features.
 
 ## Two Possible Answers
 
