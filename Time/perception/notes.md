@@ -72,4 +72,15 @@ One problem for Kant is to explain how and why I produce memories of being furth
 
 ## Why do we only perceive the present? ##
 
-I can see objects directly before me. I can also see those nearby as well as those far away. Our perception of time is not like this. I can experience the events that occur now, but I cannot experience events near or far time. Why is this?
+I can see objects directly before me. I can also see those nearby as well as those far away. Our perception of time is not like this. I can experience the events that occur now, but I cannot experience events near or far time. Why is this? We will address one aspect of this problem that arises for the B-theorist. 
+
+If the B-theorist is correct, then you exist eternally. The person who thought they should read this note still exists having that thought. The person in the future who has read and digested this note has already read it. If you still exist in the past and already exist in the future, why can you not  perceive and experience those events in the past and future? Given that you are in the future currently graduating, why can't you right now enjoy that wonderful experience? 
+
+Here it is important to identify in what you are the same as the person you came from and the person you will become. Distinguish two types of `sameness': Qualitative similarity \emph{vs.} numerical identity. 
+
++ Two ginger bread men made by the same cookie cutter are qualitatively similar in several respects, e.g., they have the same shape, the same weight, the same color, smell, and so on. But these are \emph{two} numerically distinct entities. 
++ Superman and Clark Kent are numerically identical, i.e., they are one and the same entity. If you want to count the number of entities in the room, you should only count Superman and Clark Kent once: Louis Lane makes a mistake when she counts them as two. 
+
+It appears that objects persist through time, i.e., that an object O1 at t1 can be numerically identical to an object O2 at t2. The chair you are sitting on right now, for instance, is not merely similar to the chair you were sitting on a few moments ago. It seems those chairs are numerically identical. But the B-theorist obviously cannot believe this. They cannot even allow that the you sitting on the chair now is numerically identical to the you that was sitting there five minutes ago. If you were identical to that earlier you, on the B-theory, you should be able to experience what that version of you is experiencing as much as what you are experiencing. The B-theorist responds that you are not identical to that earlier you. You are only qualitatively similar. See diagrams I draw in class...
+
+
