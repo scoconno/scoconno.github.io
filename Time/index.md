@@ -11,6 +11,7 @@ title: Time
 + [Capstone Project Assignments](project)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
++ [Sample answers to Style Exercises](answers)
 
 ## Withdrawal Dates
 
