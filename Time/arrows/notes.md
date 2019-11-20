@@ -22,7 +22,7 @@ Find out here:
 
 ## The Arrow of Time
 
-Must time flow in the direct that it does? In other words, must the events in time follow the course that we normally take them t, e.g., must my retirement happen after my school graduation? The answer seems 'yes'. Our question is why this is so. Why couldn't the events in time flow in the opposite direction than they do? Many think the answer relies on three other arrows (see textbook): 
+Must time flow in the direction that it does? In other words, must the events in time follow the course that we normally take them to, e.g., must my retirement happen after my school graduation? The answer seems 'yes'. Our question is why this is so. Why couldn't the events in time flow in the opposite direction than they do? Many think the answer relies on three other arrows (see textbook): 
 
 1. the thermodynamic arrow: the direction from order to disorder;
 2. the psychological arrow: the direction from perceptions of events to the memories of those events;
@@ -70,6 +70,5 @@ The modified psychological analysis of time oder:
 8. A is between m and B, but e is not between A and m. 
 
 
-## The Causal Arrow
 
 
