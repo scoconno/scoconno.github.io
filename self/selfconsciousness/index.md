@@ -3,7 +3,7 @@ layout: mindweekly
 title: Selfconsciousness
 ---
 
-## Reading
+### Reading
 
 + Required
   + Textbook, ch.9, pp.280--289
@@ -15,12 +15,10 @@ title: Selfconsciousness
   + [Self-Consciousness,](https://plato.stanford.edu/entries/self-consciousness/) Joel Smith
   + ['How to Build a Self-Conscious Machine'](https://www.wired.com/story/how-to-build-a-self-conscious-ai-machine/)
 
-## Notes
-+ [Notes](notes)
-
-## Videos
+### Videos
 + [Psychologists on introspection](http://study.com/academy/lesson/introspection-and-self-awareness-theory-in-psychology-definition-examples.html)
 
-
+### Notes
++ [Notes](notes)
 
 
