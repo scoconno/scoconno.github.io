@@ -13,7 +13,7 @@ title: Personal Identity
 	+ ['The Abyss',](/self/personalidentity2/a.pdf) Oliver Sacks
 
 ## Notes 
-+ [Star Trek, Second Chances](https://www.dailymotion.com/video/x5lsxok), the notes refer to the case described in this episode.
++ **'Star Trek: The Next Generation 'Second Chances' S6 E24'** available on Netflix, and to rent for \$1.99 on Amazon, Apple TV, Google Play, etc. The notes refer to the case described in this episode.
 + [Notes 1](notes)
 + [Notes 2](/self/personalidentity2/notes)
 

@@ -3,28 +3,20 @@ layout: mindweekly
 title: Essay
 
 ---
+
+#WARNING!!!
+
+**I AM TESTING WHETHER YOU READ AND UNDERSTOOD THE ASSIGNED READING. QUOTE AND PARAPHRASE ONLY FROM THE ASSIGNED READINGS. DO NOT PARAPHRASE OR QUOTE FROM MY NOTES.**
+
 ### Introduction
 
-Such gall! Your so-called friend, Sam, borrowed fifty dollars from you over six months ago and is refusing to repay. He was in a bind, so you were happy to help. But he is now flush and needs to make you whole. Yet, in true Sam fashion, he has a philosophical argument that he claims shows that he owes you nothing. According to him, the person who borrowed money from you 6 months ago is not the person you call Sam today. The hair lengths are different. The skin of today's Sam is sunburnt, but the person who borrowed that money was not sunburnt. Today's Sam is also fit, healthy, happy, and employed. The person who borrowed from you is none of these things. 
+Susie Mckinnon suffers from Severely Deficient Autobiographical Memory. Autobiographical memories are also called episodic memories and personal memories; the memories that are used in formulating the psychological continuity theory. The psychological continuity theory cannot explain Susie's personal identity. Why? In your paper, do the following: 
 
-Arguing with Sam in person never gets you anywhere. An email is best. In your email, you examine his argument and try prove that the Sam from today is, in fact, the very man who borrowed that money from you six months ago. You explain to him the difference between numerical identity and qualitative similarity, and use the psychological continuity theory to show how the Sam from today is identical to that earlier borrower despite their qualitative differences. 
-
-### Purpose 
-
-The purpose of this assignment is to help you practice the following skills that are essential to your success in this course and others. 
-
-1. 	Charitably explaining arguments for views that are not your own.  
-2.  Explaining difficult concepts in your own words. 
-3.  Understanding the difference between qualitative similarity and numerical identity. 
-
-### Task
-
-Write an email to Sam. In your email, do the following: 
-
-1. Explain the puzzle of personal identity. Why does Sam deny that he is identical to anyone from four years ago? 
-	+ **NB:** Explain here the difference between qualitative similarity and numerical identity. Failure to do so will result in loss of points. 
-2. Solve this puzzle by using the psychological continuity theory. 
-	+ **NB:** This assignment is not asking you to discuss each possible response to the puzzle. Only discuss the psychological continuity theory. Failure to ignore this instruction will result in a loss of points.     
+1. Explain the **psychological continuity theory** of personal identity. **Note the following:**
+	1. Do not discuss the same body or same soul theory of personal identity. Only discuss the psychological continuity theory. Failure to ignore this instruction will result in a loss of points.
+	2. Carefully explain the difference between **episodic memories** and **factual memories.** Make sure to explain why the psychological continuity theory is formulated using episodic rather than factual memories. 
+2. Using very specific examples from the radio interview, explain why Susie McKinnon's lack of episodic memory poses a challenge to the psychological continuity theory. 
+  +  **NB:** Your paper must demonstrate a proper understanding of the difference between qualitative similarity (qualitative identity) and numerical identity. Failure to do so will result in loss of points.     
 
 **NB:** Failure to include either of these elements in your email will result in a loss of points. 
 
@@ -32,8 +24,6 @@ Write an email to Sam. In your email, do the following:
 ### Word Count
 
 Your essay must be 500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
-
-
 
 ### Plagiarism
 
