@@ -9,14 +9,15 @@ Welcome! My name is Dr. Scott O'Connor, and I'll be your instructor for this cou
 While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](/contact) for further information.
 
 ## Mechanics
+Refer to the [syllabus](https://scottoconnor.org/self/Syllabus.pdf) each week for the assigned readings. 
 
 ### Blackboard
-There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. Each week will become live on the Monday morning of that week. One exception is the final week, which will become live earlier. In the module for each week, there are two types of links:  
+There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. In the module for each week, there are two types of links:  
 
 1. Materials
 2. Essays and Quizzes  
 
-The materials link will take you to a dedicated page for the week's topic. It contains extensive notes, which you should read thoroughly. I also include readings not in the textbook. Since some of the material is tricky, I try to include some combination of short stories, videos, and podcasts. The assignment links are self-explanatory. These are due on the Sunday of the assigned week at midnight. One exception is the final week. 
+The materials link will take you to a dedicated page for the week's topic. It contains extensive notes, which you should read thoroughly. I also include readings not in the textbook. Since some of the material is tricky, I try to include some combination of short stories, videos, and podcasts. The assignment links are self-explanatory.  
 
 ### Work Schedule
 Taking an online course is a lot of fun, but it also requires care. Compared to an in-person course, you have far more ownership over your time. You get to choose when to study and how to study, and, in some respects, you are on your own (though I'm here as a guide). Nevertheless, I recommend the following work schedule for each week: 
