@@ -42,7 +42,7 @@ If you are still unable to complete the required number of assignments due to il
 
 ## Technical Help
 
-All Blackboard activity is recorded. I see when you log on, what you click, and how long you stay on the pages you click. Blackboard outages are rare and are automatically reported to me. If you encounter technical difficulties, the most likely source will be a difficulty with your browser or computer. Do take a moment to ensure your browser is up to date. If you are uncertain how to use Blackboard or have some technical difficulty, please consult NJCU's online learning resources here: [http://newlearning.njcu.edu/dl/enrolled.htm](http://newlearning.njcu.edu/dl/enrolled.htm)
+All Blackboard activity is recorded. I see when you log on, what you click, and how long you stay on the pages you click. Blackboard outages are rare and are automatically reported to me. If you encounter technical difficulties, the most likely source will be a difficulty with your browser or computer. Do take a moment to ensure your browser is up to date. If you are uncertain how to use Blackboard or have some technical difficulty, please consult NJCU's online learning resources here: [https://www.njcu.edu/academics/online-learning/enrolled-students](https://www.njcu.edu/academics/online-learning/enrolled-students)
 
 I occasionally have students report that their computer crashes one minute before an assignment is due. My response is always the same: it is your responsibility to ensure that you are using a reliable computer on a stable internet connection. If your computer crashed one minute before an assignment is due, I encourage you to reflect on whether leaving the assignment to the last minute was a responsible strategy. 
 
