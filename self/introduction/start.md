@@ -9,7 +9,7 @@ Welcome! My name is Dr. Scott O'Connor, and I'll be your instructor for this cou
 While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](/contact) for further information.
 
 ## Mechanics
-Refer to the [syllabus](https://scottoconnor.org/self/Syllabus.pdf) each week for the assigned readings. 
+Refer to the syllabus each week for the assigned readings. You will find it under 'syllabus' in Blackboard.
 
 ### Blackboard
 There is a dedicated module for each week. You will find these under 'weeks' in Blackboard. In the module for each week, there are two types of links:  
