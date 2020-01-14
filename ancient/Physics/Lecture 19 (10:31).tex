@@ -1,0 +1,159 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = xelatex
+
+\documentclass[11pt]{article}
+\usepackage{fontspec}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+\usepackage{verbatim}
+\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
+\geometry{letterpaper} % or letter or a5paper or ... etc
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{natbib}
+\usepackage{stmaryrd}
+%\usepackage{mathpartir}
+\usepackage{txfonts}
+\usepackage{graphicx}
+\usepackage{fullpage}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\usepackage{fontspec}
+%\setmainfont{Hoefler Text}
+\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
+\usepackage{hyperref}
+\usepackage{lastpage, fancyhdr}
+%\usepackage{setspace}
+\pagestyle{fancy}
+\lhead{}
+\chead{Lecture 18, Aristotle's \emph{Posterior Analytics}\space---\space Handout} 
+\rhead{}
+\lfoot{}
+\cfoot{\thepage\space of \pageref{LastPage}} 
+\rfoot{}
+\footskip=30 pt
+\headsep=20pt
+\thispagestyle{empty}
+\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage{greek}
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\gk}[1]{\textgreek{#1}}
+\newcommand{\gloss}[1]{(\textgreek{#1})}
+
+\usepackage{covington}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\begin{document}
+
+%\maketitle
+\thispagestyle{empty}
+\begin{center} \LARGE{PHIL 321\\ Lecture 19: Aristotle's \emph{Physics}, 1.1, 5-9}\\ \vspace*{2mm}
+\large{10/31/2013}\end{center}
+\thispagestyle{empty}\vspace*{3mm}
+\vspace*{-8mm}
+
+\section*{Background: metaphysics from the \emph{Categories}, Ch. 5}
+
+\noindent Aristotle posits a fundamental metaphysical distinction between substantial entities and non-substantial entities (qualities, quantities, etc.): this comes close to an object / property distinction
+\vspace*{2mm}
+
+\noindent The criteria for something's being a \emph{primary} substance are: [1] not said of or in anything else\hspace*{3mm}[2] subject for everything else\hspace*{3mm}[3] prior\hspace*{3mm}[4] a ``this'' (individually and ``numerically one'')\hspace*{3mm}[5] is able to receive contraries
+\vspace*{2mm}
+
+\noindent In the \emph{Physics} he sets out to show that there are items in the natural world which meet these conditions, and Book 1 focuses primarily on [5]
+\vspace*{-3mm}
+
+\section*{A Presocratic problem with change}
+
+\noindent A claims that several Presocratics argued that, despite appearances, coming-to-be is impossible. A presents their argument as follows (Ch. 8):
+\vspace*{2mm}
+
+[P1] Anything that comes-to-be either comes-to-be from what is or from what is not
+\vspace*{1mm}
+
+[P2] It cannot come-to-be from what is, for what is already is
+\vspace*{1mm}
+
+\underline{[P3] It cannot come-to-be from what is not, since there isn't anything for it to come-to-be from}
+\vspace*{1mm}
+
+[C] Thus, nothing can come-to-be
+\vspace*{-3mm}
+
+\section*{Aristotle's ``quick'' answer}
+
+\noindent A distinguishes between coming-to-be ``unqualifiedly'' and ``coincidentally'' (Ch. 5)
+\begin{itemize}\item{Something would come-to-be unqualifiedly from its opposite (e.g. tan from pale; tall from short; musical from non-musical)}\item{Something comes-to-be unqualifiedly from what ``coincides'' with something that it would come-to-be from primarily (e.g. musical comes-to-be coincidentally from pale insofar as what is pale happens to be unmusical; tall comes-to-be coincidentally rom human insofar as what is a human happens to be short)}\end{itemize}
+
+\noindent With that distinction in hand, A says that both ``horns'' (i.e. P2 and P3) are true \emph{in a way} (Ch. 8)
+\vspace*{2mm}
+
+\noindent There are three distinct items involved in any change:
+\vspace*{1mm}
+
+[1] The old property (the ``privation'') [`G']
+\vspace*{1mm}
+
+[2] The new property (the ``form'') [`F']
+\vspace*{1mm}
+
+[3] The enduring subject of both properties [`X']
+\vspace*{2mm}
+
+\noindent P2 is, in a sense, true: what is, for example, Hot (`F'), can't come-to-be from what is already Hot. But, in another sense, it is false in that Hot can come-to-be coincidentally from Socrates, which already is (something else, such as not-Hot (`G')).   
+
+\noindent Similarly P3 is, in a sense, true: it's not wholly accurate to say, for example, that Hot (`F') comes-to-be from not-Hot (i.e. Cold, `G'), because there needs to be some subject, such as Socrates (`X'). And so the Presocratics were right that nothing can come to be from what is not, if that is understood as meaning nothing can come to be unqualifiedly from what is not. But, something can come to be from what is not in another sense, namely coincidentally:
+\vspace*{1mm}
+
+For example, when Hot (`F') comes-to-be it comes-to-be coincidentally from what is not, namely Socrates\\\hspace*{6mm}(`X'), who happens to be not-Hot (`G')
+\vspace*{-3mm}
+
+\section*{The analysis that leads to the quick answer (Ch. 7)}
+
+\noindent There are three ways to describe any change
+\vspace*{1mm}
+
+\noindent[A] Man $\rightarrow$ musical\hspace*{30mm} simple\hspace*{30mm} it [X, the subject] remains
+\vspace*{1mm}
+
+\noindent[B] Not-musical $\rightarrow$ musical\hspace*{18mm} simple\hspace*{30.5mm} it [G, the privation] does not remain
+\vspace*{1mm}
+
+\noindent[C] not-musical man$\rightarrow$ musical man\hspace*{3.5mm} compound\hspace*{24.5mm} it [X, the subject part of it] remains/\\\hspace*{93mm} the compound, however, does not remain
+\vspace*{2mm}
+
+\noindent Despite appearances, Aristotle thinks that [A] and [B] really only describe one thing: a case where a man goes from being unmusical to musical. Thus, in all changes, a subject endures through the change and receives the contraries = privation and form
+\vspace*{2mm}
+
+\noindent At each time, the thing-which-can-change is a compound of subject \& form \emph{or} privation
+\vspace*{2mm}
+
+\noindent So, in a sense, A thinks that it was the Presocratics' failure to recognize that all items are compounds that led them astray
+
+\section*{The ``hard'' case: change of substance}
+
+\noindent Changes are changes of place (locomotion), of degree (growth), of quality (alteration), or of substance (generation)
+\vspace*{2mm}
+
+\noindent Substantial change (i.e. generation) = unqualified coming-to-be = X comes-to-be (the other kinds are qualified changes = X comes-to-be F)
+\vspace*{2mm}
+
+\noindent The above cases are examples of qualified changes. Unqualified changes seem more difficult: what is the enduring subject when a human being comes into existence? Can you say that there is something that was not a human being but comes-to-be a human being?
+\vspace*{2mm}
+
+\noindent To locate the enduring subject in this case, we need to decompose the final result
+\vspace*{1mm}
+
+[A] for example, when a brazen sphere comes into existence, it comes-to-be from a ``lump of bronze'' and the bronze in the lump endures
+\vspace*{1mm}
+
+[B] when a human embryo comes-to-be, it comes to be from ``seed'' and the stuff in the seed endures
+
+\end{document}
