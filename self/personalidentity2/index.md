@@ -23,7 +23,4 @@ title: Personal Identity 2
 	+ [Memory problems](https://www.youtube.com/watch?v=PB2OegI6wvI) 
 	+ [Hacking memory](https://www.youtube.com/watch?v=601_pvMuSvo)
 
-## Assignments--available through Blackboard
-+ [Essay 1](essay)
-	+ Use this [check sheet](/resources/check) before submitting your paper. 
-	+ Please use 'attach file' to upload the file. Do not use 'write submission' or send it as a message. See this [screenshot](/resources/screenshot.png)
+
