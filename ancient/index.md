@@ -35,11 +35,13 @@ The syllabus details our schedule of readings from the course texts. I include h
 ---
 **Week 3: Socratic Epistemology***
 
-+ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
++ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). 
++ +[*Meno*](http://classics.mit.edu/Plato/meno.html)
+	+ If you have yet to purchase the textbook, you can print the dialogs from the linked website. You must have a copy of the reading in class with you.
 + *Notes:* 
 	+ [Euthyphro](Euthyphro/Lecture4.pdf)
 	+ [Meno](Meno/Meno.pdf)
-	+ + [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
+		+ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
 
 ---
 
@@ -56,21 +58,19 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 5: Socrates's Death**
 
-	+ [Notes](Phaedo/phaedo.pdf)
++ [Notes](Phaedo/phaedo.pdf)
 
 ---
 
 **Week 6: Socratic Metaphysics**
 
-+ *Notes*
-	+ [Notes 1](Phaedo/phaedo2.pdf) 
++ [Notes 1](Phaedo/phaedo2.pdf) 
 
 ---
 
 **Week 7: Socrates' Immortality**
 
-+ *Notes*
-	+ [Notes 1](Phaedo/phaedo2.pdf) 
++ [Notes 1](Phaedo/phaedo2.pdf) 
 
 ---
 
