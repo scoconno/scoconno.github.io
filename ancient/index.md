@@ -36,7 +36,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 **Week 3: Socratic Epistemology***
 
 + [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). 
-+ +[*Meno*](http://classics.mit.edu/Plato/meno.html)
++ [*Meno*](http://classics.mit.edu/Plato/meno.html)
 	+ If you have yet to purchase the textbook, you can print the dialogs from the linked website. You must have a copy of the reading in class with you.
 + *Notes:* 
 	+ [Euthyphro](Euthyphro/Lecture4.pdf)
@@ -94,6 +94,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 	+ [Justice in the City](Republic1/Lecture2.pdf)
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
 	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+
 ---
 
 **Week 12: Plato's Republic 3**
