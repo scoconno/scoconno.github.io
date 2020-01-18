@@ -4,7 +4,7 @@ title: Extra Credit 1
 
 ---
 
-On March 25th, the Philosophy department will host a  will present his work on what statues can teach us about religion, identity, and power. For this extra credit assignment, you will do the following: 
+On March 28th, Prof. Johnson will present his work on what statues can teach us about religion, identity, and power. For this extra credit assignment, you will do the following: 
 
 1. Attend the talk. Details [here](/ancient/extra/statues.pdf).
 2. Write a paragraph summarizing the main general points that Prof. Johnson makes about statues.

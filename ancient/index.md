@@ -3,91 +3,121 @@ layout: course
 title: Ancient Philosophy
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HF09PRMQ7Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ## Course Information
 
-Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360 for the honors program and PHIL 234 for the philosophy department. The two sections overlap, but differ significantly. Please click on the syllabus for the section for which you are enrolled: 
+Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360: 
 
 + [HON 360 Syllabus](Syllabus.pdf)
-+ [PHIL 234 Syllabus](SyllabusM.pdf)
 + [Ancient Philosophy Resources](resources)
 + [How to answer Gobbets](Guide.pdf)
-+ [Extra Credit Assignment 1](extra1)
-+ [Extra Credit Assignment 2](extra2)
++ [Extra Credit Assignment](extra1)
 
 
 
 ## Additional materials and notes
 
-The syllabus details our schedule of readings from the course texts. I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally post the notes only after the deadline for the reading questions/gobbets has passed. **All assignments can be found by clicking the relevant link in Blackboard.**
+The syllabus details our schedule of readings from the course texts. I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally edit and improve my notes each time I offer this course, so please take the posted notes as tentative. **All assignments can be found by clicking the relevant link in Blackboard.**
 
 **Week 1: Introduction**
-+ [Notes 1](Introduction/Lecture 1.pdf)
-+ [Notes 2](Presoc/Lecture2.pdf)
 
-**Week 2: The *Euthyphro***
-+ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
-+ *Notes*
-	+ [Notes 1](Euthyphro/Lecture4.pdf)
-	+ [Notes 2](Euthyphro/Euthyphro2.pdf)
-	+ [Notes from the end of class:](Euthyphro/addendum.md) we ran out of time! Please see a short description of how Socrates argues that pious # to be loved by the gods.
++ *Notes:* [Introduction](Introduction/Lecture 1.pdf)
+
+---
+**Week 2: Presocratics**
+
++ *Notes:*[Presocratics](Presoc/Lecture2.pdf)
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
 
+---
+**Week 3: Socratic Epistemology***
 
-**Week 3: Socratic Epistemology**
-+ [Notes](Meno/Meno.pdf) 
-+ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
++ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). If you have yet to purchase the textbook, you can print the dialog from the linked website. You must have a copy of the reading in class with you. The textbooks are required from week 3.
++ *Notes:* 
+	+ [Euthyphro](Euthyphro/Lecture4.pdf)
+	+ [Meno](Meno/Meno.pdf)
+	+ + [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
+
+---
 
 **Week 4: Socrates' Trial and Defense**
 
 + *Notes*
 	+ [Notes 1](Apology/Lecture5.pdf)
 	+ [Notes 2](Apology/2.pdf)
+	+ [Notes 1](Crito/crito.pdf)
 
 + [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
 
-**Week 5: Escape or die?**
+---
 
-+ *Notes*
-	+ [Notes 1](Crito/crito.pdf)
-	+ [Notes 2](Phaedo/phaedo.pdf)
+**Week 5: Socrates's Death**
 
-**Week 6: Socrates' End**
+	+ [Notes](Phaedo/phaedo.pdf)
+
+---
+
+**Week 6: Socratic Metaphysics**
 
 + *Notes*
 	+ [Notes 1](Phaedo/phaedo2.pdf) 
 
-**Week 7: Plato's Republic 1**
+---
+
+**Week 7: Socrates' Immortality**
 
 + *Notes*
-	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
+	+ [Notes 1](Phaedo/phaedo2.pdf) 
+
+---
+
+**Week 8: GREECE OR APPROVED ALTERNATIVE**
+
+---
+
+**Week 9: NO CLASSES**
+
+---
+
+**Week 10: Plato's Republic 1**
+
++ Notes: [Glaucon's Challenge](Republic1/Lecture.pdf)
+	
+---
+
+**Week 11: Plato's Republic 2**
+
++ *Notes:*
 	+ [Justice in the City](Republic1/Lecture2.pdf)
-
-**Week 8: Plato's Republic 2**
-
-+ *Notes*
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
 	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+---
 
-**Week 9: Plato's Republic 3**
+**Week 12: Plato's Republic 3**
 
 + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
 + [Notes on the tyrant](Republic3/lecture2.pdf)
 
-**Week 10: Aristotle's Ethics**
+---
+
+**Week 13: Aristotle's Epistemology 1**
 
 + [Alexander and Aristotle](https://www.youtube.com/watch?v=w6UGTvRbdUs)
-+ *Notes*
-	+ [Nicomachean Ethics 1](NE1/Lecture.pdf)
-	+ [Nicomachean Ethics 2](NE2/Lecture.pdf)
-
-**Week 11: Aristotle's Physics**
-
 + [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
 + [Notes](Physics2/Lecture1.pdf)
 
-**Week 12: Aristotle's Psychology**
+---
 
-+ [Notes](DA/Lecture.pdf)
+**Week 14: Aristotle's Physics**
+
+---
+
+**Week 15: Presentations**
+
+---
+
+**Week 16: Presentations**
+
