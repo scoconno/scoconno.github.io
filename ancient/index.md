@@ -29,7 +29,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 ---
 **Week 2: Presocratics**
 
-+ [Reading,](/ancient/Shields2.pdf] read chapter 1
++ [Reading,](/ancient/Shields2.pdf) read chapter 1
 + *Notes:* [Presocratics](Presoc/Lecture2.pdf)
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
 
