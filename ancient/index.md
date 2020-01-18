@@ -29,12 +29,12 @@ The syllabus details our schedule of readings from the course texts. I include h
 ---
 **Week 2: Presocratics**
 
-+ [Reading,](/ancient/Shields2.pdf} read chapter 1
++ [Reading,](/ancient/Shields2.pdf] read chapter 1
 + *Notes:* [Presocratics](Presoc/Lecture2.pdf)
 + [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
 
 ---
-**Week 3: Socratic Epistemology***
+**Week 3: Socratic Epistemology**
 
 + Reading: If you have yet to purchase the textbook, you can print the dialogs from the linked website. You must have a copy of the reading in class with you.
 	+ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). 
@@ -65,13 +65,13 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 6: Socratic Metaphysics**
 
-+ [Notes 1](Phaedo/phaedo2.pdf) 
++ [Notes](Phaedo/phaedo2.pdf) 
 
 ---
 
 **Week 7: Socrates' Immortality**
 
-+ [Notes 1](Phaedo/phaedo2.pdf) 
++ [Notes](Phaedo/phaedo2.pdf) 
 
 ---
 
