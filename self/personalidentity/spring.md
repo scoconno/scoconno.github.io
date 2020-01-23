@@ -4,13 +4,13 @@ title: Personal Identity 1
 ---
 
 ## Reading
-+ ['A Dialog on Personal Identity and Immortality',](Perry.pdf) J. Perry
++ ['A Dialog on Personal Identity and Immortality',](/self/personalidentity/Perry.pdf) J. Perry
 
 
 ## Notes 
 
 + **'Star Trek: The Next Generation 'Second Chances' S6 E24'** available on Netflix, and to rent for \$1.99 on Amazon, Apple TV, Google Play, etc. The notes refer to the case described in this episode.
-+ [Notes](notes)
++ [Notes](/self/personalidentity/notes)
 
 ## Videos
 + Required
