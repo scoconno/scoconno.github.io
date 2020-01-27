@@ -19,24 +19,22 @@ title: Homeric Ethics
 
 
 
-<img src="panorama.jpg" style="zoom:100%;" />
+![image](panorama.jpg) 
 
 
 
-<img src="patroclus.jpg" alt="image" style="zoom:150%;" />
+![image](patroclus.jpg)
 
 
 
-<img src="fight.jpg" alt="image" style="zoom:200%;" />
+![image](fight.jpg)
 
 
 
-<img src="hector.jpg" alt="image" style="zoom:100%;" />
+![image](hector.jpg)
 
 
-
-<img src="horse.jpg" alt="image" style="zoom:200%;" />
-
+![image](horse.jpg)
 
 
-<img src="sack.jpg" alt="image" style="zoom:200%;" />
+![image](sack.jpg)
