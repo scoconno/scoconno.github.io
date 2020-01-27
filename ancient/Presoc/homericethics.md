@@ -5,6 +5,7 @@ title: Homeric Ethics
 
 <img src="homer.jpg" alt="image" style="zoom:200%;" />
 
+![image](homer.jpg =200%)
 
 
 ![image](paris.jpg)
