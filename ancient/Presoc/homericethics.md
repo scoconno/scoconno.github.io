@@ -7,11 +7,11 @@ title: Homeric Ethics
 
 
 
-![image](Paris.jpg)
+![image](paris.jpg)
 
 
 
-![image](Helen.jpg)
+![image](helen.jpg)
 
 
 
@@ -23,7 +23,7 @@ title: Homeric Ethics
 
 
 
-<img src="Patroclus.jpg" alt="image" style="zoom:150%;" />
+<img src="patroclus.jpg" alt="image" style="zoom:150%;" />
 
 
 
