@@ -3,9 +3,8 @@ layout: ancientweekly
 title: Homeric Ethics
 ---
 
-<img src="homer.jpg" alt="image" style="zoom:200%;" />
 
-![image](homer.jpg =200%)
+![image](homer.jpg)
 
 
 ![image](paris.jpg)
@@ -20,7 +19,7 @@ title: Homeric Ethics
 
 
 
-<img src="panorama.jpg" alt="image" style="zoom:100%;" />
+<img src="panorama.jpg" style="zoom:100%;" />
 
 
 
