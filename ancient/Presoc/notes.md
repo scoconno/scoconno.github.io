@@ -1,5 +1,3 @@
-
-
 ---
 layout: ancientweekly
 title: Homeric Ethics
