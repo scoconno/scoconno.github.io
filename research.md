@@ -6,7 +6,7 @@ title: Research
 
 ## Publications ##
 
-+ (2020) ['*Aristotle's Theory of Bodies* by Christian Pfeiffer' (review),](pfeiffer) *Journal of the History of Philosophy*, Volume 58, Number 1, January 2020, pp. 167-168 (Review), [DOI:https://doi.org/10.1353/hph.2020.0008](DOI:https://doi.org/10.1353/hph.2020.0008)
++ (2020) ['*Aristotle's Theory of Bodies* by Christian Pfeiffer' (review),](research/untitled.pdf) *Journal of the History of Philosophy*, Volume 58, Number 1, January 2020, pp. 167-168 (Review), [DOI:https://doi.org/10.1353/hph.2020.0008](DOI:https://doi.org/10.1353/hph.2020.0008)
 
 + (2018) ['On Persistence in Aristotle',](https://quod.lib.umich.edu/e/ergo/12405314.0005.020?view=text;rgn=main) *Ergo*, vol. 5(20)  
 
