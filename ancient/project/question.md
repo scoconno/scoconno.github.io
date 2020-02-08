@@ -1,24 +1,7 @@
 ---
 layout: ancientweekly
-title: Research Question
-
+title: Question and annotated bibliography
 ---
-
-## Introduction
-
-I want honors students to identify topics that interest them and be able to independently inquire into those topics well after their classes with me. So, in an honors course, I try to develop the traits needed to become independent researchers. This course is no different. You will complete an independent project over the remainder of the semester.  But we will scaffold that project around a few basic skills (and tasks to practice those skills).
-
-1. Identify and propose a manageable and interesting research question.
-2. Write a annotated bibliography.
-3. Deliver an oral presentation.
-4. Submit a draft of your research paper. 
-5. Submit a polished and improved version of that paper. 
-
-
-
-## Research Question 
-
-
 
 ### The form of a question
 
@@ -79,8 +62,3 @@ The final task might confuse you, so let me explain it further. The idea is that
 Your short paragraph might be this: 
 
 > Socrates claims that he is wise insofar as he does not take himself to know what he does not know. He does, not, however give a full account about wisdom amounts to. The very little he says seems to leave open the possibility that a person who knew nothing at all could be wise. As long as they didn't claim to have knowledge, they would be wise. But lots of people and things satisfy this description. My cat does. So does my couch. Perhaps a coma patient does too. So, something seems missing from Socrates' account of wisdom. Perhaps the wise person not only is aware of the knowledge they do not possess, but they also have the capacity and desire to obtain knowledge. So, we might ask whether Socrates thinks that wisdom also requires that you possess some knowledge (of which you are correctly aware that you have). And, if he doesn't, is there anything else to his account of wisdom that would avoid the conclusion that my cat is wise? 
-
-
-
-
-
