@@ -5,7 +5,7 @@ title: Exploratory essay and agenda
 
 ## Introduction
 
-Independent research is a central characteristic of an honors education. So, in this course, you will learn and practice research skills. To that end, you will work on an independent project through the semester. We will scaffold that project around a few basic skills and tasks to practice those skills (see syllabus for assignment due dates). 
+Independent research is a central characteristic of an honors education. So, in this course, you will learn and practice research skills. To that end, you will work on an independent project through the semester. We will scaffold that project around a few basic skills and tasks to practice those skills (see syllabus for assignment due dates).
 
 1. A manageable and interesting research question and agenda (two parts due at different times).
 	1. Submit an exploratory essay with a short list of potential list of background sources. 
@@ -56,9 +56,9 @@ When we provide our readers sufficient context like this, they understand what w
 
 Research projects require, well, research! You need to read what other researchers have to say about your topic. Before you can do that, you need to find the research. In this part of the assignment, you must submit the full citations for 5 sources, but this assignment is not asking you to read these sources. It is asking you to identify and collect sources that you can use as you start your research. Note the following: 
 
-	1. These are sources that you must have access to. 
-	3. Wikipedia, youtube, quora, youtube transcripts, your hunches, etc., are not academic sources. The written sources must be either articles that are published in peer reviewed scholarly journals or books published by scholarly presses. 
-	4. An entire section of the library, and several librarians, are entirely focused to helping users find material for their research. Details [here](https://www.njcu.edu/library/about-library/library-departments/reference-department). 
+1. These are sources that you must have access to. 
+3. Wikipedia, youtube, quora, youtube transcripts, your hunches, etc., are not academic sources. The written sources must be either articles that are published in peer reviewed scholarly journals or books published by scholarly presses. 
+4. An entire section of the library, and several librarians, are entirely focused to helping users find material for their research. Details [here](https://www.njcu.edu/library/about-library/library-departments/reference-department). 
 
 
 
