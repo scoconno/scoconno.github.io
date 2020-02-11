@@ -6,7 +6,6 @@ title: Ancient Philosophy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HF09PRMQ7Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 ## Course Information
 
 Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360: 
@@ -50,9 +49,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 + *Notes*
 	+ [Notes 1](Apology/Lecture5.pdf)
-	+ [Notes 2](Apology/2.pdf)
-	+ [Notes 1](Crito/crito.pdf)
-
+	+ [Notes 2](Crito/crito.pdf)
+	
 + [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
 
 ---
