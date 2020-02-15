@@ -5,20 +5,14 @@ title: Essay
 
 ## Introduction
 
-Some children have apparent memories of past lives, which is seen by some as as evidence for reincarnation. If reincarnation exists, then human beings are something much more than a body; they can change bodies as if they were changing their clothes. As such, reincarnation seems to provide evidence for Descartes' substance dualism. For this assignment, you will provide details from the below podcast about children who seem to remember past lives, and you will discuss how it provides support for Descartes' position. You will also explain how Princess Elisabeth would object to these apparent cases of reincarnation. 
-
-Podcast: https://hiphination.org/complete-season-two-episodes/s2-e6-the-self-and-survival/
+That Descartes! You hired him as your personal tutor. You are Queen Christina of Sweden and he should be happy with that position. But his argument with Princess Elisabeth of Bohemia is gaining so much attention. In a series of highly public letters, she has argued against his substance dualism, which she claims is unable to accommodate the obvious fact that minds interact with bodies. He has responded vigorously and now even the King of France has taken an interest. He's asked you to write him a letter explaining Elisabeth's objection. 
 
 
 ## Task
 
-Explain how apparent cases of reincarnation provide evidences for Descartes' substance dualism, and explain how Princess Elisabeth would object to considering these cases of reincarnation. To complete this task, you must do the following: 
-
- 
-
-1. Provide details about some apparent cases of reincarnation from the podcast. 
-2. Explain substance dualism. Make sure to explain the basic concept of a substance as well as explain what it means to say that there are both mental and physical substances. Explain how the examples from the podcast provide evidences for substance dualism.
-3. Explain Princess Elisabeth's argument against substance dualism, and explain how she would object to construing the apparent cases of children remembering past lives as instances of reincarnation. Give examples.        
+Write a **letter**--it should have an address, salutation, etc.--- to the King of France in which you do the following: 
+1. Explain substance dualism. Make sure to explain the basic concept of a substance as well as explain what it means to say that there are both mental and physical substances. 
+2. Explain Princess Elisabeth's argument against substance dualism.      
 
 **NB:** Failure to include either of these elements in your letter will result in a loss of points. 
 
