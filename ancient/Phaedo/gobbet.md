@@ -2,7 +2,7 @@
 layout: ancientweekly
 title: Gobbet 
 ---
-There are two passages this week. They are from *Phaedo*. Please complete **both** and submit through the relevant link on Blackboard. For each, write a separate paragraph for *context*, *content*, and *assessment*. Keep the **total** word count to 500 words, i.e., about 250 words per passage. 
+Please complete **both** and submit through the relevant link on Blackboard. For each, write a separate paragraph for *context*, *content*, and *assessment*. Keep the **total** word count to 500 words, i.e., about 250 words per passage. 
 
 **Passage 1**
 
