@@ -116,3 +116,17 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 15: Experiential learning or alternative**
 
+---
+
+**Week 16: No classes**
+
+---
+
+**Week 17: Research project and experiential/alternative assignments due**
+
+---
+
+
+
+
+
