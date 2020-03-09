@@ -5,7 +5,6 @@ title: Ancient Philosophy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HF09PRMQ7Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ## Course Information
 
 Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360: 
@@ -73,21 +72,17 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 8: GREECE OR APPROVED ALTERNATIVE**
+**Week 8: SPRING BREAK**
 
 ---
 
-**Week 9: NO CLASSES**
-
----
-
-**Week 10: Plato's Republic 1**
+**Week 9: Plato's Republic 1**
 
 + Notes: [Glaucon's Challenge](Republic1/Lecture.pdf)
 	
 ---
 
-**Week 11: Plato's Republic 2**
+**Week 10: Plato's Republic 2**
 
 + *Notes:*
 	+ [Justice in the City](Republic1/Lecture2.pdf)
@@ -96,14 +91,14 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 12: Plato's Republic 3**
+**Week 11: Plato's Republic 3**
 
 + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
 + [Notes on the tyrant](Republic3/lecture2.pdf)
 
 ---
 
-**Week 13: Aristotle's Epistemology 1**
+**Week 12: Aristotle's Epistemology 1**
 
 + [Alexander and Aristotle](https://www.youtube.com/watch?v=w6UGTvRbdUs)
 + [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
@@ -111,13 +106,13 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 14: Aristotle's Physics**
+**Week 13: Aristotle's Physics**
 
 ---
 
-**Week 15: Presentations**
+**Week 14: Presentations**
 
 ---
 
-**Week 16: Presentations**
+**Week 15: Experiential learning or alternative**
 
