@@ -1,5 +1,68 @@
-What is an annotated bibliography? {#header-n11 .unnumbered}
-----------------------------------
+---
+layout: ancientweekly
+title: Question and annotated bibliography
+---
+
+
+
+## Research project part 2
+
+In this part of the assignment, you will do two distinct things: 
+
+1. Submit a clearly articulated properly formed and manageable question. 
+2. Submit an annotated bibliography for five academic sources
+
+
+I will give further guidance below. 
+
+
+
+### ### Tasks 1:  the question
+
+
+
+In your exploratory essay, you indicated the general area you wished to research. You now need to state a precise and well-formed manageable question about that general area. 
+
+By **well-formed**, I mean that you must submit a question  **question**. Questions are formed with an interrogative. Here are a few examples: 
+
++ *which*, *what*
++ *how*
++ *why*
++ *who*, *whom*, *whose* 
++ *when*
++ *when*
++ *does*
+
+So *what* question would you like to answer?
+
+By **manageable**, I mean that your question must be one that is sufficiently narrow to be completed by the end of the semester. Compare the following two questions:
+
+1. What does Socrates think about wisdom? 
+2. Does Socrates in the *Apology* claim that a person can be wise if they know nothing whatsoever? 
+
+Our first question would require you to examine each work that concerns Socrates and wisdom. It's a great project. But it would take an entire book to  complete it successfully. The second question is manageable and could be completed in a couple of months. It requires you to only focus on the *Apology* and the secondary literature about this work. It also doesn't require a full discussion of everything that Socrates has to say about wisdom, but it requires that you say enough to answer the question. 
+
+Let's take a second example:
+
+1. How does Plato prove in *Republic* that it is always in our interest to be just?   
+2. Is Plato correct in *Republic* Book 8 that democracy inevitably leads to tyranny? 
+
+Here is a second example: 
+
+1. Why did Aristotle believe that organisms are composed of both form and matter? 
+1. How does Aristotle's argument in *Physics* Book 2 that material necessity alone cannot explain why teeth grow as they do support his claim that organisms are composed of both form and matter?
+
+Our first question is a beast! In one way or another, I've spent most of my adult life thinking and writing about it. I mean it. I wrote my undergraduate thesis on a small part of that project. My masters and doctorate both focused on other parts of the project. It'll occupy me for at least another ten years. In part, the first question is so tough because there are so many texts and so much secondary literature to consider. The second question, however, is focused on one part of one text. It asks a very circumscribed question that you could write an informed piece about over the next few months. 
+
+Finally, how about this: 
+
+1. How does Plato's views of education compare to contemporary views of education? 
+1. Is Plato's claim in *Republic* Book 2 that children should only be educated about perfect depictions about the gods compatible with treatments of religion in the curriculum at Jersey City public schools?
+
+I hope it's obvious how these two differ!
+
+
+## Task 2: annotated bibliography
 
 An annotated bibliography is a list of citations to books, articles, and
 documents. Each citation is followed by a brief descriptive paragraph,
