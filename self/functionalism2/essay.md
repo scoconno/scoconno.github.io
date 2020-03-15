@@ -10,13 +10,13 @@ Turing believed that only beings that were able to pass the Turing Test were abl
 
 ## Task
 
-In your paper, you must do the following four things: 
+Make a convincing case that your chosen AI would pass the Turing Test. Explain why Searle would think that passing this test does not entail your chosen AI is able to think. 
 
-1. Identify the relevant TV show or movie. Describe the artificially intelligent character. Is it a robot? An operating system? What is the movie/TV show about and what role does this character have in it? 
-1. With reference to your chosen character, explain the claim that only beings that are able to pass the Turing Test are able to think. 
-2. With reference to your chosen character, explain Searle's objection to the claim that every being that passes the Turing Test is able to think. 
-4. Pick a side! With reference to your chosen character, explain why you agree with your chosen side, i.e., if you agree with Searle, why do you agree with Searle? If you agree with Turing, why do you agree with Turing? 
-	   
+
+1. Identify the relevant TV show or movie. Describe the artificially intelligent character. Is it a robot? An operating system?  
+1. Explain the Turing Test and provide evidence that your chosen AI would pass it. 
+2. Explain Searle's objection and why he would deny that the fact your chosen AI passes the Turing Test entails that it is able to think. 
+
 
 **NB:** Failure to complete any of these tasks will result in a loss of points. 
 
