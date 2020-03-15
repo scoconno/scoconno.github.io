@@ -78,14 +78,19 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 9: Plato's Republic 1**
 
-+ Notes: [Glaucon's Challenge](Republic1/Lecture.pdf)
++ *Additional Material*
+	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.47--88, and 99--104.  
+
++ *Notes:* 
+	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
+	+ [Justice in the City](Republic1/Lecture2.pdf)
+
 	
 ---
 
 **Week 10: Plato's Republic 2**
 
 + *Notes:*
-	+ [Justice in the City](Republic1/Lecture2.pdf)
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
 	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
 
