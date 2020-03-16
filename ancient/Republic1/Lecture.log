@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  26 FEB 2018 22:13
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  16 MAR 2020 00:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -33,6 +33,11 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 (/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
@@ -95,6 +100,8 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
@@ -115,42 +122,31 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/it' tried instead on input line 33.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 44.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 44.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 44.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 44.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 44.
- [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 42.
+ [1
 
 ] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 75.
+(Font)              <7> on input line 84.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 75.
- [3] [4]
-(./Lecture.aux) ) 
-Here is how much of TeX's memory you used:
- 812 strings out of 492995
- 8802 string characters out of 6132704
- 63556 words of memory out of 5000000
- 4406 multiletter control sequences out of 15000+600000
- 23057 words of font info for 37 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 35i,11n,43p,1099b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.en
-c}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Lecture.pdf (4 pages, 77943 bytes).
-PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+(Font)              <5> on input line 84.
 
+[3] [4] (./Lecture.aux) ) 
+Here is how much of TeX's memory you used:
+ 831 strings out of 493005
+ 9516 string characters out of 6134596
+ 70019 words of memory out of 5000000
+ 4850 multiletter control sequences out of 15000+600000
+ 18959 words of font info for 28 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 33i,11n,43p,852b,380s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Lecture.pdf (4 pages).
