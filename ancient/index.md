@@ -4,7 +4,6 @@ title: Ancient Philosophy
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HF09PRMQ7Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Course Information
 
 Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360: 
@@ -79,8 +78,9 @@ The syllabus details our schedule of readings from the course texts. I include h
 **Week 9: Plato's Republic 1**
 
 + *Additional Material*
-	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.47--88, and 99--104.  
-
+	
++ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.47--88, and 99--104.  
+	
 + *Notes:* 
 	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
 	+ [Justice in the City](Republic1/Lecture2.pdf)
@@ -90,9 +90,20 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 10: Plato's Republic 2**
 
-+ *Notes:*
-	+ [Justice in the soul](Republic2/Lecture.pdf)  
-	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
++ *Additional Material*
+	
+	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.5
+	  +  If you are interested in philosopher rulers and their education, read ch.6 and 7. 
+	+ [On the relationship between a just soul and just city](https://youtu.be/-oJs5u_GAYA)
+	+ Allegory of the cave
+		+ [Orson Welles narration](https://www.youtube.com/watch?v=QFi8JUIwu2s)
+		+ [Another nice depiction](https://youtu.be/1RWOpQXTltA)
+	
++ Notes:
+	
+	1. [Justice in the soul](Republic2/Lecture.pdf)  
+	
+	2. [Justice is good in itself](Republic2/Lecture1.pdf)  
 
 ---
 
