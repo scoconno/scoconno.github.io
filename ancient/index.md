@@ -11,7 +11,7 @@ Welcome to the course website for *Ancient Philosophy*.  There are two sections 
 + [HON 360 Syllabus](Syllabus.pdf)
 + [Ancient Philosophy Resources](resources)
 + [How to answer Gobbets](Guide.pdf)
-+ [Extra Credit Assignment](extra1)
++ [Independent Research Project](project) 
 
 
 
