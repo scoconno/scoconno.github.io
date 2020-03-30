@@ -3,7 +3,7 @@ layout: ancientweekly
 title: Gobbet 
 ---
 
-While you should complete all reading on the syllabus, you should pay special attention to *Physics* Book 2, ch.1-3 & 7-9. For each, write a very short paragraph on *context*, *content*, and *assessment*.
+Pay special attention to *Physics* Book 2, ch.1-3 & 7-9. For each passage, write a very short paragraph on *context*, *content*, and *assessment*.
 
 
 
