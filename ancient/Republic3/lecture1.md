@@ -1,6 +1,6 @@
 ---
 layout: ancientweekly
-title: Intro
+title: Republic 5
 ---
 
 
@@ -59,7 +59,7 @@ Consider the health analogy: in caring for my whole body, I am concerned with th
 + The productive class takes charge, money becomes the dominant force in a society; thus it will be not all members of the producing class who rule, only the richest (551b). 
 + People will pursue wealth; it will essentially be two cities, a city of wealthy citizens and a city of poor people; the few wealthy will fear the many poor; people will do various jobs simultaneously; the city will allow for poor people without means; it will have a high crime rate. 
 + The oligarchic individual comes by seeing his father lose his possessions and feeling insecure he begins to greedily pursue wealth (553a-c).  Thus he allows his appetitive part to become a more dominant part of his soul (553c).  The oligarchic individual’s soul is at middle point between the spirited and the appetitive part.
- 
+
 *Soul*
 + In the soul the desire for money takes charge, for out of all the bodily desires it is the one that most resembles an organizational force. Unlike lust and hunger, greed knows the value of discipline (however anxious: 554d) and long-term planning (however ignobly aimed: 554e–555a).
 + A single appetite dominates the oligarchic soul, but that appetite can’t unify it. Unlike reason, which inspects every motivation, then chooses which ones to permit, avarice rules by insisting on its own goals. Avarice knows no way of reining itself in: not having been born to rule, it lacks the capacity for self-examination. Plato would cite billionaires who crave money beyond anything they could spend, as proof of the unfitness of greed to rule the soul.

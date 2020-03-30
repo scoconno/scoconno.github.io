@@ -109,8 +109,14 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 11: Plato's Republic 3**
 
-+ [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
-+ [Notes on the tyrant](Republic3/lecture2.pdf)
+
+
++ *Additional Material*
+  + [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
+  + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
++ Notes: 
+  + [The descent into injustice](Republic3/lecture1.pdf)
+  + [The unhappiness of the tyrant](Republic3/lecture2.pdf)
 
 ---
 
