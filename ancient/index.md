@@ -101,9 +101,9 @@ The syllabus details our schedule of readings from the course texts. I include h
 	
 + Notes:
 	
-	1. [Justice in the soul](Republic2/Lecture.pdf)  
+	+ [Justice in the soul](Republic2/Lecture.pdf)  
 	
-	2. [Justice is good in itself](Republic2/Lecture1.pdf)  
+	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
 
 ---
 
@@ -120,15 +120,23 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 12: Aristotle's Epistemology 1**
+**Week 12: Aristotle's 1**
 
-+ [Alexander and Aristotle](https://www.youtube.com/watch?v=w6UGTvRbdUs)
-+ [Natural Selection](https://www.youtube.com/watch?v=0SCjhI86grU)
-+ [Notes](Physics2/Lecture1.pdf)
++ *Additional Required Material*
+  + See my video introduction to Aristotle in Backboard. 
+  + [*Aristotle,*](Shields.pdf) ch.2
++ *Additional Optional Material*
+  + [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology. 
+  + [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
+  + [My introduction to the *Physics*.](Physics1/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
++ Notes:
+  + [Knowledge](PA/Lecture.pdf)
+  + [Matter and Form](Physics/Lecture.pdf)
+  + [The Four Causes](Physics2/Lecture1.pdf)
 
 ---
 
-**Week 13: Aristotle's Physics**
+**Week 13: Aristotle 2**
 
 ---
 
