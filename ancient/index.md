@@ -101,9 +101,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 	
 + Notes:
 	
-	+ [Justice in the soul](Republic2/Lecture.pdf)  
-	
-	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+	+ [Justice in the soul](Republic2/Lecture.pdf) 
+        + [Justice is good in itself](Republic2/Lecture1.pdf)  
 
 ---
 
@@ -120,7 +119,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 12: Aristotle's 1**
+**Week 12: Aristotle 1**
 
 + *Additional Required Material*
   + See my video introduction to Aristotle in Backboard. 
