@@ -98,17 +98,14 @@ The syllabus details our schedule of readings from the course texts. I include h
 	+ Allegory of the cave
 		+ [Orson Welles narration](https://www.youtube.com/watch?v=QFi8JUIwu2s)
 		+ [Another nice depiction](https://youtu.be/1RWOpQXTltA)
-	
 + Notes:
-	
 	+ [Justice in the soul](Republic2/Lecture.pdf)  
 	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
-
 ---
 
+
+
 **Week 11: Plato's Republic 3**
-
-
 
 + *Additional Material*
   + [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
