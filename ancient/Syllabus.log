@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  5 APR 2020 17:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  5 APR 2020 17:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1388,27 +1388,27 @@ ng=tex-text;"
 
 LaTeX Info: Redefining \ttfamily on input line 42.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 7.8722pt on input line 62.
+(Font)              scaled to size 7.8722pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 7.8722pt on input line 62.
+(Font)              scaled to size 7.8722pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 20.40866pt on input line 62.
+(Font)              scaled to size 20.40866pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 20.40866pt on input line 62.
+(Font)              scaled to size 20.40866pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 18.46902pt on input line 62.
+(Font)              scaled to size 18.46902pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 12.82323pt on input line 62.
+(Font)              scaled to size 12.82323pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 8.90503pt on input line 62.
+(Font)              scaled to size 8.90503pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
-(Font)              scaled to size 22.15572pt on input line 62.
+(Font)              scaled to size 22.15572pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 11.80829pt on input line 62.
+(Font)              scaled to size 11.80829pt on input line 63.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 6.40002pt on input line 62.
+(Font)              scaled to size 6.40002pt on input line 63.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 10.68604pt on input line 74.
+(Font)              scaled to size 10.68604pt on input line 75.
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1417,79 +1417,79 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 96.
+(Font)              <7> on input line 97.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 96.
+(Font)              <5> on input line 97.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 10.77505pt on input line 101.
+(Font)              scaled to size 10.77505pt on input line 102.
 LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
-(Font)              scaled to size 9.75099pt on input line 101.
+(Font)              scaled to size 9.75099pt on input line 102.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
-(Font)              scaled to size 9.84024pt on input line 116.
+(Font)              scaled to size 9.84024pt on input line 117.
 
-Overfull \hbox (4.51479pt too wide) in paragraph at lines 116--117
+Overfull \hbox (4.51479pt too wide) in paragraph at lines 117--118
 []|   []   |   []   |   []   |   []   |   []   |   []   |   []   |   []   |   [
 ]   |   []   |   []
  []
 
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 118.
-LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 6.88817pt on input line 118.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 118.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 118.
-LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 5.90414pt on input line 118.
-LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
 (Font)              scaled to size 9.84024pt on input line 119.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
+(Font)              scaled to size 9.84024pt on input line 120.
 [2]
-Overfull \hbox (2.29033pt too wide) in paragraph at lines 122--123
+Overfull \hbox (2.29033pt too wide) in paragraph at lines 123--124
 \TU/MinionPro(0)/m/n/10 Points will not be awarded during weeks 1 & 2. Particip
 ation points will be awarded
  []
 
 [3]
-Overfull \hbox (16.33888pt too wide) in paragraph at lines 165--166
+Overfull \hbox (16.33888pt too wide) in paragraph at lines 168--169
 \TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
 ]http://scottoconnor.org/contact/[][]. 
  []
 
 [4]
-Overfull \hbox (11.40778pt too wide) in paragraph at lines 203--204
+Overfull \hbox (11.40778pt too wide) in paragraph at lines 206--207
 \TU/MinionPro(0)/m/n/10 email address. All assignments must be submitted throug
 h Blackboard by Sunday, 11:59pm.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--204
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
 
  []
 
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 208.
+(Font)              scaled to size 8.85622pt on input line 211.
 
-Overfull \hbox (7.9803pt too wide) in alignment at lines 206--245
+Overfull \hbox (7.9803pt too wide) in alignment at lines 209--248
  [] [] [] 
  []
 
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 6.88817pt on input line 251.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 251.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 251.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 5.90414pt on input line 251.
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--269
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
 []|\TU/MinionPro(0)/m/n/10 Research
  []
 
 
-Overfull \hbox (7.9803pt too wide) in alignment at lines 245--271
+Overfull \hbox (7.9803pt too wide) in alignment at lines 248--274
  [] [] [] 
  []
 
 [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 273.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 273.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 273.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 273.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
 Package rerunfilecheck Info: File `Syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
@@ -1499,7 +1499,7 @@ Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  36104 strings out of 492916
  659855 string characters out of 6133346
- 1440996 words of memory out of 5000000
+ 1441996 words of memory out of 5000000
  39870 multiletter control sequences out of 15000+600000
  535396 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
