@@ -135,13 +135,17 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 13: Aristotle 2**
 
----
-
-**Week 14: Presentations**
++ De Anima
 
 ---
 
-**Week 15: Experiential learning or alternative**
+**Week 14: Aristotle 3**
+
++ Nicomachean Ethics
+
+---
+
+**Week 15: Epicurus**
 
 ---
 
@@ -149,7 +153,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 17: Research project and experiential/alternative assignments due**
+**Week 17: Research project**
 
 ---
 
