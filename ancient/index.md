@@ -95,6 +95,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.5
 	  +  If you are interested in philosopher rulers and their education, read ch.6 and 7. 
 	+ [On the relationship between a just soul and just city](https://youtu.be/-oJs5u_GAYA)
+	+ [Plato on the good life](https://www.youtube.com/watch?v=-oJs5u_GAYA)
 	+ Allegory of the cave
 		+ [Orson Welles narration](https://www.youtube.com/watch?v=QFi8JUIwu2s)
 		+ [Another nice depiction](https://youtu.be/1RWOpQXTltA)
@@ -135,17 +136,35 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 **Week 13: Aristotle 2**
 
-+ De Anima
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.7
++ [Notes:](DA/Lecture.pdf)
 
 ---
 
 **Week 14: Aristotle 3**
 
-+ Nicomachean Ethics
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.8
+  + [Video on Aristotle's Ethics](https://www.youtube.com/watch?v=VFPBf1AZOQg)
+  + [Another video on Aristotle's virtue theory](https://www.youtube.com/watch?v=PrvtOWEXDIQ)
++ Notes
+  + [Note 1](NE1/Lecture.pdf)
+  + [Note 2](NE2/Lecture.pdf)
 
 ---
 
 **Week 15: Epicurus**
+
+
+
++ *Required Material*
+  + [*Hellenistic Philosophy,*](Hellenistics.pdf) pp.3--31
++ Notes
+  + [Note 1](Epicurus/epicurus.pdf)
+  + [Note 2](/Epicurus/Epicurus2.pdf)
+
+
 
 ---
 
