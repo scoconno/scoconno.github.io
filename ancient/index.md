@@ -160,6 +160,7 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 + *Required Material*
   + [*Hellenistic Philosophy,*](Hellenistics.pdf) pp.3--31
+  + [Wireless Philosophy Video on Epicrus](https://www.youtube.com/watch?v=E5f5smh7Keo)
 + Notes
   + [Note 1](Epicurus/epicurus.pdf)
   + [Note 2](/Epicurus/Epicurus2.pdf)
