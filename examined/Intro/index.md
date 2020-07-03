@@ -5,7 +5,6 @@ title: An Examined Life
 ---
 
 **Reading:**
-
 + [Chapter 1](ch1.pdf)
 
 **Notes:**
