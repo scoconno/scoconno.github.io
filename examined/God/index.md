@@ -23,14 +23,14 @@ title: A Religious Life
 + Wireless Philosophy's presentation of the cosmological argument: 
 	+ [Part 1:](https://www.youtube.com/watch?v=2zS1HiuWPMA)
 	+ [Part 2:](https://www.youtube.com/watch?v=mBMAMIFw9n4)
-+ [Stephen Fry on the problem of evil]((https://www.youtube.com/watch?v=-suvkwNYSQo)
++ [Stephen Fry on the problem of evil](https://www.youtube.com/watch?v=-suvkwNYSQo)
 + [Wireless Philosophy on the problem of evil](https://youtu.be/9pRzyioUKp0)
 
 
 **Optional Videos:**
 + [Crash Course on the problem of evil](https://www.youtube.com/watch?v=9AzNEG1GB-k)
 + [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
-+ [Crash Course](https://www.youtube.com/watch?v=7e9v_fsZB6A)
++ [Crash Course on the design argument](https://www.youtube.com/watch?v=7e9v_fsZB6A)
 
 
 
