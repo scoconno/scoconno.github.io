@@ -11,7 +11,7 @@ title: An Ethical Life
 
 **Optional Reading:**
 + [Kirinyaga](Kirinyaga.epub) (read ch.1.)
-+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer 
++ [‘A Piece of Advice’,](PieceOfAdvice.pdf) Isaac Bashevis Singer 
 
 **Notes:**
 + [Notes 1](Handout)
