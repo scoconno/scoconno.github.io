@@ -28,7 +28,6 @@ title: A Religious Life
 
 
 **Optional Videos:**
-
 + [Crash Course on the problem of evil](https://www.youtube.com/watch?v=9AzNEG1GB-k)
 + [The Cosmological Argument](https://www.youtube.com/watch?v=TgisehuGOyY)
 + [Crash Course](https://www.youtube.com/watch?v=7e9v_fsZB6A)

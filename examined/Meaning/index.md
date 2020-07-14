@@ -3,8 +3,6 @@ layout: examweekly
 title: A Meaningful Life
 ---
 
-## The Meaning of Life
-
 
 **Optional reading:**
 + [Tolstoy's 'My Confession'](Meaning/Confession.pdf)
