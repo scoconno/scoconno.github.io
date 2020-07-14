@@ -20,11 +20,10 @@ title: An Ethical Life
 + [Notes 4](Handout4)
 
 **Videos:**
-
-	+ [Crash Course](https://www.youtube.com/watch?v=-a739VjqdSI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=36)
-	+ [Julia Driver on Consequentialism](https://www.youtube.com/watch?v=hACdhD_kes8&feature=youtu.be)
-	+ [Kant's Ethics](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
-	+ [Crash Course on Kant](https://www.youtube.com/watch?v=8bIys6JoEDw)
-	+ [Crash Course on Aristotle](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=38)
++ [Crash Course](https://www.youtube.com/watch?v=-a739VjqdSI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=36)
++ [Julia Driver on Consequentialism](https://www.youtube.com/watch?v=hACdhD_kes8&feature=youtu.be)
++ [Kant's Ethics](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
++ [Crash Course on Kant](https://www.youtube.com/watch?v=8bIys6JoEDw)
++ [Crash Course on Aristotle](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=38)
 
 
