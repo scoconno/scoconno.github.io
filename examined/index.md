@@ -23,7 +23,7 @@ title: The Examined Life
 
 Links to notes, readings not in the textbook, and optional videos & readings are below by clicking the relevant links. Consult the syllabus for a full list of what is required for each week. 
 
-+ [Week 1: An Examined Life]
++ [Week 1: An Examined Life](Intro)
 + [Week 2: A Meaningful Life](Meaning)
 + [Week 3: A Religious Life](God)
 + [Week 4: A Free Life](FreeWill)

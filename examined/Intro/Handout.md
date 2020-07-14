@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: examweekly
 title: Critical Thinking Handout
 ---
 
@@ -7,7 +7,7 @@ title: Critical Thinking Handout
 
 # Work Sheet
 
-If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is [here](/Teaching/Examined/CT/Answers). **You do not submit answers to self-assessment exercises to me.**
+If you haven't read Ch.1.3 of the textbook, stop. Please read that first before turning to this handout, which is a summary/supplement to the textbook. You will find some **self-assessment** exercises below. The answer key is [here](/examined/Intro/Answers). **You do not submit answers to self-assessment exercises to me.**
 
 
 ## Introduction
@@ -40,7 +40,7 @@ I encourage you to read a section or two. Try the self-assessment exercises and 
 
 ## Arguments
 
-What is an argument? (You might find [this video helpful](http://www.wi-phi.com/video/intro-critical-thinking).)
+What is an argument? 
 
 **Argument:** 
 
