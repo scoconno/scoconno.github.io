@@ -1,20 +1,23 @@
 ---
-layout: default
+layout: examweekly
 title: An Ethical Life
 ---
 
-**Reading:** 
+**Required Reading:** 
++ ['A Horseman in the Sky' by Ambrose Pierce'](Horseman.pdf)
 
-	+ [Kirinyaga](Kirinyaga.epub) (read ch.1.)
-	+ ['A Horseman in the Sky' by Ambrose Pierce'](Horseman.pdf)
-	+ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer 
+**Self-insight:**
++ 'What Do You Believe? Cultural Relativism and Women's Rights', 152. Complete but do not submit to me. 
+
+**Optional Reading:**
++ [Kirinyaga](Kirinyaga.epub) (read ch.1.)
++ [‘A Piece of Advice’,](Ethics/PieceOfAdvice.pdf) Isaac Bashevis Singer 
 
 **Notes:**
-
-	+ [Notes 1](Handout)
-	+ [Notes 2](Handout2)
-	+ [Notes 3](Handout3)
-	+ [Notes 4](Handout4)
++ [Notes 1](Handout)
++ [Notes 2](Handout2)
++ [Notes 3](Handout3)
++ [Notes 4](Handout4)
 
 **Videos:**
 
