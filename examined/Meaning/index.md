@@ -5,7 +5,7 @@ title: A Meaningful Life
 
 
 **Optional reading:**
-+ [Tolstoy's 'My Confession'](Meaning/Confession.pdf)
++ [Tolstoy's 'My Confession'](Confession.pdf)
 
 **Self-Insight:**
 + 'What do you believe? What Can and Cannot give Life Meaning?', p.247. Complete but do not submit to me. 

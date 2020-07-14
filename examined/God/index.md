@@ -6,9 +6,9 @@ title: A Religious Life
 
 
 **Optional Reading:**
-+ ['Intelligent Design Has No Place in the Science Curriculum’](/Teaching/Examined/God/Intel.pdf), Harold Morowitz, Robert Hazen, and James Trefil
-+ ['Design for Living'](/Teaching/Examined/God/Des.pdf), Michael J. Behe
-+ ['Surprise! It’s Judgment Day’,](God/Surprise.pdf) Thomas Davis
++ ['Intelligent Design Has No Place in the Science Curriculum’](Intel.pdf), Harold Morowitz, Robert Hazen, and James Trefil
++ ['Design for Living'](Des.pdf), Michael J. Behe
++ ['Surprise! It’s Judgment Day’,](Surprise.pdf) Thomas Davis
 
 **Self-Insight:**
 + 'What do you believe? Hard-Wired for God?', p.63. Complete but do not submit to me. 
