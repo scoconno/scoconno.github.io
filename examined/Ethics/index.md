@@ -19,11 +19,19 @@ title: An Ethical Life
 + [Notes 3](Handout3)
 + [Notes 4](Handout4)
 
-**Videos:**
-+ [Crash Course](https://www.youtube.com/watch?v=-a739VjqdSI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=36)
-+ [Julia Driver on Consequentialism](https://www.youtube.com/watch?v=hACdhD_kes8&feature=youtu.be)
-+ [Kant's Ethics](https://www.youtube.com/watch?v=mQ2fvTvtzBM)
+**Required Videos:**
+
++ [Wireless Philosophy on Consequentialism](https://youtu.be/hACdhD_kes8)
++ Wireless Philosophy on Utilitarianism:
+	+ [Part 1](https://youtu.be/uvmz5E75ZIA)
+	+ [Part 2](https://youtu.be/uGDk23Q0S9E)
+	+ [Part 2](https://youtu.be/MoCuVa9UeR4)
 + [Crash Course on Kant](https://www.youtube.com/watch?v=8bIys6JoEDw)
-+ [Crash Course on Aristotle](https://www.youtube.com/watch?v=PrvtOWEXDIQ&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=38)
++ [Crash Course on Aristotle](https://youtu.be/PrvtOWEXDIQ)
+
+**Optional Videos:**
+
++ [Crash Course on Utilitarianism](https://www.youtube.com/watch?v=-a739VjqdSI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=36)
+
 
 
