@@ -12,7 +12,7 @@ If you haven't read Ch.1.3 of the textbook, stop. Please read that first before 
 
 ## Introduction
 
-Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophers have little patience for those who just state their views on some issue. They care about **the reasons** for accepting such views. These reasons come in the form of **arguments** which prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
+Don't be fooled by every day uses of the words 'philosophy', 'philosophical', and 'philosopher'. Being philosophical is not the same as merely stating your belief about some deep issue. Philosophers have little patience for those who just state their views. They care about **the reasons** for accepting such views. These reasons come in the form of **arguments** which prove those views true or false. So, don't expect us philosophers merely to respect your opinion. We will respect your good arguments and will expect you to provide them.
 
 Philosophy, then, is concerned with critical thinking, which we will define as follow:
 
@@ -22,7 +22,7 @@ Philosophy, then, is concerned with critical thinking, which we will define as f
 
 Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you formulate new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful or psychologically comforting they might be. 
 
-Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them and form the same belief. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
+Philosophy, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
 
 Second, you will be learning how to construct your own good arguments. If you want me or anyone else to accept any of your beliefs, say about taxation or religion or music, you need to provide me reasons for thinking your belief is true. You do that by providing me good arguments for that belief. 
 
@@ -83,7 +83,7 @@ Since reasons must be expressed by statements, a non-statement can never serve a
 
 Suppose that 2 expresses someone's sincerest belief. You know now that 1, since it is not a statement, could never be used to support that belief. So, you know that anyone who tries to prove 2 by claiming 1 is offering no real argument at all. 
 
-
+**NB: These are self-assessment exercises. Do not submit them to me. Use this answer key [here](/examined/Intro/Answers). There are more practice questions in the textbook.**
 
 ### Exercise 1:
 
@@ -134,7 +134,7 @@ This passage contains three statements. But none of these statements is clearly 
 
 > Alisha went to the bank to get a more recent bank statement of her checking account. The teller told her that the balance was $1725. Alisha was stunned that it was so low. She called her brother to see if he had been playing one of his twisted pranks. He wasn't. Finally, she concluded that she had been a victim of bank fraud.
 
-You might read a passage like this in a novel or a newspaper article. Don't be fooled by the apparently argumentative tone. It does not contain any argument at all. To see this, notice that the author is not trying to tell us why we too should accept that Alisha was the victim of bank fraud. In other words, telling us that Alisha came to have a belief is not the same as providing us reasons for thinking her belief is true. 
+You might read a passage like this in a novel or a newspaper. Don't be fooled by the apparently argumentative tone. It does not contain any argument at all. To see this, notice that the author is not trying to tell us why we too should accept that Alisha was the victim of bank fraud. In other words, telling us that Alisha came to have a belief is not the same as providing us reasons for thinking her belief is true. 
 
 ### Exercise 4:
 
@@ -146,9 +146,10 @@ Which of the following passages contain an argument? In the passages containing 
 
 > I don't understand what is happening to this country. The citizens of this country are trying to destroy the beliefs of our forefathers with their liberal views. This country was founded on Christian beliefs. This has been and I believe still is the greatest country in the world. But the issue that we cannot have prayer in public places and on public property because there has to be separation of church and state is a farce. [Letter to the editor, Douglas County Sentinel]
 
+**STOP: Are you struggling with this material? If so, have you read the Ch.1.3? These notes supplement and summarize the reading. They do not replace it. Read or re-read Ch.1.3 if you are lost.**
 
 ## Complex Passages
-It is often difficult to identify the core argument in a complex passage. You need to recognize which statements are parts of that argument, but also which statements are not parts of that argument. These other statements may serve some other role such as providing important background information, or explaining a premise, or explaining the consequences of accepting the conclusion, and so on. Try the following exercise before checking the answer key: 
+It is often difficult to identify the core argument in a complex passage. You need to recognize which statements are parts of that argument and also which statements are not parts of that argument. These other statements may serve some other role such as providing important background information, or explaining a premise, or explaining the consequences of accepting the conclusion, and so on. Try the following exercise before checking the answer key: 
 
 
 ### Exercise 5: 
@@ -167,7 +168,7 @@ In the following passages, identify those statements which are part of the argum
 
 ## Evaluating Arguments
 
-You can now distinguish statements from non-statements, identify which statements serve as premises and which as the conclusion, and extract the core argument from a piece of text. Our next job as philosophers is to decide whether an argument is a good one, i.e., do the reasons given by the premises prove that the claim stated in the conclusion is true? Good and bad arguments are distinguished as follows:
+You can now distinguish statements from non-statements, identify which statements serve as premises and which as the conclusion, and extract the core argument from a text. Our next job as philosophers is to decide whether an argument is a good one, i.e., do the reasons given by the premises prove that the claim stated in the conclusion is true? Good and bad arguments are distinguished as follows:
 
 A **good argument** has (1) solid logic (an appropriate connection between the premises and conclusion), and (2) true premises.  
 
@@ -177,13 +178,13 @@ What makes the connection appropriate will vary by the type of argument under co
 
 ## Deductive Arguments
 
-A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. (You find the [following video helpful](http://www.wi-phi.com/video/deductive-arguments).)
+A **deductive argument** is an argument intended to give logically conclusive support to its conclusion. 
 
-If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. See [here](http://www.wi-phi.com/video/validity) and [here](http://www.wi-phi.com/video/truth-and-validity) for more information on validity. 
+If a deductive argument has good logic, then the argument is **valid**. An argument is valid when the following situation obtains: if the premises are true, then the conclusion must be true. 
 
 Note that the premises do not need to be true for an argument to be valid. Assessing an argument for validity asks us to suppose/imagine/hypothesize that the premises are  true (even if we know they are false), and then determine whether the conclusion must also be true given that supposition. Or, to put it differently, we want to know if there is any possible way the premises could be true and the conclusion false. If there is not, the argument is valid. If there is, then the argument is invalid. 
 
-A deductive argument is **sound** when (a) the argument is valid, and (b) the premises are true. See [here](http://www.wi-phi.com/video/soundness) for more information on soundness. 	
+A deductive argument is **sound** when (a) the argument is valid, and (b) the premises are true. 	
 
 Note that a deductive argument can be valid without being sound. However, it cannot be both sound and invalid. 
 
