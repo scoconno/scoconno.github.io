@@ -3,6 +3,9 @@ layout: default
 title: Optimism with God
 ---
 
+
+![image](Tolstoy.jpg)
+
 # Optimism about the meaning of life: God
 
 ## Introduction 
@@ -46,6 +49,8 @@ Why did Tolstoy accept Premise 3? I suggested that Tolstoy assumes that a goal o
 Optimists claim the Tolstoy's arguments for Premises 2 and 3 fail. There are two versions of Optimism. The first version accepts Premises 1 and 2 but rejects Premise 3. They find external value in religion. The second type of Optimist accepts Premise 3, that life has no external value, but denies that internal value depends on there being external value, i.e., they deny Premise 2. The first type of Optimism is associated with Theism, the second with Atheism. This note discusses Theism. A subsequent note will discuss Atheism. 
 
 ## Theism 
+
+![image](god.jpg)
 
 Tolstoy did not remain depressed. He reports meeting and talking with rural farmers at a time in Russia when farmers lived a menial existence. They had nothing. Yet Tolstoy sees in these rural farmers an acceptance of life's vicissitudes. Reclaiming his faith, he realized that he had found value in the wrong things. His art, his family, etc., could never provide the meaning he had sought. None of these could live forever. But since God is an eternally perfect being, Tolstoy thought He could provide that value. These two claims summarize Tolstoy's new optimistic views:
 
