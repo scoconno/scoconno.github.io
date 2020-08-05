@@ -8,7 +8,7 @@ title: A Meaningful Life
 + [Tolstoy's 'My Confession'](Confession.pdf)
 
 **Self-Insight:**
-+ 'What do you believe? What Can and Cannot give Life Meaning?', p.247. Complete but do not submit to me. 
++ 'What do you believe? What Can and Cannot give Life Meaning?', p.427. Complete but do not submit to me. 
 
 **Notes:**
 + [Notes 1](Handout)
