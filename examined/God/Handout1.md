@@ -3,6 +3,7 @@ layout: default
 title: The Design Argument
 ---
 
+![image](world.gif)
 
 ## Introduction ##
 
@@ -19,6 +20,8 @@ One of our arguments for God's existence, the Design Argument, is a topic of pub
 The Design Argument begins by noting that the world and its inhabitants are beautifully complex entities. Consider the eye. Our ability to see requires incredibly fine calibrations of the light cones inside the eye. Some have argued that this complexity is evidence for God, an intelligent designer. These philosophers argue that the only way such complexity could exist is if God exists and created it.   
 
 One influential version of the Design Argument comes from William Paley, an English Philosopher who died in 1805. Paley asks us to imagine encountering a stone in a field. There is nothing surprising about the stone being in that field. It was likely there for an indefinite period of time. Now suppose you walk a little further in the field and encounter a watch. It's very likely that you will stop and ask yourself where the watch came from. It seems impossible that it could just have been in the field for an indefinite period of time. 
+
+![image](watch.jpg)
 
 Why? What distinguishes the watch from the stone? Upon inspecting the watch, you will discover that it has several parts that are put together for a purpose, e.g., the parts are so formed and adjusted as to produce motion, and that motion so regulated as to tell time. You also discover that if the different parts had been differently shaped, or of a different size, that the device would never have told time. 
 
@@ -37,6 +40,8 @@ Paley's interest is God, not watches. He discusses watches to illustrate a gener
 6. Therefore, God exists.
 
 Paley argued for Premise 1 *via* the analogy of the stone and watch. The reason why we think the watch was designed, but the stone was not, is precisely the fact that the parts of the watch are perfectly arranged for the purpose of telling time. The parts of a stone, on the other hand, are not arranged to achieve any obvious purpose. 
+
+![image](eye.jpg)
 
 Support for Premise 2 comes from our detailed studies of organisms and their parts. Any physiology textbook will tell you the purpose of each bodily system. Our heart pumps oxygenated blood to the extremities. Our eyes and hears collect information about our environment. Each of these bodily parts has a purpose that is achieved only because of the intricate make up of those parts; if the cones in the eye are not situated correctly, vision will not be produced. 
 
@@ -91,6 +96,8 @@ Our first three objections are easy to respond to, the fourth is not. In what fo
 
 
 ## A Fatal Objection?
+
+![image](evolution.gif)
 
 The most powerful objection to the Design Argument comes from evolutionary biology. For our purpose, we can take evolutionary biology to attack Premise 4. It claims that organisms came to be how they are, came to display the purposive behaviors that they do, by completely random forces. This is a philosophy course, so I won't assume that you have studied biology. Instead, I provide here two of the simplest and shortest YouTube videos that will help you understand the very basics of evolutionary biology: 
 
