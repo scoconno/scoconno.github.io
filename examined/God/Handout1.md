@@ -21,7 +21,7 @@ The Design Argument begins by noting that the world and its inhabitants are beau
 
 One influential version of the Design Argument comes from William Paley, an English Philosopher who died in 1805. Paley asks us to imagine encountering a stone in a field. There is nothing surprising about the stone being in that field. It was likely there for an indefinite period of time. Now suppose you walk a little further in the field and encounter a watch. It's very likely that you will stop and ask yourself where the watch came from. It seems impossible that it could just have been in the field for an indefinite period of time. 
 
-![image](watch.jpg)
+![image](watch.png)
 
 Why? What distinguishes the watch from the stone? Upon inspecting the watch, you will discover that it has several parts that are put together for a purpose, e.g., the parts are so formed and adjusted as to produce motion, and that motion so regulated as to tell time. You also discover that if the different parts had been differently shaped, or of a different size, that the device would never have told time. 
 
