@@ -13,7 +13,10 @@ You likely think that you have control of your own destiny, that you have power 
 Many things that seem a certain way are not that way. Some of you, like me, may have believed passionately in the existence of Santa Clause when you were children. You later came to learn that you were mistaken. In this module, we will be considering whether our belief in free will might be like a belief in Santa Clause, wholly mistaken. If we do not have free will, then it was not in my power to eat the salad even though I thought that it was. 
 
 
-Why would anyone reject the existence of something that seems so obvious? A belief in free will is central to our democracies, to our criminal justice systems, even to many of our religious world views. But many have thought that free will jars with our understanding of the physical universe. They point out that our actions are part of a long chain of causes and effects. And it seems that the facts about the earliest parts of the chain in conjunction with the laws of nature determine exactly how the rest of the chain must go; I can't choose my future because the past has already set it in stone. 
+Why would anyone reject the existence of something that seems so obvious? A belief in free will is central to our democracies, to our criminal justice systems, even to many of our religious world views. But many have thought that free will jars with our understanding of the physical universe. They point out that our actions are part of a long chain of causes and effects. And it seems that the facts about the earliest parts of the chain in conjunction with the laws of nature determine exactly how the rest of the chain must go; I can't choose my future because the past has already set it in stone. Here is a very good presentation of the concern: 
+
+<iframe src="https://player.vimeo.com/video/114396910" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/114396910">Causal Determinism as Shown by a Rube Goldberg Machine</a> from <a href="https://vimeo.com/user35433339">Avery Sheiner</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Causal Determinism
 
@@ -22,12 +25,16 @@ Our argument against free will relies on two claims, one a general claim that ap
 Causal Determinism:
 : Given a specified way things are at a time *t*, everything which happens at a time later than *t* is fixed as a matter of natural law.
 
-Consider a rock falling down a side of a mountain on Mars this morning. That rock was set in motion by some preceding event, perhaps a rover hit and dislodged it. Causal determinism says that the entire state of the universe this morning, including that rock falling down the mountain, was completely determined by the state of the universe at any time before this morning plus the laws governing motion, gravity, etc. This might seem far-fetched. But that's exactly what our scientific laws are; they determine how things will be in the future given how things are in the past. Suppose, then, there was a God like scientist. By knowing the state of the universe 1000 years ago plus all the rules governing our universe, our God-like scientist would know for certain that the rock was going to fall this morning. 
+![image](domino.gif)
+
+Assume the dominos are rocks. Consider a rock falling down a side of a mountain on Mars this morning. That rock was set in motion by some preceding event, perhaps a rover hit and dislodged it. Causal determinism says that the entire state of the universe this morning, including that rock falling down the mountain, was completely determined by the state of the universe at any time before this morning plus the laws governing motion, gravity, etc. This might seem far-fetched. But that's exactly what our scientific laws are; they determine how things will be in the future given how things are in the past. Suppose, then, there was a God like scientist. By knowing the state of the universe 1,000 years ago plus all the rules governing our universe, our God-like scientist would know for certain that the rock was going to fall this morning. 
 
 The problem is that Causal Determinism seems to jar with a fairly ordinary sense of free will. 
 
 Free Will:
 : An agent, S, freely chooses to do F at time *t1* if and only if it was S's power at time *t1* to bring either F or not F about. 
+
+![image](choice.jpg()
 
 Suppose Mike Tyson force feeds me some cake. No one would claim that I ate that cake freely. Since it was not in my power to not eat the cake, the eating was not in my power at all. Similarly, if you were forced to take a job, or forced to take a course, and it was not in your power to do otherwise, you would not be taking that job or pursuing that course of your own free will. If you don't have the power to do otherwise, then it was never in your power in the first place. The problem is that Causal Determinism seems to say that it is never in our power to do otherwise: 
 
@@ -61,7 +68,7 @@ Recall the Free Will Problem:
 3. Therefore, if determinism is true, no one acts of her own free will. 
 
 
-Causal determinism says that states of the universe, including what you are doing at any particular time, are completely determined by how the universe was in the past, even the far far past, plus the laws of nature. If that is true, then my eating  cake right now was causally determined, it was already set in stone that I would eat it and I had no power to do otherwise.  Our concern in this handout is compatibilism, which tries to reconcile this fact about our actions with free will. It does so by rejecting premise 1 of the above argument. 
+Causal determinism says that states of the universe, including what you are doing at any particular time, are completely determined by how the universe was in the past, even the far past, plus the laws of nature. If that is true, then my eating  cake right now was causally determined; it was already set in stone that I would eat it and I had no power to do otherwise.  Our concern here is compatibilism, which tries to reconcile this fact about our actions with free will. It does so by rejecting premise 1 of the above argument. 
 
 
 While the compatibilist accepts causal determinism, they claim that humans are still morally responsible for their behavior and deserving of blame and punishment. If a person is morally responsible for their behavior, then they must be the source of their own conduct. Compatibilists offer an account of what it means for us to be the source of our own conduct that is supposedly compatible with causal determinism. The first move in motivating compatibilism is to distinguish between two notions of 'free will'. 
