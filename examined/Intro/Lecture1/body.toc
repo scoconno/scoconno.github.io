@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Why Philosophy?}{2}{0}{1}
+\beamer@sectionintoc {2}{Philosophy Pays}{4}{0}{2}
+\beamer@sectionintoc {3}{Philosophy Makes You Smart}{10}{0}{3}
+\beamer@sectionintoc {4}{How Philosophy Helps}{14}{0}{4}
+\beamer@sectionintoc {5}{The Intrinsic Value of Philosophy: Liberation}{17}{0}{5}
