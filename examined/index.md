@@ -31,7 +31,7 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 
 
-
+![image](hopper.jpg)
 
 
 
