@@ -6,13 +6,9 @@ title: Ancient Philosophy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HF09PRMQ7Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Course Information
 
-Welcome to the course website for *Ancient Philosophy*.  There are two sections of this course, HON 360: 
-
-+ [HON 360 Syllabus](Syllabus.pdf)
+Welcome to the course website for *Ancient Philosophy*.  
++ [Syllabus](Syllabus.pdf)
 + [Ancient Philosophy Resources](resources)
-+ [How to answer Gobbets](Guide.pdf)
-+ [Independent Research Project](project) 
-
 
 
 ## Additional materials and notes
