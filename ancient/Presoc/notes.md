@@ -3,6 +3,13 @@ layout: ancientweekly
 title: Homeric Ethics
 ---
 
+Discuss extent to which various aspects of this are supported by observation; shape seems ok; fire rises so that seems to support the idea that the upper reaches of the heaven would be composed of fire; sur- rounding river? more difficult to support; maybe reports from sailors?
+• Ethical: Homer’s Iliad and Odyssey were often viewed as providing the ideal moral code. The actions and characters of the heroes depicted therein were taken as models to emulate. The philosophers we deal with can all be expected to have been very familiar with Homer.
+– Aretê is emphasized. “Aretê” is often translated as “virtue,” and there are points of contact. But it means more generally, “excellence,” being the best X or being the best at -ing. So, traditional virtues like courage, justice, temperance, wisdom, were emphasized, but also physical strength, quickness of mind (including deviousness), etc..
+– Getting what one wants (sometimes irrespective of how it affects other people) is taken as a sign of being a successful person.
+– Honor and esteem of one’s fellow citizens highly valued. Material honors highly valued. Slights were taken seriously and viewed as requiring response.
+– Reverenceforthegodsemphasized.
+
 
 
 #### Major themes
