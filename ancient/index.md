@@ -13,7 +13,7 @@ Welcome to the course website for *Ancient Philosophy*.
 
 ## Additional materials and notes
 
-The syllabus details our schedule of readings from the course texts. I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally edit and improve my notes each time I offer this course, so please take the posted notes as tentative. **All assignments can be found by clicking the relevant link in Blackboard.**
+The syllabus details our schedule of readings from the course texts. **Consult the syllabus first and read whatever is assigned there first.** I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally edit and improve my notes each time I offer this course, so please take the posted notes as tentative. **All assignments can be found in Blackboard.**
 
 **Week 1: Introduction**
 
@@ -21,13 +21,12 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 **Week 2: Presocratics**
++ [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
 
-+ [Reading,](/ancient/Shields2.pdf) read chapter 1
-+ *Notes:* [Presocratics](Presoc/Lecture2.pdf)
-+ [Gobbet Example:](Euthyphro/GobbetExample) this is a sample. Your first gobbets are due next week. We will discuss this in class. 
+
 
 ---
-**Week 3: Socratic Epistemology**
+**Week 3: Socratic Epistemology 1**
 
 + Reading: If you have yet to purchase the textbook, you can print the dialogs from the linked website. You must have a copy of the reading in class with you.
 	+ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). 
@@ -36,34 +35,38 @@ The syllabus details our schedule of readings from the course texts. I include h
 	+ [Euthyphro](Euthyphro/Lecture4.pdf)
 	+ [Meno](Meno/Meno.pdf)
 		+ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
+---
+
+
+**Week 4: Socratic Epistemology 2**
 
 ---
 
-**Week 4: Socrates' Trial and Defense**
+**Week 5: Socrates' Ethics 1**
+
+---
+
+**Week 6: Socrates' Ethics 2**
+
 
 + *Notes*
 	+ [Notes 1](Apology/Lecture5.pdf)
 	+ [Notes 2](Crito/crito.pdf)
 	
-+ [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
+
 
 ---
 
-**Week 5: Socrates's Death**
+**Week 7: Socrates' Metaphysics 1**
 
 + [Notes](Phaedo/phaedo.pdf)
 
 ---
 
-**Week 6: Socratic Metaphysics**
+**Week 8: Socratic Metaphysics 2**
 
 + [Notes](Phaedo/phaedo2.pdf) 
 
----
-
-**Week 7: Socrates' Immortality**
-
-+ [Notes](Phaedo/phaedo2.pdf) 
 
 ---
 
@@ -71,8 +74,8 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 + *Additional Material*
 	
-+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.47--88, and 99--104.  
-	
++ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.3--23, pp.47--88, and 99--104.  
+
 + *Notes:* 
 	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
 	+ [Justice in the City](Republic1/Lecture2.pdf)
@@ -110,31 +113,49 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 12: Aristotle 1**
+**Week 12: Aristotle Introduced**
 
 + *Additional Required Material*
-  + See my video introduction to Aristotle in Backboard. 
-  + [*Aristotle,*](Shields.pdf) ch.2
-+ *Additional Optional Material*
-  + [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology. 
-  + [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
-  + [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
-+ Notes:
+	+ [Reading,](/ancient/Shields2.pdf) read chapter 1
+	+ [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
++ Notes
+	+ [Presocratics](Presoc/Lecture2.pdf)
   + [Knowledge](PA/Lecture.pdf)
-  + [Matter and Form](Physics/Lecture.pdf)
++ Additional Optional Material
++ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
+
+  
+
+
+
+  
+
+ 
+---
+
+**Week 13: Aristotle the scientist**
+
++ Additional required material:  
+  + [*Aristotle,*](Shields.pdf) ch.2
++ Notes: 
+	+ [Matter and Form](Physics/Lecture.pdf)
   + [The Four Causes](Physics2/Lecture1.pdf)
++ *Additional Optional Material*
+  + [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology.
 
 ---
 
-**Week 13: Aristotle 2**
+**Week 14: Aristotle the philosopher of mind**
 
 + *Additional Required Material*
   + [*Aristotle,*](Shields.pdf) ch.7
-+ [Notes:](DA/Lecture.pdf)
++ Notes:
+	+ [Mind/Body](DA/Lecture.pdf)
+	
 
 ---
 
-**Week 14: Aristotle 3**
+**Week 15: Aristotle the ethicist**
 
 + *Additional Required Material*
   + [*Aristotle,*](Shields.pdf) ch.8
@@ -146,30 +167,17 @@ The syllabus details our schedule of readings from the course texts. I include h
 
 ---
 
-**Week 15: Epicurus**
+**Week 16: No classes**
+
+---
 
 
-
-+ *Required Material*
++ *Extra Material*
   + [*Hellenistic Philosophy,*](Hellenistics.pdf) pp.3--31
   + [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
 + Notes
   + [Note 1](Epicurus/epicurus.pdf)
   + [Note 2](/Epicurus/Epicurus2.pdf)
-
-
-
----
-
-**Week 16: No classes**
-
----
-
-**Week 17: Research project**
-
----
-
-
 
 
 
