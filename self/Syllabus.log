@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  3 AUG 2021 11:49
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  31 AUG 2021 21:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1416,29 +1416,299 @@ LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
  [2] [3]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
 (Font)              scaled to size 9.84024pt on input line 154.
- [4]
+ [4] [5]
 Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
 (Font)              scaled to size 8.85622pt on input line 198.
+./Syllabus.tex:206: Misplaced \noalign.
+<recently read> \noalign 
+                         
+l.206 ...^I^^I        ^^I^^I^^I& ^^I^^I^^I& \hline
+                                                    \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:206: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.206 ...I        ^^I^^I^^I& ^^I^^I^^I& \hline  \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:206: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.206 ...I        ^^I^^I^^I& ^^I^^I^^I& \hline  \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:209: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.209 ...& \emph{and Immortality}, J. Perry \hline
+                                                     \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:209: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.209 ...ph{and Immortality}, J. Perry \hline   \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:209: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.209 ...ph{and Immortality}, J. Perry \hline   \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:212: Misplaced \noalign.
+<recently read> \noalign 
+                         
+l.212 ...^I^^I^^I^^I ^^I& (due 9/19)^^I^^I& \hline
+                                                     \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:212: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.212 ...^^I^^I ^^I& (due 9/19)^^I^^I& \hline   \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:212: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.212 ...^^I^^I ^^I& (due 9/19)^^I^^I& \hline   \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:215: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.215 ...I& --DIAL, \emph{Monday}, pp.1--13 \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:215: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.215 ...--DIAL, \emph{Monday}, pp.1--13 \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:215: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.215 ...--DIAL, \emph{Monday}, pp.1--13 \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:218: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.218 ...I&--DIAL, \emph{Monday}, pp.13--23 \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:218: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.218 ...-DIAL, \emph{Monday}, pp.13--23 \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:218: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.218 ...-DIAL, \emph{Monday}, pp.13--23 \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:221: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.221 ...The Concept of Mind}, Gilbert Ryle \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:221: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.221 ... Concept of Mind}, Gilbert Ryle \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:221: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.221 ... Concept of Mind}, Gilbert Ryle \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:224: Misplaced \noalign.
+<recently read> \noalign 
+                         
+l.224 ...        ^^I^^I& (due 10/17)^^I^^I& \hline
+                                                   \\  [1.8\baselineskip]
+? 
+./Syllabus.tex:224: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.224 ...     ^^I^^I& (due 10/17)^^I^^I& \hline \\
+                                                    [1.8\baselineskip]
+? 
+./Syllabus.tex:224: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.224 ...     ^^I^^I& (due 10/17)^^I^^I& \hline \\
+                                                    [1.8\baselineskip]
+? 
+./Syllabus.tex:228: Misplaced \noalign.
+<recently read> \noalign 
+                         
+l.228 ...^^I^^I        & (due 10/24)^^I^^I& \hline
+                                                   \\  [1.8\baselineskip]^^I
+? 
+./Syllabus.tex:228: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.228 ...^^I        & (due 10/24)^^I^^I& \hline \\
+                                                    [1.8\baselineskip]^^I
+? 
+./Syllabus.tex:228: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.228 ...^^I        & (due 10/24)^^I^^I& \hline \\
+                                                    [1.8\baselineskip]^^I
+? 
+./Syllabus.tex:232: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.232 ...ry and Intelligence'', A.M. Turing \hline
+                                                   \\  [1.8\baselineskip]
+? 
+./Syllabus.tex:232: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.232 ...and Intelligence'', A.M. Turing \hline \\
+                                                    [1.8\baselineskip]
+? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 232--232
 []|\TU/MinionPro(0)/m/n/10 –**“Computing Machinery and Intelli-
  []
 
+./Syllabus.tex:232: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.232 ...and Intelligence'', A.M. Turing \hline \\
+                                                    [1.8\baselineskip]
+? 
 
 Overfull \hbox (50.65942pt too wide) in alignment at lines 196--232
  [] [] [] 
  []
 
+./Syllabus.tex:235: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.235 ...Brains, and Programs'', J.  Searle \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:235: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.235 ...ins, and Programs'', J.  Searle \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:235: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.235 ...ins, and Programs'', J.  Searle \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:238: Misplaced \noalign.
+\midrule ->\noalign 
+                    {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
+l.238 ...n'', sections 1-4, 7-8, S. Yablo \midrule
+                                                   \\  [1.8\baselineskip]
+? 
+./Syllabus.tex:238: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.238 ..., sections 1-4, 7-8, S. Yablo \midrule \\
+                                                    [1.8\baselineskip]
+? 
+./Syllabus.tex:238: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.238 ..., sections 1-4, 7-8, S. Yablo \midrule \\
+                                                    [1.8\baselineskip]
+? 
+./Syllabus.tex:242: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.242 ...s it like to be a bat?'', T. Nagel \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:242: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.242 ...t like to be a bat?'', T. Nagel \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:242: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.242 ...t like to be a bat?'', T. Nagel \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:245: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.245 ...-**``Knowing Our Minds'', A. Byrne \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:245: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.245 ...``Knowing Our Minds'', A. Byrne \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:245: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.245 ...``Knowing Our Minds'', A. Byrne \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:250: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.250 ...Epiphenomenal Qualia'', F. Jackson \hline
+                                                   \\ [1.8\baselineskip]
+? 
+./Syllabus.tex:250: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.250 ...phenomenal Qualia'', F. Jackson \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:250: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.250 ...phenomenal Qualia'', F. Jackson \hline \\
+                                                   [1.8\baselineskip]
+? 
+./Syllabus.tex:254: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
+l.254 ...  --DIAL, \emph{Friday}, pp.61--70 \hline
+                                                   \\  [1.8\baselineskip]
+? 
+./Syllabus.tex:254: Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.254 ...-DIAL, \emph{Friday}, pp.61--70 \hline \\
+                                                    [1.8\baselineskip]
+? 
+./Syllabus.tex:254: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.254 ...-DIAL, \emph{Friday}, pp.61--70 \hline \\
+                                                    [1.8\baselineskip]
+? 
 
 Overfull \hbox (50.65942pt too wide) in alignment at lines 232--260
  [] [] [] 
  []
 
-[5] [6]
+[6] [7]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
  (./Syllabus.aux)
@@ -1459,4 +1729,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  52i,11n,116p,1153b,6232s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Syllabus.pdf (6 pages).
+Output written on Syllabus.pdf (7 pages).

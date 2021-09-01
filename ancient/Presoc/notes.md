@@ -20,7 +20,7 @@ The Greeks do not have a bible. The closest they have is *The Odyssey* and *The 
 
 The *Illiad* begins: 
 
-> Sing, Goddess, of the rage of Peleus' son Achilles, the accursed rage that brought great suffering to the Achaeans, 
+> Sing, Goddess, of the rage of Peleus' son Achilles, the accursed rage that brought great suffering to the Achaeans. 
 
 + It's set about 1200 BC, but homer lived about 800 BC. 
 + Zeus asks Paris, a prince of Troy, to judge which of the goddesses, Hera, Athena, and Aphrodite is the fairest. 
