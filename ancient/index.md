@@ -35,10 +35,12 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 	+ [Euthyphro](Euthyphro/Lecture4.pdf)
 	+ [Meno](Meno/Meno.pdf)
 		+ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
+
 ---
 
-
 **Week 4: Socratic Epistemology 2**
+	+ [Theaetetus])(theaetetus/text.pdf). Read until 186e. Read 161a-171c very carefully. 
+
 
 ---
 
