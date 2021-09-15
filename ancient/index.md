@@ -39,7 +39,7 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 ---
 
 **Week 4: Socratic Epistemology 2**
-	+ [Theaetetus])(theaetetus/text.pdf). Read until 186e. Read 161a-171c very carefully. 
+	+ [Theaetetus](theaetetus/text.pdf). Read until 186e. Read 161a-171c very carefully. 
 
 
 ---
