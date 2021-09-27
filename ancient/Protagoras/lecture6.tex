@@ -1,76 +1,70 @@
-% !TEX encoding = UTF-8 Unicode
-% !TEX TS-program = xelatex
+\documentclass[oneside]{article}
+ \headheight = 25pt
+\footskip = 20pt
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\renewcommand{\rmdefault}{ppl}
+\usepackage{fancyhdr}
+ \pagestyle{fancy}
+ \lhead{\textbf{\textsc{\small Scott O'Connor\\Ancient Philosophy}}}
+ \chead{}
+ \rhead{\large\textbf{\textsc{Protagoras}}}
+ \lfoot{\footnotesize{\thepage}}
+ \cfoot{}
+ \rfoot{}
+ \usepackage{longtable,booktabs}
+\tolerance=700
 
-\documentclass[11pt]{article}
-\usepackage{fontspec}
-\defaultfontfeatures{Mapping=tex-text}
-\usepackage{xunicode}
-\usepackage{xltxtra}
-\usepackage{verbatim}
-\usepackage[margin= 1 in]{geometry} % see geometry.pdf on how to lay out the page. There's lots.
-\geometry{letterpaper} % or letter or a5paper or ... etc
-%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent 
-\usepackage{mathrsfs}
-\usepackage{bbding}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{natbib}
-\usepackage{stmaryrd}
-%\usepackage{mathpartir}
-\usepackage{txfonts}
-\usepackage{graphicx}
-\usepackage{fullpage}
-\usepackage{hyperref}
-\usepackage{amssymb}
-\usepackage{epstopdf}
-\usepackage{fontspec}
-%\setmainfont{Hoefler Text}
-\setmainfont[BoldFont={Minion Pro Bold}]{Minion Pro}
-\usepackage{hyperref}
-\usepackage{lastpage, fancyhdr}
-%\usepackage{setspace}
-\pagestyle{fancy}
-\lhead{}
-\chead{Lecture 6, Plato's \emph{Protagoras}\space---\space Handout} 
-\rhead{}
-\lfoot{}
-\cfoot{\thepage\space of \pageref{LastPage}} 
-\rfoot{}
-\footskip=30 pt
-\headsep=20pt
-\thispagestyle{empty}
-\hypersetup{colorlinks=true, linkcolor=Sepia, urlcolor=Sepia, citecolor=BrickRed}
-\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
-\usepackage{polyglossia}
-\setdefaultlanguage{english}
-\setotherlanguage{greek}
-\newfontfamily\greekfont{Gentium Plus}
-\newcommand{\gk}[1]{\textgreek{#1}}
-\newcommand{\gloss}[1]{(\textgreek{#1})}
-
-\usepackage{covington}
-\usepackage{fixltx2e}
-\usepackage{graphicx}
 \begin{document}
+\section*{Introduction}
 
-%\maketitle
-\thispagestyle{empty}
-\begin{center} \LARGE{PHIL 321\\ Lecture 6: Plato's \emph{Protagoras} (348c-end)}\\ \vspace*{2mm}
-\large{9/17/2013}\end{center}
-\thispagestyle{empty}\vspace*{3mm}
-\vspace*{-8mm}
+\begin{quote}
+\emph{Protagoras took it from there and said, ``Young man, this is what you will get if you study with me: The very day you start, you will go home a better man, and the same thing will happen the day after. Every day, day after day, you will get better and better.''}
 
-\section*{317e-334c}
+\emph{but if he comes to me he will learn only what he has come for. What I teach is sound deliberation, both in domestic matters--how best to manage one`s household, and in public affairs---how to realize one's maximum potential for success in political debate and action}
+\end{quote}
 
-\noindent Protagoras (a well-known sophist) claims to teach his students ``sound deliberation'' (\emph{euboulia}), which Socrates equates with the ``art of citizenship'' (\emph{politik\^{e} techn\^{e}}) and ``virtue'' (\emph{aret\^{e}})
+\noindent The dialogue starts with Socrates and a friend, Hippocrates, in conversation. Hippocrates very clearly wants to succeed in life and he has heard that Protagoras is a teacher of the skills and qualities necessary for such success. So he asks Socrates to entreat Protagoras on his behalf. Socrates, however, asks Hippocrates whether he knows what it is that Protagoras is supposed to teach people, that is supposed to make them better. Hippocrates is shown to be unclear on the matter. So, when they finally achieve admittance, Socrates sets about trying to figure out what exactly it is that Protagoras teaches. Protagoras (a well-known sophist) claims to teach his students ``sound deliberation'' (\emph{euboulia}), which Socrates equates with the ``art of citizenship'' (\emph{politik\^{e} techn\^{e}}) and ``virtue'' (\emph{aret\^{e}}). 
 \vspace*{2mm}
 
-\noindent S wonders whether virtue can be taught (P's claim presupposes that it can)
+\noindent S wonders whether virtue can be taught (P's claim presupposes that it can). This was a much discussed issue. Could teaching bring about those characteristics that ensure good living and happiness? It's connected to the idea Socrates goes on to explore, whether virtue is knowledge/understanding? If we assume that teachers transmit knowledge to their students, and if virtue is teachable, then it seems that virtue needs to be knowledge. By the end of the dialog, Socrates will argue that virtue is knowledge/understanding. A consequence of this is that people only act wrongly through ignorance. No one knowingly does wrong. One overarching concern is whether there is a shift in Socrates's position At 319a, he provides proof that virtue cannot be taught. But if he believes that virtue is knowledge, why does he think it cannot be taught? Our overall interest in what follows is the following: 
+
+Socrates offers two grounds for skepticism about whether virtue can be, or is, taught.
+1. On moral and political matters the Athenians let everyone speak and do not appeal to experts (319b4-e1).
+2. Those who are acknowledged to be good citizens produce offspring who are not virtuous (319e1-320b4).
+
+
+\begin{itemize}
+\item The unity of the virtues
+\item Hedonism
+\item Weakness of the will
+\item Virtue and knowledge}
+
 \vspace*{2mm}
+
+
+
+\section*{The Unity of the Virtues}
+\begin{quote} \emph{You've made this point yourself, and with good reason, I might add. But when the debate involves political excellence, which must proceed entirely from justice and temperance, they accept advice from anyone, and with good reason, for they think that this particular virtue, political or civic virtue, is shared by all, or there wouldn't be any cities. This must be the explanation for it, Socrates.}
+\end{quote}
+
+
+"This, then, is my first point: It is reasonable to admit everyone as an adviser on this virtue, on the grounds that everyone has some share of it. Next I will attempt to show that people do not regard this virtue as natural or self-generated, but as something taught and carefully developed in those in whom it is developed.
+
+Protagoras replies in the Great Speech (320c9-322d6) and directly (322d6-328d3).
+1. All Athenians are experts or knowledgeable.
+2. Justice (virtue) is a necessary condition of political community (323a1-4, 324d8-325a3).
+3. Native affective and cognitive differences enable some to benefit more from training in
+virtue than others (327b8-c4).
+4. The Athenians evidently believe that virtue can be taught as evidenced by their practices of
+punishment (323d6-324d1) and their concern with private training in virtue (325ac5- 326e5).
+
 
 \noindent S asks P, ``Is virtue a single thing, with justice and temperance and piety its parts, or are the things I have just listed all names for a single entity'' (329d) Two options for ``parts'':
-\vspace*{2mm}
-
-\begin{itemize}\item{[A] In the sense in which the mouth, nose, eyes, and ears are parts of the face (heterogenous parts)}\item{[B] In the sense in which there are ``parts'' of a block of gold (homogenous parts)}\end{itemize}
+\begin{itemize}
+\item[A] In the sense in which the mouth, nose, eyes, and ears are parts of the face (heterogenous parts)
+\item[B] In the sense in which there are ``parts'' of a block of gold (homogenous parts)
+\end{itemize}
 \vspace*{2mm}
 
 \noindent S asks further whether someone can have some parts of virtue \emph{without} having all of them
@@ -86,16 +80,24 @@
 \noindent [A] Pleasant things are good insofar as they are pleasant (pleasure is \emph{a} good)
 \vspace*{2mm}
 
-\noindent [B] Pleasant things alone are good (pleasure is \emph{the} good)
+\noindent [B] Pleasant things alone are good (pleasure is \emph{the} good
 
-\begin{itemize}\item{[B1]: One's present pleasure is the good}\item{[B2]: Maximized pleasure is the good (S attributes this view to the many, 354a-c)}\end{itemize}
+\begin{itemize}
+\item[B1]  One`s present pleasure is the good
+\item[B2]  Maximized pleasure is the good
+\begin{itemize}
+\item S attributes this view to the many, 354a-c
+\item An action is good just to the degree that it partakes in or produces pleasure; it is good or bad overall just to the degree that it produces maximized pleasure or pain--i.e. taking the subsequent effects of the action into account.
+\end{itemize}
+\end{itemize}
+
 \vspace*{2mm}
 
 \noindent S also assumes that all pleasures and pains are ``commensurable''---all pleasures and pains can be weighed against each other; thus, in principle, all pleasures and pains can be ranked
 
-\section*{The experience of ``\emph{akrasia},'' (``being overcome,'' ``lack of self-control,'' ``weakness of will''), as reported by ``the many'' (\emph{hoi polloi})}
+\section*{The experience of ``\emph{akrasia}''}
 
-\noindent One's knowledge (\emph{epist\^{e}m\^{e}}) that an action is bad can be overcome by desire, pleasure, pain, love, fear, etc. (352b, d, 353c)
+Akrasia means something like ``being overcome,'' ``lack of self-control,'' ``weakness of will'', as reported by ``the many'' (\emph{hoi polloi}). One's knowledge (\emph{epist\^{e}m\^{e}}) that an action is bad can be overcome by desire, pleasure, pain, love, fear, etc. (352b, d, 353c)
 \vspace*{2mm}
 
 \noindent Two explicit versions:
@@ -132,13 +134,23 @@
  \noindent [P5] So in both cases, X chose to do what X knew was worse/more painful instead of what was less bad or less painful
  \vspace*{2mm}
  
- \noindent \underline{[P6] It is impossible to choose the worse of two alternatives when you know (or believe?) it to be the worst}
- \vspace*{2mm}
+ \noindent [P6] It is impossible to choose the worse of two alternatives when you know (or believe?) it to be the worst
  
+ \vspace*{2mm}
+ \begin{itemize}
+ \item  358d: S claims that it is not in human nature to go to the bad because everyone wants to be happy.
+ \item There can only be desires for the good. And every action, to be an intentional action, must be preceded (and caused by the judgment that the action is good
+ \item There is only one kind of desire--rational or ``maximizing' desire. What might appear `irrational desires' can be redescribed as (mistaken) beliefs about value 358d5. 
+ \item Note the distinction between intentional action and compelled action
+ \end{itemize}
+
  \noindent [C] Therefore, it is only ignorance of the relative weights of the alternatives that can explain X's selection of the worse
 \vspace*{2mm}
  
  \noindent S re-describes the akratic situation as being a manifestation of ``ignorance'' (\emph{amathia})---the ``power of appearance'' leads a person to miscalculate the relative weight of an immediate pleasure (e.g. just as seeing something in a distance can lead us to judge (mistakenly) that it is smaller than something that is up close)
+ \begin{itemize}
+ \item If the hedonistic thesis is true, and if Socrates' argument is successful, virtue will be knowledge: knowledge of the relative weights of pleasures/pains will be sufficient to produce happiness
+ \end{itemize}
  \vspace*{2mm}
  
  \noindent S uses this conclusion to argue that even courage is a kind of knowledge/understanding, namely knowledge of ``what is and is not to be feared'' (360d8-9)
