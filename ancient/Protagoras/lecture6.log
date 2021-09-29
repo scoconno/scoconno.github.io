@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  25 SEP 2021 15:12
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  28 SEP 2021 21:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -112,47 +112,48 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 19.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 42.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsppl.fd
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 43.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 43.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 43.
+LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 43.
+[1
+
+] [2] [3]
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 109.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 118.
+
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 46.
-LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 46.
-LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 46.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 46.
-LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 46.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
 
-]
-LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 68.
- [2]
+[4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 97.
+(Font)              <7> on input line 142.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 97.
-
-[3]
-Overfull \hbox (40.15521pt too wide) in paragraph at lines 126--127
+(Font)              <5> on input line 142.
+ [5]
+Overfull \hbox (40.15521pt too wide) in paragraph at lines 171--172
 \T1/ppl/m/n/10 S uses this con-clu-sion to ar-gue that even courage is a kind o
 f knowl-edge/understanding,
  []
 
-[4] (./lecture6.aux) ) 
+[6] (./lecture6.aux) ) 
 Here is how much of TeX's memory you used:
  832 strings out of 492916
  9647 string characters out of 6133346
- 71790 words of memory out of 5000000
+ 72790 words of memory out of 5000000
  4933 multiletter control sequences out of 15000+600000
  18959 words of font info for 28 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 35i,11n,43p,877b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,11n,43p,1185b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on lecture6.pdf (4 pages).
+Output written on lecture6.pdf (6 pages).
