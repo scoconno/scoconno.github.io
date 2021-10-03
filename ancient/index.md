@@ -42,13 +42,17 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 
 + [Theaetetus](theaetetus/text.pdf). Read until 186e. Read 161a-171c very carefully. 
 
-+ Notes
++ *Notes*
 	+ [Monday](theaetetus/lecture1.pdf)
 	+ [Wednesday](theaetetus/lecture2.pdf)
 
 ---
 
 **Week 5: Socrates' Ethics 1**
+
++ *Notes*
+	+ [Notes 1](Protagoras/lecture6.pdf)
+
 
 ---
 
