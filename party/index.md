@@ -8,8 +8,8 @@ title: Party
 
 ![image](pirate.jpeg)
 
-
-Finley is turning 4! Please join us for a Halloween birthday party. 
+## Details Here
+Finley is turning 4! Please join us for a Halloween birthday party. Siblings welcome!
 
 + Location: Pavilion, Congers Lake Memorial Park, 6 Gilchrest Rd, Congers, NY 10920
 + Time: October, 31st, 2021, 10:00am
@@ -21,9 +21,7 @@ We will meet under the pavilion. Please park near the dog run. See the below ima
 ![image](pavilion.jpeg) 
 
 
+## RSVP Here
 
-
-
-RSVP here
-
+Please RSVP by filling out this form. 
 
