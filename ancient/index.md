@@ -69,13 +69,15 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 
 **Week 7: Socrates' Metaphysics 1**
 
-+ [Notes](Phaedo/phaedo.pdf)
++ *Notes:*
+	+ [Notes 1](Phaedo/phaedo.pdf)
+	+ [Notes 2](Phaedo/phaedo2.pdf) 
 
 ---
 
 **Week 8: Socratic Metaphysics 2**
 
-+ [Notes](Phaedo/phaedo2.pdf) 
++ [Notes](Phaedo/phaedo3.pdf)
 
 
 ---
