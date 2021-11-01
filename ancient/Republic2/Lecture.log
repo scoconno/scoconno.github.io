@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  20 MAR 2020 12:28
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  31 OCT 2021 20:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -32,6 +32,11 @@ Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
 (/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
@@ -95,6 +100,8 @@ LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
@@ -114,35 +121,24 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
 (Font)              Font shape `T1/ppl/b/sc' tried instead on input line 43.
 
-[1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1
 
-]
-[2]
+] [2]
 LaTeX Font Info:    Try loading font information for OMS+ppl on input line 65.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
- [3]
-[4] (./Lecture.aux) ) 
-Here is how much of TeX's memory you used:
- 803 strings out of 492616
- 8797 string characters out of 6129482
- 69487 words of memory out of 5000000
- 4767 multiletter control sequences out of 15000+600000
- 19081 words of font info for 32 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 31i,11n,43p,1177b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8
-r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Lecture.pdf (4 pages, 66505 bytes).
-PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+[3] [4] (./Lecture.aux) ) 
+Here is how much of TeX's memory you used:
+ 824 strings out of 492916
+ 9524 string characters out of 6133346
+ 72790 words of memory out of 5000000
+ 4926 multiletter control sequences out of 15000+600000
+ 16265 words of font info for 25 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 31i,11n,43p,1177b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Lecture.pdf (4 pages).
