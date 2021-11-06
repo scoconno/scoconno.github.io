@@ -9,7 +9,8 @@ title: Ancient Philosophy
 Welcome to the course website for *Ancient Philosophy*.  
 + [Syllabus](Syllabus.pdf)
 + [Ancient Philosophy Resources](resources)
-
++ [Essay 1](assignments/essay1)
++ [Essay 2](assignments/essay2)
 
 ## Additional materials and notes
 

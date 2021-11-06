@@ -3,7 +3,9 @@ layout: default
 title: Essay 2
 ---
 
-Below are several options for your second paper. **Pick one**. Each option includes some extra instruction for that prompt. Here are some general guidelines: 
+## Essay 2: Phaedo and Republic
+
+Below are several options for your second paper. **Pick one**. Here are some general guidelines: 
 
 1. Write 1250-1500 words. This does not include the bibliography. 
 2. Use only the dialogs, my notes, and the resources listed under 'Ancient Philosophy Resources'. 
