@@ -20,7 +20,7 @@ The four main species of injustice (see 445c) are timocracy, oligarchy, democrac
 
 Plato argues that any value other than justice will cause the soul and city to degenerate into an even worse state. Plato assumes the following: 
 
-1. Most constitutions pursues a particular goal: to coordinate the city's actions and unify it around some one value. That value can be honor or money, pleasure in general or sexual pleasure in particular. The leaders agree that they need to unify their people around some goal, but they disagree about the goal. 
+1. Most constitutions pursue a particular goal: to coordinate the city's actions and unify it around some one value. That value can be honor or money, pleasure in general or sexual pleasure in particular. The leaders agree that they need to unify their people around some goal, but they disagree about the goal. 
 2. Only the just city pursues an ideal that produces and enhances coordination. Every ideal other than justice engenders instability in the city that honors that ideal. This instability then resolves itself into a worse constitution.
 3. If the ideal a constitution values causes the city to degrade further, there is something inherently wrong with that ideal.
 4. They begin by discussing the regimes and individuals that deviate the least from the just city and individual and proceed to discuss the ones that deviate the most (545b-c).
