@@ -5,9 +5,6 @@ title: Responses to Parmenides
 ---
 
 
-
-
-
 |	| Parmenides  | Empedocles  | The Atomists  | Aristotle |
 | :----------: |:-----------:| :-----:| :--------: |:-------:|
 | Gen. & Dest. | No  | No 	|  No	| Yes |
