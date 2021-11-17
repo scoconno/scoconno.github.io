@@ -134,15 +134,11 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 	+ [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
 + Notes
 	+ [Presocratics](Presoc/Lecture2.pdf)
-  + [Knowledge](PA/Lecture.pdf)
+	+ [Knowledge](PA/Lecture.pdf)
+	+ [Matter and Form](Physics/Lecture.pdf)
+
 + Additional Optional Material
-+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
-
-  
-
-
-
-  
+	+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
 
  
 ---
@@ -150,12 +146,11 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 **Week 13: Aristotle the scientist**
 
 + Additional required material:  
-  + [*Aristotle,*](Shields.pdf) ch.2
+  	+ [*Aristotle,*](Shields.pdf) ch.2
 + Notes: 
-	+ [Matter and Form](Physics/Lecture.pdf)
-  + [The Four Causes](Physics2/Lecture1.pdf)
+	+ [The Four Causes](Physics2/Lecture1.pdf)
 + *Additional Optional Material*
-  + [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology.
+ 	+ [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology.
 
 ---
 
