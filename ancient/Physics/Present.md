@@ -1,6 +1,6 @@
 
 ---
-layout: metweekly
+layout: default
 title: Responses to Parmenides
 ---
 
