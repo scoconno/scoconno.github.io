@@ -3,7 +3,7 @@ layout: default
 title: Final Exam
 ---
 
-## Detaiils
+## Details
 
 + Due Date: December 15th, 2021, 11:59pm
 + This exam is worth 30% of final grade.
@@ -22,7 +22,7 @@ title: Final Exam
 
 
 
-##Long Questions: Write 750-1000 words for your chosen question
+## Long Question: Write 750-1000 words for your chosen question
 
 1. How does Aristotle's conception of the soul compare to Plato’s in the *Phaedo*? Which theory seems more plausible to you, and why? 
 
