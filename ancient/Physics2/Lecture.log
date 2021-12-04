@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  21 NOV 2021 17:41
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  21 NOV 2021 20:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**Lecture1.tex
-(./Lecture1.tex
+**Lecture.tex
+(./Lecture.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -89,8 +89,8 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count96
 \@thisrulewidth=\dimen116
 )
-(./Lecture1.aux)
-\openout1 = `Lecture1.aux'.
+(./Lecture.aux)
+\openout1 = `Lecture.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -111,46 +111,61 @@ LaTeX Font Info:    Try loading font information for T1+ppl on input line 19.
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 24.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 33.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsppl.fd
-File: omsppl.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/ppl/b/it' tried instead on input line 35.
-
-Overfull \hbox (3.36252pt too wide) in paragraph at lines 35--35
-[]\T1/ppl/b/n/14.4 The four \T1/ppl/b/it/14.4 aitiai \T1/ppl/b/n/14.4 (``causes
-,'' ``ex-pla-na-tions,'' ``be-causes'') 
- []
-
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 22.
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ‘ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no ’ in font pplr8t!
+Missing character: There is no “ in font pplr8t!
+Missing character: There is no ” in font pplr8t!
+Missing character: There is no “ in font pplr8t!
+Missing character: There is no ” in font pplr8t!
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 45.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 37.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 48.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 48.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 48.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 48.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 42.
+
 [1
 
 ]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 73.
- [2] [3] (./Lecture1.aux) ) 
+Missing character: There is no “ in font pplr8t!
+Missing character: There is no ” in font pplr8t!
+Missing character: There is no “ in font pplr8t!
+Missing character: There is no ” in font pplr8t!
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 65.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsppl.fd
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
+ [2]
+[3] (./Lecture.aux) ) 
 Here is how much of TeX's memory you used:
- 832 strings out of 492916
- 9647 string characters out of 6133346
+ 830 strings out of 492916
+ 9610 string characters out of 6133346
  71790 words of memory out of 5000000
- 4933 multiletter control sequences out of 15000+600000
+ 4931 multiletter control sequences out of 15000+600000
  18959 words of font info for 28 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 32i,11n,43p,636b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,11n,43p,762b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Lecture1.pdf (3 pages).
+Output written on Lecture.pdf (3 pages).

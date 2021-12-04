@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  16 NOV 2021 20:49
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  21 NOV 2021 17:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -892,271 +892,25 @@ For immediate help type H <return>.
 l.47 \newcommand
                 {\gk}[1]{\textgreek{#1}}
 ? 
-
-Package fontspec Info: Could not resolve font "Gentium Plus/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Gentium Plus/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "Gentium Plus/I" (it probably
-(fontspec)             doesn't exist).
-
-
-./LectureOld.tex:47: Package fontspec Error: The font "Gentium Plus" cannot be 
-found.
-
-For immediate help type H <return>.
+./LectureOld.tex:47: Emergency stop.
  ...                                              
                                                   
 l.47 \newcommand
                 {\gk}[1]{\textgreek{#1}}
-? 
 
-./LectureOld.tex:47: Package fontspec Error: The font "Gentium Plus" cannot be 
-found.
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
 
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.47 \newcommand
-                {\gk}[1]{\textgreek{#1}}
-? 
-
-Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
-(fontspec)             Plus' with options [Mapping=tex-text].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Gentium Plus"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Gentium
-(fontspec)             Plus"
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/covington/covington.sty
-Package: covington 2018/12/10 v2.0 Covington's linguistic macros
-\twoaccsep=\skip62
-\c@equationsave=\count275
-\examplenumbersep=\skip63
-\subexamplenumbersep=\skip64
-\lineone=\box51
-\linetwo=\box52
-\linethree=\box53
-\wordone=\box54
-\wordtwo=\box55
-\wordthree=\box56
-\gline=\box57
-\glossglue=\skip65
-\c@covexercise=\count276
-\reflistindent=\skip66
-\reflistitemsep=\skip67
-\reflistparsep=\skip68
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fixltx2e.sty
-Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
-Applying: [2015/01/01] Old fixltx2e package on input line 46.
+ When in doubt, ask someone for help!
 
 
-Package fixltx2e Warning: fixltx2e is not required with releases after 2015
-(fixltx2e)                All fixes are now in the LaTeX kernel.
-(fixltx2e)                See the latexrelease package for details.
-
-Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-)
-No file LectureOld.aux.
-\openout1 = `LectureOld.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 53.
-LaTeX Font Info:    Try loading font information for OML+txmi on input line 53.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omltxmi.fd
-File: omltxmi.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for OMS+txsy on input line 53.
-
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omstxsy.fd
-File: omstxsy.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for OMX+txex on input line 53.
-
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/omxtxex.fd
-File: omxtxex.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for U+txexa on input line 53.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxexa.fd
-File: utxexa.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 53.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tipa/t3cmr.fd
-File: t3cmr.fd 2001/12/31 TIPA font definitions
-)
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: xetex
-*geometry* verbose mode - [ preamble ] result:
-* driver: xetex
-* paper: letterpaper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=620.43001pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=0.0pt
-* \headheight=0.0pt
-* \headsep=20.0pt
-* \topskip=11.0pt
-* \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-\AtBeginShipoutBox=\box58
-Package hyperref Info: Link coloring ON on input line 53.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
-)
-\c@section@level=\count277
-)
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
-\@outlinefile=\write3
-\openout3 = `LectureOld.out'.
-
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 53.
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 84.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 84.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-LaTeX Font Info:    Try loading font information for U+stmry on input line 84.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-LaTeX Font Info:    Try loading font information for U+txmia on input line 84.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxmia.fd
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Try loading font information for U+msa on input line 84.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 84.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 84.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsyc.fd
-File: utxsyc.fd 2000/12/15 v3.1
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
-File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
-
-)
-[1
-
-]
-
-Package lastpage Warning: Rerun to get the references right on input line 159.
-
-
-AED: lastpage setting LastPage
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
-Make it at least 13.59999pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 159.
-
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
- (./LectureOld.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
-
-
-Package rerunfilecheck Warning: File `LectureOld.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `LectureOld.out':
-(rerunfilecheck)             Before: 
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
- )
-(\end occurred when \ifx on line 161 was incomplete) 
+ 
 Here is how much of TeX's memory you used:
- 25903 strings out of 492916
- 472671 string characters out of 6133346
- 552920 words of memory out of 5000000
- 29712 multiletter control sequences out of 15000+600000
- 543824 words of font info for 84 fonts, out of 8000000 for 9000
+ 25331 strings out of 492916
+ 463011 string characters out of 6133346
+ 537139 words of memory out of 5000000
+ 29223 multiletter control sequences out of 15000+600000
+ 532818 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 43i,11n,79p,945b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on LectureOld.pdf (2 pages).
+ 43i,0n,79p,945b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
