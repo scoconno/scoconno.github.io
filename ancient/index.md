@@ -11,6 +11,7 @@ Welcome to the course website for *Ancient Philosophy*.
 + [Ancient Philosophy Resources](resources)
 + [Essay 1](assignments/essay1)
 + [Essay 2](assignments/essay2)
++ [Final Exam](finalexam)
 
 ## Additional materials and notes
 
