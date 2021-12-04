@@ -1,7 +1,5 @@
-
-
 ---
-layout: defail
+layout: default
 title: Final Exam
 ---
 
