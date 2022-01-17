@@ -3,13 +3,15 @@ layout: course
 title: Pandemic Ethics
 ---
 
+![image](rosa.jpeg)
+
 # Course Information
 +  [Syllabus](syllabus.pdf)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](https://www.njcu.edu/academics/resources-services/general-education/signature-assignment-information-students)
 
 
-![image](rosa.jpeg)
+
 
 
 # Withdrawal Dates
