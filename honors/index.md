@@ -4,7 +4,7 @@ title: Honor Ethics
 ---
 
 # Course Information
-+ [Syllabus](Syllabus.pdf)
++ [Syllabus](syllabus.pdf)
 + [The Honors Program](https://www.njcu.edu/academics/honors-program)
 
 ![image](\images\rosa.jpg)
