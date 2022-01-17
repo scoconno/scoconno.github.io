@@ -9,7 +9,7 @@ title: Pandemic Ethics
 + [Signature Assignments at NJCU](https://www.njcu.edu/academics/resources-services/general-education/signature-assignment-information-students)
 
 
-![image](rosa.jpg)
+![image](rosa.jpeg)
 
 
 # Withdrawal Dates
