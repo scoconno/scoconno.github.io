@@ -3,7 +3,7 @@ layout: course
 title: Honors Ethics
 ---
 
-![image](rosa.jpg)
+![image](rosa.jpeg)
 
 
 # Course Information
