@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Honor Ethics
+title: Honors Ethics
 ---
 
 # Course Information
