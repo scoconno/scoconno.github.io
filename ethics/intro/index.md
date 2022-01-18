@@ -1,6 +1,6 @@
 ---
 layout: default
-title: View from 164th & Broadway
+title: 164th and Broadway
 ---
 
 <iframe src="https://www.icloud.com/keynote/0c5J8uJVdUgs8PeJ31S26jSAw?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
