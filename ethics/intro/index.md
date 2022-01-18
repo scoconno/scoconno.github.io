@@ -3,8 +3,8 @@ layout: default
 title: 164th and Broadway
 ---
 
-<iframe src="https://www.icloud.com/keynote/0c5J8uJVdUgs8PeJ31S26jSAw?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
-
++ [View from apt](aptview)
+ 
 When I decided to teach a course on the pandemic last year, I thought I would benefit from reflecting on the tumultous crisis that I had navigated. I did not expect that the pandemic would still be in full swing and that the issues I grappled with in 2020 are still relevant today. This course, then, is not just for your benefit. It is something I need too. By way of introduction, I want to explain my experiences and why I need it. 
 
 1. Was going to Greece, but it was cacnelled. What were my duties to my students? 
