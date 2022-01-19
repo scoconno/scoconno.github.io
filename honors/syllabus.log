@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  17 JAN 2022 16:44
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  18 JAN 2022 21:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1424,9 +1424,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 79.
 
-Overfull \hbox (35.58194pt too wide) in paragraph at lines 79--80
+Overfull \hbox (63.34128pt too wide) in paragraph at lines 79--80
 [][][]\TU/MinionPro(0)/m/n/10 https://www.njcu.edu/student-life/campus-services
--resources/health-wellness-center/fall-
+-resources/health-wellness-center/guidelines-
  []
 
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
@@ -1483,7 +1483,7 @@ Package logreq Info: Writing requests to 'syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  36151 strings out of 492916
  660617 string characters out of 6133346
- 1440777 words of memory out of 5000000
+ 1439777 words of memory out of 5000000
  39920 multiletter control sequences out of 15000+600000
  533549 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
