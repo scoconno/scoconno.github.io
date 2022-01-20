@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  18 JAN 2022 21:43
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  20 JAN 2022 14:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1443,7 +1443,7 @@ LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
 (Font)              scaled to size 9.84024pt on input line 120.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
-(Font)              scaled to size 9.84024pt on input line 121.
+(Font)              scaled to size 9.84024pt on input line 122.
  [2]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
 (Font)              scaled to size 9.84024pt on input line 165.
@@ -1483,7 +1483,7 @@ Package logreq Info: Writing requests to 'syllabus.run.xml'.
 Here is how much of TeX's memory you used:
  36151 strings out of 492916
  660617 string characters out of 6133346
- 1439777 words of memory out of 5000000
+ 1440777 words of memory out of 5000000
  39920 multiletter control sequences out of 15000+600000
  533549 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
