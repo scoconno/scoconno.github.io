@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  20 JAN 2022 14:07
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  20 JAN 2022 14:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1455,25 +1455,25 @@ Overfull \hbox (16.33888pt too wide) in paragraph at lines 173--174
 
 [4] [5]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
-(Font)              scaled to size 8.85622pt on input line 215.
+(Font)              scaled to size 8.85622pt on input line 214.
 
-Overfull \hbox (67.05508pt too wide) in alignment at lines 213--250
+Overfull \hbox (67.05508pt too wide) in alignment at lines 212--249
  [] [] [] [] 
  []
 
 
-Overfull \hbox (67.05508pt too wide) in alignment at lines 250--284
+Overfull \hbox (67.05508pt too wide) in alignment at lines 249--283
  [] [] [] [] 
  []
 
 [6
 
 ] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 286.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 286.
  (./syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 286.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 286.
 Package rerunfilecheck Info: File `syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 Package logreq Info: Writing requests to 'syllabus.run.xml'.
