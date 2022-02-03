@@ -47,6 +47,10 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 + [Some ethical issue raised by Covid-19](https://www.youtube.com/watch?v=nYrP14BhMXg)
 
 
+**Week 2, 1.24**
 
+**Week 3, 1.31**
 
++ [*Hellenistic Philosophy,*](ethics/epicurus/Hellenistics.pdf) pp.3--31
++ [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
 
