@@ -29,7 +29,7 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 **Week 3, 1.31**
 
-+ [*Hellenistic Philosophy,*](ethics/epicurus/Hellenistics.pdf) pp.3--31
++ [*Hellenistic Philosophy,*](/ethics/epicurus/Hellenistics.pdf) pp.3--31
 + [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
 
 
