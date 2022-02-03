@@ -28,11 +28,12 @@ title: Pandemic Ethics
 Links to notes, readings not in the textbook, and optional videos & readings are below by clicking the relevant links. Consult the syllabus for a full list of what is required for each week. 
 
 
-
-**Week 3, 1.31**
+**Week 4, 2.7**
 
 + [*Hellenistic Philosophy,*](/epicurus/Hellenistics.pdf) pp.3--31
 + [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
+
+**Week 3, 1.31**
 
 
 **Week 2, 1.24**
