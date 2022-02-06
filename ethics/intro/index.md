@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Week 1
+title: Introduction
 ---
 
+## Materials
 
-+ [Notes](/ethics/intro)
++ [Notes](notes)
 + [Some ethical issue raised by Covid-19](https://www.youtube.com/watch?v=nYrP14BhMXg)
