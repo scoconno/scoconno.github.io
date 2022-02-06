@@ -3,7 +3,8 @@ layout: default
 title: Epicurus	
 ---
 
-+  *Material*
+##Material##
+
   + [*Hellenistic Philosophy,*](Hellenistics.pdf) pp.3--31
   + [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
   + [Notes](epicurus.pdf)
