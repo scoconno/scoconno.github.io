@@ -3,27 +3,19 @@ layout: default
 title: History
 ---
 
-## Summary
 
-+ [Timeline](chart.jpeg)
-+ [Death Toll](deathtoll.jpeg)
++ [Notes](notes)
 
+## Extra Material
 
-## Smallpox
++ Diseases: 
+	+ [CDC: Smallpox:](https://www.cdc.gov/smallpox/index.html)
+	+ [CDC: Yellow Fever:](https://www.cdc.gov/yellowfever/)
+	+ [CDC: Ebola:](https://www.cdc.gov/vhf/ebola/)
+	+ [CDC: Plague:](https://www.cdc.gov/plague/)
+	+ [CDC: HIV](https://www.cdc.gov/hiv/default.html)
+	+ [CDC: Pandemic Influenza](https://www.cdc.gov/flu/pandemic-resources/index.htm)
 
-+ [Smallpox](boys.jpeg)
-+ [Cowpox](nemes.jpeg)
-+ [Vaccines](jenner.jpeg)
-+ [Orphan Transport](orphans.jpeg)
-
-
-## Yellow Fever
-
-+ [New Orleans](yellow.jpeg)
-+ [Status Certificates](cert.jpeg)
-
-## HIV
-
-+ [Activism](march.jpeg)
-+ [Forced quarantine](hospital.jpeg)
-
++ [Orphans and smallpox](https://www.sciencehistory.org/distillations/podcast/orphan-vaccines)
++ Kathryn Olivarius, Immunity, Capital, and Power in Antebellum New Orleans, *The American Historical Review*, Volume 124, Issue 2, April 2019, Pages 425–455, [https://doi.org/10.1093/ahr/rhz176](https://doi.org/10.1093/ahr/rhz176)
++ https://www.nytimes.com/2020/04/12/opinion/coronavirus-immunity-passports.html
