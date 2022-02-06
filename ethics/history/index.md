@@ -3,11 +3,10 @@ layout: default
 title: History
 ---
 
+## Material
+
 
 + [Notes](notes)
-
-## Extra Material
-
 + Diseases: 
 	+ [CDC: Smallpox:](https://www.cdc.gov/smallpox/index.html)
 	+ [CDC: Yellow Fever:](https://www.cdc.gov/yellowfever/)

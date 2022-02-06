@@ -30,14 +30,18 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 **[Week 4, 2.7](epicurus)**
 
+---
+
 **[Week 3, 1.31](resources)**
+
+---
 
 **[Week 2, 1.24](history)**
 
-**Week 1, 1.17**
+---
 
-+ [Notes](intro)
-+ [Some ethical issue raised by Covid-19](https://www.youtube.com/watch?v=nYrP14BhMXg)
+**[Week 1, 1.17](intro)**
+
 
 
 
