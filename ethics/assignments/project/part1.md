@@ -1,7 +1,7 @@
 ---
 layout: defaul
-title: Research Project - Introduction
----
+title: Research Project
+ ---
 
 ## Introduction
 
