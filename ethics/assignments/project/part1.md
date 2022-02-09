@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Project
- ---
+---
 
 ## Introduction
 
