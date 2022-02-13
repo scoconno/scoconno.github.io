@@ -48,8 +48,10 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-family: 'Libre Baskerville', serif;
+font-family: 'PT Serif', serif;
+font-family: 'Vollkorn SC', serif;
+  font-size: 18px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
