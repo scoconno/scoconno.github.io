@@ -3,7 +3,7 @@ layout: default
 title: Introduction
 ---
 
-+ [View from apt](aptview)
+# Introduction
 
 ## Why this course? 
 Ethics concerns the study of what actions to perform and what actions to avoid, and, more importantly, involves the study of why we should and shouldn't act in certain ways. We may agree that murder is wrong, but why is murder wrong? We may agree we ought to save a drowning child, but why is saving that child the right thing to do? There are several dominant theories that attempt to explain why actions are right or wrong, and we will be studying several of them in this course. But studying these theories is valuable, and for some only interesting, because they help guide our actions and evaluate the actions of others; they help determine how we should behave and how others should behave towards us. 
