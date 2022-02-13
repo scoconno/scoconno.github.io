@@ -1,13 +1,11 @@
 ---
-layout: examweekly
-title: An Ethical Life
+layout: default
+title: Lockdowns & Consequentialism
 ---
 
 **Required Reading:** 
 + ['A Horseman in the Sky' by Ambrose Pierce'](Horseman.pdf)
 
-**Self-insight:**
-+ 'What Do You Believe? Cultural Relativism and Women's Rights', 152. Complete but do not submit to me. 
 
 **Optional Reading:**
 + [Kirinyaga](Kirinyaga.epub) (read ch.1.)

@@ -16,7 +16,7 @@ title: Contact
 ## For Students 
 If you are enrolled in a course, please check the syllabus before contacting me. Many students contact me with questions that are already answered in the relevant syllabus. If you do contact me, please use the Blackboard messaging app. That app allows me to keep track of all messages for a particular course and is easier to use than email. It also allows me to easily comply with the Federal Law concerning the privacy of student education records (FERPA). If you are not currently enrolled in one of my courses, please email me. 
 
-## General email etiquette 
+### General email etiquette 
 
 + If you must use email, use your NJCU email account. To comply with Federal Law, I will hesitate to respond to non-NJCU email addresses. 
 	+ Find out how to set up your NJCU email on iPhone, iPad, or iPod Touch [here.](https://support.office.com/en-us/article/Set-up-email-on-iPhone-iPad-or-iPod-Touch-b2de2161-cc1d-49ef-9ef9-81acd1c8e234#BKMK_WorkOrSchool)

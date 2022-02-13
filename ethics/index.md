@@ -28,19 +28,25 @@ title: Pandemic Ethics
 Links to notes, readings not in the textbook, and optional videos & readings are below by clicking the relevant links. Consult the syllabus for a full list of what is required for each week. 
 
 
-**[Week 4, 2.7](epicurus)**
+---
+
+**[Week 5: Lockdowns and Utilitarianism (2.14)](lockdowns)**
 
 ---
 
-**[Week 3, 1.31](resources)**
+**[Week 4: Why fear death? (2.7)](epicurus)**
 
 ---
 
-**[Week 2, 1.24](history)**
+**[Week 3: Covid-19 and Resource Scarcity (1.31)](resources)**
 
 ---
 
-**[Week 1, 1.17](intro)**
+**[Week 2: Historical Pandemics (1.24)](history)**
+
+---
+
+**[Week 1: Introduction (1.17)](intro)**
 
 
 

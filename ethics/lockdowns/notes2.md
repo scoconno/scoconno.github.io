@@ -11,13 +11,13 @@ title: Consequentialism
 ![alt text](Slide1.jpg)
 
 
-Consequentialists claim that morality depends completely on the effects of our actions. They say that the actor side of the diagram is irrelevant as is the intrinsic nature of their acts. 
+Consequentialists claim that morality depends completely on the effects of our actions. Intentions, desires, etc., claim the consequentialist are irrelevant. 'Consequentialism' is an umbrella term for a number of theories that agree on this basic claim, but these theories disagree about two main questions. The first concerns the subjects of the effects. Who should be considered when considering the effects of our actions? The second is what effects are relevant in considering the morality of our actions. 
 
-There are different versions of Consequentialism. They differ, primarily, in what effects they construe as relevant for morality. **Egoism** says that right actions are those that further one’s own best interests. Egoists say that the effects your actions have on others is irrelevant to the morality of your actions. All that is relevant is the effects your actions have on you. For further discussion of egoism, see the textbook.
+While we won't focus on the first question, it is important that we distinguish two consequentialist theories from one another. The first, **Egoism**, says that right actions are those that further one’s own best interests and wrong actions are those that harm you. On this view, the only effects relevant to the morality of your action are the effects those actions have on you, and you alone. Egoists say that the effects your actions have on others is irrelevant to the morality of your actions. Egoism contrasts with utilitarianism, which will be our focus.
 
 ## Utilitarianism
 
-In this handout, I will discuss a second version of Consequentialism. **Utilitarianism** agrees that the effects of an action determines its morality. Unlike the egoist, the utilitarian claims that the effects actions have on everyone (including yourself) is what determines their morality. On this view, your action may harm your self interest, but will still be right if the positive effects of the action on others outweighs the harms to yourself. Utilitarians accept the following principle:
+ **Utilitarianism** agrees that the effects of an action determines its morality. Unlike the egoist, the utilitarian claims that the relevant effects are not specific to you. The effects include the effects of anyone whatsover  (including yourself). On this view, your action may harm your self interest, but will still be right if the positive effects of the action on others outweighs the harms to yourself. Utilitarians accept the following principle:
 
 The Principle of Utility
 :	Rights actions are those that result in greater overall well-being (or utility) for the people involved than any other possible action. 
