@@ -47,11 +47,9 @@ body {
   padding: 0;
 }
 
-html {
-  font-family: 'Libre Baskerville', serif;
-font-family: 'PT Serif', serif;
-font-family: 'Vollkorn SC', serif;
-  font-size: 18px;
+html {  
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {

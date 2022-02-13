@@ -42,11 +42,9 @@ body {
 
 html {
  font-family: 'Libre Baskerville', serif;
-font-family: 'PT Serif', serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'PT Serif', serif;
 font-family: 'Vollkorn SC', serif;
   font-weight: 400;
   color: #313131;
