@@ -3,9 +3,9 @@ layout: default
 title: Ethics
 ---
 
-# Ethical Theories#
+# Ethical Theories
 
-##1. Introduction##
+## 1. Introduction
 
 Ethics is one of philosophy's main specialities. It is also the one that everyone has already had some familiarity. You already have ethical beliefs about the following claims:
 
@@ -22,7 +22,7 @@ Ethics is one of philosophy's main specialities. It is also the one that everyon
 
 You likely agreed with some of these claims, disagreed with others. You also likely have reasons for why you think some of these claims are true, others are false. The study of ethics is the study of these reasons. It is the discipline that tries to determine why certain actions are allowed, others are prohibited, and others are required. In particular, ethicists try to adjudicate between a number of theories about which reasons are relevant for the rightness and wrongness of our actions. In this brief handout, I will first outline some features of the reasons that ethicists seek. I will then discuss a challenge to the very possibility of ever finding reasons that have these features. 
 
-##1.2 Ethics and Reasons
+## 1.2 Ethics and Reasons
 
 First, it is important to properly understand the distinction between what are called *descriptive* and *normative* facts. Descriptive facts are facts about how the world is. Normative facts are facts are about how the world should be. Compare the following two claims: 
 
@@ -51,7 +51,7 @@ If we are going to evaluate moral reasons, distinguish the good reasons from the
 
 
 
-##1.3 Consequentialism, Deontology, & Virtue Ethics
+## 1.3 Consequentialism, Deontology, & Virtue Ethics
 
 Ethicists offer different theories about which reasons satisfy these requirements. These 3 theories offer general claims about the appropriate reasons for morality. There are three main theories (or groups of theories.) To introduce you to these theories first look at this diagram: 
 
@@ -66,7 +66,7 @@ Our different moral theories explain why actions are moral or immoral (or neithe
 2. **Deontology** claims that the rightness and wrongness of an action depends entirely on the intrinsic nature of the action. It says that we are to ignore both the actor in our diagram as well as the effects side of the diagram. Neither the motives or character of the actor is relevant in determining the morality of their actions. Neither is the effects of their actions. Some actions, the deontologist claims, are just inherently wrong, e.g., murder, they claim, is just inherently wrong. 
 3. **Virtue Ethics** claims that the rightness and wrongness of an action depends entirely on the character of the person performing that action, on the actor. Virtue ethics denies that the morality of our action has anything to do with the consequences or the intrinsic nature of the acts. It depends entirely on whether the action came from a person who is virtuous, i.e., it depends entirely on the actor side of the diagram.
 
-##2.1 A Challenge to Ethics: Ethical Relativism 
+## 2.1 A Challenge to Ethics: Ethical Relativism 
 
 Before discussing these theories, we should address an objection that attacks not just all three, but the very possibility of finding reasons that satisfy the conditions listed above. Some have argued that there are no universal moral truths, truths that hold for all people and all times. This view, **moral relativism**, cuts to the very core of ethics. It claims that we are mistaken when searching for appropriate reasons for ethical judgements. The relativist claims that there are no reasons that could serve the role we wish them to play. 
 
@@ -84,7 +84,7 @@ Similarly, the moral relativist claims that there are no *objective* moral stand
 Cultural relativism has an important upshot: there are no genuine cross-cultural moral disagreements. If your culture disapproves of forcing the elderly to commit suicide, then such force is immoral *in your culture*. But if another culture approves of forcing the elderly to kill themselves, you must remain silent. You cannot say that the other culture has made a mistake, that your culture has the right policy, and the other has the wrong policy. Your culture's standards are not theirs, and there is no cross-cultural standard that applies to both cultures equally that would make one policy immoral, the other moral. 
 
 
-##2.2 The Argument for Cultural Relativism ##
+## 2.2 The Argument for Cultural Relativism 
 
 It's useful to have a clear statement of cultural relativism before we proceed: 
 
@@ -109,7 +109,7 @@ Premise 2 is the crucial claim. Anthropologists report extreme variations in mor
 
 
 
-##2.3 Objections to Relativism
+## 2.3 Objections to Relativism
 
 While the Cultural Differences Argument is valid, many argue that the second premises is false, and so claim the argument is not sound, i.e., the argument has now proved the truth of cultural relativism. 
 

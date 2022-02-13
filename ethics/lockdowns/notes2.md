@@ -5,8 +5,9 @@ title: Consequentialism
 
 
 
-## Consequentialism
+# Consequentialism
 
+## Introduction
 
 ![alt text](Slide1.jpg)
 

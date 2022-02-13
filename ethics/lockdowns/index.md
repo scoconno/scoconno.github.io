@@ -3,7 +3,7 @@ layout: default
 title: Lockdowns & Utilitarianism
 ---
 
-#Lockdowns & Utilitarianism
+# Lockdowns & Utilitarianism
 
 **Notes:**
 + [Ethics Introduced](notes)
