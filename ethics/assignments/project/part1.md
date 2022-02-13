@@ -3,6 +3,8 @@ layout: default
 title: Research Project
 ---
 
+# Research Project - Part 1
+
 ## Introduction
 
 Independent research is a central characteristic of a college education. So, in this course, you will learn and practice research skills. To that end, you will work on an independent project through the semester. We will scaffold that project around a few basic skills and tasks to practice those skills (see syllabus for assignment due dates). In this first part, we will work on starting your research, on asking a research question and identifying some research material. 
