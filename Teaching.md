@@ -1,8 +1,3 @@
----
-layout: page
-title: Teaching
-
---- 
 
 ## Fall 2019
 
