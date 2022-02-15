@@ -26,20 +26,28 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 
 
+---
 
-**[Week 4, 2.7](/ethics/epicurus)**
+**[Week 5: Lockdowns and Utilitarianism (2.14)](/ethics/lockdowns)**
 
 ---
 
-**[Week 3, 1.31](/ethics/resources)**
+**[Week 4: Why fear death? (2.7)](/ethics/epicurus)**
 
 ---
 
-**[Week 2, 1.24](/ethics/history)**
+**[Week 3: Covid-19 and Resource Scarcity (1.31)](/ethics/resources)**
 
 ---
 
-**[Week 1, 1.17](/ethics/intro)**
+**[Week 2: Historical Pandemics (1.24)](/ethics/history)**
+
+---
+
+**[Week 1: Introduction (1.17)](/ethics/intro)**
+
+
+
 
 
 
