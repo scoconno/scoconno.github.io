@@ -26,7 +26,7 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 ---
 
-**[Week 6: Structural inequalities (2.21)](/ethics/inequalities)
+**[Week 6: Structural inequalities (2.21)](/ethics/inequalities)**
 
 ---
 
