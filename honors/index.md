@@ -6,7 +6,7 @@ title: Honors Ethics
 # Course Information
 + [Syllabus](syllabus.pdf)
 + [The Honors Program](https://www.njcu.edu/academics/honors-program)
-
++ [Select Pandemic Ethics Resources in NJCU's Library](/ethics/library.pdf)
 
 
 # Withdrawal Dates
