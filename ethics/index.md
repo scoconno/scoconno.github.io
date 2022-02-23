@@ -30,6 +30,10 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 ---
 
+**[Week 6: Structural inequalities (2.21)](inequalities)
+
+---
+
 **[Week 5: Lockdowns and Utilitarianism (2.14)](lockdowns)**
 
 ---
