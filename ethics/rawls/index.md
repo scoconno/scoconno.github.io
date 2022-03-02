@@ -14,4 +14,4 @@ title: Justice as Fairness
 
 + [The Original Position](https://youtu.be/nO5me_5c8dM), Wireless Philosophy
  
-
++ [A nice video from the American Medical Association discussing the topic.](https://edhub.ama-assn.org/jn-learning/video-player/18551637)

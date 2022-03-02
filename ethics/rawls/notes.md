@@ -48,15 +48,16 @@ Any inequalities are only permitted if they work to the advantage of the least w
 
 This principle breaks the symmetry of the previous one. If we need to distribute vaccines unequally, perhaps because not enough are available at a given moment, we should always restrict in favour of the poorer, least well-off countries and individuals. That means, richer countries and individuals, who have more resources to combat the virus and to recover in the case of an infection, should prioritise giving the vaccine to those who don’t have the same high-quality medical infrastructure available in their countries.
 
-Any inequalities are only permitted if they work to the advantage of the least well-off. Tweet!
+Any inequalities are only permitted if they work to the advantage of the least well-off. 
+
 Why should we do that? Why should we give the advantage to the least well-off? For Rawls, this is not “being nice” or anything like that. It is the rational result of creating these rules in the original position, behind one’s veil of ignorance. If you didn’t know whether you will be born as Bill Gates or a farmer in Syria, but you had to make a rule to make the vaccine available first to one of the two: who would it be?
 
 
-Obviously, if you were to be Bill Gates, you would be able to take care of yourself, even without the vaccine. But as the farmer in Syria, you might have no way to survive an infection. So assuming I really didn’t know who of these two will be my next incarnation, it would be perfectly rational to give access to the vaccine to the Syrian farmer first. (Bill Gates is just a name here; I am aware that he is a great philanthropist and much more generous with his wealth than most of the others who have amassed similar fortunes).
-
-And that’s the end of today’s article. We began with the question of how we should distribute a scarce vaccine among countries or individuals of different financial means. And we saw that the problem is not easy — but if we commit to Rawls’ assumptions, then it seems that we would not only have to agree to share the vaccine with those who are less wealthy; we would, in fact, have to prioritise them.
+Obviously, if you were to be Bill Gates, you would be able to take care of yourself, even without the vaccine. But as the farmer in Syria, you might have no way to survive an infection. So assuming I really didn’t know who of these two will be my next incarnation, it would be perfectly rational to give access to the vaccine to the Syrian farmer first. 
 
 
-1. Each person has an equal claim to a fully adequate scheme of equal basic rights and liberties, which scheme is compatible with the same scheme for all; and in this scheme the equal political liberties, and only those liberties, are to be guaranteed their fair value.
+
+
+1. .
 
 2. Social and economic inequalities are to satisfy two conditions: (a) They are to be attached to positions and offices open to all under conditions of fair equality of opportunity; and (b), they are to be to the greatest benefit of the least advantaged members of society. (Rawls 1993, pp. 5–6. The principles are numbered as they were in Rawls’ original A Theory of Justice.)
