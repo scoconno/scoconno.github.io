@@ -24,6 +24,13 @@ title: Honors Ethics
 Links to notes, readings not in the textbook, and optional videos & readings are below by clicking the relevant links. Consult the syllabus for a full list of what is required for each week. 
 
 
+
+
+---
+
+**[Week 8: Vaccines & Kant (3.14)](/ethics/vaccines)**
+
+
 ---
 
 **[Week 7: Justice as fairness, 2.28](/ethics/rawls)**
