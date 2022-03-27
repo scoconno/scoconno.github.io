@@ -8,6 +8,7 @@ title: Lockdowns & Utilitarianism
 **Notes:**
 + [Ethics Introduced](notes)
 + [Utilitarianism](notes2)
++ [Slides](slides.pdf)
 
 **Optional Reading:**
 + [Kirinyaga](Kirinyaga.epub) (ch.1.)

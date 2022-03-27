@@ -5,7 +5,9 @@ title: Vaccine Development & Kant
 
 # Vaccine Development & Kant
 
-**[Notes](notes)**
+**Notes**
++ [Kant](notes)**
++ [Slides](slides.pdf)
 
 **Optional Reading**
 + ['A Horseman in the Sky](Horseman.pdf), Ambrose Bierce 
