@@ -24,7 +24,7 @@ You have decided on a question. You have identified some articles and books that
 
 Your job in writing a literature review is to identify relevant similarities and dissimilarities in the various sources that seem to address your topic. You will regularly find that different parts of the literature take opposing sides on your question. Here we have an important trend that you want to mention. You will also find common or dominant reasons for various answers. Again, this is something you want to note and write about. 
 
-What about all the nitty gritty details? Your job is to extrapolate from the details and report on common approaches, criticisms, objections, etc. That's doesn't mean that no detail is required. Literature reviews often include a discussion of some representative source. A literature review may note that a common approach in the literature is to consider X when answering Y, and then say, "for instance, "author A write as following....Author A means...., which captures a dominant answer in the literature."
+What about all the nitty gritty details? Your job is to extrapolate from the details and report on common approaches, criticisms, objections, etc. That doesn't mean that no detail is required. Literature reviews often include a discussion of some representative source. A literature review may note that a common approach in the literature is to consider X when answering Y, and then say, "for instance, "author A write as following....Author A means...., which captures a dominant answer in the literature."
 
 So, literature reviews will both explain some of the current, common views about a topic *and* discuss a couple of sources to illustrate these common features/trends. 
 
