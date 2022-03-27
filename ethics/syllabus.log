@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  20 JAN 2022 14:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  27 MAR 2022 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1456,6 +1456,14 @@ Overfull \hbox (16.33888pt too wide) in paragraph at lines 167--168
 [3] [4]
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
 (Font)              scaled to size 8.85622pt on input line 203.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 6.88817pt on input line 256.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 256.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 256.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 5.90414pt on input line 256.
  [5
 
 ] [6]
@@ -1471,11 +1479,11 @@ Package logreq Info: Writing requests to 'syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36151 strings out of 492916
- 660617 string characters out of 6133346
+ 36172 strings out of 492916
+ 660995 string characters out of 6133346
  1436762 words of memory out of 5000000
- 39920 multiletter control sequences out of 15000+600000
- 533549 words of font info for 81 fonts, out of 8000000 for 9000
+ 39931 multiletter control sequences out of 15000+600000
+ 535396 words of font info for 90 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  52i,11n,116p,1153b,6232s stack positions out of 5000i,500n,10000p,200000b,80000s
 
