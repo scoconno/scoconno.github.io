@@ -32,6 +32,11 @@ Links to notes, readings not in the textbook, and optional videos & readings are
 
 ---
 
+**[Week 11: Libertarianism (4.4)](libertarianism)**
+
+
+---
+
 **[Week 10: Vaccine Distribution (3.28)](distribution)**
 
 
