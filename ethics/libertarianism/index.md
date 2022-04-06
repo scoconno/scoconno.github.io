@@ -9,4 +9,4 @@ title: Libertariansim
 
 
 **Optional Reading**
-+ [The Libertarian Party Platform](https://www.law.cornell.edu/supremecourt/text/197/11)
++ [The Libertarian Party Platform](https://www.lp.org/platform/)
