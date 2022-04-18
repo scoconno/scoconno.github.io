@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  11 APR 2020 16:53
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  17 APR 2022 22:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -113,23 +113,23 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 21.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 41.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 40.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 42.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <10> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 66.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <9> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 66.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 66.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
-(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 66.
+(Font)              Font shape `T1/ppl/b/sc' tried instead on input line 65.
  [1
 
 ]
@@ -137,7 +137,7 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/sc' in size <12> not available
 Here is how much of TeX's memory you used:
  827 strings out of 492916
  9622 string characters out of 6133346
- 70796 words of memory out of 5000000
+ 70777 words of memory out of 5000000
  4930 multiletter control sequences out of 15000+600000
  17139 words of font info for 26 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
