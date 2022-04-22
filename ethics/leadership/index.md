@@ -6,6 +6,8 @@ title: Leadership
 # Virtuous Ethics and Leadership 
 
 **Notes:**
-+ [Virtue Ethics](notes)
++ [Virtue Ethics Introduced](notes)
++ [Aristotle's Virtue Ethics](lecture.pdf)
+
 
 
