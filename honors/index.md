@@ -24,7 +24,6 @@ title: Honors Ethics
 Links to notes, readings not in the textbook, and optional videos & readings are below by clicking the relevant links. Consult the syllabus for a full list of what is required for each week. 
 
 
-
 ---
 
 **[Week 13: Leadership (4.18)](/ethics/leadership)**
