@@ -7,7 +7,7 @@ title: Final Paper
 
 ## Sections of the final paper
 
-It is time to write the full and final draft of your project. You must write **2000-2500** words. Your paper must include the following parts:
+It is time to write the full and final draft of your project. You must write **1750-2000** words. Your paper must include the following parts:
 
 1. State your research question as your title; your research question must have been adjusted in response to my comments. 
 2. Write a clear introduction that provides a nice shared context; this introduction must be expanded and adjusted in response to my comments. 
@@ -15,7 +15,6 @@ It is time to write the full and final draft of your project. You must write **2
 4. Your assessment; this is a write-up of the material you included in your presentation. 
 5. Bibliography. 
 
-**NB: Failure to modify your work based upon my previous comments will result in significant loss in points.**
 
 ## Plagiarism
 
