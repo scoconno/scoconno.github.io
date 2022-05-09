@@ -15,6 +15,10 @@ It is time to write the full and final draft of your project. You must write **1
 4. Your assessment; this is a write-up of the material you included in your presentation. 
 5. Bibliography. 
 
+## Alternative Modality 
+
+Students may propose an alternative to a traditional research paper as their capstone project. If I approved your proposal to complete such an alternative, I also approved an individualized sequence of alternatives to these capstone assignments. Please consult that plan accordingly. 
+
 
 ## Plagiarism
 

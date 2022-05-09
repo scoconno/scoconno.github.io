@@ -15,6 +15,9 @@ We now need to study the sources in our annotated bibliography, and write a lite
 
 This structure is artificial. Many questions admit of more than two answers. Many similar answers have subtle differences. That's ok! If you can identify and explain two different mains answers to your question, then you will have learned the skill this assignment is designed to teach. 
 
+## Alternative Modality 
+
+Students may propose an alternative to a traditional research paper as their capstone project. If I approved your proposal to complete such an alternative, I also approved an individualized sequence of alternatives to these capstone assignments. Please consult that plan accordingly.  
 
 
 

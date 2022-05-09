@@ -17,6 +17,12 @@ This first assignment has **three tasks**:
 
 I provide further information on each task. 
 
+## Alternative Modality 
+
+Students may propose an alternative to a traditional research paper as their capstone project. If you are interested in this option, please consult with me and I will adjust the various capstone assignments accordingly. 
+
+
+
 ## Task 1: A Well-Formed and Manageable Question
 The first task asks you to ask a well-formed and manageable ethical question about the pandemic. To do this, consider the material we have covered so far and skim the topics in the textbook. If one seems interesting to you, then read a bit further to see whether you might want to spend a semester working on it. At this stage, your interest will be very broad and perhaps confused. That's fine. Research starts in this confused way, and it gets clearer as we progress.  Do not expect to identify an interesting research project before reading through material in the textbook. 
 

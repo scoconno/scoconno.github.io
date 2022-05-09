@@ -23,3 +23,7 @@ This presentation provides you the opportunity to formulate your views before wr
     4. Answer 2 explained
     5. Your novel contribution introduced.
     6. Evidence/support/argument for your novel contribution...you may include two slides for this.
+
+## Alternative Modality 
+
+Students may propose an alternative to a traditional research paper as their capstone project. If I approved your proposal to complete such an alternative, I also approved an individualized sequence of alternatives to these capstone assignments. Please consult that plan accordingly. 
