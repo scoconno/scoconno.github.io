@@ -3,7 +3,7 @@ layout: course
 title: Pandemic Ethics
 ---
 
-
+<img src="{{site.baseurl}}/rosa.jpeg" alt="Pandemic">
 
 # Course Information
 + [Syllabus](syllabus.pdf)

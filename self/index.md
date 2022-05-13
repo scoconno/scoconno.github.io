@@ -4,7 +4,7 @@ title: Self-Mind
 
 ---
 
-
+<img src="{{site.baseurl}}/rosa.Aristotle" alt="Aristotle and Homer">
 
 # Course Information
 
