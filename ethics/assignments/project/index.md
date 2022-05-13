@@ -1,16 +1,17 @@
 ---
-layout: ancientweekly
-title: Independent Research Project
+layout: default
+title: Capstone Project
 ---
 
-1. [Exploratory Essay](exploratory)
-2. [Annotated Bibliography](annotated)
+# Capstone Project Assignments
+
+1. [Research Proposal](part1)
 3. [Literature Review](literature)
-4. Presentations
-5. FInal draft
+4. [Presentations](presentation)
+5. [Final draft](final)
 
 
-Some helpful links: 
+### Some helpful links: 
 
 + [Citation Guide](https://www.njcu.edu/library/library-resources/citation-guide)
 + [NJCU Zoom page.](https://njcu.zoom.us) You will use this for discussions and your presentations .

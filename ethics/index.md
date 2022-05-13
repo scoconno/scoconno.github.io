@@ -6,10 +6,12 @@ title: Pandemic Ethics
 
 
 # Course Information
-+  [Syllabus](syllabus.pdf)
++ [Syllabus](syllabus.pdf)
++ [Capstone Project Assignment](assignments/project)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](https://www.njcu.edu/academics/resources-services/general-education/signature-assignment-information-students)
 + [Select Pandemic Ethics Resources in NJCU's Library](library.pdf)
++ [Capstone Project Assignment]
 
 
 
