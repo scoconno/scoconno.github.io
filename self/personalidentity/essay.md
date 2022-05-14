@@ -10,7 +10,7 @@ title: Essay
 
 ### Introduction
 
-List to this interview with [Susie Mckinnon](https://www.cbc.ca/player/play/2670406429), who suffers from Severely Deficient Autobiographical Memory. Autobiographical memories are also called episodic memories and personal memories; the memories that are used in formulating the psychological continuity theory. The psychological continuity theory cannot explain Susie's personal identity. Why? In your paper, do the following: 
+Listen to this interview with [Susie Mckinnon](https://www.cbc.ca/player/play/2670406429), who suffers from Severely Deficient Autobiographical Memory. Autobiographical memories are also called episodic memories and personal memories; the memories that are used in formulating the psychological continuity theory. The psychological continuity theory cannot explain Susie's personal identity. Why? In your paper, do the following: 
 
 1. Explain the **psychological continuity theory** of personal identity. **Note the following:**
 	1. Do not discuss the same body or same soul theory of personal identity. Only discuss the psychological continuity theory. Failure to ignore this instruction will result in a loss of points.
