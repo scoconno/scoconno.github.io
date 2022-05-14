@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Self-Mind
+title: Self-I as Mind
 
 ---
 
