@@ -4,7 +4,7 @@ title: Self-Mind
 
 ---
 
-<img src="{{site.baseurl}}/rosa.Aristotle" alt="Aristotle and Homer">
+<img src="{{site.baseurl}}/Aristotle.jpg" alt="Aristotle and Homer">
 
 # Course Information
 
@@ -12,11 +12,7 @@ title: Self-Mind
 + [Philosophy of Mind Resources](/self/resources)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
-+ Successfully completing this course satisfies the following General Education requirements: 
-	+ One Tier 2 requirement. 
-	+ One Critical Thinking and Problem Solving requirement (for students entering NJCU from fall 2021 onwards).
-	+ One Written Communication requirement (for students entering NJCU from fall 2021 onwards).
-	+ One Language, Literary, and Cultural Studies requirement (for students who entered NJCU before fall 2021). 
+
 
 
 ## Withdrawal Dates for Summer I 2022  
