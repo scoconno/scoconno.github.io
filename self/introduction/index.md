@@ -6,11 +6,11 @@ title: Introduction
 ## Start Here
 + [Click this link](start)
 
-## Syllabus
-+ [Syllabus](/self/Syllabus.pdf)
+## [Course Website](/self)
 
-## Notes
-+ [Notes](notes)
+## [Syllabus](/self/Syllabus.pdf)
+
+## [Notes](notes)
 
 ## Reading
 + [Kim, ch.1](kim1and2.pdf)
