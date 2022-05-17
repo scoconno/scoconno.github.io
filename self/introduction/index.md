@@ -6,6 +6,9 @@ title: Introduction
 ## Start Here
 + [Click this link](start)
 
+## Syllabus
++ [Syllabus](/self/Syllabus.pdf)
+
 ## Notes
 + [Notes](notes)
 
