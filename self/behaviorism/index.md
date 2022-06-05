@@ -3,6 +3,7 @@ layout: mindweekly
 title: Behaviorism
 ---
 
+
 ### Reading
 + Textbook, ch.3, pp.61--71
 + ['The Concept of Mind'](Ryle.pdf), Gilbert Ryle
