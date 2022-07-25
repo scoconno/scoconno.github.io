@@ -23,12 +23,12 @@ There is a dedicated module for each week. You will find these under 'weeks' in 
 
 ## Assignments
 
-You will find a full description on the syllabus, but let me emphasize here again the following: 
+You will find a full description on the syllabus, but let me emphasize that the syllabus explains: 
 
-1. Assignments are due one week after they become available by 11:59pm. So, if an assignment is made available on a Thursday morning, it is due by the following Thursday at 11:59pm. 
-2. You must complete each assignment. Late assignments will be penalized as follows: the total score available will be reduced by 20% of the original maximum score per day late. Thus, no work will be accepted more than four days late. The final assignment will not be accepted more than two days late. 
-3. Some assignments have extra credit questions. I encourage you to complete them.   
+1. Assignment due dates. 
+2. Late work policies. 
 
+So please read the syllabus! You can find it [here](https://www.scottoconnor.org/examined/Syllabus.pdf).
 
 ## Technical Help
 
