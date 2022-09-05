@@ -8,6 +8,10 @@
 
 
 
+\usepackage{org-preamble-xelatex} 
+\usepackage{ulem}
+\usepackage{lscape}
+\usepackage{multirow}
 \def\myauthor{Author}
 \def\mytitle{Title}
 \def\mycopyright{\myauthor}
@@ -16,7 +20,7 @@
 \def\mybibliocommand{}
 \def\mysubtitle{}
 \def\myaffiliation{NJCU}
-\def\myaddress{}
+\def\myaddress{Phil 1}
 \def\myemail{soconnor@njcu.edu}
 \def\myweb{\href{http://scottoconnor.org/metaphysics}{http://scottoconnor.org/metaphysics}}
 \def\myphone{}
@@ -26,7 +30,8 @@
 \def\myauthor{Dr. Scott O'Connor}
 \def\mykeywords{}
 \def\mysubtitle{Syllabus}
-\def\mytitle{{\normalsize Phil 205 (2993), 3 Credits, Fall 2022, M\&W @ 9:55 pm., Rossey 304. \newline} \HUGE Metaphysics}
+\def\mytitle{{\normalsize \myweb \newline} \HUGE Metaphysics}
+
 
 
 \begin{document}
@@ -36,8 +41,8 @@
 \defaultfontfeatures{}
 \defaultfontfeatures{Scale=MatchLowercase}    
 % You will need to buy these fonts, change the names to fonts you own, or comment out if not using xelatex.      
-\setromanfont[Mapping=tex-text]{Georgia} 
-\setsansfont[Mapping=tex-text]{Georgia} 
+\setromanfont[Mapping=tex-text]{Minion Pro} 
+\setsansfont[Mapping=tex-text]{Myriad Pro} 
 \setmonofont[Mapping=tex-text,Scale=0.8]{Georgia} 
 
 %% blank label items; hanging bibs for text
@@ -48,13 +53,12 @@
 
 %% RCS info string for version tracking
 \chapterstyle{article-3}  % alternative styles are defined in latex-custom-kjh/needs-memoir/
-\pagestyle{kjh}
+%\pagestyle{kjh}
 
-\title{\LARGE\mytitle}     
-\author{\Large\myauthor \newline \footnotesize\texttt{\noindent\myweb}}
-\date{9/05/22--12/19/22}
+\title{\LARGE \mytitle}     
+\author{\Large\myauthor \newline \footnotesize\texttt{\noindent Office hours: \href{http://scottoconnor.org/contact/office/}{http://scottoconnor.org/contact/office/}}}
 
-\published{\,}
+\published{\textbf{Phil 205 (2993), 3 Credits, Fall 2022, M\&W @ 9:55 pm., Rossey 304.} }
 
 \maketitle
 
@@ -67,6 +71,12 @@
 %
 % Main Content
 %
+
+\section{Disclaimer}
+ This syllabus is subject to change at the discretion of the faculty. Students will be notified of such changes ahead of time via Blackboard. 
+
+\section{Copyright}
+The materials used in this class, including, but not limited to, lectures, exams, quizzes, and homework assignments are copyright protected works.  Any unauthorized copying of the class materials or recording of lectures is a violation of federal law and may result in disciplinary actions being taken against the student.  Additionally, the sharing of class materials without the specific, express approval of the instructor may be a violation of the University's Student Honor Code and an act of academic dishonesty, which could result in further disciplinary action.  This includes, among other things, uploading class materials to websites for the purpose of sharing those materials with other current or future students. 
 
 \section{Course Description and Objectives}
 
@@ -84,37 +94,41 @@ metaphysical issues.
 
 \section{Readings}
 
+There is a required textbook for this course. All other readings are available on the course website:
+\begin{itemize}
+\item `Metaphysics: An Introduction', Alyssa Ney, Routledge, 2014
+\end{itemize}
+This course is part of the Barnes \& Noble First Day Complete program.  The bookstore has provided you with a convenient package for physical books and any digital materials that have been integrated into Blackboard for this course. 
+You should have received an email from the bookstore confirming your materials and asking you to select how you would like to receive your printed materials (pick up at bookstore or delivery to your home). If you haven't done so already, please make sure you select your fulfillment preference through the link below so the bookstore can prepare your materials.\begin{itemize}
+
+\item To view your materials: \\ \href{https://sso.bncollege.com/bes-sp/bessso/saml/njcuedu/aip/logon}{https://sso.bncollege.com/bes-sp/bessso/saml/njcuedu/aip/logon}
+\item For more information on Barnes \& Noble First Day Complete, please visit: \\ \href{https://www.njcu.edu/academics/academic-success-resources/barnes-noble-first-day-complete-students}{https://www.njcu.edu/academics/academic-success-resources/barnes-noble-first-day-complete-students}   
+\end{itemize}
 All readings will be posted on the course website. You do not need to purchase anything for this course. 
 
 
 \section{Course Website}
-There is both a Blackboard site and website for this course (link on first page). Clicking the first link on the left panel within the Blackboard site will bring you to the course website. All assignments will be submitted through Blackboard. Readings, notes, etc. will be posted on the course website. Note that Blackboard difficulties are rare and automatically reported to instructors. Under no circumstance will a student's report of a Blackboard difficulty be reason for an extension. It is your responsibility to contact Blackboard support for help.
+
+There is both a Blackboard site and website for this course (link on first page). All assignments will be submitted through Blackboard. Readings, notes, etc. will be posted on the course website. Note that Blackboard difficulties are rare and automatically reported to instructors. Under no circumstance will a student's report of a Blackboard difficulty be reason for an extension. It is your responsibility to contact Blackboard support for help.
 
 
 \section{Requirements}
 
 \begin{itemize}
-\item \textit{Workload:} Expect to spend an average of 7 hours per week completing the readings and assignments. NJCU abides by the Federal and State definitions of a credit hour and adopts a policy consistent with the Carnegie Unit. A three-credit class represents 112.5 hours total of work. See \href{http://scottoconnor.org/resources/Credit.pdf}{here} for more details.
+\item \textit{Workload:} expect to spend an average of 6 hours per week completing the readings and assignments. NJCU abides by the Federal and State definitions of a credit hour and adopts a policy consistent with the Carnegie Unit. A three-credit class represents 112.5 hours total of work. See \href{http://scottoconnor.org/resources/Credit.pdf}{here} for more details.
 
-\item \textit{Attendance:} Roll call will be taken. 0.5 points will be awarded per class up to a maximum of 10 points. Points will not be awarded during weeks 1 \& 2.  
+%\item \textit{Attendance:} Roll call will be taken. 0.5 points will be awarded per class up to a maximum of 10 points. Points will not be awarded during weeks 1 \& 2.  
 
-\item \textit{5 short essays (500--750 words)} submitted through Blackboard. 7 will be assigned--one for each module--and you must complete 5. If you complete more than 5, the lowest grades will be dropped.  
+\item \textit{7 short essays (250--500 words)} submitted through Blackboard. 
 
+\item \textit{1 final essay (1000--1250 words)} in two drafts submitted through Blackboard. 
 
-\item \textit{1 long essay (1000--1250)} on submitted through Blackboard. Prompts will be given for modules 1--3 and you can select the one to answer.
-
-\item \textit{Final project choice:}  \textbf{Philosophy majors and minors should select the first choice}  
-
-\begin{itemize}
-\item 1 long essay (1000--1250 words) on one of modules 4--6; or
-\item 2 assigned short essays that you did not complete during the semester. If you have completed 7 of the required short essays, you can re-write 2. If you have completed 6, you can re-write 1 and submit whichever you have not attempted. 
-\end{itemize}
 
 \item \textit{Course evaluations} completed online. 3 points extra credit for successful completion and screenshot of completed page sent through Blackboard. 
 
-\item \textit{Grade Distribution:} Attendance--0.5 point per class (10 total); 5 short essays---10 points each (50 total); 1 long essay---20 points; 1 final project 
-20 points. 
+\item \textit{Course video} completed online. 5 points extra credit for successful completion of a short reflection video. Details will be announced in class.  
 
+\item \textit{Grade Distribution:} short essays---10 points each (70 total); long essay---draft 10 points and final 20 points (30 points total). 
 
 \item \textit{Grade Breakdown:}
 
@@ -142,13 +156,13 @@ There is both a Blackboard site and website for this course (link on first page)
 
  \item \textit{Academic Integrity:} All the work you turn in (including papers, drafts, and discussion board posts) must be written by you specifically for this course. It must originate with you in form and content with all contributory sources fully and specifically acknowledged. Being a student at NJCU requires you to follow \href{http://scottoconnor.org/resources/Plagiarism.pdf}{NJCU's Academic Integrity Policy.} Penalties for violations are as follows: 1st infraction will result in a 0 for the assignment.  2nd infraction will result in a 0 for the entire course \& application for permanent record on student's transcript. (Repeated violations can lead to expulsion from NJCU). 
 
-\item \textit{Attendance:} You are considered absent if you are (i) not present during roll call, (ii) leave early, (iii) leave without permission, or (iv) leave for an extended period of time. No excuses. No exceptions.
+%\item \textit{Attendance:} You are considered absent if you are (i) not present during roll call, (ii) leave early, (iii) leave without permission, or (iv) leave for an extended period of time. No excuses. No exceptions.
 
 \item \textit{Communication:} To comply with Federal Privacy Laws (FERPA) and NJCU policies, all communication will be through Blackboard and/or official NJCU e-mail. Check Blackboard daily. For further information see \href{http://scottoconnor.org/contact/}{http://scottoconnor.org/contact/}.
 
-\item \textit{Conduct:} Distracting and disrespectful behaviors, including but not limited to eating, leaving your seat, talking out of turn, and aggression are prohibited. Penalties include, but are not limited to, a loss of attendance points for the day of violation. Repeat offenders will be reported to the Dean of Students. 
+\item \textit{Conduct:} Distracting and disrespectful behaviors, including but not limited to eating, leaving your seat, talking out of turn, and aggression are prohibited. Penalties include, but are not limited to, a loss of participation points for the day of violation. Repeat offenders will be reported to the Dean of Students. 
 
-\item \textit{Electronic devices:} Use of electronic device, including, but not limited, to smartphones, dictaphones, tablets, and laptops, is prohibited. Recording a lecture is in violation of Copyright. Penalties include, but are not limited to, a loss of attendance points for the day of violation. Repeat offenders will be reported to the Dean of Students.
+\item \textit{Electronic devices:} Use of electronic device, including, but not limited, to smartphones, dictaphones, tablets, and laptops, is prohibited. Recording a lecture is in violation of Copyright. Penalties include, but are not limited to, a loss of participation points for the day of violation. Repeat offenders will be reported to the Dean of Students.
 
 \item \textit{Format for Written Work:} Submit work to Blackboard as either a pdf, rtf, or doc file. Blackboard will not allow any other format. All work must be typed and neatly presented. 
 
@@ -156,8 +170,10 @@ There is both a Blackboard site and website for this course (link on first page)
 \item \textit{Grading:} Grades will be available within 1--2 weeks of an assignment being submitted. See: \href{http://scottoconnor.org/resources/grading}{http://scottoconnor.org/resources/grading} for further information.
 
 
-\item \textit{Late work \& Make-up Policy:} See the assignment schedule below. No make-ups or late work accepted under any circumstances. No exceptions under any imaginable circumstances.
 
+
+
+\item \textit{Late work \& Make-up Policy:} See the assignment schedule below. Late work will be accepted up until the final day of this course. However, comments will not be given on late work and grades will not be returned on late work until the course concludes. 
 
 \item \textit{Statement for students with disabilities:} If you are a student
 with a disability and wish to receive consideration for reasonable
@@ -169,13 +185,16 @@ the registration form available on the OSS/SI website at
 or visit the office in Karnoutsos Hall, Room 102 for additional
 information.
 
-\item \textit{Turnitin:} Students agree that by taking this course all assignments are subject to submission for textual similarity review to Turnitin.com. Assignments submitted to Turnitin.com will be included as source documents in Turnitin.com's restricted access database solely for the purpose of detecting plagiarism in such documents.  The terms that apply to the University’s use of the Turnitin.com service are described on the Turnitin.com web site.  For further information about Turnitin, please visit: http://www.turnitin.com 
+%\item \textit{Turnitin:} Students agree that by taking this course all assignments are subject to submission for textual similarity review to Turnitin.com. Assignments submitted to Turnitin.com will be included as source documents in Turnitin.com's restricted access database solely for the purpose of detecting plagiarism in such documents.  The terms that apply to the University’s use of the Turnitin.com service are described on the Turnitin.com web site.  For further information about Turnitin, please visit: http://www.turnitin.com 
+
+
+
 \end{itemize}
 
 
 
 \section{Weekly Course Schedule}
-Dates refer to the first day of the week. Complete the readings before the first class of the week. All readings and handouts will be available on the website. Changes to the syllabus will be announced in class and \emph{via} your NJCU email address. All assignments must be submitted through Blackboard by Monday, 10:00am. No late work accepted. No exceptions. 
+Dates refer to the first day of the week. Complete the readings before the first class of the week. All handouts and readings not in the textbook (TEXTBOOK) will be available on the website. Changes to the syllabus will be announced in class and \emph{via} your NJCU email address. All assignments must be submitted through Blackboard by Monday, 10:00am. No late work accepted. No exceptions. 
 
 
 \begin{description}
@@ -183,21 +202,23 @@ Dates refer to the first day of the week. Complete the readings before the first
 \begin{description}
 \item [9/7:] Introduction
 \begin{enumerate}
+\item `Logic for Metaphysics', ch.1. TEXTBOOK, \emph{read very slowly}
 \item `What is Metaphysics?', Robin Le Poidevin (optional)
-\item My notes
 \end{enumerate}
 \end{description}
 
-\item[Module 1:] Appearance and Reality: Parmenides 
+\item[Module 1:] Generation \& Destruction
 \begin{description}
 \item [9/12:] Parmenides' Challenge
 \begin{enumerate}
 \item \emph{On Nature}, Parmenides
+\item `An Introduction to Ontology', ch.1, pp.30--36, TEXTBOOK
 \item `Presocratic Themes', David Sedley (optional)
 \end{enumerate}
 
-\item [9/19:] Responses (I think this should be the previous week and then devote this week to abortionn). 
+\item [9/19:] Responses: Potential Being and Potential Life 
 \begin{enumerate}
+\item \textbf{Logic quiz 1 due}
 \item \emph{Physics}\ Bk 1, Aristotle
 \item Potential Being, Actual Being stuff. Reeve have an updated paper on this?
 \item `The Eleatic Challenge in Aristotle's \emph{Physics}\ I.8,' Scott O'Connor (optional)
@@ -208,82 +229,84 @@ Dates refer to the first day of the week. Complete the readings before the first
 
 \item[Module 2:] Ontology
 \begin{description}
-\item [9/26:] Properties, class 1 on Quine, class 2 on properties.
+
+\item [9/26:] Do Properties Exist? 
+
 \begin{enumerate}
-\item \textbf{Short essay 1 due}
+\item `Abstract Entities', ch.2, pp.60--71, 77--81, TEXTBOOK
 \end{enumerate}
 
-\item[10/3: Applied Ontology] 
+\item[10/3: ] Does Race Exist? 
+
 \begin{enumerate}
-\item Race
+\item \textbf{Short essay 1 due}
+
+\item `The Metaphysics of Race', ch.10, TEXTBOOK
+
 \end{enumerate}
 
 \end{description}
 
-\item[Module 3:] Does motion exist? 
-\begin{description}
-\item [10/9/17:] Zeno's Paradoxes
-\begin{enumerate}
-\item \textbf{Short essay 2 due}
-\item \emph{Physics}\ Bk 6, Aristotle
-\item `A Contemporary Look at Zeno’s Paradoxes: an Excerpt from Space, Time, and Motion.', Wesley C. Salmon. 
-\item `The Paradoxes of Motion and the Possibility of Change', E.J. Lowe, pp. 288-306
-\end{enumerate}
 
-
-\item[Module 4:] Does Space Exist? 
+\item[Module 3:] Does Space Exist? 
 \begin{description}
-\item[10/24:] Absolute vs. Relational Theories of Space
+\item[10/10:] Absolute vs. Relational Theories of Space
 \begin{enumerate}
-\item \textbf{Short essay 3 due}
 \item `Space, Absolute and Relational', Tim Maudlin
 \item `Incongruent Counterparts and Higher Dimensions', James Van Cleve
 \end{enumerate}
 
-\item[10/31:] The Fourth Dimension
+\item[10/17:] The Fourth Dimension
 \begin{enumerate} 
+\item \textbf{Short essay 3 due}
 \item `Flatland', selections, Edwin Abbott 
-\item `Incongruent Counterparts and Higher Dimensions', James Van Cleve
 \item `The Fourth Dimension: an Excerpt from The Ambidextrous Universe', Martin Gardner
 \end{enumerate}
 \end{description}
 
-
-\item[Module 3:] Does motion exist? 
+\item[Module 5:] Does motion exist? 
 \begin{description}
-\item [10/9/17:] Zeno's Paradoxes
+\item [10/24:] Zeno's Paradoxes
 \begin{enumerate}
-\item \textbf{Short essay 2 due}
+\item \textbf{Short essay 4 due}
 \item \emph{Physics}\ Bk 6, Aristotle
 \item `A Contemporary Look at Zeno’s Paradoxes: an Excerpt from Space, Time, and Motion.', Wesley C. Salmon. 
 \item `The Paradoxes of Motion and the Possibility of Change', E.J. Lowe, pp. 288-306
 \end{enumerate}
+\end{description}
 
-\item[Module 5:] Does Time Exist? 
+
+\item[Module 5:] Time 
 \begin{description}
-\item [11/7:] Two Theories
+\item [10/31:] Time's Passages
 \begin{enumerate}
-\item \textbf{Short essay 4 due}
-\item `SlaughterHouse Five', selections, Kurt Vonnegut
+\item `Time', ch.5, pp.138--146, TEXTBOOK
+\item `Albert's Time', Falk
 \end{enumerate}
 
-\item[11/14:] The Flow of Time
+\item[11/7:] The Flow of Time
 \begin{enumerate}
-\item \textbf{Long paper 1 due}
+\item \textbf{Short essay 5 due}
+\item `SlaughterHouse Five', selections, Kurt Vonnegut
+\item `Time', ch.5, pp.146--162, TEXTBOOK
 \item `Time: an Excerpt from The Nature of Existence', J. McT. E. McTaggart.
-\item `McTaggart’s Arguments against the Reality of Time: an Excerpt from Examination of McTaggart’s Philosophy', C. D. Broad.
-\item `The Myth of Passage', D. C. Williams.
 \end{enumerate}
 \end{description}
 
-\item[Module 6:] Change
+\item[Module 6:] Material Objects and Change
 \begin{description}
-\item[11/21:] Puzzles about persistence
+\item[11/14:] Puzzles about persistence
 \begin{enumerate}
-\item \textbf{Short essay 5 due}
+\item `Material Objects', ch.3, pp.89--
 \item `Of Confused Subjects Which Are Equivalent to Two Subjects:. An Excerpt from The Port-Royal Logic', Antoine Arnauld and Pierre Nicole. 
 \item `Change and Identity', Michael Rea, pp.102--111 
 \item `The Paradox of Increase', Eric T. Olson (optional)
+\end{enumerate}
+\item[11/21/] Solutions
+\begin{enumerate}
+\item \textbf{Short essay 5 due}
+\item `Identity, Ostension, and Hypostasis', W. V. O. Quine.
+\item `In Defense of Stages: Postscript B to ``Survival and Identity'' ', David Lewis.
 \end{enumerate}
 \item[11/28/] Solutions
 \begin{enumerate}
@@ -291,34 +314,30 @@ Dates refer to the first day of the week. Complete the readings before the first
 \item `In Defense of Stages: Postscript B to ``Survival and Identity'' ', David Lewis.
 \end{enumerate}
 \end{description}
-
 \item[Module 7:] Time Travel
 \begin{description}
 \item[12/5:] Is Time Travel Possible?
 \begin{enumerate}
 \item \textbf{Short essay 6 due}
 \item `All You Zombies', Robert Heinlein 
+\item `Time', ch.5, pp.162--167, TEXTBOOK
 \item `Interfering with History', Robin Le Poidevin 
-\item `The Paradoxes of Time Travel', David Lewis.
-
 \end{enumerate}
+
 \item[12/12:] Time Travel: Continued (No class on Wed).
 \begin{enumerate}
 \item \textbf{Short essay 7 due}
-\item `Interfering with History', Robin Le Poidevin 
 \item `The Paradoxes of Time Travel', David Lewis.
 \item \textbf{No class on Wednesday}
-
 \end{enumerate}
+
 \end{description}
 
-\item[Concluding:] Final Project
+\item[Concluding:] Long Essay
 \begin{description}
 \item[12/18/17:] No classes. Submit work on Monday.
 \begin{enumerate}
-\item No exam
-\item \textbf{Long essay on module 4--6; or} 
-\item \textbf{Two assigned short essays not attempted. Note qualifications in requirements above.}
+\item No exam.
 
 \end{enumerate}
 \end{description}

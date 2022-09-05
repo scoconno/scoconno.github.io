@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  7 AUG 2022 14:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  5 SEP 2022 13:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1047,7 +1047,28 @@ Package biblatex Warning: Since you are using the 'memoir' class,
 (biblatex)                I'm leaving the formatting of the foot- and/or
 (biblatex)                end-note mark and text to you..
 
-))
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box53
+\UL@hyphenbox=\box54
+\UL@skip=\skip278
+\UL@hook=\toks32
+\UL@height=\dimen192
+\UL@pe=\count457
+\UL@pixel=\dimen193
+\ULC@box=\box55
+Package: ulem 2012/05/18
+\ULdepth=\dimen194
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip279
+\multirow@cntb=\count458
+\multirow@dima=\skip280
+\bigstrutjot=\dimen256
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package biblatex Info: Trying to load language 'american' -> 'cms-american'...
@@ -1071,92 +1092,92 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 ))
-No file Syllabus.aux.
+(./Syllabus.aux)
 \openout1 = `Syllabus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 32.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 32.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tipa/t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 37.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 37.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 32.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 32.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 32.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 32.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 32.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 32.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 32.
-LaTeX Font Info:    Redeclaring math accent \check on input line 32.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 32.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 32.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 32.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 32.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 32.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 37.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 37.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 37.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 37.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 37.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 37.
+LaTeX Font Info:    Redeclaring math accent \check on input line 37.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 37.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 37.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 37.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 32.
+(Font)              `operators' in the math version `normal' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 32.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 32.
+(Font)              `operators' in the math version `bold' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 32.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 32.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 32.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 32.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 32.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 32.
-\AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring ON on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 37.
+\AtBeginShipoutBox=\box56
+Package hyperref Info: Link coloring ON on input line 37.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1164,19 +1185,17 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count457
+\c@section@level=\count459
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 32.
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
+(./Syllabus.out) (./Syllabus.out)
 \@outlinefile=\write5
 \openout5 = `Syllabus.out'.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1186,73 +1205,135 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Syllabus.bbl' not found.
+
 No file Syllabus.bbl.
-Package biblatex Info: Reference section=0 on input line 32.
-Package biblatex Info: Reference segment=0 on input line 32.
+Package biblatex Info: Reference section=0 on input line 37.
+Package biblatex Info: Reference segment=0 on input line 37.
 
-Package fontspec Info: Georgia scale = 0.8952205882352941.
-
-
-Package fontspec Info: Georgia scale = 0.8952205882352941.
+Package fontspec Info: Minion Pro scale = 0.9840166104623617.
 
 
-Package fontspec Info: Georgia/B scale = 0.8898059475806452.
+Package fontspec Info: Minion Pro scale = 0.9840166104623617.
 
 
-Package fontspec Info: Georgia/I scale = 0.8748141724479683.
+Package fontspec Info: Minion Pro scale = 0.9840166104623617.
 
 
-Package fontspec Info: Georgia/BI scale = 0.8696428571428571.
+Package fontspec Info: Minion Pro/B scale = 0.9840166104623617.
 
 
-Package fontspec Info: Font family 'Georgia(0)' created for font 'Georgia'
-(fontspec)             with options
+Package fontspec Info: Minion Pro/B scale = 0.9840166104623617.
+
+
+Package fontspec Info: Minion Pro/I scale = 0.9840166104623617.
+
+
+Package fontspec Info: Minion Pro/I scale = 0.9840166104623617.
+
+
+Package fontspec Info: Minion Pro/BI scale = 0.9840166104623617.
+
+
+Package fontspec Info: Minion Pro/BI scale = 0.9840166104623617.
+
+
+Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
+(fontspec)             Pro' with options
 (fontspec)             [Scale=MatchLowercase,Ligatures=TeX,Mapping=tex-text].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->s*[0.8952205882352941]"Georgia/OT:script=latn;languag
-e=DFLT;mapping=tex-text;"
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;
+"
+(fontspec)             - 'bold' (bx/n) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+(fontspec)             <->s*[0.9840166104623617]"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-te
+xt;"
+
+LaTeX Info: Redefining \rmfamily on input line 45.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 9.84024pt on input line 45.
+
+Package fontspec Info: Myriad Pro scale = 0.890502342415052.
+
+
+Package fontspec Info: Myriad Pro scale = 0.890502342415052.
+
+
+Package fontspec Info: Myriad Pro/B scale = 0.890502342415052.
+
+
+Package fontspec Info: Myriad Pro/I scale = 0.890502342415052.
+
+
+Package fontspec Info: Myriad Pro/BI scale = 0.890502342415052.
+
+
+Package fontspec Info: Font family 'MyriadPro(0)' created for font 'Myriad
+(fontspec)             Pro' with options
+(fontspec)             [Scale=MatchLowercase,Ligatures=TeX,Mapping=tex-text].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.890502342415052]"Myriad
+(fontspec)             Pro/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
-(fontspec)             <->s*[0.8898059475806452]"Georgia/B/OT:script=latn;langu
-age=DFLT;mapping=tex-text;"
+(fontspec)             <->s*[0.890502342415052]"Myriad
+(fontspec)             Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.8748141724479683]"Georgia/I/OT:script=latn;langu
-age=DFLT;mapping=tex-text;"
+(fontspec)             <->s*[0.890502342415052]"Myriad
+(fontspec)             Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
 (fontspec)             - 'bold italic' (bx/it) with NFSS spec.:
-(fontspec)             <->s*[0.8696428571428571]"Georgia/BI/OT:script=latn;lang
-uage=DFLT;mapping=tex-text;"
+(fontspec)             <->s*[0.890502342415052]"Myriad
+(fontspec)             Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \rmfamily on input line 40.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 8.95218pt on input line 40.
+LaTeX Info: Redefining \sffamily on input line 46.
 
-Package fontspec Info: Georgia scale = 0.8952174188640975.
-
-LaTeX Info: Redefining \sffamily on input line 41.
-
-Package fontspec Info: Georgia scale = 0.8952174188640975.
+Package fontspec Info: Georgia scale = 0.8952269269776876.
 
 
-Package fontspec Info: Georgia scale = 0.8952174188640975.
+Package fontspec Info: Georgia scale = 0.8952269269776876.
 
 
-Package fontspec Info: Georgia/B scale = 0.8898027973790324.
+Package fontspec Info: Georgia/B scale = 0.889812247983871.
 
 
-Package fontspec Info: Georgia/I scale = 0.8748110753221012.
+Package fontspec Info: Georgia/I scale = 0.8748203666997027.
 
 
-Package fontspec Info: Georgia/BI scale = 0.8696397783251233.
+Package fontspec Info: Georgia/BI scale = 0.8696490147783251.
 
 
-Package fontspec Info: Font family 'Georgia(1)' created for font 'Georgia'
+Package fontspec Info: Font family 'Georgia(0)' created for font 'Georgia'
 (fontspec)             with options
 (fontspec)             [Scale=MatchLowercase,WordSpace={1,0,0},HyphenChar=None,
 PunctuationSpace=WordSpace,Mapping=tex-text,Scale=0.8].
@@ -1297,23 +1378,29 @@ ng=tex-text;"
 (fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
 (fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
 
-LaTeX Info: Redefining \ttfamily on input line 42.
+LaTeX Info: Redefining \ttfamily on input line 47.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 7.8722pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 7.8722pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 20.40866pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 20.40866pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 18.46902pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 12.82323pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 8.90503pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MyriadPro(0)/bx/n' will be
+(Font)              scaled to size 22.15572pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
+(Font)              scaled to size 11.80829pt on input line 64.
 LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 7.16174pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 18.56682pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/bx/n' will be
-(Font)              scaled to size 18.45447pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/bx/n' will be
-(Font)              scaled to size 12.81313pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/bx/n' will be
-(Font)              scaled to size 8.89801pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/bx/n' will be
-(Font)              scaled to size 22.13824pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/n' will be
-(Font)              scaled to size 10.74261pt on input line 60.
-LaTeX Font Info:    Font shape `TU/Georgia(1)/m/n' will be
-(Font)              scaled to size 6.40002pt on input line 60.
+(Font)              scaled to size 6.40002pt on input line 64.
+LaTeX Font Info:    Font shape `TU/MyriadPro(0)/m/n' will be
+(Font)              scaled to size 10.68604pt on input line 75.
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
@@ -1322,77 +1409,46 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 97.
+(Font)              <7> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 97.
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/it' will be
-(Font)              scaled to size 8.74817pt on input line 97.
+(Font)              <5> on input line 99.
 
-Overfull \hbox (5.3414pt too wide) in paragraph at lines 101--102
-[]\TU/Georgia(0)/m/it/10 5 short essays (500–750 words) \TU/Georgia(0)/m/n/10 s
-ubmitted through Blackboard. 7 will be assigned–
+Overfull \hbox (2.29242pt too wide) in paragraph at lines 105--106
+[][]\TU/MinionPro(0)/m/n/10 https://www.njcu.edu/academics/academic-success-res
+ources/barnes-noble-first-
  []
 
-
-Overfull \hbox (1.10712pt too wide) in paragraph at lines 143--144
-\TU/Georgia(0)/m/n/10 specifically acknowledged. Being a student at NJCU requir
-es you to follow [][]NJCU’s
- []
-
-
-LaTeX Font Warning: Font shape `TU/Georgia(0)/m/sc' undefined
-(Font)              using `TU/Georgia(0)/m/n' instead on input line 144.
-
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
+(Font)              scaled to size 9.84024pt on input line 118.
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
+(Font)              scaled to size 9.84024pt on input line 127.
 [2]
-Overfull \hbox (22.59946pt too wide) in paragraph at lines 147--148
-\TU/Georgia(0)/m/n/10 Check Blackboard daily. For further information see [][]h
-ttp://scottoconnor.org/contact/[][]. 
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 9.84024pt on input line 155.
+
+Overfull \hbox (16.33888pt too wide) in paragraph at lines 161--162
+\TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
+]http://scottoconnor.org/contact/[][]. 
  []
 
-
-Overfull \hbox (1.22647pt too wide) in paragraph at lines 149--150
-\TU/Georgia(0)/m/n/10 eating, leaving your seat, talking out of turn, and aggre
-ssion are prohibited. Penal-
- []
-
-LaTeX Font Info:    Font shape `TU/Georgia(0)/m/sc' will be
-(Font)              scaled to size 8.95218pt on input line 173.
 [3] [4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 352.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 352.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 325.
-
-
-Package rerunfilecheck Warning: File `Syllabus.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Syllabus.out':
-(rerunfilecheck)             Before: 
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E.
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Syllabus
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 352.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 352.
+Package rerunfilecheck Info: File `Syllabus.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35839 strings out of 492916
- 655269 string characters out of 6133346
- 1428156 words of memory out of 5000000
- 39669 multiletter control sequences out of 15000+600000
- 533235 words of font info for 54 fonts, out of 8000000 for 9000
+ 36060 strings out of 492916
+ 659354 string characters out of 6133346
+ 1429885 words of memory out of 5000000
+ 39834 multiletter control sequences out of 15000+600000
+ 533525 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  52i,11n,116p,1153b,6232s stack positions out of 5000i,500n,10000p,200000b,80000s
 
