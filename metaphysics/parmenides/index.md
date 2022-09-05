@@ -26,14 +26,13 @@ title: Generataion & Destruction
 
 + Required reading
   + [*Physics*, Book 1, ch.7-8](phys1.pdf)
-  
+  + [*Aristotle*,](shields.pdf) selections, C. Shields
+
 + Notes
 	+ [Lecture Notes](notes2): These are in draft form. I will edit and complete over the next few weeks. 
 
-
 + Optional reading
   + ['The Eleatic Challenge in Aristotle's *Physics* 1.8',](eleatic.pdf) S. O'Connor
-  + [*Aristotle*,](shields.pdf) selections, C. Shields
   + ['The Subjects of Natural Generations in Aristotle's *Physics* 1.7',](subjects.pdf) S. O'Connor
  
 
