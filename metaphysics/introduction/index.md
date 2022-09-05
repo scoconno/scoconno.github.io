@@ -4,7 +4,7 @@ title: Introduction
 
 ---
 
-# Introductuion
+# Introduction
 
 Please consult the syllabus for the weekly schedule of readings and assignments. Module links can contain work for several weeks.  
 
