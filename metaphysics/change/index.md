@@ -1,5 +1,5 @@
 ---
-layout: metweekly
+layout: default
 title: Change
 
 ---

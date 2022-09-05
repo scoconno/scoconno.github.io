@@ -7,8 +7,7 @@ title: Metaphysics
 
 + [Syllabus](Syllabus.pdf)
 + [Metaphysics links](https://pegasus.cc.ucf.edu/~janzb/metaphysics/)
-+ [Long essay 1](long1)
-+ [Final project](final)
+
 
 
 ## Withdrawal Dates
