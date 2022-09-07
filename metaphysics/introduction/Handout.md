@@ -25,12 +25,11 @@ Second, you will be learning how to construct your own good arguments. If you wa
 
 Since we concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. You will be introduced to some jargon that you need to learn. It will help you characterize arguments as well as evaluate them. 
 
-This handout proceeds in four rough parts: 
+This handout proceeds as follows: 
 
 1. The elements of an argument are introduced.
 2. Arguments are distinguished from non-arguments.
-3. The difference between deductive and inductive arguments is introduced.
-4. The criteria for distinguishing good from bad arguments (first deductive, then inductive) are outlined.
+4. The criteria for distinguishing good from bad arguments are outlined.
 
 I encourage you to read a section or two. Try the self-assessment exercises and check the answer key to make sure you understood the material. 
 
@@ -143,7 +142,7 @@ Which of the following passages contain an argument? In the passages containing 
 
 > I don't understand what is happening to this country. The citizens of this country are trying to destroy the beliefs of our forefathers with their liberal views. This country was founded on Christian beliefs. This has been and I believe still is the greatest country in the world. But the issue that we cannot have prayer in public places and on public property because there has to be separation of church and state is a farce. [Letter to the editor, Douglas County Sentinel]
 
-**STOP: Are you struggling with this material? If so, have you read the Ch.1.3? These notes supplement and summarize the reading. They do not replace it. Read or re-read Ch.1.3 if you are lost.**
+
 
 ## Complex Passages
 It is often difficult to identify the core argument in a complex passage. You need to recognize which statements are parts of that argument and also which statements are not parts of that argument. These other statements may serve some other role such as providing important background information, or explaining a premise, or explaining the consequences of accepting the conclusion, and so on. Try the following exercise before checking the answer key: 
@@ -171,7 +170,7 @@ A **good argument** has (1) solid logic (an appropriate connection between the p
 
 A **bad argument** (1) fails to have solid logic (fails to have an appropriate connection between the premises and conclusion), or (2) has false premises, or (3) both. 
 
-What makes the connection appropriate will vary by the type of argument under consideration. There are two main types of arguments, deductive and inductive. 
+What makes the connection appropriate is the study of logic.
 
 ## Deductive Arguments
 
@@ -222,29 +221,9 @@ For each argument, indicate whether it is valid and sound.
 Construct two arguments that are (a) sound; (b) valid, but not sound; (c) invalid.
 
 
-## Inductive Arguments
+## Symbolic Logic
 
-**Inductive Arguments** are supposed to give probable support to their conclusions, i.e., the premises are supposed to show that the conclusion is probably true. This falls short of showing that the conclusion is decisively true. An inductive argument is **strong** if its premises show that the conclusion is probably true. An inductive argument is **weak** if it fails to be strong.
-
-**Examples:**
-
-1)
-
-+ P1. 85% of the students at NJCU are Democrats.
-+ P2. Mickey Mouse is a student at NJCU
-+ C1. Therefore, Mickey Mouse is probably a Democrat. 
-
-
-2)
-
-+ P1. 10% of the students at NJCU smoke marijuana regularly.
-+ P2. Sally is a student at NJCU.
-+ C1. Therefore, Sally probably smokes marijuana regularly.
-
-The first argument is strong. If the premises are true, then the conclusion is more likely to be true than not. The second argument is weak. Just because a small portion of the student body smoke marijuana, it does not follow that Sally is more likely than not to be a smoker.
-
-### Exercise 8:
-Construct 2 inductive arguments that are (a) strong, and (b) weak. 
+In order to pro 
  
 + H: Sally is human
 + M: Sally is magical
@@ -252,7 +231,7 @@ Construct 2 inductive arguments that are (a) strong, and (b) weak.
  
 English  | Logic symbolism | Example
 -----------:|-----------: 
-Sally is ** not** human | $\neg$ | $\neg$H
+Sally is **not** human | $\neg$ | $\neg$H \not
 **If** Sally is human, **then** Sally is mortal |	$\rightarrow$ | H $\rightarrow$ M
 Sally is human **if and only if** Sally is mortal |	$\leftrightarrow$ | H $\leftrightarrow$ M
 Either Sally is human or Sally is mortal | $\vee$ | H $\vee$ M

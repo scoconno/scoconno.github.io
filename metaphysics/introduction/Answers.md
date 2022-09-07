@@ -9,7 +9,7 @@ title: Answer Key to Handout
 
 ## Stop
 
-Are you reading this document before trying the exercises yourself? Acquiring critical thinking skills requires some mental exercise along the way. Think of playing a video game. You could get a cheat key to work your way easily through a level, but you'll never master the game. So if you had difficulty with any of the exercises, I encourage you to read Ch 1.3 again, look at my notes, and then try work out the answers by yourself before turning here. 
+Are you reading this document before trying the exercises yourself? Acquiring critical thinking skills requires some mental exercise along the way. Think of playing a video game. You could get a cheat key to work your way easily through a level, but you'll never master the game. So if you had difficulty with any of the exercises, I encourage you to review my [notes](/metaphysics/introduction/Answers) and then try work out the answers by yourself before turning here. 
 
 
 ## Exercise 1 
@@ -145,38 +145,6 @@ Here are some more examples:
 **NB:** It might surprise you that this last argument is invalid. After all, the premises and conclusion are each true. Nevertheless, while the premises and conclusion are true, you cannot infer the conclusion just from the premises. No premise states that Socrates is human, so we can't rule out the possibility that he's a dog, or a dolphin, or any other mortal creature. The important lesson here is that assessing arguments requires you to assess the structure of **exactly** the argument provided. It's not your job to supply information that would make the argument a good one.
 
 
-## Exercise 8 
- 
-
-**Strong Inductive Arguments**
-
-Example 1:
-
-+ P1: The vast majority of people like cilantro. 
-+ C: Sarah probably likes cilantro. 
-
-Example 2:
-
-+ P1: The vast majority of dogs have four legs. 
-+ P2: Fido is a dog. 
-+ C: Fido probably has four legs. 
-
-
-**Weak Inductive Arguments**
-
-Example 1:
-
-+ P1: Not many people dislike chocolate. 
-+ P2: Charlie is a person. 
-+ C: Charlie probably dislikes chocolate.
-
-Example 2: 
-
-+ P1: The sun rose yesterday.
-+ C: The sun will probably rise tomorrow. 
-
-
-**NB:** This last argument may surprise you. After all, the sun will rise tomorrow. But note that this argument is only providing one piece of evidence for the conclusion, namely, that the sun rose yesterday. This is very different from claiming that since the sun has risen on countless days before today, that it will likely rise tomorrow. In general, just because something happens once (as the premise reports), it does not follow that it is likely to happen again. 
 
 
 

@@ -3,6 +3,8 @@ layout: default
 title: Notes
 ---
 
+![alt text](Aristotle.jpg)
+
 ## What is Metaphysics?
 
 The word 'metaphysics' is a neologism; it is a word coined to describe an unnamed work by Aristotle. In that work, Aristotle engaged in what he calls 'first philosophy', which he also calls the 'science of being qua being'. While the discipline of metaphysics has changed over time, it is useful in answering the question 'what is metaphysics?' to think about the project of first philosophy as Aristotle understands it. What is the science of first philosophy? What is the science of being qua being? 
