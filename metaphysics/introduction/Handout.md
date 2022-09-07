@@ -11,27 +11,18 @@ title: Critical Thinking Handout
 
 
 ## Introduction
-Metaphysics is the most abstract part of philosophy, and aspiring metaphysicians need some rudimentary understanding of its main tool---logic. Like all philosophers, metaphysicians care about **the reasons** for accepting positions views. These reasons come in the form of **arguments** which prove those views true or false. Metaphysics, then, is concerned with critical thinking, which we will define as follow:
+Metaphysics is the most abstract part of philosophy, and aspiring metaphysicians need some rudimentary understanding of its main tool---logic. Like all philosophers, metaphysicians care about **the reasons** for accepting positions views. These reasons come in the form of **arguments** which prove those views true or false. You will encounter arguments in two ways. First, you will learn how to assess the arguments of others. Such arguments are intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
 
-**Critical Thinking:** 
+Second, you will learn how to construct your own good arguments. If you want me or anyone else to accept any of your beliefs, say about taxation or religion or music, you need to provide me reasons for thinking your belief is true. You do that by providing me good arguments for that belief. 
 
-: The systematic evaluation and formulation of beliefs and statements by rational standards. 
-
-Critical thinking is systematic because it involves distinct methods or procedures. We'll be learning some of those methods in this course. It concerns evaluation because it concerns itself with assessing existing beliefs, either your own or others. And it concerns formulation because it helps you formulate new beliefs. Finally, critical thinking assesses beliefs by a particular standard, namely, by how well that belief is supported by reasons. This contrasts to evaluating beliefs based on, for instance, how beautiful or psychologically comforting they might be. 
-
-Metaphysics, then, is concerned with arguments. You will encounter arguments in two ways. First, you will be learning how to assess the arguments of others. Such arguments are intended to convince you to believe something. If someone argues that, say, corporation tax should be raised, they want you, the listener, to agree with them. You need some tool to decide whether to do that; that's how learning to assess arguments helps. It gives you the ability to determine whether the reason someone has given for raising corporation tax supports that conclusion, and so helps you determine whether you should accept their proposal.  
-
-Second, you will be learning how to construct your own good arguments. If you want me or anyone else to accept any of your beliefs, say about taxation or religion or music, you need to provide me reasons for thinking your belief is true. You do that by providing me good arguments for that belief. 
-
-Since we concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. You will be introduced to some jargon that you need to learn. It will help you characterize arguments as well as evaluate them. 
-
-This handout proceeds as follows: 
+Since we concerned with good arguments, you need to learn what arguments are and when an argument is a good one. The branch of philosophy that concerns itself with these questions is called logic. You could dedicate your life to the study of logic, but, for our purposes, we only need a brief introduction to it. This handout proceeds as follows: 
 
 1. The elements of an argument are introduced.
 2. Arguments are distinguished from non-arguments.
 4. The criteria for distinguishing good from bad arguments are outlined.
+5. Logical symbols are introduced.
 
-I encourage you to read a section or two. Try the self-assessment exercises and check the answer key to make sure you understood the material. 
+I encourage you to read a section or two. Try the self-assessment exercises and check the answer key to make sure you understood the material. The textbook covers this material too and also has some exercises. I encourage you to try those as well. 
 
 
 ## Arguments
@@ -79,7 +70,7 @@ Since reasons must be expressed by statements, a non-statement can never serve a
 
 Suppose that 2 expresses someone's sincerest belief. You know now that 1, since it is not a statement, could never be used to support that belief. So, you know that anyone who tries to prove 2 by claiming 1 is offering no real argument at all. 
 
-**NB: These are self-assessment exercises. Do not submit them to me. Use this answer key [here](/examined/Intro/Answers). There are more practice questions in the textbook.**
+**NB: These are self-assessment exercises. Do not submit them to me. 
 
 ### Exercise 1:
 
@@ -160,8 +151,6 @@ In the following passages, identify those statements which are part of the argum
 
 
 
-
-
 ## Evaluating Arguments
 
 You can now distinguish statements from non-statements, identify which statements serve as premises and which as the conclusion, and extract the core argument from a text. Our next job as philosophers is to decide whether an argument is a good one, i.e., do the reasons given by the premises prove that the claim stated in the conclusion is true? Good and bad arguments are distinguished as follows:
@@ -223,20 +212,34 @@ Construct two arguments that are (a) sound; (b) valid, but not sound; (c) invali
 
 ## Symbolic Logic
 
-In order to pro 
+In order to study the logic of an argument, philosophers abstract their structure with symbols. All we need to do in this course is read the symbols; you can study logic in depth in a symbolic logic course. We will start with symbolizing sentences. 
  
 + H: Sally is human
 + M: Sally is magical
-+ D:  
+
+Logic is primarily concerned with the structural relationships between propositions. For now, familiarize yourself withe following symbols: 
  
 English  | Logic symbolism | Example
 -----------:|-----------: 
-Sally is **not** human | $\neg$ | ¬H
-**If** Sally is human, **then** Sally is mortal |	$\rightarrow$ | H $\rightarrow$ M
-Sally is human **if and only if** Sally is mortal |	$\leftrightarrow$ | H $\leftrightarrow$ M
-Either Sally is human or Sally is mortal | $\vee$ | H $\vee$ M
-Sally is human **and** Sally is mortal | $\wedge$ | H $\wedge$ M
+Sally is **not** human | **¬** | ¬H
+**If** Sally is human, **then** Sally is mortal |**⊃** | H ⊃ M
+Sally is human **if and only if** Sally is mortal |	**≡** | H ≡ M
+Either Sally is human **or** Sally is mortal | **∨** | H ∨ M
+Sally is human **and** Sally is mortal | **∧** | H ∧ M
 
-Predicate Logic	
-∀	$\forall$
-∃	$\exists$
+How do these technicalities help? Consider the above argument: 
+
+> If Arme is in town, then she's staying at the Barbary Hotel. She's in town. Therefore, she's staying at the Barbary Hotel
+
+We study the argument by first symbolizing the unit sentences. 
+
+A: Arme is in town. 
+B: Arme is staying in the Barbary Hotel 
+
+We can phrase the argument as follows:
+
+> P1: A ⊃ B
+> P2: A
+> C: B
+
+This argument is clearly valid; it is impossible for the premises to be true and the conclusion false. So the use of symbols has allowed us see that the argument embodies a valid structure. Throughout this course, you'll see many attempts to symbolize arguments in this way. 
