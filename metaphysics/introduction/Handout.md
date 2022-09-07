@@ -1,5 +1,5 @@
 ---
-layout: examweekly
+layout: default
 title: Critical Thinking Handout
 ---
 
