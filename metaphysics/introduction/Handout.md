@@ -231,7 +231,7 @@ In order to pro
  
 English  | Logic symbolism | Example
 -----------:|-----------: 
-Sally is **not** human | $\neg$ | $\neg$H \not
+Sally is **not** human | $\neg$ | ¬H
 **If** Sally is human, **then** Sally is mortal |	$\rightarrow$ | H $\rightarrow$ M
 Sally is human **if and only if** Sally is mortal |	$\leftrightarrow$ | H $\leftrightarrow$ M
 Either Sally is human or Sally is mortal | $\vee$ | H $\vee$ M
