@@ -9,7 +9,7 @@ title: Answer Key to Handout
 
 ## Stop
 
-Are you reading this document before trying the exercises yourself? Acquiring critical thinking skills requires some mental exercise along the way. Think of playing a video game. You could get a cheat key to work your way easily through a level, but you'll never master the game. So if you had difficulty with any of the exercises, I encourage you to review my [notes](/metaphysics/introduction/Answers) and then try work out the answers by yourself before turning here. 
+Are you reading this document before trying the exercises yourself? Acquiring critical thinking skills requires some mental exercise along the way. Think of playing a video game. You could get a cheat key to work your way easily through a level, but you'll never master the game. So if you had difficulty with any of the exercises, I encourage you to review my [notes](/metaphysics/introduction/Handout) and then try work out the answers by yourself before turning here. 
 
 
 ## Exercise 1 
