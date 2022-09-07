@@ -7,7 +7,7 @@ title: Critical Thinking Handout
 
 # Work Sheet
 
- You will find some **self-assessment** exercises below. The answer key is [here](/examined/Intro/Answers). **You do not submit answers to self-assessment exercises to me.**
+ You will find some **self-assessment** exercises below. The answer key is [here](/metaphysics/introduction/Answers). **You do not submit answers to self-assessment exercises to me.**
 
 
 ## Introduction
