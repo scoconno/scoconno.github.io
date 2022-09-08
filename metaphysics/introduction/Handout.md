@@ -238,8 +238,8 @@ B: Arme is staying in the Barbary Hotel
 
 We can phrase the argument as follows:
 
-> P1: A ⊃ B
-> P2: A
-> C: B
++ P1: A ⊃ B
++ P2: A
++ C: B
 
 This argument is clearly valid; it is impossible for the premises to be true and the conclusion false. So the use of symbols has allowed us see that the argument embodies a valid structure. Throughout this course, you'll see many attempts to symbolize arguments in this way. 
