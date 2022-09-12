@@ -8,7 +8,7 @@ title: Generataion & Destruction
 ![alt text](parm.png)
 
 
-## Parmenides' Challenge
+## Week 1: Parmenides' Challenge
 
 + Required reading not in the Textbook
   + ['On Nature',](text) Parmenides
@@ -20,7 +20,7 @@ title: Generataion & Destruction
    + ['Parmenides',](https://plato.stanford.edu/entries/parmenides/) SEP entry
   
 
-## Generation From Potential Being
+## Week 2: Generation From Potential Being
 
 + Required reading not in the textbook
   + [*Physics*, Book 1, ch.7-8](phys1.pdf)
