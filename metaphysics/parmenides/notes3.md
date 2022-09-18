@@ -9,7 +9,7 @@ title: Responses to Parmenides
 # Aristotle's Response to Parmenides
 
 
-For an introduction to Aristotle and his life, see [here](scottoconnor.org/metaphysics/parmenides/overview). 
+For an introduction to Aristotle and his life, see [here](overview). 
 
 
 Consider again this table that summarizes the various ways Parmenides' predecessors differed from him. 
