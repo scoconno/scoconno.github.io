@@ -9,7 +9,7 @@ title: Responses to Parmenides
 # Aristotle's Response to Parmenides
 
 
-For an introduction to Aristotle and his life, see [here](overview). 
+For an introduction to Aristotle and his life, see [here](\metaphysics\parmenides\overview). 
 
 
 Consider again this table that summarizes the various ways Parmenides' predecessors differed from him. 
@@ -77,7 +77,7 @@ Substances are obviously different from what inheres in them. The weight of a st
 
 This contrast between substances and what inheres in them obviously resembles a linguistic contrast between grammatical subjects and predicates, between 'Flipper' and 'swimming' in the sentence 'Flipper is swimming'. But the contrast is more fundamental than the linguistic one. The word 'swimming' could also serve as a grammatical subject, e.g., 'swimming is a pleasant activity'. The word 'Flipper' could also serve as a predicate, e.g., 'the toy belongs to Flipper'. But substances can never inhere in anything else; they can never be possessed by anything else. They are the fundamental bedrock for everything that inheres in them.
 
-The criteria for something's being a substance is as follows" 
+The criteria for something's being a substance is as follows: 
 
 
 Substance: 
