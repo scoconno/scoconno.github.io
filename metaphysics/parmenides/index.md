@@ -13,7 +13,10 @@ title: Generataion & Destruction
 + Required reading not in the Textbook
   + ['On Nature',](text) Parmenides
 
-+ [Notes](notes)
++ Notes: 
+	+ [Monday](notes) 
+	+ [Wednesday](notes2)
+
 
 + Optional reading
    + ['Presocratic Themes',](Pres.pdf) D. Sedley 
@@ -26,7 +29,9 @@ title: Generataion & Destruction
   + [*Physics*, Book 1, ch.7-8](phys1.pdf)
   + [*Aristotle*,](shields.pdf) selections, C. Shields
 
-+ [Notes](notes2): These are in draft form. I will edit and complete over the next few weeks. 
++ Notes:
+	+ [Monday](notes3): These are in draft form. I will edit and complete over the next few weeks. 
+	+ [Wednesday](notes4): These are in draft form. I will edit and complete over the next few weeks. 
 
 + Optional reading
   + ['The Eleatic Challenge in Aristotle's *Physics* 1.8',](eleatic.pdf) S. O'Connor
