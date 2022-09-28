@@ -24,4 +24,12 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 ---
 + [Module 1: Introduction](introduction) 
+
+---
+
 + [Module 2: Generation & Destruction,](parmenides) 9.12.22, *two weeks*
+
+---
+
++ [Module 3: Ontology,](ontology) 9.26.22, *two weeks* 
+---
