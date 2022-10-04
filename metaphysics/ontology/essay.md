@@ -2,25 +2,25 @@
 
 layout: default
 
-title: Short Essay 1
+title: Short Essay 2
 
 ---
 
-# Short Essay 1
+# Short Essay 2
 
-## Introduction
-That Parmenides! He is so sincere and always follows an argument wherever it takes him.  But, what a mistake. He has convinced himself that the world as we perceive it is all an illusion. Reality, he has come to be believe, comprises one and only one thing. There are no plurality of cats, or dogs, or people, or anything! Moreover, he thinks this one thing is uncreated and indestructible; it will exist for eternity. He thinks it cannot alter, grow, or move, and he insists that it occupies all of space. What are you going to do with him, your oldest and dearest friend? 
+## The Inventory of Being
+God has given you a tough task. You must create a great inventory of being! In that inventory, you must list every kind of thing that exists, has existed, and will exist. Some of the work is easy. Planets, animals, atoms, and trees. They all clearly exist, but what about universals, mathematical entities, and race? 
 
-Fortunately, Parmenides is a reasonable person and would gladly learn of any mistakes in his argument. You decide to write him a letter diagnosing the error in his reasoning. 
+To make it worse, God doesn't want all those entities that seem to depend on human cognition and practice. Only mind independent entities should be included! You are convinced at least one of these entities does exist.
+
 
 ## Task
 
-Write a letter to Parmenides. The letter must do the following:
+Pick either **universals**, **mathematical entities**, or **race**. 
 
-+ Explain what you take to be the principle claim driving the argument and why Parmenides seems to accept it. 
-+ Explain why this principle is wrong and explain how rejecting it blocks the conclusions of Parmenides' arguments. 
++ Provide the best argument that your chosen entity exists, i.e., belongs to the great inventory of mind-independent reality.   
 
-**NB:** You are writing a letter to a dear old friend. This essay should be written and formatted, then, as a letter.  Use ordinary language. Embellish the letter with short, friendly details, e.g., 'you are just trying to get out of that tennis game with this denial of motion!' 
+**NB:** 1) Pick the strongest argument for the existence of your chosen entity; don't summarize all the arguments that have been given. 2) Don't discuss any argument against your chosen entity. 3) Don't attempt to argue that your entity is a mind-dependent entity! 
 
 ## Word Count
 

@@ -12,7 +12,9 @@ title: Ontology
 
 + Optional reading
    + ['Platonism in the Philosophy of Mathematics',](https://plato.stanford.edu/entries/platonism-mathematics/) Øystein Linnebo 
-   + ['Nominalism in Metaphysic',](https://plato.stanford.edu/entries/nominalism-metaphysics/) Gonzalo Rodriguez-Pereyra
+   + ['Nominalism in Metaphysics',](https://plato.stanford.edu/entries/nominalism-metaphysics/) Gonzalo Rodriguez-Pereyra
+
++ [Slides](ontology)
   
 
 ## Week 2: Race
