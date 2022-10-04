@@ -1,6 +1,6 @@
----
+	---
 layout: default
-title: Generataion & Destruction
+title: Generation & Destruction
 ---
 
 # Module 1: Generation & Destruction
@@ -17,6 +17,7 @@ title: Generataion & Destruction
 	+ [Monday](notes) 
 	+ [Wednesday](notes2)
 
++ [Slides](challenge)
 
 + Optional reading
    + ['Presocratic Themes',](Pres.pdf) D. Sedley 
@@ -32,6 +33,8 @@ title: Generataion & Destruction
 + Notes:
 	+ [Monday](notes3): These are in draft form. I will edit and complete over the next few weeks. 
 	+ [Wednesday](notes4): These are in draft form. I will edit and complete over the next few weeks. 
+
++ [Slides](potentiality)
 
 + Optional reading
   + ['The Eleatic Challenge in Aristotle's *Physics* 1.8',](eleatic.pdf) S. O'Connor
