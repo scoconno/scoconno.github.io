@@ -32,4 +32,8 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 ---
 
 + [Module 3: Ontology,](ontology) 9.26.22, *two weeks* 
+
+---
+
++ [Module 4: Space and motion,](space) 10.09.22, *three weeks* 
 ---

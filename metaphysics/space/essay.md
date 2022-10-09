@@ -28,15 +28,8 @@ Write your detailed diary entry. In the diary entry, do the following:
 
 ### Word Count
 
-500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
+250--500 words long. 
 
-### Due Date
-
-Please consult the syllabus and course website for the due date.
-
-### Late Submissions
-
-Per the policies outlined in the syllabus, late work will not be accepted. Any request for special treatment will be ignored. If you foresee difficulties submitting work on time, either because of personal or work commitments, then you should start this paper early and submit it early.
 
 ### Plagiarism
 
