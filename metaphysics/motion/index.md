@@ -24,7 +24,6 @@ title: Motion
 
 + **Notes**
   + [Handout 1](Zeno.pdf)
-  + [Handout 2](Zeno2.pdf)
   + [Handout 2](zeno3.pdf)
 
 
