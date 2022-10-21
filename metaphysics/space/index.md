@@ -31,5 +31,11 @@ title: Space
 	+ [Futurism magazine article and linked videos](https://futurism.com/new-perspectives-imagining-a-4d-world/)
 	+ [A high-school student explaining a 4D world](https://www.youtube.com/watch?v=eGguwYPC32I)
 
+
+## Motion (week 3)
+
++ [Zeno & The Paradoxes of Motion](/metaphysics/motion)
+
+
 ## Assignments
 + [Short essay](essay)
