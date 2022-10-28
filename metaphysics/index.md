@@ -37,3 +37,7 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 
 + [Module 4: Space and motion,](space) 10.09.22, *three weeks* 
 ---
+
++ [Module 5: Time,](time) 10.27.22, *two weeks* 
+---
+
