@@ -1,12 +1,12 @@
 ---
-layout: metweekly
-title: Short Essay
+layout: default
+title: Short Essay 4
 ---
 
 
 ## Introduction
 
-Tough gig. You have been a tour guide for many years, but this new tour is harder than anything you have worked on before. It was only last year when Tralfamadorians and Humans became aware of one another. Already, there are tourist trips to each planet. Your job is to lead inter-planetary tours. You normally prep visitors about the cultures they will visit, alert them to variations in ethical norms, and educate them about practical considerations. But this new tour will require you to something even harder: you must explain the very different ways each species experiences time and just how that might affect the tourists' trip. You better prepare what you will say to them, you better write your detailed tour script introducing Tralfamadorians to Earth and Humans to Tralfamadore.
+You have been a tour guide for many years, but this new tour is harder than anything you have worked on before. It was only last year when Tralfamadorians and Humans became aware of one another. Already, there are tourist trips to each planet. Your job is to lead inter-planetary tours. You normally prep visitors about the cultures they will visit, alert them to variations in ethical norms, and educate them about practical considerations. But this new tour will require you to something even harder: you must explain the how each species experiences time differently and just how these differences might affect the tourists' trip. You prepare by writing a detailed tour script introducing Tralfamadorians to Earth and Humans to Tralfamadore.
 
 
 ## Task
@@ -20,8 +20,8 @@ Write the introduction you will use to explain the respective ways each species 
 
 + This assignment concerns ‘Slaughterhouse-Five’, by Kurt Vonnegut. The reading was assigned for our first week on time, so re-read it before you attempt this essay. 
 + Your audience are tourists! Some of these tourists are likely children. Write very simple and clearly!
-+  Feel free to use diagrams.
++ Feel free to use diagrams.
 
 
 ## Word Count
-500-750 words long. Essays shorter than 500 words or longer than 750 words will lose points.
+250-500 words long. Essays shorter than 250 words or longer than 500 words will lose points.
