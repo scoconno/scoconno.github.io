@@ -41,3 +41,11 @@ Please refer to the syllabus for a weekly schedule of readings and assignments. 
 + [Module 5: Time,](time) 10.27.22, *two weeks* 
 ---
 
++ [Module 6: Material Objects & Change](change) 11.14.22, *three weeks* 
+
+---
+
+
++ [Module 7: Time Travel](TT) 12.05.22, *two weeks*
+
+---

@@ -10,6 +10,4 @@ title: Time Travel
 + ['Interfering with History',](TT.pdf) Robin Le Poidevin 
 + ['The Paradoxes of Time Travel'](/metaphysics/big.pdf), David Lewis, ch.17 of attached textbook
 
-## Assignments
 
-+ [Short essay](essay)
