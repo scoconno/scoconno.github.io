@@ -16,6 +16,11 @@ title: Material Beings & Change
 
 ## Solutions (week 3)
 
++ [Notes](Handout2.pdf)
+
+
+## Solutions (week 3)
+
 + Reading
 	+ [‘Identity, Ostension, and Hypostasis’,](/metaphysics/big/pdf), W.V.O.Quine, ch.20 of attached reading. 
 	+ [‘In Defense of Stages: Postscript B to “Survival and Identity”,](/metaphysics/big.pdf) David Lewis, ch.22 of attached reading. 
