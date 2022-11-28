@@ -3,7 +3,7 @@ layout: metweekly
 title: Long Essay 2
 ---
 
-## Final Project
+## Long Essay 2
 
 You have two options for completing the final assigment: 
 
