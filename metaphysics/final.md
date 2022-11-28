@@ -1,16 +1,9 @@
 ---
-layout: metweekly
+layout: default
 title: Long Essay 2
 ---
 
-## Long Essay 2
 
-You have two options for completing the final assigment: 
-
-1. 1 long essay(1000–1250words) on one of modules 4–6 (see below); or
-2. Two of the assigned short essays that you did not complete during the semester. If you have completed 7 of the required short essays, you can re-write 2. If you have completed 6, you can re-write 1 and submit whichever you have not attempted.
-	+ **NB:** You cannot re-write a submitted paper if you have completed five or fewer short essays. 
-3. Philosophy majors and minors are encouraged to complete the long essay.
 
 ## Long Essay 2
 
