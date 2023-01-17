@@ -1,0 +1,321 @@
+---
+layout: course
+title: Ancient Philosophy
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HF09PRMQ7Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Course Information
+
+Welcome to the course website for *Ancient Philosophy*.  
++ [Syllabus](Syllabus.pdf)
++ [Ancient Philosophy Resources](resources)
++ [Essay 1](assignments/essay1)
++ [Essay 2](assignments/essay2)
++ [Final Exam](finalexam)
+
+## Additional materials and notes
+
+The syllabus details our schedule of readings from the course texts. **Consult the syllabus first and read whatever is assigned there first.** I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally edit and improve my notes each time I offer this course, so please take the posted notes as tentative. **All assignments can be found in Blackboard.**
+
+**Week 1: Introduction**
+
++ *Notes:* [Introduction](Introduction/Lecture 1.pdf)
+
+---
+**Week 2: Socrates**
+Reading: If you have yet to purchase the textbook, you can print the dialogs from the linked website. You must have a copy of the reading in class with you.
++ [*Euthyphro*](http://classics.mit.edu/Plato/euthyfro.html). 
+
++ [*Socrates*,](https://plato.stanford.edu/entries/socrates/) Debra Nails. This is a nice, optional, overview of Socrates' life and discussion of the various records about him.
+
++ *Notes:* 
+	+ [Euthyphro](Euthyphro/Lecture4.pdf)
+	
+
+
+---
+**Week 3: Socrates Trial - Reports**
+
++ Apology and Xenopon
++ *Notes*
+	+ [Notes 1](Apology/Lecture5.pdf)
+	
+
+---
+**Week 4: Education Virtue**
+
+Gorgias - Miseducation he doesn't do it willingly could go with below
++ [*Meno*](http://classics.mit.edu/Plato/meno.html)
++ [Meno](Meno/Meno.pdf)
+		+ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
+
+
+---
+**Week 5: Corruption**
+The Clouds, Aristophanes 
+Symposium - sexual charge?
+
+
+**Week 6: Socrates' Loyalty to Athens**
+
+That journalist who argues that Socrates refusing to leave during the Tyrants is evidence of anti-democratic. 
+
++ [Notes 2](Crito/crito.pdf)
+
+
+---
+**Week 7: Socrates' Execution - Plato's Defense?**
+
+I kind of think this is Plato's defense of Socrates? 
++ *Notes:*
+	+ [Notes 1](Phaedo/phaedo.pdf)
+	+ [Notes 2](Phaedo/phaedo2.pdf) 
+	+ [Notes](Phaedo/phaedo3.pdf)
+
+---
+**Week 8: Spring Break**
+
+---
+**Week 9: Plato's Republic 1**
+
++ *Additional Material*
+	
++ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.3--23, pp.47--88, and 99--104.  
+
++ *Notes:* 
+	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
+	+ [Justice in the City](Republic1/Lecture2.pdf)
+
+
+
++ *Additional Material*
+	
+	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.5
+	  +  If you are interested in philosopher rulers and their education, read ch.6 and 7. 
+	+ [On the relationship between a just soul and just city](https://youtu.be/-oJs5u_GAYA)
+	+ [Plato on the good life](https://www.youtube.com/watch?v=-oJs5u_GAYA)
+	+ Allegory of the cave
+		+ [Orson Welles narration](https://www.youtube.com/watch?v=QFi8JUIwu2s)
+		+ [Another nice depiction](https://youtu.be/1RWOpQXTltA)
+		+ [Depiction](Republic3/cave.jpeg)
++ Notes:
+	+ [Justice in the soul](Republic2/Lecture.pdf) 
+	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+
+---
+
+
+
+**Week 10: Plato's Republic 2**
+
++ *Additional Material*
+  + [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
+  + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
++ Notes: 
+  + [The descent into injustice](Republic3/lecture1.pdf)
+  + [The unhappiness of the tyrant](Republic3/lecture2.pdf)
+
+---
+
+**Week 11: Aristotle Introduced**
+
++ *Additional Required Material*
+	+ [Reading,](/ancient/Shields2.pdf) read chapter 1
+	+ [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
++ Notes
+	+ [Presocratics](Presoc/Lecture2.pdf)
+	+ [Knowledge](PA/Lecture.pdf)
+	+ [Matter and Form](Physics/Lecture.pdf)
+
++ Additional Optional Material
+	+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
+
+ 
+---
+
+**Week 12: Aristotle the scientist**
+
++ Additional required material:  
+  	+ [*Aristotle,*](Shields.pdf) ch.2
++ Notes: 
+	+ [The Four Causes](Physics2/Lecture1.pdf)
++ *Additional Optional Material*
+ 	+ [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology.
+
+---
+
+**Week 14: Aristotle the philosopher of mind**
+
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.7
++ Notes:
+	+ [Mind/Body](DA/Lecture.pdf)
+	
+
+---
+
+**Week 15: Aristotle the ethicist**
+
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.8
+  + [Video on Aristotle's Ethics](https://www.youtube.com/watch?v=VFPBf1AZOQg)
+  + [Another video on Aristotle's virtue theory](https://www.youtube.com/watch?v=PrvtOWEXDIQ)
++ Notes
+  + [Note 1](NE1/Lecture.pdf)
+  + [Note 2](NE2/Lecture.pdf)
+
+---
+
+**Week 16: No classes**
+
+---
+
+
++ *Extra Material*
+  + [*Hellenistic Philosophy,*](Hellenistics.pdf) pp.3--31
+  + [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
++ Notes
+  + [Note 1](Epicurus/epicurus.pdf)
+  + [Note 2](/Epicurus/Epicurus2.pdf)
+
+
+---
+**Week 4: Education Virtue**
+
++ [*Meno*](http://classics.mit.edu/Plato/meno.html)
++ [Meno](Meno/Meno.pdf)
+		+ [Reconstruction of geometry example](https://www.youtube.com/watch?v=95GjK0p582g)
+The Clouds, Aristophanes 
+
+
+---
+**Week 5: Corruption**
+Symposium - sexual charge?
+Gorgias - Miseducation he doesn't do it willingly could go with below
+
+**Week 6: Socrates' Loyalty to Athens**
+No class on Mod
+That journalist who argues that Socrates refusing to leave during the Tyrants is evidence of anti-democratic. 
+
++ [Notes 2](Crito/crito.pdf)
+
+
+---
+**Week 7: Socrates' Execution - Plato's Defense?**
+
+I kind of think this is Plato's defense of Socrates? 
++ *Notes:*
+	+ [Notes 1](Phaedo/phaedo.pdf)
+	+ [Notes 2](Phaedo/phaedo2.pdf) 
+	+ [Notes](Phaedo/phaedo3.pdf)
+
+---
+**Week 8: Spring Break**
+
+---
+**Week 9: Plato's Republic 1**
+
++ *Additional Material*
+	
++ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.3--23, pp.47--88, and 99--104.  
+
++ *Notes:* 
+	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
+	+ [Justice in the City](Republic1/Lecture2.pdf)
+
+
+	
+	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.5
+	  +  If you are interested in philosopher rulers and their education, read ch.6 and 7. 
+	+ [On the relationship between a just soul and just city](https://youtu.be/-oJs5u_GAYA)
+	+ [Plato on the good life](https://www.youtube.com/watch?v=-oJs5u_GAYA)
+	+ Allegory of the cave
+		+ [Orson Welles narration](https://www.youtube.com/watch?v=QFi8JUIwu2s)
+		+ [Another nice depiction](https://youtu.be/1RWOpQXTltA)
+		+ [Depiction](Republic3/cave.jpeg)
++ Notes:
+	+ [Justice in the soul](Republic2/Lecture.pdf) 
+	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+
+---
+
+
+
+**Week 10: Plato's Republic 2**
+
++ *Additional Material*
+  + [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
+  + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
++ Notes: 
+  + [The descent into injustice](Republic3/lecture1.pdf)
+  + [The unhappiness of the tyrant](Republic3/lecture2.pdf)
+
+---
+
+**Week 11: Trial 1**
+
+---
+
+**Week 12: Trial 2**
+
+---
+
+**Week 13: Aristotle Introduced** 2 on Aristotle
+
++ *Additional Required Material*
+	+ [Reading,](/ancient/Shields2.pdf) read chapter 1
+	+ [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
++ Notes
+	+ [Presocratics](Presoc/Lecture2.pdf)
+	+ [Knowledge](PA/Lecture.pdf)
+	+ [Matter and Form](Physics/Lecture.pdf)
+
++ Additional Optional Material
+	+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
+
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.7
++ Notes:
+	+ [Mind/Body](DA/Lecture.pdf)
+	
+
+---
+
+**Week 14: Aristotle the ethicist**
+
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.8
+  + [Video on Aristotle's Ethics](https://www.youtube.com/watch?v=VFPBf1AZOQg)
+  + [Another video on Aristotle's virtue theory](https://www.youtube.com/watch?v=PrvtOWEXDIQ)
++ Notes
+  + [Note 1](NE1/Lecture.pdf)
+  + [Note 2](NE2/Lecture.pdf)
+
+---
+
+**Week 15: Stoic Week**
+
++ *Extra Material*
+  + [*Hellenistic Philosophy,*](Hellenistics.pdf) pp.3--31
+  + [Wireless Philosophy Video on Epicurus](https://www.youtube.com/watch?v=E5f5smh7Keo)
++ Notes
+  + [Note 1](Epicurus/epicurus.pdf)
+  + [Note 2](/Epicurus/Epicurus2.pdf)
+
+---
+
+**Week 16: Stoic Week**
+No class on Wed
+
+---
+
+**Week 17: Stoic Week**
+No class on Wed
+
+---
+
+**Week 18: Exam Week**
+
+There are exams. 
+
+
