@@ -1,5 +1,10 @@
+
+---
+layout: default
+title: TBD
+---
+
 Natural vs artificial things {#natural-vs-artificial-things .unnumbered}
-============================
 
 Natural things (e.g. animals, parts of animals, earth, air, fire,
 water): have within themselves a principle of motion and stability in
