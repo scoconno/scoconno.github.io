@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  17 JAN 2023 21:55
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  17 JAN 2023 22:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1186,7 +1186,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 )))
-No file Syllabus.aux.
+(./Syllabus.aux)
 \openout1 = `Syllabus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1205,7 +1205,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 32.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 32.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 32.
@@ -1288,11 +1288,9 @@ LaTeX Info: Redefining \nameref on input line 32.
 LaTeX Info: Redefining \ref on input line 32.
 LaTeX Info: Redefining \pageref on input line 32.
 LaTeX Info: Redefining \nameref on input line 32.
+(./Syllabus.out) (./Syllabus.out)
 \@outlinefile=\write6
 \openout6 = `Syllabus.out'.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1302,6 +1300,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Syllabus.bbl' not found.
+
 No file Syllabus.bbl.
 Package biblatex Info: Reference section=0 on input line 32.
 Package biblatex Info: Reference segment=0 on input line 32.
@@ -1547,26 +1546,27 @@ LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/it' will be
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/sc' will be
 (Font)              scaled to size 9.84024pt on input line 118.
  [2]
-Overfull \hbox (1.11937pt too wide) in paragraph at lines 139--140
-\TU/MinionPro(0)/m/n/10 each (30 total); mock trial assignments–26 points; Stoi
-c journal final examination–
+LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
+(Font)              scaled to size 9.84024pt on input line 122.
+
+Overfull \hbox (13.92043pt too wide) in paragraph at lines 139--140
+\TU/MinionPro(0)/m/n/10 points; mock trial assignments–20 points; Stoic journal
+–20 points; final examination–
  []
 
-LaTeX Font Info:    Font shape `TU/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 9.84024pt on input line 165.
 [3]
 Overfull \hbox (16.33888pt too wide) in paragraph at lines 173--174
 \TU/MinionPro(0)/m/n/10 Check Blackboard daily. For further information see [][
 ]http://scottoconnor.org/contact/[][]. 
  []
 
-[4]
+
 Overfull \hbox (4.47884pt too wide) in paragraph at lines 209--210
 \TU/MinionPro(0)/m/n/10 See [][]http://www.columbia.edu/itc/lithum/wong/stephan
 us.html[][] for an explanation. Read-
  []
 
-
+[4]
 Overfull \hbox (11.40778pt too wide) in paragraph at lines 211--212
 \TU/MinionPro(0)/m/n/10 email address. All assignments must be submitted throug
 h Blackboard by Sunday, 11:59pm.
@@ -1576,46 +1576,37 @@ h Blackboard by Sunday, 11:59pm.
 LaTeX Font Info:    Font shape `TU/MinionPro(0)/m/n' will be
 (Font)              scaled to size 8.85622pt on input line 218.
 
-Overfull \hbox (55.0551pt too wide) in alignment at lines 216--256
+Overfull \hbox (55.0551pt too wide) in alignment at lines 216--262
  [] [] [] 
  []
 
 
-Overfull \hbox (55.0551pt too wide) in alignment at lines 256--289
+Overfull \hbox (55.0551pt too wide) in alignment at lines 262--300
  [] [] [] 
  []
 
 [6
 
 ]
-Overfull \hbox (55.0551pt too wide) in alignment at lines 289--294
+Overfull \hbox (55.0551pt too wide) in alignment at lines 300--304
  [] [] [] 
  []
 
 [7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 307.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
  (./Syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 297.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Syllabus
-(biblatex)                and rerun LaTeX afterwards.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 307.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 307.
 Package logreq Info: Writing requests to 'Syllabus.run.xml'.
 \openout1 = `Syllabus.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32927 strings out of 493005
- 587213 string characters out of 6134596
- 1268594 words of memory out of 5000000
- 36653 multiletter control sequences out of 15000+600000
+ 32935 strings out of 493005
+ 587327 string characters out of 6134596
+ 1268734 words of memory out of 5000000
+ 36655 multiletter control sequences out of 15000+600000
  4755 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  50i,11n,117p,10391b,5804s stack positions out of 5000i,500n,10000p,200000b,80000s
