@@ -15,6 +15,8 @@ Welcome to the course website for *Ancient Philosophy*.
 
 The syllabus details our schedule of readings from the course texts. **Consult the syllabus first and read whatever is assigned there first.** I include here additional readings that you might find useful, occasional videos & podcasts, and notes. I normally edit and improve my notes each time I offer this course, so please take the posted notes as tentative. **All assignments can be found in Blackboard.**
 
+---
+
 **Week 1: Introduction**
 
 + *Notes:* [Introduction](Introduction/Lecture 1.pdf)
@@ -34,10 +36,17 @@ Reading: If you have yet to purchase the textbook, you can print the dialog from
 ---
 **Week 3: Socrates Trial - Reports**
 
++ [*The Apology*](http://classics.mit.edu/Plato/apology.html). Please get the textbook asap. 
 + [*Xenophon's Account*](https://www.famous-trials.com/socrates/838-xenophonapology)
 + *Notes*
 	+ [Notes 1](Apology/Lecture5.pdf)
 	
 
+---
+**Week 4: Socrates and inquiry**
 
+For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 'The Meno', and you should read this in detail. 'The Clouds' is a play, and you can skim through this enjoyable read. 
 
++ [*The Clouds*,](Meno/aristophanes.pdf) by Aristophanes
++ *Notes*
+	+ [Notes 1](Meno/Meno.pdf)
