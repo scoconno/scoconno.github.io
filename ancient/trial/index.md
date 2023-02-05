@@ -1,11 +1,11 @@
 ---
-layout: ancientweekly
+layout: default
 title: Mock Trial of Socrates 
 ---
 
 ## Mock Trial of Socrates
 
-## The Teams
+### The Teams
 
 | Prosecution     | Defense |
 | ----------- | ----------- |
@@ -21,7 +21,7 @@ title: Mock Trial of Socrates
 | Naiomi	 | Jake       |
 | Mario		 | Omotola      |
 
-## The Structure
+### The Structure
 
 The trial will take place over four classes. Please see the syllabus. 
 
@@ -31,7 +31,7 @@ The trial will take place over four classes. Please see the syllabus.
 | Day 3 		| Defense's witnesses  & cross-examination     |
 | Day 4 		| Closing statements       |
 
-## Roles 
+### The Roles 
 You will need to identify people within each team to play the following roles: 
 
 + Two attorney for each team to deliver two opening statements. 
@@ -42,7 +42,7 @@ You will need to identify people within each team to play the following roles:
 
 While you should aim for a separate person to play each role, I am open to each team dividing the work up in alternative equitable ways. 
 
-## The Charge - Corrupting the Youth of Athens
+### The Charge - Corrupting the Youth of Athens
 
 Socrates is charged with corrupting the youth of Athens. To successfully prosecute Socrates, the prosecution must prove three points: 
 
@@ -54,7 +54,7 @@ Socrates is charged with corrupting the youth of Athens. To successfully prosecu
 The defense must successfully argue against at least one of these elements. 
 
 
-## Witnesses
+### Witnesses
 
 
 | Prosecution    	 	| Defense |
@@ -75,7 +75,7 @@ The readings for this class provide rich information about many of the witnesses
 + [Alcibiades](rhodes.pdf), Peter J. Rhodes 1985. 
 + 'The Clouds', by Aristophanes
 
-## Assignments 
+### Assignments 
 The grade will be divided across three types of assignments. I will formally detail these once we have allocated students to the various roles. 
 
 1. Group research on the witnesses. This is the bulk of the work, and you should begin now. The assignment will consist in a research brief on all six witnesses. Each group must submit this brief. You should expect the brief to contain 2-3 pages of historical and philosophical *pertinent* research concerning each witness that will be used in the trial
