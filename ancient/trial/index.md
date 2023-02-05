@@ -3,7 +3,6 @@ layout: default
 title: Mock Trial of Socrates 
 ---
 
-## Mock Trial of Socrates
 
 ### The Teams
 
@@ -23,10 +22,9 @@ title: Mock Trial of Socrates
 
 ### The Structure
 
-The trial will take place over four classes. Please see the syllabus. 
+The trial will take place over four classes. Please see the syllabus for the dates. 
 
 | Day 1     | Opening statements |
-
 | Day 2     | Prosecution's witnesses & cross-examination      |
 | Day 3 		| Defense's witnesses  & cross-examination     |
 | Day 4 		| Closing statements       |
@@ -36,9 +34,9 @@ You will need to identify people within each team to play the following roles:
 
 + Two attorney for each team to deliver two opening statements. 
 + Three witnesses for each team. 
-+ Three attorneys from each team to question the team's witnesses. 
++ Three attorneys from each team to question their own team's witnesses. 
 + Three attorneys to cross-examine the opposing team's witnesses. 
-+ Two attorney from each team to deliver closing statements. 
++ Two attorneys from each team to deliver closing statements. 
 
 While you should aim for a separate person to play each role, I am open to each team dividing the work up in alternative equitable ways. 
 
@@ -51,7 +49,7 @@ Socrates is charged with corrupting the youth of Athens. To successfully prosecu
 3. Socrates was negligent in his teaching, i.e., any reasonable person could have foreseen that Socrates' students would have been corrupted, in someway or other, by his teaching. 
 
 
-The defense must successfully argue against at least one of these elements. 
+The defense must successfully argue against at least one of these points. 
 
 
 ### Witnesses
