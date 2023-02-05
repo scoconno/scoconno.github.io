@@ -24,6 +24,8 @@ title: Mock Trial of Socrates
 
 The trial will take place over four classes. Please see the syllabus for the dates. 
 
+|     	 	| Trial Stage |
+| ----------- 			| ----------- |
 | Day 1     | Opening statements |
 | Day 2     | Prosecution's witnesses & cross-examination      |
 | Day 3 		| Defense's witnesses  & cross-examination     |
@@ -32,7 +34,7 @@ The trial will take place over four classes. Please see the syllabus for the dat
 ### The Roles 
 You will need to identify people within each team to play the following roles: 
 
-+ Two attorney for each team to deliver two opening statements. 
++ Two attorneys for each team to deliver two opening statements. 
 + Three witnesses for each team. 
 + Three attorneys from each team to question their own team's witnesses. 
 + Three attorneys to cross-examine the opposing team's witnesses. 
