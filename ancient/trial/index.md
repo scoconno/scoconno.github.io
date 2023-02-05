@@ -74,9 +74,9 @@ The readings for this class provide rich information about many of the witnesses
 + 'The Clouds', by Aristophanes
 
 ### Assignments 
-The grade will be divided across three types of assignments. I will formally detail these once we have allocated students to the various roles. 
+The grade will be divided across group preparation, individual preparation, performance, and reflection. I will formally detail these once we have allocated students to the various roles. 
 
-1. Group research on the witnesses. This is the bulk of the work, and you should begin now. The assignment will consist in a research brief on all six witnesses. Each group must submit this brief. You should expect the brief to contain 2-3 pages of historical and philosophical *pertinent* research concerning each witness that will be used in the trial
+1. Group research on the witnesses. This is the bulk of the work, and you should begin now. The assignment will consist in a research brief on all six witnesses. Each group must submit this brief. You should expect the brief to contain 2-3 pages of historical and philosophical *pertinent* research concerning each witness that will be used in the trial. 
 2. Preparation for each individual role. This will vary by role, but expect about 2 pages per person. 
 3. Performance of the role. 
 4. 1-2 page individual reflection pieces on what you learned from the assignment 
