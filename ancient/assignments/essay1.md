@@ -3,7 +3,7 @@ layout: default
 title: Essay 1
 ---
 
-Below are several options for your mid-term paper. **Pick one**. Each option includes some extra instruction for that prompt. Here are some general guidelines: 
+Below are several options for your mid-term paper. **Pick one**. Here are some general guidelines: 
 
 1. Write 750-1000 words. This does not include the bibliography. 
 2. Use only the dialogs, my notes, and the resources listed under 'Ancient Philosophy Resources'. 
