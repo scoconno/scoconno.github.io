@@ -50,3 +50,35 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 + [*The Clouds*,](Meno/aristophanes.pdf) by Aristophanes
 + *Notes*
 	+ [Notes 1](Meno/Meno.pdf)
+
+
+**Week 5: Corrupting the young?**
+
+
++ [The Ladder or Love](https://www.youtube.com/watch?v=cYC74mJ-4po)
+
+
+---
+
+**Week 6: Socrates' Loyalty to Athens**
+
++ [Ancient Pederasty,](https://d1wqtxts1xzle7.cloudfront.net/33173209/Ancient_Pederasty-libre.pdf?1394393569=&response-content-disposition=inline%3B+filename%3DAncient_Pederasty_an_introduction.pdf&Expires=1677001944&Signature=QxuBJJsXnZcTkJFfCqtlWlHwA-NU3~mfdv-FJsivlmMPBPpe7nehKfnJKNq3YrlDMrs0pVayMQi7H4N1MjwyEAH4fof18LBLQTyegzIhnV0TBf8RCEBlI0l20UhvrUgTLCEEWSpDsE0LhGnVfcTXVWjlS5V40CwCUdpVy0HBn6CVCWsAXx4adz7usuJsk67~oroKHJXDQ6FnKAFagv-0eajpxZwcmAgwZrF1cr06fseWwFGAdQobUmSu2Cauw2Z9CE5nWj0qwkGOL22MRkOJ-AZQHmxrxZhGUAwwOE~SoQoTexMPH1ACGpQqi2fpwjNEaB-Lwqw~aC1EFBMDuFju0w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) by Andrew Lear
++ [Notes 1](Crito/crito.pdf)
+
+
+---
+**Week 7: Socrates' Death**
+
++ *Notes:*
+	+ [Notes 1](Phaedo/phaedo.pdf)
+	+ [Notes 2](Phaedo/phaedo2.pdf) 
+	+ [Notes 3](Phaedo/phaedo3.pdf)
+
+---
+**Week 8: Spring Break**
+
+
+
+
+
+
