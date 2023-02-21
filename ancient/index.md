@@ -51,6 +51,7 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 + *Notes*
 	+ [Notes 1](Meno/Meno.pdf)
 
+---
 
 **Week 5: Corrupting the young?**
 
