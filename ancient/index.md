@@ -10,7 +10,7 @@ Welcome to the course website for *Ancient Philosophy*.
 + [Syllabus](Syllabus.pdf)
 + [Ancient Philosophy Resources](resources)
 + [Mock Trial](trial)
-+ [Abbreviations for Plato's Dialogs](abbreviations)
++ [Abbreviations for Plato's Dialogs](abbreviations.pdf)
 
 ## Additional materials and notes
 
