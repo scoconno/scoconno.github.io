@@ -11,6 +11,7 @@ Welcome to the course website for *Ancient Philosophy*.
 + [Ancient Philosophy Resources](resources)
 + [Mock Trial](trial)
 + [Abbreviations for Plato's Dialogs](abbreviations.pdf)
++ [Citation help](citation.pdf)
 
 ## Additional materials and notes
 
