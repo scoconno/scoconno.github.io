@@ -16,9 +16,9 @@ title: Mock Trial of Socrates
 | Rebecca		  | Chris        |
 | Jordan  		| Bisola       |
 | Bri 			| Maggie       |
-| Emilie 	 | Noah        |
-| Naiomi	 | Jake       |
-| Mario		 | Omotola      |
+| Emilie 		 | Noah        |
+| Naiomi		 | Jake       |
+|				 | Omotola      |
 
 ### The Structure
 
@@ -35,7 +35,7 @@ The trial will take place over four classes. Please see the syllabus for the dat
 You will need to identify people within each team to play the following roles: 
 
 + Two attorneys for each team to deliver two opening statements. 
-+ Three witnesses for each team. 
++ Two witnesses for each team. 
 + Three attorneys from each team to question their own team's witnesses. 
 + Three attorneys to cross-examine the opposing team's witnesses. 
 + Two attorneys from each team to deliver closing statements. 
@@ -60,10 +60,8 @@ The defense must successfully argue against at least one of these points.
 | Prosecution    	 	| Defense |
 | ----------- 			| ----------- |
 | Alcibiades    		| Aristophanes      |
-| 	Pending		    		 | 	Pending	     |
-| 		Pending	   			  | 	Pending		     |
+| 	Euthyphro		    		 | 	Crito	     |
 
- - I am open to suggestions. But the other witnesses will likely include one of Socrates' students who apparently suffered individually, one great politician, and some successful student of Socrates. 
 
 #### Some Research
 
@@ -76,12 +74,15 @@ The readings for this class provide rich information about many of the witnesses
 + 'The Clouds', by Aristophanes
 
 ### Assignments 
-The grade will be divided across group preparation, individual preparation, performance, and reflection. I will formally detail these once we have allocated students to the various roles. 
+The grade will be assigned to each group holistically. There are three elements:  
 
-1. Group research on the witnesses. This is the bulk of the work, and you should begin now. The assignment will consist in a research brief on all six witnesses. Each group must submit this brief. You should expect the brief to contain 2-3 pages of historical and philosophical *pertinent* research concerning each witness that will be used in the trial. 
-2. Preparation for each individual role. This will vary by role, but expect about 2 pages per person. 
+1. Research brief: The brief should contain 2-3 pages of historical and philosophical *pertinent* research concerning each witness that will be used in the trial. This must be one unified brief. Make sure to edit to ensure there is one *voice*.
+2. Preparation for the witnesses and attorneys. For the attorneys, this should include a list of questions and anticipated questions based on possible responses. For the witnesses, this should include anticipated questions and planned answers. Expect about 1-2 pages per witness per role.
 3. Performance of the role. 
-4. 1-2 page individual reflection pieces on what you learned from the assignment 
+
+#### Deadline: Group Materials Submitted by April 17th ####
+
+
 
 
 

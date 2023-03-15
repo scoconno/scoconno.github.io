@@ -84,17 +84,28 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 
 **Week 9: Plato's Republic 1**
 
-	
-+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.3--23, pp.47--88, and 99--104.  
-
 + *Notes:* 
 	+ [Glaucon's Challenge](Republic1/Lecture.pdf)
 	+ [Justice in the City](Republic1/Lecture2.pdf)
 
++ *Additional Material*
+	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf) pp.3--23, pp.47--88, and 99--104.  
+	
+---
+
+**Week 10: Plato's Republic 2**
+
+
+
++ Notes: 
+	+ [Justice in the soul](Republic2/Lecture.pdf) 
+	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+	+ [The descent into injustice](Republic3/lecture1.pdf)
+	+ [The unhappiness of the tyrant](Republic3/lecture2.pdf)
+
 
 
 + *Additional Material*
-	
 	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.5
 	  +  If you are interested in philosopher rulers and their education, read ch.6 and 7. 
 	+ [On the relationship between a just soul and just city](https://youtu.be/-oJs5u_GAYA)
@@ -103,22 +114,9 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 		+ [Orson Welles narration](https://www.youtube.com/watch?v=QFi8JUIwu2s)
 		+ [Another nice depiction](https://youtu.be/1RWOpQXTltA)
 		+ [Depiction](Republic3/cave.jpeg)
-+ Notes:
-	+ [Justice in the soul](Republic2/Lecture.pdf) 
-	+ [Justice is good in itself](Republic2/Lecture1.pdf)  
+	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
+	+ [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
 
----
-
-
-
-**Week 10: Plato's Republic 2**
-
-+ *Additional Material*
-  + [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
-  + [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
-+ Notes: 
-  + [The descent into injustice](Republic3/lecture1.pdf)
-  + [The unhappiness of the tyrant](Republic3/lecture2.pdf)
 
 ---
 
