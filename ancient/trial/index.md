@@ -31,7 +31,8 @@ The trial will take place over two classes. Please see the syllabus for the date
 
 *Time*
 + Opening and closing: 14 minutes per side. Each group can choose how to divide their 14 minutes.
-+ Direct examinations: 17 minutes per side. Each group can decide how to divide the 
++ Direct examinations: 17 minutes per side. Each group can decide how to divide their 17 minutes. 
++ Cross examinations: 17 minutes per side. Each group can choose how to divide their 17 minutes.
 
 
 ### The Roles 
