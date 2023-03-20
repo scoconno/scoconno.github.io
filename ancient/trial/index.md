@@ -22,14 +22,17 @@ title: Mock Trial of Socrates
 
 ### The Structure
 
-The trial will take place over four classes. Please see the syllabus for the dates. 
+The trial will take place over two classes. Please see the syllabus for the dates. 
 
 |     	 	| Trial Stage |
 | ----------- 			| ----------- |
-| Day 1     | Opening statements |
-| Day 2     | Prosecution's witnesses & cross-examination      |
-| Day 3 		| Defense's witnesses  & cross-examination     |
-| Day 4 		| Closing statements       |
+| Day 1     | Opening statements and prosecutions' witnesses |
+| Day 2     | Defense's witnesses & closing statements      |
+
+*Time*
++ Opening and closing: 14 minutes per side. Each group can choose how to divide their 14 minutes.
++ Direct examinations: 17 minutes per side. Each group can decide how to divide the 
+
 
 ### The Roles 
 You will need to identify people within each team to play the following roles: 
@@ -80,7 +83,7 @@ The grade will be assigned to each group holistically. There are three elements:
 2. Preparation for the witnesses and attorneys. For the attorneys, this should include a list of questions and anticipated questions based on possible responses. For the witnesses, this should include anticipated questions and planned answers. Expect about 1-2 pages per witness per role.
 3. Performance of the role. 
 
-#### Deadline: Group Materials Submitted by April 17th ####
+#### Deadline: Group Materials Submitted by April 24th ####
 
 
 
