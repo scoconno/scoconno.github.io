@@ -93,7 +93,12 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 	
 ---
 
-**Week 10: Plato's Republic 2**
+**Week 10: Library and Prep**
+
+---
+
+
+**Week 11: Plato's Republic 2**
 
 
 
@@ -117,7 +122,46 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
 	+ [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
 
+---
+
+**Week 12: Mock Trial
 
 ---
 
+**Week 13: Aristotle Introduced**
 
++ *Additional Reading Material*
+	+ [Reading,](/ancient/Shields2.pdf) chapters 1, 2 and 7.
+	+ [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
++ Notes
+	+ [Presocratics](Presoc/Lecture2.pdf)
+	+ [Knowledge](PA/Lecture.pdf)
+	+ [Matter and Form](Physics/Lecture.pdf)
+	+ [The Four Causes](Physics2/Lecture1.pdf)
+	+ [Mind/Body](DA/Lecture.pdf)
+
+
++ Additional Optional Material
+	+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
+ 	+ [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology.
+
+
+---
+
+**Week 14: Aristotle the ethicist**
+
++ *Additional Required Material*
+  + [*Aristotle,*](Shields.pdf) ch.8
+  + [Video on Aristotle's Ethics](https://www.youtube.com/watch?v=VFPBf1AZOQg)
+  + [Another video on Aristotle's virtue theory](https://www.youtube.com/watch?v=PrvtOWEXDIQ)
++ Notes
+  + [Note 1](NE1/Lecture.pdf)
+  + [Note 2](NE2/Lecture.pdf)
+
+
+
+---
+
+** Week 15: Stoic Week** 
+
+https://modernstoicism.com/stoic-week/
