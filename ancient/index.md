@@ -164,4 +164,4 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 
 ** Week 15: Stoic Week** 
 
-https://modernstoicism.com/stoic-week/
++ https://modernstoicism.com/wp-content/uploads/2022/10/Stoic-Week-for-Students-Handbook.pdf
