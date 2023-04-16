@@ -150,7 +150,7 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 
 **Week 14: Aristotle the ethicist**
 
-+ *Additional Required Material*
++ *Additional Material*
   + [*Aristotle,*](Shields.pdf) ch.8
   + [Video on Aristotle's Ethics](https://www.youtube.com/watch?v=VFPBf1AZOQg)
   + [Another video on Aristotle's virtue theory](https://www.youtube.com/watch?v=PrvtOWEXDIQ)
@@ -162,7 +162,7 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 
 ---
 
-** Week 15: Stoic Week** 
+**Week 15: Stoic Week** 
 
 + https://modernstoicism.com/wp-content/uploads/2022/10/Stoic-Week-for-Students-Handbook.pdf
 + Day 1 - emotions
