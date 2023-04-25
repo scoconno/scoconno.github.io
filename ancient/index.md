@@ -164,6 +164,7 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 
 **Week 15: Stoic Week** 
 
++ [Stoic Course](Stoics/monitoring.pdf)
 + https://modernstoicism.com/wp-content/uploads/2022/10/Stoic-Week-for-Students-Handbook.pdf
 + Day 1 - emotions
 + Day 2 - resilience
