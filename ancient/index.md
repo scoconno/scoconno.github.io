@@ -165,7 +165,8 @@ For this week, we will read 'The Meno' and 'The Clouds'. The questions are from 
 **Week 15: Stoic Week** 
 
 + [Stoic Course](https://learn.modernstoicism.com/courses/1497675/lectures/34325521)
+	+ Day 1 - emotions
+	+ Day 2 - resilience
 + [Stoic Monitoring](Stoics/monitoring.pdf)
-+ Day 1 - emotions
-+ Day 2 - resilience
++ [Stoics on Freedom](Stoics_Freedom/freedom)
 + 'Meditations', Marcus Aurelius (easily available in any library or cheaply online).
