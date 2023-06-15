@@ -4,7 +4,7 @@ title: Self-I as Mind
 
 ---
 
-<img src="{{site.baseurl}}/Aristotle.jpeg" alt="Aristotle and Homer">
+
 
 # Course Information
 
