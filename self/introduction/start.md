@@ -32,18 +32,24 @@ Taking an online course is a lot of fun, but it also requires care. Compared to 
 
 
 ## Textbook
-Please find details about the textbook on the syllabus. I will photocopy some readings for weeks 1, but you will need the textbook from week 2 onwards. The book is available online and in the campus bookstore. The textbook I chose is a compromise between quality and price. Some others are easier but more expensive. This means that some of the chapters in this textbook are less accessible than I would like. I will remedy this by providing supplemental reading and videos on the website. 
+Please find details about the textbook on the syllabus. I will photocopy some readings for weeks 1 and 2, but you will need the textbook from week 3 onwards. The book is available online and in the campus bookstore. The textbook I chose is a compromise between quality and price. Some others are easier but more expensive. This means that some of the chapters in this textbook are less accessible than I would like. I will remedy this by providing supplemental reading and videos on the website. 
 
 ## Late work and make-ups
-Students sometimes ask to submit work late or ask for a make-up opportunity. I used to receive many of these requests and found it difficult to adjudicate them. Since I want to treat my students equally, I found myself frustrated by students who expect special treatment. But, students do get sick and life does get in the way. So, here is what I do instead of accepting late work and offering make-ups: there are two options for module 5. You only need to complete one option. However, if you missed any assignments, you can complete both Module 5a and Module 5b.  
+Students sometimes ask to submit work late or ask for a make-up opportunity. I used to receive many of these requests and found it difficult to adjudicate them. Since I want to treat my students equally, I found myself frustrated by students who expect special treatment. But, students do get sick and life does get in the way. So, here is what I do instead. I am strict with the deadline for the quizzes since the correct answers are released after the deadline. (Students with an accommodation will be afforded the extra time requested via OSS). But I will accept any essay late without penalty up until the last day of class. So make sure to complete the quizzes by their particular due dates, and do your best to also finish the essays by the due date each week. But if you fall behind on an essay, just make sure to hand it in by the very last day of class.  
 
-If you are still unable to complete the required number of assignments due to illness, personal problems, etc, then you should withdraw from the course. NJCU also offers medical withdrawals for students who miss the ordinary withdrawal dates. So, moral of the story: I will teach you the material and help you complete the assignments, but I will not entertain requests for make-ups or accept late work. I have built flexibility into the syllabus. So, please don't ask for more than that.  
+  
 
 
 ## Technical Help
 
+####Blacboard
 All Blackboard activity is recorded. I see when you log on, what you click, and how long you stay on the pages you click. Blackboard outages are rare and are automatically reported to me. If you encounter technical difficulties, the most likely source will be a difficulty with your browser or computer. Do take a moment to ensure your browser is up to date. If you are uncertain how to use Blackboard or have some technical difficulty, please consult NJCU's online learning resources here: [https://www.njcu.edu/academics/online-learning/enrolled-students](https://www.njcu.edu/academics/online-learning/enrolled-students)
 
+
+####Respondus
+I have enabled Respondus for the quizzes. This software locks down your browser and uses artificial intelligence to monitor students for cheating through the video camera. I am a philosopher and not a tech expert; please contact NJCU's online support if you need help with Respondus or any other software used in your online classes. 
+
+####Other 
 I occasionally have students report that their computer crashes one minute before an assignment is due. My response is always the same: it is your responsibility to ensure that you are using a reliable computer on a stable internet connection. If your computer crashed one minute before an assignment is due, I encourage you to reflect on whether leaving the assignment to the last minute was a responsible strategy. 
 
 
