@@ -22,7 +22,7 @@ This week we are considering the view that what it is to have a mind is to be ab
 + Required
 	+ [One explanation of the Turing Test](https://www.youtube.com/watch?v=1uDa7jkIztw)
 	+ [Another explanation of the Turing Test](https://www.youtube.com/watch?v=3wLqsRLvV-c)
-	+ [Necessary and Sufficient Conditions:](https://www.youtube.com/watch?v=5LqNm9d2__I) Turing claims that passing the Turing Test is necessary and sufficient for intelligence. This video explains what necessary and sufficient conditions are. 
+	+ [Necessary and Sufficient Conditions:](https://academy4sc.org/video/necessary-vs-sufficient-under-the-right-conditions/) Turing claims that passing the Turing Test is necessary and sufficient for intelligence. This video explains what necessary and sufficient conditions are. 
 
  
  + Optional
