@@ -5,7 +5,7 @@ title: The Examined Life
 ---
 
 # Course Information
-+  [Syllabus](Syllabus.pdf)
++ [Syllabus](Syllabus.pdf)
 + [General Education at NJCU](http://www.njcu.edu/department/general-education)
 + [Signature Assignments at NJCU](http://www.njcu.edu/academics/general-education/signature-assignment-information-students)
 
@@ -13,9 +13,9 @@ title: The Examined Life
 
 |         	 |     |
 | :-------------: | ------------- |
-| July 28 | Final day to Add/Drop for 100% refund of tuition and fees and correction of class schedules. |
-| Aug 3 | Final day to withdraw from a course (s) for a 50% refund of tuition and fees with a “W” grade. Form must be submitted to the Registrar's Office, Hepburn Hall Room 214.|
-| Aug 15  | Final day to withdraw from a course (s) for a “W” grade.|
+| Aug 4 | Final day to Add/Drop for 100% refund of tuition and fees and correction of class schedules. |
+| Aug 10 | Final day to withdraw from a course (s) for a 50% refund of tuition and fees with a “W” grade. Form must be submitted to the Registrar's Office, Hepburn Hall Room 214.|
+| Aug 22  | Final day to withdraw from a course (s) for a “W” grade.|
 
 
 
