@@ -9,9 +9,7 @@ Welcome! I'm Dr. Scott O'Connor and I'll be your instructor for this course. Ori
 
 While you are my student, the appropriate way to address me is as Dr. O'Connor. Since your messages and emails are archived, I encourage you to adopt a professional, friendly tone in our communications. No 'hey', 'yo', 'what's up', smiley face, etc. See [contact](/contact) for further information.
 
-## Course Introduction
 
-![movie](Summer140.mp4)
 
 ## Mechanics
 
