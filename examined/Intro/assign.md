@@ -51,7 +51,7 @@ Please review the plagiarism policy on the syllabus. It is critical that you pre
 
 ### Format
 
-Submit your file by clicking the 'attach' button. You may also use Ponopto to record and submit your video. The link to Ponopto is in the course shell. 
+Submit your file by clicking the 'attach' button. You may also use Panopto to record and submit your video. The link to Panopto is in the course shell. 
 
 
 
