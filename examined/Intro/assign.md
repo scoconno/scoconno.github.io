@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Essay
+title: Assignment
 ---
 ## A Video Message From Your Future Self
 
