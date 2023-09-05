@@ -21,7 +21,11 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 **Week 1: Introduction**
 
 + *Notes:* [Introduction](Introduction/Lecture 1.pdf)
++ Reading: ['Ancient Greece', ch.2](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
 
 
+**Week 2: The Greek Miracle**
 
 
++ Reading RAGP: [`Milesians, Parmenides, Empedocles'](Presoc/presocratics.pdf)  
++ Reading: ['Ancient Greece', ch.3, pp.101-123, 142--152](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
