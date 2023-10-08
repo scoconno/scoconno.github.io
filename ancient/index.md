@@ -56,3 +56,8 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 
 + Reading: ['Ancient Greece', ch.7](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
 + [Notes](Meno/Meno.pdf)
+
+**Week 6: Is Socrates loyal to Athens?**
+
++ Reading: ['Ancient Greece', ch.8](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
++ [Notes](Crito/crito.pdf)
