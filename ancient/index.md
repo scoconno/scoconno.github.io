@@ -62,3 +62,9 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 
 + Reading: ['Ancient Greece', ch.8](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
 + [Notes](Crito/crito.pdf)
+
+**Week 7: Post Peloponnesian Greece and Mid-Term**
+
++ Reading: ['Ancient Greece', ch.9](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
++ Focus on mid-term for Thursday
+
