@@ -46,12 +46,6 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 + [Notes](Apology/Lecture5.pdf)
 + [Information about the accusers of Socrates](Apology/Accusers.pdf)
 
-**Week 4: Socrates and Athenian Justice**
-
-+ Reading RAGP: ['Apology'](Apology/Apology.pdf)
-+ Reading: ['Ancient Greece', ch.3, pp.244-248](https://www.dropbox.com/scl/fi/e7vd08rl25gf50jga90us/pomeroy.pdf?rlkey=34pwmeodzjo9zslckk8xkqoee&dl=0)
-+ [Notes](Apology/Lecture5.pdf)
-+ [Information about the accusers of Socrates](Apology/Accusers.pdf)
 
 **Week 5: Socrates and Eve of the Peloponnesian War**
 
