@@ -7,7 +7,7 @@ title: Essay 2
 
 Below are several options for your second paper. **Pick one**. Here are some general guidelines: 
 
-1. Write 1250-1500 words. This does not include the bibliography. 
+1. Write 800-1000 words. This does not include the bibliography. 
 2. Use only the *Republic*, my notes, and the resources listed under 'Ancient Philosophy Resources'. 
 3. If you paraphrase, quote, or in anyway use material you read elsewhere, then make sure to appropriately cite it and include a bibliography. Please visit the HUB for a citation tutorial if you want instruction in academic citation practices. When citing one of the Platonic texts, use the Stephanus numbers. (See the primer on the website.) 
 4. **Great academic writing involves the appropriate use and citation of other work.** It's how you use and cite work that matters. The plagiarism software will detect if you use another's work. I will check how you used it. 
