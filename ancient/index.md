@@ -88,3 +88,30 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 + *Additional Material*
 	+ [*The Routledge Guidebook to Plato's 'Republic'*](Pappas.pdf), ch.8
 	+ [Plato and Trump](https://www.youtube.com/watch?v=cnzo9qXLFUo)
+
+**Week 11: Aristotle Introduced**
+
++ *Additional Material*
+	+ [Reading,](/ancient/Shields2.pdf) chapter 1
+	+ [My introduction to the *Physics*.](Physics/Physics.pdf) This is a draft from an unused manuscript I abandoned. 
++ Notes
+	+ [Presocratics](Presoc/Lecture2.pdf)
+	+ [Knowledge](PA/Lecture.pdf)
+	+ [Matter and Form](Physics/Lecture.pdf)
+
++ Movie
+	+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
+
+ 
+---
+
+**Week 12: Aristotle the scientist**
+
++ Additional material:  
+  	+ [*Aristotle,*](Shields.pdf) ch.2 and 3.
++ Notes: 
+	+ [The Four Causes](Physics2/Lecture1.pdf)
+	+ [Mind/Body](DA/Lecture.pdf)
++ *Additional Video*
+ 	+ [Aristotle's Lagoon.](https://www.youtube.com/watch?v=JN8ortM4M3o) This is a nice documentary about Aristotle's advances in marine biology.
+
