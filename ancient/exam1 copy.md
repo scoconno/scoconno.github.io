@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exam 1
+title: Exam 2
 ---
 
 Below are several options for your first mid-term exam. **Pick two**. Each option includes some extra instruction for that prompt. Here are some general guidelines: 

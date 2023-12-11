@@ -12,6 +12,7 @@ Welcome to the course website for *Ancient Philosophy/Ancient Civilizations*.
 + [Abbreviations for Plato's Dialogs](abbreviations.pdf)
 + [Citation help](citation.pdf)
 + [Exam 1](exam1)
++ [Exam 2](exam2) 
 
 ## Additional materials and notes
 
@@ -98,7 +99,6 @@ The syllabus details our schedule of readings from the course texts. **Consult t
 	+ [Presocratics](Presoc/Lecture2.pdf)
 	+ [Knowledge](PA/Lecture.pdf)
 	+ [Matter and Form](Physics/Lecture.pdf)
-
 + Movie
 	+ [Alexander.](https://www.imdb.com/title/tt0346491/) A large Hollywood treatment of Alexander's life.
 
