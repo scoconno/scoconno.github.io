@@ -1,3 +1,9 @@
+---
+layout: nothing
+stop: cra
+---
+
+
 ## For Students 
 If you are enrolled in a course, please check the syllabus before contacting me. Many students contact me with questions that are already answered in the relevant syllabus. If you do contact me, please use the Blackboard messaging app. That app allows me to keep track of all messages for a particular course and is easier to use than email. It also allows me to easily comply with the Federal Law concerning the privacy of student education records (FERPA). If you are not currently enrolled in one of my courses, please email me. 
 
