@@ -6,6 +6,8 @@ title: Research
 
 ## Publications ##
 
++ (2024) 'Both Generable and Alterable in *Aristotle’s On Generation and Corruption* I.1 & I.4', *Rhizomata*, vol. 12(2), pp.216-245 [DOI:https://doi.org/10.1515/rhiz-2024-0010](https://doi.org/10.1515/rhiz-2024-0010)
+
 + (2020) ['*Aristotle's Theory of Bodies* by Christian Pfeiffer' (review),](research/untitled.pdf) *Journal of the History of Philosophy*, Volume 58, Number 1, January 2020, pp. 167-168 (Review), [DOI:https://doi.org/10.1353/hph.2020.0008](DOI:https://doi.org/10.1353/hph.2020.0008)
 
 + (2018) ['On Persistence in Aristotle',](https://quod.lib.umich.edu/e/ergo/12405314.0005.020?view=text;rgn=main) *Ergo*, vol. 5(20)  
