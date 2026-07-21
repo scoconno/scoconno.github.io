@@ -5,7 +5,7 @@ title: Home
 
 # Welcome 
 
-I current serve as Dean (Interim), Academic Affairs at Kean University.
+I currentl serve as Dean (Interim), Academic Affairs at Kean University.
 
 Before transitioning into academic administration, I was an associate professor of philosophy at New Jersey City University, specializing in ancient Greek philosophy, with a particular focus on Aristotle’s metaphysics and natural philosophy. 
 
